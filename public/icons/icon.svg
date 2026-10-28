@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0d1117"/>
+  <defs><clipPath id="j"><path d="M206,112 Q256,136 306,112 L382,128 L454,196 L404,250 L372,228 L372,450 L140,450 L140,228 L108,250 L58,196 L130,128 Z"/></clipPath></defs>
+  <g transform="translate(256 256) scale(1.12) translate(-256 -281)">
+    <path d="M206,112 Q256,136 306,112 L382,128 L454,196 L404,250 L372,228 L372,450 L140,450 L140,228 L108,250 L58,196 L130,128 Z" fill="#C8102E"/>
+    <g clip-path="url(#j)" stroke="#f4f6f9" stroke-width="10" fill="none">
+      <path d="M71,184 L121,238"/><path d="M441,184 L391,238"/>
+    </g>
+    <path d="M206,112 Q256,136 306,112" fill="none" stroke="#f4f6f9" stroke-width="8"/>
+    <g stroke-linejoin="miter" stroke-miterlimit="8">
+      <g fill="#f4f6f9" stroke="#f4f6f9" stroke-width="30"><g transform="translate(158 252) scale(0.86)"><path d="M10,0 H90 L100,10 V96 L90,106 H34 V146 H100 V180 H0 V84 L10,74 H66 V34 H0 V10 Z"/><path transform="translate(128 0)" d="M0,0 H100 V40 L58,180 H22 L62,34 H0 Z"/></g></g>
+      <g fill="#0d1117" stroke="#0d1117" stroke-width="18"><g transform="translate(158 252) scale(0.86)"><path d="M10,0 H90 L100,10 V96 L90,106 H34 V146 H100 V180 H0 V84 L10,74 H66 V34 H0 V10 Z"/><path transform="translate(128 0)" d="M0,0 H100 V40 L58,180 H22 L62,34 H0 Z"/></g></g>
+      <g fill="#f4f6f9"><g transform="translate(158 252) scale(0.86)"><path d="M10,0 H90 L100,10 V96 L90,106 H34 V146 H100 V180 H0 V84 L10,74 H66 V34 H0 V10 Z"/><path transform="translate(128 0)" d="M0,0 H100 V40 L58,180 H22 L62,34 H0 Z"/></g></g>
+    </g>
+  </g>
+</svg>
