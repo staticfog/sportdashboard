@@ -217,10 +217,8 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T15:34:11.288Z",
-    "failedSources": [
-      "ESPN"
-    ],
+    "updatedAt": "2026-10-28T16:05:07.109Z",
+    "failedSources": [],
     "items": [
       {
         "title": "How to watch, stream, and listen | Eagles at Commanders",
@@ -268,7 +266,7 @@
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T15:42:19.059Z",
+  "updatedAt": "2026-10-28T16:05:07.109Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -569,7 +567,7 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T15:34:11.288Z",
+      "updatedAt": "2026-10-28T16:05:07.109Z",
       "data": {
         "items": [
           {
@@ -609,9 +607,8 @@
             "source": "philadelphiaeagles.com"
           }
         ],
-        "failedSources": [
-          "ESPN"
-        ]
+        "failedSources": [],
+        "failures": []
       },
       "error": null
     }

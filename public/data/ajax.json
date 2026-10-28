@@ -941,7 +941,7 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T15:42:19.059Z",
+    "updatedAt": "2026-10-28T16:05:07.109Z",
     "failedSources": [],
     "items": [
       {
@@ -990,93 +990,8 @@
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T15:42:19.059Z",
+  "updatedAt": "2026-10-28T16:05:07.109Z",
   "sections": {
-    "games:espn-soccer/uefa.europa.conf-139": {
-      "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
-      "data": [
-        {
-          "id": "espn-401915837",
-          "date": "2026-10-22T19:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Atalanta",
-          "opponentShort": "ATA",
-          "status": "final",
-          "teamScore": 2,
-          "opponentScore": 0,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915861",
-          "date": "2026-10-15T16:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Hajduk Split",
-          "opponentShort": "HAJ",
-          "status": "final",
-          "teamScore": 1,
-          "opponentScore": 2,
-          "outcome": "V"
-        },
-        {
-          "id": "espn-401915829",
-          "date": "2026-11-05T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "FC Midtjylland",
-          "opponentShort": "MID",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915815",
-          "date": "2026-11-26T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "FC Thun",
-          "opponentShort": "THUN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915630",
-          "date": "2026-12-10T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Sint-Truidense",
-          "opponentShort": "STVV",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915731",
-          "date": "2026-12-17T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Getafe",
-          "opponentShort": "GET",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        }
-      ],
-      "error": null
-    },
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
       "updatedAt": "2026-10-28T14:46:31.994Z",
@@ -1518,6 +1433,91 @@
           "home": false,
           "opponent": "SC Cambuur",
           "opponentShort": "CAM",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "games:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": [
+        {
+          "id": "espn-401915837",
+          "date": "2026-10-22T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Atalanta",
+          "opponentShort": "ATA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915861",
+          "date": "2026-10-15T16:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Hajduk Split",
+          "opponentShort": "HAJ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 2,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401915829",
+          "date": "2026-11-05T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "FC Midtjylland",
+          "opponentShort": "MID",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915630",
+          "date": "2026-12-10T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Sint-Truidense",
+          "opponentShort": "STVV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915731",
+          "date": "2026-12-17T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Getafe",
+          "opponentShort": "GET",
           "status": "scheduled",
           "teamScore": null,
           "opponentScore": null,
@@ -2320,7 +2320,7 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T15:42:19.059Z",
+      "updatedAt": "2026-10-28T16:05:07.109Z",
       "data": {
         "items": [
           {
@@ -2360,7 +2360,8 @@
             "source": "Het Parool"
           }
         ],
-        "failedSources": []
+        "failedSources": [],
+        "failures": []
       },
       "error": null
     }

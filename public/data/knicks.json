@@ -217,22 +217,20 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T15:34:11.288Z",
-    "failedSources": [
-      "ESPN"
-    ],
+    "updatedAt": "2026-10-28T16:05:07.109Z",
+    "failedSources": [],
     "items": [
       {
-        "title": "Game Preview: Knicks at Bulls, October 28, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
-        "date": "2026-10-28T14:30:00.000Z",
-        "source": "Posting and Toasting"
+        "title": "Knicks 'focus on little things,' beat Pistons for first win of season",
+        "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
+        "date": "2026-10-28T06:10:56.000Z",
+        "source": "ESPN"
       },
       {
-        "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
-        "date": "2026-10-28T12:41:57.000Z",
-        "source": "Posting and Toasting"
+        "title": "New York takes on Chicago on 3-game skid",
+        "url": "http://www.espn.com/nba/preview?gameId=401909886",
+        "date": "2026-10-28T06:02:49.000Z",
+        "source": "ESPN"
       },
       {
         "title": "Knicks 111, Pistons 97: Scenes from win number one",
@@ -241,34 +239,34 @@
         "source": "Posting and Toasting"
       },
       {
+        "title": "Knicks get first win of the season with a 111-97 victory over the previously unbeaten Pistons",
+        "url": "http://www.espn.com/nba/recap?gameId=401909878",
+        "date": "2026-10-28T03:03:48.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Sources: Knicks assistant coach Chris Jent steps away for personal reasons",
+        "url": "https://www.espn.com/nba/story/_/id/50302780/knicks-assistant-coach-chris-jent-takes-personal-leave",
+        "date": "2026-10-28T01:03:38.000Z",
+        "source": "ESPN"
+      },
+      {
         "title": "Game Discussion Thread: Knicks vs. Pistons, October 27, 2026",
         "url": "https://www.postingandtoasting.com/knicks-game-threads/90563/game-discussion-thread-knicks-vs-pistons-october-27-2026",
         "date": "2026-10-27T23:30:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Should “No Mo” be a “No Go” for the Knicks?",
-        "url": "https://www.postingandtoasting.com/knicks-analysis/90555/should-no-mo-be-a-no-go-for-the-knicks",
-        "date": "2026-10-27T13:48:22.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Preview: Knicks vs Pistons, October 27, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90515/game-preview-knicks-vs-pistons-october-27-2026",
-        "date": "2026-10-27T04:00:00.000Z",
         "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks begonnen het seizoen met drie nederlagen en boekten op 28 oktober hun eerste zege: 111-97 thuis tegen de Detroit Pistons. Met 1-3 staan ze vierde van vijf in de Atlantic Division, op 2 wedstrijden van de koploper. In het nieuws: \"Should 'No Mo' be a 'No Go' for the Knicks?\"",
-    "hash": "dfbf459de05de5b73768789030a3ad87f872be1e9e1116934d631c8edfee3a54",
-    "generatedAt": "2026-10-28T15:42:19.059Z",
+    "text": "De Knicks begonnen het seizoen met drie nederlagen, maar boekten op 28 oktober tegen de Detroit Pistons (111-97) hun eerste zege. Met 1-3 staan ze vierde van vijf in de Atlantic Division. In het nieuws: assistent-coach Chris Jent zou om persoonlijke redenen een stap terug doen.",
+    "hash": "b6fd0d0faf5a2d357460d25cee85b47e516d52ab76bc3855d8f479540fb86c6c",
+    "generatedAt": "2026-10-28T16:05:07.109Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T15:42:19.059Z",
+  "updatedAt": "2026-10-28T16:05:07.109Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1401,20 +1399,20 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T15:34:11.288Z",
+      "updatedAt": "2026-10-28T16:05:07.109Z",
       "data": {
         "items": [
           {
-            "title": "Game Preview: Knicks at Bulls, October 28, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
-            "date": "2026-10-28T14:30:00.000Z",
-            "source": "Posting and Toasting"
+            "title": "Knicks 'focus on little things,' beat Pistons for first win of season",
+            "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
+            "date": "2026-10-28T06:10:56.000Z",
+            "source": "ESPN"
           },
           {
-            "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
-            "date": "2026-10-28T12:41:57.000Z",
-            "source": "Posting and Toasting"
+            "title": "New York takes on Chicago on 3-game skid",
+            "url": "http://www.espn.com/nba/preview?gameId=401909886",
+            "date": "2026-10-28T06:02:49.000Z",
+            "source": "ESPN"
           },
           {
             "title": "Knicks 111, Pistons 97: Scenes from win number one",
@@ -1423,27 +1421,26 @@
             "source": "Posting and Toasting"
           },
           {
+            "title": "Knicks get first win of the season with a 111-97 victory over the previously unbeaten Pistons",
+            "url": "http://www.espn.com/nba/recap?gameId=401909878",
+            "date": "2026-10-28T03:03:48.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Sources: Knicks assistant coach Chris Jent steps away for personal reasons",
+            "url": "https://www.espn.com/nba/story/_/id/50302780/knicks-assistant-coach-chris-jent-takes-personal-leave",
+            "date": "2026-10-28T01:03:38.000Z",
+            "source": "ESPN"
+          },
+          {
             "title": "Game Discussion Thread: Knicks vs. Pistons, October 27, 2026",
             "url": "https://www.postingandtoasting.com/knicks-game-threads/90563/game-discussion-thread-knicks-vs-pistons-october-27-2026",
             "date": "2026-10-27T23:30:00.000Z",
             "source": "Posting and Toasting"
-          },
-          {
-            "title": "Should “No Mo” be a “No Go” for the Knicks?",
-            "url": "https://www.postingandtoasting.com/knicks-analysis/90555/should-no-mo-be-a-no-go-for-the-knicks",
-            "date": "2026-10-27T13:48:22.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Preview: Knicks vs Pistons, October 27, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90515/game-preview-knicks-vs-pistons-october-27-2026",
-            "date": "2026-10-27T04:00:00.000Z",
-            "source": "Posting and Toasting"
           }
         ],
-        "failedSources": [
-          "ESPN"
-        ]
+        "failedSources": [],
+        "failures": []
       },
       "error": null
     }
