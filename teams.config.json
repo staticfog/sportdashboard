@@ -1,0 +1,108 @@
+{
+  "timezone": "Europe/Amsterdam",
+  "limits": { "results": 5, "fixtures": 4, "news": 6 },
+  "summary": { "enabled": true, "model": "claude-opus-5-5" },
+  "columnPresets": {
+    "voetbal": [
+      { "key": "gamesPlayed", "label": "GS" },
+      { "key": "wins", "label": "W" },
+      { "key": "ties", "label": "G" },
+      { "key": "losses", "label": "V" },
+      { "key": "pointDifferential", "label": "DS" },
+      { "key": "points", "label": "P" }
+    ],
+    "nfl": [
+      { "key": "wins", "label": "W" },
+      { "key": "losses", "label": "V" },
+      { "key": "ties", "label": "G" },
+      { "key": "winPercent", "label": "PCT" },
+      { "key": "pointDifferential", "label": "DIFF" }
+    ],
+    "nba": [
+      { "key": "wins", "label": "W" },
+      { "key": "losses", "label": "V" },
+      { "key": "winPercent", "label": "PCT" },
+      { "key": "gamesBehind", "label": "ACH" },
+      { "key": "streak", "label": "REEKS" }
+    ],
+    "mlb": [
+      { "key": "wins", "label": "W" },
+      { "key": "losses", "label": "V" },
+      { "key": "winningPercentage", "label": "PCT" },
+      { "key": "gamesBack", "label": "ACH" },
+      { "key": "streak", "label": "REEKS" }
+    ]
+  },
+  "teams": [
+    {
+      "id": "ajax",
+      "name": "Ajax",
+      "short": "AJA",
+      "sport": "Voetbal",
+      "colors": { "light": "#C8102E", "dark": "#FF6B7A" },
+      "games": [
+        { "type": "espn", "path": "soccer/ned.1", "teamId": "139", "competition": "Eredivisie", "queries": ["", "fixture=true"] },
+        { "type": "espn", "path": "soccer/uefa.europa.conf", "teamId": "139", "competition": "Conference League", "queries": ["", "fixture=true"] }
+      ],
+      "standings": [
+        { "type": "espn", "path": "soccer/ned.1", "teamId": "139", "name": "Eredivisie", "sort": "rank", "columns": "voetbal" },
+        { "type": "espn", "path": "soccer/uefa.europa.conf", "teamId": "139", "name": "Conference League", "sort": "rank", "columns": "voetbal" }
+      ],
+      "news": [
+        { "url": "https://www.parool.nl/ajax/rss.xml", "source": "Het Parool" },
+        { "url": "https://feeds.nos.nl/nosvoetbal", "source": "NOS", "match": "\\bAjax\\b" }
+      ]
+    },
+    {
+      "id": "eagles",
+      "name": "Philadelphia Eagles",
+      "short": "PHI",
+      "sport": "NFL",
+      "colors": { "light": "#004C54", "dark": "#4FC3C9" },
+      "games": [
+        { "type": "espn", "path": "football/nfl", "teamId": "21", "competition": "NFL", "queries": [""], "optionalQueries": ["seasontype=3"] }
+      ],
+      "standings": [
+        { "type": "espn", "path": "football/nfl", "teamId": "21", "level": 3, "sort": "winPercent", "columns": "nfl" }
+      ],
+      "news": [
+        { "url": "https://www.philadelphiaeagles.com/rss/news", "source": "philadelphiaeagles.com" },
+        { "url": "https://www.espn.com/espn/rss/nfl/news", "source": "ESPN", "match": "\\bEagles\\b" }
+      ]
+    },
+    {
+      "id": "yankees",
+      "name": "New York Yankees",
+      "short": "NYY",
+      "sport": "MLB",
+      "colors": { "light": "#0C2340", "dark": "#9DB8E8" },
+      "games": [
+        { "type": "mlb", "teamId": 147, "competition": "MLB" }
+      ],
+      "standings": [
+        { "type": "mlb", "teamId": 147, "leagueId": 103, "divisionId": 201, "name": "AL East", "columns": "mlb" }
+      ],
+      "news": [
+        { "url": "https://www.mlb.com/yankees/feeds/news/rss.xml", "source": "MLB.com" },
+        { "url": "https://www.espn.com/espn/rss/mlb/news", "source": "ESPN", "match": "\\bYankees\\b" }
+      ]
+    },
+    {
+      "id": "knicks",
+      "name": "New York Knicks",
+      "short": "NYK",
+      "sport": "NBA",
+      "colors": { "light": "#006BB6", "dark": "#5AB0F0" },
+      "games": [
+        { "type": "espn", "path": "basketball/nba", "teamId": "18", "competition": "NBA", "queries": [""], "optionalQueries": ["seasontype=3"] }
+      ],
+      "standings": [
+        { "type": "espn", "path": "basketball/nba", "teamId": "18", "level": 3, "sort": "winPercent", "columns": "nba" }
+      ],
+      "news": [
+        { "url": "https://www.postingandtoasting.com/rss/index.xml", "source": "Posting and Toasting" },
+        { "url": "https://www.espn.com/espn/rss/nba/news", "source": "ESPN", "match": "\\bKnicks\\b" }
+      ]
+    }
+  ]
+}

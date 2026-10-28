@@ -1,0 +1,19 @@
+{
+  "name": "sportdashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persoonlijk sportdashboard: uitslagen, programma, stand en nieuws als statische site.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-data.js",
+    "test": "node --test test/*.test.js",
+    "serve": "npx --yes serve public"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.136.0",
+    "fast-xml-parser": "^4.5.0"
+  }
+}
