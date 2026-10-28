@@ -262,13 +262,13 @@
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 27 oktober thuis met 21-38 van de Dallas Cowboys, en staan met 2 overwinningen en 5 nederlagen (puntensaldo -48) derde van vier in de NFC East. De volgende wedstrijd is op maandag 2 november om 02:20 uit bij de Washington Commanders, gevolgd door een thuisduel met de New York Giants op 8 november. In het nieuws: Makai Lemon blikt terug op zijn eerste touchdown, en er wordt geschreven over het ontslag van Dean Clark en Xavier Truss uit de practice squad.",
-    "hash": "c29c58f324e2c28f5ebea88c434db5f43557715ed30ade2418af52bdcc552b00",
-    "generatedAt": "2026-10-28T15:34:11.288Z",
+    "text": "De Philadelphia Eagles hebben vijf nederlagen op rij geleden, de laatste op 27 oktober met 21-38 thuis tegen de Dallas Cowboys. In de NFC East staan ze met 2-5 op de derde plaats van vier. In het nieuws: de Eagles halen DB Dean Clark en T Xavier Truss uit de practice squad.",
+    "hash": "90fb4fdb96fadf5fb880e4fe41d2e2aa4d0ba4b0431dcdd0327a34fd8bf8593c",
+    "generatedAt": "2026-10-28T15:42:19.059Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T15:34:11.288Z",
+  "updatedAt": "2026-10-28T15:42:19.059Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",

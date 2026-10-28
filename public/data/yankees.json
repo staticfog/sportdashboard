@@ -222,13 +222,13 @@
   },
   "summary": {
     "status": "ok",
-    "text": "De New York Yankees zitten buiten het seizoen en hebben geen wedstrijden op het programma. Ze eindigden als tweede van vijf in de AL East (93-68, 4,5 achter), wonnen in de AL Wild Card Series twee keer thuis van de Boston Red Sox (9-0 op 30 september en 9-2 op 1 oktober) en verloren daarna in de AL Division Series alle drie de wedstrijden van de Tampa Bay Rays (0-1, 2-5 en 3-4 tussen 4 en 8 oktober). In het nieuws: een bericht dat de Yankees volgens een report een driejarige verlenging zijn overeengekomen met pitching coach Blake, en er wordt geschreven over Schlittler als kandidaat voor de Cy Young en over Yankees-prospects in de Arizona Fall League.",
-    "hash": "65021f237435cd16b8dad97e662270fa3c2be034be5b57cfb93a2a12b7ed8aab",
-    "generatedAt": "2026-10-28T15:34:11.288Z",
+    "text": "De Yankees zitten buiten het seizoen. Na een 2-0 tegen de Red Sox in de Wild Card Series ging de AL Division Series met 0-3 verloren tegen de Rays (laatste duel 8 okt). In de AL East staan ze tweede met 93-68. In het nieuws: een gemelde driejarige verlenging met pitchingcoach Blake.",
+    "hash": "6e36c4dfd0ecdf74213131cc3672736a51e4c4358217f56a3c5566f5e8c489e8",
+    "generatedAt": "2026-10-28T15:42:19.059Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T15:34:11.288Z",
+  "updatedAt": "2026-10-28T15:42:19.059Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
