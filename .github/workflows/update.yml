@@ -1,0 +1,88 @@
+name: Data bijwerken
+
+on:
+  schedule:
+    # Every hour; scripts/should-run.js decides whether this run actually fetches
+    # (the first run from 07:00 Amsterdam, and around every game).
+    - cron: '7 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Moet deze ronde draaien?
+        id: gate
+        run: node scripts/should-run.js
+        env:
+          FORCE_RUN: ${{ github.event_name != 'schedule' }}
+
+      - name: Installeren
+        if: steps.gate.outputs.run == 'true'
+        run: npm install --no-audit --no-fund
+
+      - name: Tests
+        if: steps.gate.outputs.run == 'true'
+        run: npm test
+
+      - name: Data ophalen
+        if: steps.gate.outputs.run == 'true'
+        run: npm run fetch
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Committen als er iets veranderd is
+        id: commit
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          if [ -z "$(git status --porcelain -- public/data)" ]; then
+            echo "Geen wijzigingen."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          git commit -m "Data bijgewerkt $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  # GitHub Pages. With Cloudflare Pages set the repository variable DEPLOY_TARGET=cloudflare:
+  # Cloudflare then builds on every push, including the data commits above.
+  deploy:
+    needs: update
+    if: vars.DEPLOY_TARGET != 'cloudflare' && (needs.update.outputs.changed == 'true' || github.event_name != 'schedule')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
