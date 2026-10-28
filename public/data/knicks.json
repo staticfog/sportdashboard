@@ -1,0 +1,1447 @@
+{
+  "id": "knicks",
+  "name": "New York Knicks",
+  "short": "NYK",
+  "sport": "NBA",
+  "colors": {
+    "light": "#006BB6",
+    "dark": "#5AB0F0"
+  },
+  "competitions": [
+    "NBA"
+  ],
+  "season": {
+    "active": true
+  },
+  "results": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "issues": [],
+    "items": [
+      {
+        "id": "espn-401909878",
+        "date": "2026-10-28T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Detroit Pistons",
+        "opponentShort": "DET",
+        "status": "final",
+        "teamScore": 111,
+        "opponentScore": 97,
+        "outcome": "W"
+      },
+      {
+        "id": "espn-401909863",
+        "date": "2026-10-25T23:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Orlando Magic",
+        "opponentShort": "ORL",
+        "status": "final",
+        "teamScore": 102,
+        "opponentScore": 111,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401909095",
+        "date": "2026-10-23T23:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Boston Celtics",
+        "opponentShort": "BOS",
+        "status": "final",
+        "teamScore": 103,
+        "opponentScore": 107,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401909089",
+        "date": "2026-10-20T23:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Philadelphia 76ers",
+        "opponentShort": "PHI",
+        "status": "final",
+        "teamScore": 100,
+        "opponentScore": 106,
+        "outcome": "V"
+      }
+    ]
+  },
+  "fixtures": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "issues": [],
+    "items": [
+      {
+        "id": "espn-401909886",
+        "date": "2026-10-29T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Chicago Bulls",
+        "opponentShort": "CHI",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401909280",
+        "date": "2026-10-30T23:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Philadelphia 76ers",
+        "opponentShort": "PHI",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401909910",
+        "date": "2026-11-03T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Brooklyn Nets",
+        "opponentShort": "BKN",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401909926",
+        "date": "2026-11-05T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Chicago Bulls",
+        "opponentShort": "CHI",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      }
+    ]
+  },
+  "standings": [
+    {
+      "label": "Stand",
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "table": {
+        "name": "Atlantic",
+        "columns": [
+          "W",
+          "V",
+          "PCT",
+          "ACH",
+          "REEKS"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Philadelphia 76ers",
+            "short": "PHI",
+            "highlight": false,
+            "values": [
+              "3",
+              "1",
+              ".750",
+              "-",
+              "L1"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Boston Celtics",
+            "short": "BOS",
+            "highlight": false,
+            "values": [
+              "3",
+              "1",
+              ".750",
+              "-",
+              "W3"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "Toronto Raptors",
+            "short": "TOR",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              ".667",
+              "0.5",
+              "L1"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "New York Knicks",
+            "short": "NY",
+            "highlight": true,
+            "values": [
+              "1",
+              "3",
+              ".250",
+              "2",
+              "W1"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "Brooklyn Nets",
+            "short": "BKN",
+            "highlight": false,
+            "values": [
+              "0",
+              "4",
+              ".000",
+              "3",
+              "L4"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "news": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "failedSources": [],
+    "items": [
+      {
+        "title": "Brunson draws from WS as Knicks beat Pistons for 1st win: 'Just continue to hit singles'",
+        "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
+        "date": "2026-10-28T14:43:55.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
+        "date": "2026-10-28T12:41:57.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks 111, Pistons 97: Scenes from win number one",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90572/knicks-111-pistons-97-scenes-from-win-number-one",
+        "date": "2026-10-28T03:19:36.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Game Discussion Thread: Knicks vs. Pistons, October 27, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/90563/game-discussion-thread-knicks-vs-pistons-october-27-2026",
+        "date": "2026-10-27T23:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Should “No Mo” be a “No Go” for the Knicks?",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/90555/should-no-mo-be-a-no-go-for-the-knicks",
+        "date": "2026-10-27T13:48:22.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Game Preview: Knicks vs Pistons, October 27, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/90515/game-preview-knicks-vs-pistons-october-27-2026",
+        "date": "2026-10-27T04:00:00.000Z",
+        "source": "Posting and Toasting"
+      }
+    ]
+  },
+  "summary": {
+    "status": "unavailable",
+    "text": null,
+    "hash": null,
+    "generatedAt": null,
+    "model": null,
+    "error": "geen ANTHROPIC_API_KEY ingesteld"
+  },
+  "updatedAt": "2026-10-28T14:46:31.994Z",
+  "sections": {
+    "games:espn-basketball/nba-18": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": [
+        {
+          "id": "espn-401909089",
+          "date": "2026-10-20T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Philadelphia 76ers",
+          "opponentShort": "PHI",
+          "status": "final",
+          "teamScore": 100,
+          "opponentScore": 106,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401909095",
+          "date": "2026-10-23T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Boston Celtics",
+          "opponentShort": "BOS",
+          "status": "final",
+          "teamScore": 103,
+          "opponentScore": 107,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401909863",
+          "date": "2026-10-25T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Orlando Magic",
+          "opponentShort": "ORL",
+          "status": "final",
+          "teamScore": 102,
+          "opponentScore": 111,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401909878",
+          "date": "2026-10-28T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Detroit Pistons",
+          "opponentShort": "DET",
+          "status": "final",
+          "teamScore": 111,
+          "opponentScore": 97,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401909886",
+          "date": "2026-10-29T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Chicago Bulls",
+          "opponentShort": "CHI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909280",
+          "date": "2026-10-30T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Philadelphia 76ers",
+          "opponentShort": "PHI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909910",
+          "date": "2026-11-03T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Brooklyn Nets",
+          "opponentShort": "BKN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909926",
+          "date": "2026-11-05T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Chicago Bulls",
+          "opponentShort": "CHI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909940",
+          "date": "2026-11-08T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Cleveland Cavaliers",
+          "opponentShort": "CLE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909960",
+          "date": "2026-11-11T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Milwaukee Bucks",
+          "opponentShort": "MIL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909967",
+          "date": "2026-11-12T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Cleveland Cavaliers",
+          "opponentShort": "CLE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909296",
+          "date": "2026-11-14T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Indiana Pacers",
+          "opponentShort": "IND",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909990",
+          "date": "2026-11-15T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Toronto Raptors",
+          "opponentShort": "TOR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910002",
+          "date": "2026-11-18T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Toronto Raptors",
+          "opponentShort": "TOR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910021",
+          "date": "2026-11-20T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Minnesota Timberwolves",
+          "opponentShort": "MIN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910024",
+          "date": "2026-11-22T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Portland Trail Blazers",
+          "opponentShort": "POR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910034",
+          "date": "2026-11-23T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Indiana Pacers",
+          "opponentShort": "IND",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909319",
+          "date": "2026-11-26T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Cleveland Cavaliers",
+          "opponentShort": "CLE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909326",
+          "date": "2026-11-28T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Miami Heat",
+          "opponentShort": "MIA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910056",
+          "date": "2026-11-29T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Atlanta Hawks",
+          "opponentShort": "ATL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910071",
+          "date": "2026-12-02T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Chicago Bulls",
+          "opponentShort": "CHI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910080",
+          "date": "2026-12-03T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Milwaukee Bucks",
+          "opponentShort": "MIL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910094",
+          "date": "2026-12-13T01:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Miami Heat",
+          "opponentShort": "MIA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910111",
+          "date": "2026-12-15T01:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Houston Rockets",
+          "opponentShort": "HOU",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910126",
+          "date": "2026-12-17T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "New Orleans Pelicans",
+          "opponentShort": "NO",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910135",
+          "date": "2026-12-19T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Washington Wizards",
+          "opponentShort": "WSH",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910160",
+          "date": "2026-12-22T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Cleveland Cavaliers",
+          "opponentShort": "CLE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910178",
+          "date": "2026-12-24T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Utah Jazz",
+          "opponentShort": "UTAH",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909097",
+          "date": "2026-12-25T17:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "San Antonio Spurs",
+          "opponentShort": "SA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910198",
+          "date": "2026-12-27T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Brooklyn Nets",
+          "opponentShort": "BKN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910224",
+          "date": "2026-12-31T02:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Utah Jazz",
+          "opponentShort": "UTAH",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910234",
+          "date": "2027-01-01T02:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Phoenix Suns",
+          "opponentShort": "PHX",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910242",
+          "date": "2027-01-02T22:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Denver Nuggets",
+          "opponentShort": "DEN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910264",
+          "date": "2027-01-05T03:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Portland Trail Blazers",
+          "opponentShort": "POR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910278",
+          "date": "2027-01-07T03:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Golden State Warriors",
+          "opponentShort": "GS",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910298",
+          "date": "2027-01-09T03:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Sacramento Kings",
+          "opponentShort": "SAC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910316",
+          "date": "2027-01-12T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Denver Nuggets",
+          "opponentShort": "DEN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910328",
+          "date": "2027-01-14T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Boston Celtics",
+          "opponentShort": "BOS",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910337",
+          "date": "2027-01-15T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Miami Heat",
+          "opponentShort": "MIA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910353",
+          "date": "2027-01-17T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Dallas Mavericks",
+          "opponentShort": "DAL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401909475",
+          "date": "2027-01-18T22:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Minnesota Timberwolves",
+          "opponentShort": "MIN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910378",
+          "date": "2027-01-21T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Toronto Raptors",
+          "opponentShort": "TOR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910389",
+          "date": "2027-01-23T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Atlanta Hawks",
+          "opponentShort": "ATL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910411",
+          "date": "2027-01-25T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "LA Clippers",
+          "opponentShort": "LAC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910423",
+          "date": "2027-01-27T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Phoenix Suns",
+          "opponentShort": "PHX",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910438",
+          "date": "2027-01-29T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Atlanta Hawks",
+          "opponentShort": "ATL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910457",
+          "date": "2027-01-31T01:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Los Angeles Lakers",
+          "opponentShort": "LAL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910469",
+          "date": "2027-02-02T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Brooklyn Nets",
+          "opponentShort": "BKN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910482",
+          "date": "2027-02-04T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Detroit Pistons",
+          "opponentShort": "DET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910492",
+          "date": "2027-02-05T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Toronto Raptors",
+          "opponentShort": "TOR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910519",
+          "date": "2027-02-08T02:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Oklahoma City Thunder",
+          "opponentShort": "OKC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910531",
+          "date": "2027-02-10T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Charlotte Hornets",
+          "opponentShort": "CHA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910547",
+          "date": "2027-02-12T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Philadelphia 76ers",
+          "opponentShort": "PHI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910566",
+          "date": "2027-02-14T01:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Golden State Warriors",
+          "opponentShort": "GS",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910575",
+          "date": "2027-02-16T01:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Memphis Grizzlies",
+          "opponentShort": "MEM",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910585",
+          "date": "2027-02-18T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Detroit Pistons",
+          "opponentShort": "DET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910604",
+          "date": "2027-02-26T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Oklahoma City Thunder",
+          "opponentShort": "OKC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910621",
+          "date": "2027-02-28T01:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Philadelphia 76ers",
+          "opponentShort": "PHI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910629",
+          "date": "2027-03-01T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Milwaukee Bucks",
+          "opponentShort": "MIL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910641",
+          "date": "2027-03-03T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Memphis Grizzlies",
+          "opponentShort": "MEM",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910658",
+          "date": "2027-03-05T02:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Dallas Mavericks",
+          "opponentShort": "DAL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910678",
+          "date": "2027-03-08T00:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "San Antonio Spurs",
+          "opponentShort": "SA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910703",
+          "date": "2027-03-11T03:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "LA Clippers",
+          "opponentShort": "LAC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910711",
+          "date": "2027-03-12T03:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Los Angeles Lakers",
+          "opponentShort": "LAL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910727",
+          "date": "2027-03-14T16:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Boston Celtics",
+          "opponentShort": "BOS",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910739",
+          "date": "2027-03-16T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Washington Wizards",
+          "opponentShort": "WSH",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910750",
+          "date": "2027-03-17T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Sacramento Kings",
+          "opponentShort": "SAC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910772",
+          "date": "2027-03-20T17:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Washington Wizards",
+          "opponentShort": "WSH",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910795",
+          "date": "2027-03-23T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "New Orleans Pelicans",
+          "opponentShort": "NO",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910804",
+          "date": "2027-03-24T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Houston Rockets",
+          "opponentShort": "HOU",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910818",
+          "date": "2027-03-26T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Charlotte Hornets",
+          "opponentShort": "CHA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910831",
+          "date": "2027-03-28T16:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Orlando Magic",
+          "opponentShort": "ORL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910850",
+          "date": "2027-03-31T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Orlando Magic",
+          "opponentShort": "ORL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910866",
+          "date": "2027-04-01T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Charlotte Hornets",
+          "opponentShort": "CHA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910870",
+          "date": "2027-04-02T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Brooklyn Nets",
+          "opponentShort": "BKN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910893",
+          "date": "2027-04-04T23:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Boston Celtics",
+          "opponentShort": "BOS",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910900",
+          "date": "2027-04-07T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Atlanta Hawks",
+          "opponentShort": "ATL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910919",
+          "date": "2027-04-09T00:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": false,
+          "opponent": "Milwaukee Bucks",
+          "opponentShort": "MIL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910926",
+          "date": "2027-04-09T23:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Detroit Pistons",
+          "opponentShort": "DET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401910941",
+          "date": "2027-04-11T22:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NBA",
+          "home": true,
+          "opponent": "Indiana Pacers",
+          "opponentShort": "IND",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "standings:espn-basketball/nba-18": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "name": "Atlantic",
+        "columns": [
+          "W",
+          "V",
+          "PCT",
+          "ACH",
+          "REEKS"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Philadelphia 76ers",
+            "short": "PHI",
+            "highlight": false,
+            "values": [
+              "3",
+              "1",
+              ".750",
+              "-",
+              "L1"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Boston Celtics",
+            "short": "BOS",
+            "highlight": false,
+            "values": [
+              "3",
+              "1",
+              ".750",
+              "-",
+              "W3"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "Toronto Raptors",
+            "short": "TOR",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              ".667",
+              "0.5",
+              "L1"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "New York Knicks",
+            "short": "NY",
+            "highlight": true,
+            "values": [
+              "1",
+              "3",
+              ".250",
+              "2",
+              "W1"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "Brooklyn Nets",
+            "short": "BKN",
+            "highlight": false,
+            "values": [
+              "0",
+              "4",
+              ".000",
+              "3",
+              "L4"
+            ]
+          }
+        ]
+      },
+      "error": null
+    },
+    "news": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "items": [
+          {
+            "title": "Brunson draws from WS as Knicks beat Pistons for 1st win: 'Just continue to hit singles'",
+            "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
+            "date": "2026-10-28T14:43:55.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
+            "date": "2026-10-28T12:41:57.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks 111, Pistons 97: Scenes from win number one",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90572/knicks-111-pistons-97-scenes-from-win-number-one",
+            "date": "2026-10-28T03:19:36.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Game Discussion Thread: Knicks vs. Pistons, October 27, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/90563/game-discussion-thread-knicks-vs-pistons-october-27-2026",
+            "date": "2026-10-27T23:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Should “No Mo” be a “No Go” for the Knicks?",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/90555/should-no-mo-be-a-no-go-for-the-knicks",
+            "date": "2026-10-27T13:48:22.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Game Preview: Knicks vs Pistons, October 27, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/90515/game-preview-knicks-vs-pistons-october-27-2026",
+            "date": "2026-10-27T04:00:00.000Z",
+            "source": "Posting and Toasting"
+          }
+        ],
+        "failedSources": []
+      },
+      "error": null
+    }
+  }
+}

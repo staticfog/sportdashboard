@@ -1,0 +1,43 @@
+{
+  "timezone": "Europe/Amsterdam",
+  "teams": [
+    {
+      "id": "ajax",
+      "name": "Ajax",
+      "short": "AJA",
+      "colors": {
+        "light": "#C8102E",
+        "dark": "#FF6B7A"
+      }
+    },
+    {
+      "id": "eagles",
+      "name": "Philadelphia Eagles",
+      "short": "PHI",
+      "colors": {
+        "light": "#004C54",
+        "dark": "#4FC3C9"
+      }
+    },
+    {
+      "id": "yankees",
+      "name": "New York Yankees",
+      "short": "NYY",
+      "colors": {
+        "light": "#0C2340",
+        "dark": "#9DB8E8"
+      }
+    },
+    {
+      "id": "knicks",
+      "name": "New York Knicks",
+      "short": "NYK",
+      "colors": {
+        "light": "#006BB6",
+        "dark": "#5AB0F0"
+      }
+    }
+  ],
+  "lastRunAt": "2026-10-28T14:46:31.994Z",
+  "lastRunDate": "2026-10-28"
+}

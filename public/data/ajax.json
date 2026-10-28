@@ -1,0 +1,2368 @@
+{
+  "id": "ajax",
+  "name": "Ajax",
+  "short": "AJA",
+  "sport": "Voetbal",
+  "colors": {
+    "light": "#C8102E",
+    "dark": "#FF6B7A"
+  },
+  "competitions": [
+    "Eredivisie",
+    "Conference League"
+  ],
+  "season": {
+    "active": true
+  },
+  "results": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "issues": [],
+    "items": [
+      {
+        "id": "espn-401875567",
+        "date": "2026-10-25T15:45:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": false,
+        "opponent": "Sparta Rotterdam",
+        "opponentShort": "SPA",
+        "status": "final",
+        "teamScore": 2,
+        "opponentScore": 1,
+        "outcome": "W"
+      },
+      {
+        "id": "espn-401915837",
+        "date": "2026-10-22T19:00:00.000Z",
+        "timeKnown": true,
+        "competition": "Conference League",
+        "home": true,
+        "opponent": "Atalanta",
+        "opponentShort": "ATA",
+        "status": "final",
+        "teamScore": 2,
+        "opponentScore": 0,
+        "outcome": "W"
+      },
+      {
+        "id": "espn-401875575",
+        "date": "2026-10-18T14:45:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": false,
+        "opponent": "FC Groningen",
+        "opponentShort": "GRO",
+        "status": "final",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "outcome": "W"
+      },
+      {
+        "id": "espn-401915861",
+        "date": "2026-10-15T16:45:00.000Z",
+        "timeKnown": true,
+        "competition": "Conference League",
+        "home": false,
+        "opponent": "Hajduk Split",
+        "opponentShort": "HAJ",
+        "status": "final",
+        "teamScore": 1,
+        "opponentScore": 2,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401875589",
+        "date": "2026-10-10T19:00:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": true,
+        "opponent": "NEC Nijmegen",
+        "opponentShort": "NEC",
+        "status": "final",
+        "teamScore": 1,
+        "opponentScore": 1,
+        "outcome": "G"
+      }
+    ]
+  },
+  "fixtures": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "issues": [],
+    "items": [
+      {
+        "id": "espn-401875562",
+        "date": "2026-10-31T20:00:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": true,
+        "opponent": "AZ Alkmaar",
+        "opponentShort": "AZ",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401915829",
+        "date": "2026-11-05T17:45:00.000Z",
+        "timeKnown": true,
+        "competition": "Conference League",
+        "home": false,
+        "opponent": "FC Midtjylland",
+        "opponentShort": "MID",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401875550",
+        "date": "2026-11-08T13:30:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": false,
+        "opponent": "FC Twente",
+        "opponentShort": "TWE",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401875547",
+        "date": "2026-11-22T13:30:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": true,
+        "opponent": "ADO Den Haag",
+        "opponentShort": "ADO",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      }
+    ]
+  },
+  "standings": [
+    {
+      "label": "Eredivisie",
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "table": {
+        "name": "Eredivisie",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Feyenoord Rotterdam",
+            "short": "FEY",
+            "highlight": false,
+            "values": [
+              "10",
+              "7",
+              "3",
+              "0",
+              "+21",
+              "24"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "10",
+              "6",
+              "3",
+              "1",
+              "+16",
+              "21"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+15",
+              "20"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+9",
+              "20"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+8",
+              "20"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "Fortuna Sittard",
+            "short": "FOR",
+            "highlight": false,
+            "values": [
+              "10",
+              "5",
+              "3",
+              "2",
+              "0",
+              "18"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Heerenveen",
+            "short": "HEE",
+            "highlight": false,
+            "values": [
+              "10",
+              "4",
+              "3",
+              "3",
+              "+5",
+              "15"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "FC Groningen",
+            "short": "GRO",
+            "highlight": false,
+            "values": [
+              "10",
+              "4",
+              "3",
+              "3",
+              "+3",
+              "15"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "5",
+              "2",
+              "0",
+              "14"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "SC Cambuur",
+            "short": "CAM",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "3",
+              "4",
+              "-3",
+              "12"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "FC Utrecht",
+            "short": "UTR",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "3",
+              "4",
+              "-10",
+              "12"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "NEC Nijmegen",
+            "short": "NEC",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "5",
+              "3",
+              "-1",
+              "11"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "Excelsior",
+            "short": "EXC",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "2",
+              "5",
+              "-3",
+              "11"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "Sparta Rotterdam",
+            "short": "SPA",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "3",
+              "5",
+              "-7",
+              "9"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "PEC Zwolle",
+            "short": "PEC",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "2",
+              "6",
+              "-12",
+              "8"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Telstar",
+            "short": "TEL",
+            "highlight": false,
+            "values": [
+              "10",
+              "1",
+              "3",
+              "6",
+              "-9",
+              "6"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "ADO Den Haag",
+            "short": "ADO",
+            "highlight": false,
+            "values": [
+              "10",
+              "1",
+              "3",
+              "6",
+              "-10",
+              "6"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "Willem II",
+            "short": "WIL",
+            "highlight": false,
+            "values": [
+              "10",
+              "0",
+              "2",
+              "8",
+              "-22",
+              "2"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Conference League",
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "table": {
+        "name": "Conference League",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Panathinaikos",
+            "short": "PAO",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+5",
+              "6"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "FC Lugano",
+            "short": "LUG",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "SK Brann",
+            "short": "SKBR",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "Trabzonspor",
+            "short": "TRAB",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "AS Monaco",
+            "short": "MON",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Sint-Truidense",
+            "short": "STVV",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+3",
+              "6"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "Hajduk Split",
+            "short": "HAJ",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+2",
+              "6"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "Brighton & Hove Albion",
+            "short": "BHA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+4",
+              "4"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "F.C. København",
+            "short": "KBH",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+3",
+              "4"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "CSU Craiova",
+            "short": "UCRA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+2",
+              "4"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "Mjällby AIF",
+            "short": "MJA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+2",
+              "4"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "+1",
+              "3"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "Borac Banja Luka",
+            "short": "BBL",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "+1",
+              "3"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "Atalanta",
+            "short": "ATA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "0",
+              "3"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Braga",
+            "short": "SCB",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "-1",
+              "3"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "KAA Gent",
+            "short": "GENT",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "-1",
+              "3"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "SC Freiburg",
+            "short": "SCF",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "rank": 19,
+            "team": "FC Nordsjælland",
+            "short": "FCN",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "2",
+              "0",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "rank": 20,
+            "team": "Egnatia",
+            "short": "EGN",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "2",
+              "0",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "rank": 21,
+            "team": "Riga FC",
+            "short": "RIG",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "2",
+              "0",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "rank": 22,
+            "team": "Red Star Belgrade",
+            "short": "RSB",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 23,
+            "team": "CSKA Sofia",
+            "short": "CSKA",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 24,
+            "team": "Jablonec",
+            "short": "JABL",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 25,
+            "team": "FC Midtjylland",
+            "short": "MID",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 26,
+            "team": "AGF",
+            "short": "AGF",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 27,
+            "team": "Pafos",
+            "short": "PAF",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-2",
+              "1"
+            ]
+          },
+          {
+            "rank": 28,
+            "team": "Heart of Midlothian",
+            "short": "HOM",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-2",
+              "1"
+            ]
+          },
+          {
+            "rank": 29,
+            "team": "Iberia 1999",
+            "short": "IBE",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-2",
+              "1"
+            ]
+          },
+          {
+            "rank": 30,
+            "team": "Getafe",
+            "short": "GET",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-3",
+              "1"
+            ]
+          },
+          {
+            "rank": 31,
+            "team": "Kairat Almaty",
+            "short": "KAI",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-4",
+              "1"
+            ]
+          },
+          {
+            "rank": 32,
+            "team": "FC Thun",
+            "short": "THUN",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-2",
+              "0"
+            ]
+          },
+          {
+            "rank": 33,
+            "team": "Lincoln Red Imps",
+            "short": "LRI",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-4",
+              "0"
+            ]
+          },
+          {
+            "rank": 34,
+            "team": "KuPS Kuopio",
+            "short": "KUPS",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-4",
+              "0"
+            ]
+          },
+          {
+            "rank": 35,
+            "team": "Inter D'Escaldes",
+            "short": "IDE",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-4",
+              "0"
+            ]
+          },
+          {
+            "rank": 36,
+            "team": "Kauno Zalgiris",
+            "short": "ZAL",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-7",
+              "0"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "news": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "failedSources": [],
+    "items": [
+      {
+        "title": "Tough Love: mooie titel voor een novelle over Tolu en Míchel",
+        "url": "https://www.parool.nl/columns-opinie/tough-love-mooie-titel-voor-een-novelle-over-tolu-en-michel~b6855bbc/",
+        "date": "2026-10-28T11:00:40.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "Drie Nederlandse vrouwenteams bij laatste zestien: hoe realistisch is Europa Cup-succes?",
+        "url": "https://nos.nl/l/2636970",
+        "date": "2026-10-28T07:04:53.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Amateurs Excelsior'31 stunten met zege op ADO, Telstar onderuit tegen Almere City",
+        "url": "https://nos.nl/l/2636943",
+        "date": "2026-10-27T20:44:19.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Harry Kane’s Ballon d’Or is behalve een erkenning van zijn kwaliteit een glorieuze ode aan de eenvoud",
+        "url": "https://www.parool.nl/sport/harry-kane-s-ballon-d-or-is-behalve-een-erkenning-van-zijn-kwaliteit-een-glorieuze-ode-aan-de-eenvoud~b147eb75/",
+        "date": "2026-10-27T10:26:24.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "KNVB volgt Amerikaans voorbeeld en looft ring uit voor uitblinkers bekertoernooi",
+        "url": "https://nos.nl/l/2636846",
+        "date": "2026-10-27T08:35:17.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Invaller Godts helpt Paris Saint-Germain aan zege in uitgesteld duel met Lyon",
+        "url": "https://nos.nl/l/2636811",
+        "date": "2026-10-26T21:44:54.000Z",
+        "source": "NOS"
+      }
+    ]
+  },
+  "summary": {
+    "status": "unavailable",
+    "text": null,
+    "hash": null,
+    "generatedAt": null,
+    "model": null,
+    "error": "geen ANTHROPIC_API_KEY ingesteld"
+  },
+  "updatedAt": "2026-10-28T14:46:31.994Z",
+  "sections": {
+    "games:espn-soccer/ned.1-139": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": [
+        {
+          "id": "espn-401875567",
+          "date": "2026-10-25T15:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Sparta Rotterdam",
+          "opponentShort": "SPA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401875575",
+          "date": "2026-10-18T14:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "FC Groningen",
+          "opponentShort": "GRO",
+          "status": "final",
+          "teamScore": 5,
+          "opponentScore": 2,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401875589",
+          "date": "2026-10-10T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "NEC Nijmegen",
+          "opponentShort": "NEC",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 1,
+          "outcome": "G"
+        },
+        {
+          "id": "espn-401875598",
+          "date": "2026-09-19T18:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Excelsior",
+          "opponentShort": "EXC",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 2,
+          "outcome": "G"
+        },
+        {
+          "id": "espn-401875602",
+          "date": "2026-09-15T18:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Willem II",
+          "opponentShort": "WIL",
+          "status": "final",
+          "teamScore": 5,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401875608",
+          "date": "2026-09-12T18:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Fortuna Sittard",
+          "opponentShort": "FOR",
+          "status": "final",
+          "teamScore": 5,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401875618",
+          "date": "2026-09-05T18:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "PSV Eindhoven",
+          "opponentShort": "PSV",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 3,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401875623",
+          "date": "2026-08-30T14:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Telstar",
+          "opponentShort": "TEL",
+          "status": "final",
+          "teamScore": 4,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401875638",
+          "date": "2026-08-16T14:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Heerenveen",
+          "opponentShort": "HEE",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 2,
+          "outcome": "G"
+        },
+        {
+          "id": "espn-401875648",
+          "date": "2026-08-09T12:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "PEC Zwolle",
+          "opponentShort": "PEC",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401875562",
+          "date": "2026-10-31T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "AZ Alkmaar",
+          "opponentShort": "AZ",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875550",
+          "date": "2026-11-08T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "FC Twente",
+          "opponentShort": "TWE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875547",
+          "date": "2026-11-22T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "ADO Den Haag",
+          "opponentShort": "ADO",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875535",
+          "date": "2026-11-29T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Feyenoord Rotterdam",
+          "opponentShort": "FEY",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875528",
+          "date": "2026-12-06T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "FC Utrecht",
+          "opponentShort": "UTR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875520",
+          "date": "2026-12-13T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "SC Cambuur",
+          "opponentShort": "CAM",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875507",
+          "date": "2026-12-20T15:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Go Ahead Eagles",
+          "opponentShort": "GAE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875499",
+          "date": "2027-01-09T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Willem II",
+          "opponentShort": "WIL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875492",
+          "date": "2027-01-17T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "FC Groningen",
+          "opponentShort": "GRO",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875675",
+          "date": "2027-01-23T15:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Telstar",
+          "opponentShort": "TEL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875660",
+          "date": "2027-01-31T11:15:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Heerenveen",
+          "opponentShort": "HEE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875657",
+          "date": "2027-02-13T20:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "Excelsior",
+          "opponentShort": "EXC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875702",
+          "date": "2027-02-20T20:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Go Ahead Eagles",
+          "opponentShort": "GAE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875692",
+          "date": "2027-02-27T20:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Feyenoord Rotterdam",
+          "opponentShort": "FEY",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875684",
+          "date": "2027-03-06T20:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "ADO Den Haag",
+          "opponentShort": "ADO",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875711",
+          "date": "2027-03-13T20:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "PEC Zwolle",
+          "opponentShort": "PEC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875726",
+          "date": "2027-03-20T18:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "NEC Nijmegen",
+          "opponentShort": "NEC",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875729",
+          "date": "2027-04-03T18:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "FC Twente",
+          "opponentShort": "TWE",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875740",
+          "date": "2027-04-10T18:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "FC Utrecht",
+          "opponentShort": "UTR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875754",
+          "date": "2027-04-24T18:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "PSV Eindhoven",
+          "opponentShort": "PSV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875756",
+          "date": "2027-05-01T18:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Fortuna Sittard",
+          "opponentShort": "FOR",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875766",
+          "date": "2027-05-08T18:00:00.000Z",
+          "timeKnown": false,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "AZ Alkmaar",
+          "opponentShort": "AZ",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875774",
+          "date": "2027-05-16T12:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "Sparta Rotterdam",
+          "opponentShort": "SPA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401875787",
+          "date": "2027-05-23T12:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "SC Cambuur",
+          "opponentShort": "CAM",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "games:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": [
+        {
+          "id": "espn-401915837",
+          "date": "2026-10-22T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Atalanta",
+          "opponentShort": "ATA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915861",
+          "date": "2026-10-15T16:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Hajduk Split",
+          "opponentShort": "HAJ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 2,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401915829",
+          "date": "2026-11-05T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "FC Midtjylland",
+          "opponentShort": "MID",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915630",
+          "date": "2026-12-10T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Sint-Truidense",
+          "opponentShort": "STVV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915731",
+          "date": "2026-12-17T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Getafe",
+          "opponentShort": "GET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "standings:espn-soccer/ned.1-139": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "name": "Eredivisie",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Feyenoord Rotterdam",
+            "short": "FEY",
+            "highlight": false,
+            "values": [
+              "10",
+              "7",
+              "3",
+              "0",
+              "+21",
+              "24"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "10",
+              "6",
+              "3",
+              "1",
+              "+16",
+              "21"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+15",
+              "20"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+9",
+              "20"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+8",
+              "20"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "Fortuna Sittard",
+            "short": "FOR",
+            "highlight": false,
+            "values": [
+              "10",
+              "5",
+              "3",
+              "2",
+              "0",
+              "18"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Heerenveen",
+            "short": "HEE",
+            "highlight": false,
+            "values": [
+              "10",
+              "4",
+              "3",
+              "3",
+              "+5",
+              "15"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "FC Groningen",
+            "short": "GRO",
+            "highlight": false,
+            "values": [
+              "10",
+              "4",
+              "3",
+              "3",
+              "+3",
+              "15"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "5",
+              "2",
+              "0",
+              "14"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "SC Cambuur",
+            "short": "CAM",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "3",
+              "4",
+              "-3",
+              "12"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "FC Utrecht",
+            "short": "UTR",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "3",
+              "4",
+              "-10",
+              "12"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "NEC Nijmegen",
+            "short": "NEC",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "5",
+              "3",
+              "-1",
+              "11"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "Excelsior",
+            "short": "EXC",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "2",
+              "5",
+              "-3",
+              "11"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "Sparta Rotterdam",
+            "short": "SPA",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "3",
+              "5",
+              "-7",
+              "9"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "PEC Zwolle",
+            "short": "PEC",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "2",
+              "6",
+              "-12",
+              "8"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Telstar",
+            "short": "TEL",
+            "highlight": false,
+            "values": [
+              "10",
+              "1",
+              "3",
+              "6",
+              "-9",
+              "6"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "ADO Den Haag",
+            "short": "ADO",
+            "highlight": false,
+            "values": [
+              "10",
+              "1",
+              "3",
+              "6",
+              "-10",
+              "6"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "Willem II",
+            "short": "WIL",
+            "highlight": false,
+            "values": [
+              "10",
+              "0",
+              "2",
+              "8",
+              "-22",
+              "2"
+            ]
+          }
+        ]
+      },
+      "error": null
+    },
+    "standings:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "name": "Conference League",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Panathinaikos",
+            "short": "PAO",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+5",
+              "6"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "FC Lugano",
+            "short": "LUG",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "SK Brann",
+            "short": "SKBR",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "Trabzonspor",
+            "short": "TRAB",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "AS Monaco",
+            "short": "MON",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+4",
+              "6"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Sint-Truidense",
+            "short": "STVV",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+3",
+              "6"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "Hajduk Split",
+            "short": "HAJ",
+            "highlight": false,
+            "values": [
+              "2",
+              "2",
+              "0",
+              "0",
+              "+2",
+              "6"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "Brighton & Hove Albion",
+            "short": "BHA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+4",
+              "4"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "F.C. København",
+            "short": "KBH",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+3",
+              "4"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "CSU Craiova",
+            "short": "UCRA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+2",
+              "4"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "Mjällby AIF",
+            "short": "MJA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "1",
+              "0",
+              "+2",
+              "4"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "+1",
+              "3"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "Borac Banja Luka",
+            "short": "BBL",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "+1",
+              "3"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "Atalanta",
+            "short": "ATA",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "0",
+              "3"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Braga",
+            "short": "SCB",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "-1",
+              "3"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "KAA Gent",
+            "short": "GENT",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "-1",
+              "3"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "SC Freiburg",
+            "short": "SCF",
+            "highlight": false,
+            "values": [
+              "2",
+              "1",
+              "0",
+              "1",
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "rank": 19,
+            "team": "FC Nordsjælland",
+            "short": "FCN",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "2",
+              "0",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "rank": 20,
+            "team": "Egnatia",
+            "short": "EGN",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "2",
+              "0",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "rank": 21,
+            "team": "Riga FC",
+            "short": "RIG",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "2",
+              "0",
+              "0",
+              "2"
+            ]
+          },
+          {
+            "rank": 22,
+            "team": "Red Star Belgrade",
+            "short": "RSB",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 23,
+            "team": "CSKA Sofia",
+            "short": "CSKA",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 24,
+            "team": "Jablonec",
+            "short": "JABL",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 25,
+            "team": "FC Midtjylland",
+            "short": "MID",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 26,
+            "team": "AGF",
+            "short": "AGF",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-1",
+              "1"
+            ]
+          },
+          {
+            "rank": 27,
+            "team": "Pafos",
+            "short": "PAF",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-2",
+              "1"
+            ]
+          },
+          {
+            "rank": 28,
+            "team": "Heart of Midlothian",
+            "short": "HOM",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-2",
+              "1"
+            ]
+          },
+          {
+            "rank": 29,
+            "team": "Iberia 1999",
+            "short": "IBE",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-2",
+              "1"
+            ]
+          },
+          {
+            "rank": 30,
+            "team": "Getafe",
+            "short": "GET",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-3",
+              "1"
+            ]
+          },
+          {
+            "rank": 31,
+            "team": "Kairat Almaty",
+            "short": "KAI",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "1",
+              "1",
+              "-4",
+              "1"
+            ]
+          },
+          {
+            "rank": 32,
+            "team": "FC Thun",
+            "short": "THUN",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-2",
+              "0"
+            ]
+          },
+          {
+            "rank": 33,
+            "team": "Lincoln Red Imps",
+            "short": "LRI",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-4",
+              "0"
+            ]
+          },
+          {
+            "rank": 34,
+            "team": "KuPS Kuopio",
+            "short": "KUPS",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-4",
+              "0"
+            ]
+          },
+          {
+            "rank": 35,
+            "team": "Inter D'Escaldes",
+            "short": "IDE",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-4",
+              "0"
+            ]
+          },
+          {
+            "rank": 36,
+            "team": "Kauno Zalgiris",
+            "short": "ZAL",
+            "highlight": false,
+            "values": [
+              "2",
+              "0",
+              "0",
+              "2",
+              "-7",
+              "0"
+            ]
+          }
+        ]
+      },
+      "error": null
+    },
+    "news": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "items": [
+          {
+            "title": "Tough Love: mooie titel voor een novelle over Tolu en Míchel",
+            "url": "https://www.parool.nl/columns-opinie/tough-love-mooie-titel-voor-een-novelle-over-tolu-en-michel~b6855bbc/",
+            "date": "2026-10-28T11:00:40.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "Drie Nederlandse vrouwenteams bij laatste zestien: hoe realistisch is Europa Cup-succes?",
+            "url": "https://nos.nl/l/2636970",
+            "date": "2026-10-28T07:04:53.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Amateurs Excelsior'31 stunten met zege op ADO, Telstar onderuit tegen Almere City",
+            "url": "https://nos.nl/l/2636943",
+            "date": "2026-10-27T20:44:19.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Harry Kane’s Ballon d’Or is behalve een erkenning van zijn kwaliteit een glorieuze ode aan de eenvoud",
+            "url": "https://www.parool.nl/sport/harry-kane-s-ballon-d-or-is-behalve-een-erkenning-van-zijn-kwaliteit-een-glorieuze-ode-aan-de-eenvoud~b147eb75/",
+            "date": "2026-10-27T10:26:24.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "KNVB volgt Amerikaans voorbeeld en looft ring uit voor uitblinkers bekertoernooi",
+            "url": "https://nos.nl/l/2636846",
+            "date": "2026-10-27T08:35:17.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Invaller Godts helpt Paris Saint-Germain aan zege in uitgesteld duel met Lyon",
+            "url": "https://nos.nl/l/2636811",
+            "date": "2026-10-26T21:44:54.000Z",
+            "source": "NOS"
+          }
+        ],
+        "failedSources": []
+      },
+      "error": null
+    }
+  }
+}

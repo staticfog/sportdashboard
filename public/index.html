@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#eef0f3" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0a0d12" media="(prefers-color-scheme: dark)" />
+    <meta name="description" content="Uitslagen, programma, stand en nieuws van mijn teams." />
+    <title>Sportdashboard</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230d1117'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='16' font-weight='700' fill='%23f1f4f8' text-anchor='middle'%3E2-1%3C/text%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#cards">Naar de teams</a>
+    <header class="top">
+      <div class="top__bar">
+        <h1 class="brand">Mijn sport</h1>
+        <p class="run" id="run-status"></p>
+      </div>
+      <nav class="picker" aria-label="Teams">
+        <ul id="picker"></ul>
+      </nav>
+    </header>
+    <div id="banner" class="banner" role="status" hidden></div>
+    <main id="cards" class="cards">
+      <p class="placeholder">Laden…</p>
+    </main>
+    <footer class="foot">
+      <p>
+        Uitslagen en standen: ESPN en de MLB Stats API (MLB-data © MLB Advanced Media, L.P.). Nieuwskoppen linken naar
+        het originele artikel. Samenvattingen door Claude, alleen op basis van deze gegevens. Tijden in Europe/Amsterdam.
+      </p>
+    </footer>
+  </body>
+</html>

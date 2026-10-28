@@ -1,0 +1,615 @@
+{
+  "id": "eagles",
+  "name": "Philadelphia Eagles",
+  "short": "PHI",
+  "sport": "NFL",
+  "colors": {
+    "light": "#004C54",
+    "dark": "#4FC3C9"
+  },
+  "competitions": [
+    "NFL"
+  ],
+  "season": {
+    "active": true
+  },
+  "results": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "issues": [],
+    "items": [
+      {
+        "id": "espn-401873009",
+        "date": "2026-10-27T00:15:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Dallas Cowboys",
+        "opponentShort": "DAL",
+        "status": "final",
+        "teamScore": 21,
+        "opponentScore": 38,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401872998",
+        "date": "2026-10-18T17:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Carolina Panthers",
+        "opponentShort": "CAR",
+        "status": "final",
+        "teamScore": 14,
+        "opponentScore": 25,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401872981",
+        "date": "2026-10-11T13:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Jacksonville Jaguars",
+        "opponentShort": "JAX",
+        "status": "final",
+        "teamScore": 17,
+        "opponentScore": 19,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401872970",
+        "date": "2026-10-04T17:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Los Angeles Rams",
+        "opponentShort": "LAR",
+        "status": "final",
+        "teamScore": 20,
+        "opponentScore": 24,
+        "outcome": "V"
+      },
+      {
+        "id": "espn-401872963",
+        "date": "2026-09-29T00:15:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Chicago Bears",
+        "opponentShort": "CHI",
+        "status": "final",
+        "teamScore": 7,
+        "opponentScore": 27,
+        "outcome": "V"
+      }
+    ]
+  },
+  "fixtures": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "issues": [],
+    "items": [
+      {
+        "id": "espn-401873035",
+        "date": "2026-11-02T01:20:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Washington Commanders",
+        "opponentShort": "WSH",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401873044",
+        "date": "2026-11-08T18:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "New York Giants",
+        "opponentShort": "NYG",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401873076",
+        "date": "2026-11-22T21:25:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Pittsburgh Steelers",
+        "opponentShort": "PIT",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401873080",
+        "date": "2026-11-26T21:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Dallas Cowboys",
+        "opponentShort": "DAL",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      }
+    ]
+  },
+  "standings": [
+    {
+      "label": "Stand",
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "table": {
+        "name": "NFC East",
+        "columns": [
+          "W",
+          "V",
+          "G",
+          "PCT",
+          "DIFF"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "New York Giants",
+            "short": "NYG",
+            "highlight": false,
+            "values": [
+              "4",
+              "2",
+              "1",
+              ".643",
+              "+2"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Dallas Cowboys",
+            "short": "DAL",
+            "highlight": false,
+            "values": [
+              "3",
+              "4",
+              "0",
+              ".429",
+              "+9"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "Philadelphia Eagles",
+            "short": "PHI",
+            "highlight": true,
+            "values": [
+              "2",
+              "5",
+              "0",
+              ".286",
+              "-48"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "Washington Commanders",
+            "short": "WSH",
+            "highlight": false,
+            "values": [
+              "1",
+              "4",
+              "1",
+              ".250",
+              "-40"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "news": {
+    "status": "ok",
+    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "failedSources": [],
+    "items": [
+      {
+        "title": "Prescott says NFC East 'right in front of us' as Cowboys end 2-game slide",
+        "url": "https://www.espn.com/nfl/story/_/id/50294687/prsecott-cowboys-keep-pace-nfc-east-road-win-eagles",
+        "date": "2026-10-28T14:07:42.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "How to watch, stream, and listen | Eagles at Commanders",
+        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
+        "date": "2026-10-28T09:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Makai Lemon reflects on his first career touchdown",
+        "url": "https://www.philadelphiaeagles.com/news/makai-lemon-reflects-on-his-first-career-touchdown-cowboys-nfl-week-7-2026-tanner-mckee",
+        "date": "2026-10-27T21:00:33.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles release DB Dean Clark and T Xavier Truss from the practice squad",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-release-db-dean-clark-and-t-xavier-truss-from-the-practice-squad-nfl-week-8-commanders-2026",
+        "date": "2026-10-27T20:23:02.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Spadaro: Can Eagles build upon the offense's performance?",
+        "url": "https://www.philadelphiaeagles.com/news/can-eagles-build-upon-the-offense-performance-cowboys-2026-nfl-week-7-monday-night-football",
+        "date": "2026-10-27T05:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Game Recap: Cowboys 38, Eagles 21",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-game-recap-2026-nfl-week-7-monday-night-football-saquon-barkley-dak-prescott",
+        "date": "2026-10-27T04:45:00.000Z",
+        "source": "philadelphiaeagles.com"
+      }
+    ]
+  },
+  "summary": {
+    "status": "unavailable",
+    "text": null,
+    "hash": null,
+    "generatedAt": null,
+    "model": null,
+    "error": "geen ANTHROPIC_API_KEY ingesteld"
+  },
+  "updatedAt": "2026-10-28T14:46:31.994Z",
+  "sections": {
+    "games:espn-football/nfl-21": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": [
+        {
+          "id": "espn-401872929",
+          "date": "2026-09-13T20:25:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Washington Commanders",
+          "opponentShort": "WSH",
+          "status": "final",
+          "teamScore": 24,
+          "opponentScore": 22,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401872939",
+          "date": "2026-09-20T17:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "Tennessee Titans",
+          "opponentShort": "TEN",
+          "status": "final",
+          "teamScore": 24,
+          "opponentScore": 20,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401872963",
+          "date": "2026-09-29T00:15:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "Chicago Bears",
+          "opponentShort": "CHI",
+          "status": "final",
+          "teamScore": 7,
+          "opponentScore": 27,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401872970",
+          "date": "2026-10-04T17:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Los Angeles Rams",
+          "opponentShort": "LAR",
+          "status": "final",
+          "teamScore": 20,
+          "opponentScore": 24,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401872981",
+          "date": "2026-10-11T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "Jacksonville Jaguars",
+          "opponentShort": "JAX",
+          "status": "final",
+          "teamScore": 17,
+          "opponentScore": 19,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401872998",
+          "date": "2026-10-18T17:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Carolina Panthers",
+          "opponentShort": "CAR",
+          "status": "final",
+          "teamScore": 14,
+          "opponentScore": 25,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401873009",
+          "date": "2026-10-27T00:15:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Dallas Cowboys",
+          "opponentShort": "DAL",
+          "status": "final",
+          "teamScore": 21,
+          "opponentScore": 38,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401873035",
+          "date": "2026-11-02T01:20:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "Washington Commanders",
+          "opponentShort": "WSH",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873044",
+          "date": "2026-11-08T18:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "New York Giants",
+          "opponentShort": "NYG",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873076",
+          "date": "2026-11-22T21:25:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Pittsburgh Steelers",
+          "opponentShort": "PIT",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873080",
+          "date": "2026-11-26T21:30:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "Dallas Cowboys",
+          "opponentShort": "DAL",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873104",
+          "date": "2026-12-06T21:05:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "Arizona Cardinals",
+          "opponentShort": "ARI",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873114",
+          "date": "2026-12-13T18:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Indianapolis Colts",
+          "opponentShort": "IND",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873125",
+          "date": "2026-12-19T22:00:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Seattle Seahawks",
+          "opponentShort": "SEA",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873140",
+          "date": "2026-12-25T01:15:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": true,
+          "opponent": "Houston Texans",
+          "opponentShort": "HOU",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873170",
+          "date": "2027-01-04T01:20:00.000Z",
+          "timeKnown": true,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "San Francisco 49ers",
+          "opponentShort": "SF",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401873182",
+          "date": "2027-01-10T05:00:00.000Z",
+          "timeKnown": false,
+          "competition": "NFL",
+          "home": false,
+          "opponent": "New York Giants",
+          "opponentShort": "NYG",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "standings:espn-football/nfl-21": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "name": "NFC East",
+        "columns": [
+          "W",
+          "V",
+          "G",
+          "PCT",
+          "DIFF"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "New York Giants",
+            "short": "NYG",
+            "highlight": false,
+            "values": [
+              "4",
+              "2",
+              "1",
+              ".643",
+              "+2"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Dallas Cowboys",
+            "short": "DAL",
+            "highlight": false,
+            "values": [
+              "3",
+              "4",
+              "0",
+              ".429",
+              "+9"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "Philadelphia Eagles",
+            "short": "PHI",
+            "highlight": true,
+            "values": [
+              "2",
+              "5",
+              "0",
+              ".286",
+              "-48"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "Washington Commanders",
+            "short": "WSH",
+            "highlight": false,
+            "values": [
+              "1",
+              "4",
+              "1",
+              ".250",
+              "-40"
+            ]
+          }
+        ]
+      },
+      "error": null
+    },
+    "news": {
+      "status": "ok",
+      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "data": {
+        "items": [
+          {
+            "title": "Prescott says NFC East 'right in front of us' as Cowboys end 2-game slide",
+            "url": "https://www.espn.com/nfl/story/_/id/50294687/prsecott-cowboys-keep-pace-nfc-east-road-win-eagles",
+            "date": "2026-10-28T14:07:42.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "How to watch, stream, and listen | Eagles at Commanders",
+            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
+            "date": "2026-10-28T09:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Makai Lemon reflects on his first career touchdown",
+            "url": "https://www.philadelphiaeagles.com/news/makai-lemon-reflects-on-his-first-career-touchdown-cowboys-nfl-week-7-2026-tanner-mckee",
+            "date": "2026-10-27T21:00:33.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles release DB Dean Clark and T Xavier Truss from the practice squad",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-release-db-dean-clark-and-t-xavier-truss-from-the-practice-squad-nfl-week-8-commanders-2026",
+            "date": "2026-10-27T20:23:02.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Spadaro: Can Eagles build upon the offense's performance?",
+            "url": "https://www.philadelphiaeagles.com/news/can-eagles-build-upon-the-offense-performance-cowboys-2026-nfl-week-7-monday-night-football",
+            "date": "2026-10-27T05:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Game Recap: Cowboys 38, Eagles 21",
+            "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-game-recap-2026-nfl-week-7-monday-night-football-saquon-barkley-dak-prescott",
+            "date": "2026-10-27T04:45:00.000Z",
+            "source": "philadelphiaeagles.com"
+          }
+        ],
+        "failedSources": []
+      },
+      "error": null
+    }
+  }
+}
