@@ -217,14 +217,16 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T14:46:31.994Z",
-    "failedSources": [],
+    "updatedAt": "2026-10-28T15:34:11.288Z",
+    "failedSources": [
+      "ESPN"
+    ],
     "items": [
       {
-        "title": "Brunson draws from WS as Knicks beat Pistons for 1st win: 'Just continue to hit singles'",
-        "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
-        "date": "2026-10-28T14:43:55.000Z",
-        "source": "ESPN"
+        "title": "Game Preview: Knicks at Bulls, October 28, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
+        "date": "2026-10-28T14:30:00.000Z",
+        "source": "Posting and Toasting"
       },
       {
         "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
@@ -259,14 +261,14 @@
     ]
   },
   "summary": {
-    "status": "unavailable",
-    "text": null,
-    "hash": null,
-    "generatedAt": null,
-    "model": null,
-    "error": "geen ANTHROPIC_API_KEY ingesteld"
+    "status": "ok",
+    "text": "De New York Knicks begonnen het seizoen met drie nederlagen, tegen Philadelphia 76ers (100-106), Boston Celtics (103-107) en Orlando Magic (102-111), en boekten op 28 oktober de eerste zege, thuis met 111-97 tegen de Detroit Pistons. Met een record van 1-3 staan ze vierde van vijf in de Atlantic Division, twee wedstrijden achter de koploper. De volgende wedstrijd is op 29 oktober om 01:00 uit bij de Chicago Bulls, en in het nieuws verscheen onder meer een stuk met de vraag of \"No Mo\" een \"No Go\" moet zijn voor de Knicks.",
+    "hash": "d43fe67c305508ebdb02c1b3e32f3b63fb29e2ddf51f99df74293443f41afad3",
+    "generatedAt": "2026-10-28T15:34:11.288Z",
+    "model": "claude-opus-5-5",
+    "error": null
   },
-  "updatedAt": "2026-10-28T14:46:31.994Z",
+  "updatedAt": "2026-10-28T15:34:11.288Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1399,14 +1401,14 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-10-28T15:34:11.288Z",
       "data": {
         "items": [
           {
-            "title": "Brunson draws from WS as Knicks beat Pistons for 1st win: 'Just continue to hit singles'",
-            "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
-            "date": "2026-10-28T14:43:55.000Z",
-            "source": "ESPN"
+            "title": "Game Preview: Knicks at Bulls, October 28, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
+            "date": "2026-10-28T14:30:00.000Z",
+            "source": "Posting and Toasting"
           },
           {
             "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
@@ -1439,7 +1441,9 @@
             "source": "Posting and Toasting"
           }
         ],
-        "failedSources": []
+        "failedSources": [
+          "ESPN"
+        ]
       },
       "error": null
     }

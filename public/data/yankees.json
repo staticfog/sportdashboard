@@ -177,15 +177,11 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T14:46:31.994Z",
-    "failedSources": [],
+    "updatedAt": "2026-10-28T15:34:11.288Z",
+    "failedSources": [
+      "ESPN"
+    ],
     "items": [
-      {
-        "title": "Posada doesn't feel welcome with Yankees: 'I don't think they want me there'",
-        "url": "https://www.espn.com/mlb/story/_/id/50300403/jorge-posada-says-feel-welcome-yankees",
-        "date": "2026-10-28T14:41:35.000Z",
-        "source": "ESPN"
-      },
       {
         "title": "Watch Yankees prospects in Arizona Fall League action",
         "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
@@ -215,18 +211,24 @@
         "url": "https://www.mlb.com/yankees/news/yankees-pitching-coach-matt-blake-contract-extension",
         "date": "2026-10-24T15:16:56.000Z",
         "source": "MLB.com"
+      },
+      {
+        "title": "Where does Stanton fit in Yankees' plans for 2027?",
+        "url": "https://www.mlb.com/yankees/news/giancarlo-stanton-yankees-role-2027-season",
+        "date": "2026-10-23T17:10:53.000Z",
+        "source": "MLB.com"
       }
     ]
   },
   "summary": {
-    "status": "unavailable",
-    "text": null,
-    "hash": null,
-    "generatedAt": null,
-    "model": null,
-    "error": "geen ANTHROPIC_API_KEY ingesteld"
+    "status": "ok",
+    "text": "De New York Yankees zitten buiten het seizoen en hebben geen wedstrijden op het programma. Ze eindigden als tweede van vijf in de AL East (93-68, 4,5 achter), wonnen in de AL Wild Card Series twee keer thuis van de Boston Red Sox (9-0 op 30 september en 9-2 op 1 oktober) en verloren daarna in de AL Division Series alle drie de wedstrijden van de Tampa Bay Rays (0-1, 2-5 en 3-4 tussen 4 en 8 oktober). In het nieuws: een bericht dat de Yankees volgens een report een driejarige verlenging zijn overeengekomen met pitching coach Blake, en er wordt geschreven over Schlittler als kandidaat voor de Cy Young en over Yankees-prospects in de Arizona Fall League.",
+    "hash": "65021f237435cd16b8dad97e662270fa3c2be034be5b57cfb93a2a12b7ed8aab",
+    "generatedAt": "2026-10-28T15:34:11.288Z",
+    "model": "claude-opus-5-5",
+    "error": null
   },
-  "updatedAt": "2026-10-28T14:46:31.994Z",
+  "updatedAt": "2026-10-28T15:34:11.288Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,15 +2544,9 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-10-28T15:34:11.288Z",
       "data": {
         "items": [
-          {
-            "title": "Posada doesn't feel welcome with Yankees: 'I don't think they want me there'",
-            "url": "https://www.espn.com/mlb/story/_/id/50300403/jorge-posada-says-feel-welcome-yankees",
-            "date": "2026-10-28T14:41:35.000Z",
-            "source": "ESPN"
-          },
           {
             "title": "Watch Yankees prospects in Arizona Fall League action",
             "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
@@ -2580,9 +2576,17 @@
             "url": "https://www.mlb.com/yankees/news/yankees-pitching-coach-matt-blake-contract-extension",
             "date": "2026-10-24T15:16:56.000Z",
             "source": "MLB.com"
+          },
+          {
+            "title": "Where does Stanton fit in Yankees' plans for 2027?",
+            "url": "https://www.mlb.com/yankees/news/giancarlo-stanton-yankees-role-2027-season",
+            "date": "2026-10-23T17:10:53.000Z",
+            "source": "MLB.com"
           }
         ],
-        "failedSources": []
+        "failedSources": [
+          "ESPN"
+        ]
       },
       "error": null
     }
