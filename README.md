@@ -26,7 +26,7 @@ test/                     tests met echte, ingekorte API-antwoorden in test/fixt
 | Ajax: Eredivisie en Conference League (uitslagen, programma, stand) | ESPN site-API: `site.api.espn.com/apis/site/v2/sports/soccer/ned.1/…` en `…/uefa.europa.conf/…` | geen | Niet officieel en niet gedocumenteerd. ESPN kan het zonder aankondiging wijzigen. Alleen voor persoonlijk, niet-commercieel gebruik. |
 | Eagles (NFL) en Knicks (NBA) | ESPN site-API: `football/nfl`, `basketball/nba` (team- en standings-endpoints) | geen | Zoals hierboven. De play-offs (`seasontype=3`) worden opgehaald als ze bestaan. Als ze ontbreken, is dat geen fout. |
 | Yankees (MLB) | Officiële MLB Stats API: `statsapi.mlb.com/api/v1/schedule` en `/standings` | geen | Elk antwoord vermeldt "Copyright MLB Advanced Media, L.P." met verwijzing naar hun voorwaarden. Alleen persoonlijk, niet-commercieel gebruik. Bronvermelding staat in de footer. |
-| Nieuws Ajax | RSS van Het Parool (Ajax) en NOS Voetbal (gefilterd op "Ajax") | geen | NOS bevat vaak geen Ajax-berichten. Ajax.nl en AD blokkeren automatische aanvragen en worden daarom niet gebruikt. |
+| Nieuws Ajax | RSS van Het Parool (Ajax-rubriek) en NOS Voetbal, allebei gefilterd op "Ajax" in de kop | geen | De Parool-rubriek bevat ook columns over ander voetbal, vandaar het filter. NOS bevat vaak geen Ajax-berichten. Ajax.nl en AD blokkeren automatische aanvragen en worden daarom niet gebruikt. |
 | Nieuws Eagles | RSS van philadelphiaeagles.com en ESPN NFL (gefilterd op "Eagles") | geen | |
 | Nieuws Yankees | RSS van mlb.com/yankees en ESPN MLB (gefilterd op "Yankees") | geen | |
 | Nieuws Knicks | RSS van Posting and Toasting (SB Nation) en ESPN NBA (gefilterd op "Knicks") | geen | nba.com weigert RSS-aanvragen (403). |
@@ -38,7 +38,7 @@ Het dashboard bewaart van nieuws alleen kop, bron, datum en link. Er wordt geen 
 
 ### De samenvatting
 
-Claude krijgt alleen de opgehaalde uitslagen, het programma, de positie in de stand en maximaal vijf nieuwskoppen, met de instructie niets te verzinnen. Van de invoer wordt een hash bewaard (`summary.hash`). Zolang die hetzelfde blijft, wordt de opgeslagen tekst hergebruikt en is er geen API-aanroep. Mislukt een aanroep, of ontbreekt de sleutel, dan blijft de vorige tekst staan met de markering "Verouderd". Zonder vorige tekst toont de site "Samenvatting niet beschikbaar". Server-side fallback (`fallbacks: "default"`) staat aan, zodat een eventuele weigering automatisch door een ander model wordt opgevangen.
+Claude krijgt alleen de opgehaalde uitslagen, het programma, de positie in de stand en maximaal vijf nieuwskoppen, met de instructie niets te verzinnen. De samenvatting is maximaal drie korte zinnen (richtlijn 350 tekens; boven de 600 wordt hij afgekeurd). Van de invoer en de promptversie wordt een hash bewaard (`summary.hash`). Zolang die hetzelfde blijft, wordt de opgeslagen tekst hergebruikt en is er geen API-aanroep. Mislukt een aanroep, of ontbreekt de sleutel, dan blijft de vorige tekst staan met de markering "Verouderd". Zonder vorige tekst toont de site "Samenvatting niet beschikbaar". Server-side fallback (`fallbacks: "default"`) staat aan, zodat een eventuele weigering automatisch door een ander model wordt opgevangen.
 
 ## Betrouwbaarheid
 
@@ -156,6 +156,6 @@ Je past alleen `teams.config.json` aan, geen code. Voeg een object toe aan `team
   - **`level: 3`**: geeft bij NFL en NBA de divisiestand.
   - **`columns`**: verwijst naar een preset in `columnPresets`, of je geeft zelf een lijst `[{ "key": "<ESPN-statnaam>", "label": "…" }]`.
   - **MLB**: geef `leagueId` (103 = AL, 104 = NL) en `divisionId` op.
-- **`news`**: RSS- of Atom-feeds. Met `match` (een reguliere expressie) filter je een algemene feed op het team.
+- **`news`**: RSS- of Atom-feeds. Met `match` (een reguliere expressie) filter je een feed op het team. Er wordt alleen in de kop gezocht.
 
 Draai daarna `npm test`. De configtest meldt typefouten met een duidelijke foutmelding. Push de wijziging, en de workflow haalt het nieuwe team meteen op.

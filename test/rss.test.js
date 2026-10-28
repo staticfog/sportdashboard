@@ -59,6 +59,13 @@ test('RSS: match filters general feeds', () => {
   assert.deepEqual(items.map((i) => i.url), ['https://example.nl/ajax-az']);
 });
 
+test('RSS: match looks at the headline, not the description', () => {
+  const xml = `<rss version="2.0"><channel>
+    <item><title>Telstar onderuit tegen Almere City</title><link>https://e.nl/1</link><description>Eerder won Ajax van ...</description></item>
+  </channel></rss>`;
+  assert.deepEqual(parseFeed(xml, { source: 'NOS', match: '\\bAjax\\b' }), []);
+});
+
 test('Atom: uses the alternate link', () => {
   const items = parseFeed(ATOM, { source: 'P&T' });
   assert.equal(items.length, 1);

@@ -57,7 +57,7 @@ function dateOf(item) {
 
 /**
  * Parse a feed into [{ title, url, date, source }].
- * match: optional regex (string) a headline or description must contain, for general feeds.
+ * match: optional regex (string) the headline must contain, for general feeds.
  */
 export function parseFeed(xml, { source, match } = {}) {
   if (typeof xml !== 'string' || xml.trim() === '') throw new Error('RSS: leeg antwoord');
@@ -73,10 +73,8 @@ export function parseFeed(xml, { source, match } = {}) {
     const title = clean(text(item.title));
     const url = linkOf(item);
     if (!title || !isHttpUrl(url)) continue;
-    if (filter) {
-      const haystack = `${title} ${clean(text(item.description ?? item.summary))}`;
-      if (!filter.test(haystack)) continue;
-    }
+    // Headline only: descriptions often name a club in passing, which lets unrelated stories through.
+    if (filter && !filter.test(title)) continue;
     items.push({ title, url, date: dateOf(item), source });
   }
   return items;

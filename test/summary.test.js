@@ -102,7 +102,7 @@ test('generateSummary: refusals, truncation and empty answers throw', async () =
   await assert.rejects(generateSummary(fakeClient({ stop_reason: 'max_tokens', content: [] }), input, { model: 'm' }), /afgebroken/);
   await assert.rejects(generateSummary(fakeClient({ stop_reason: 'end_turn', content: [] }), input, { model: 'm' }), /lege samenvatting/);
   await assert.rejects(
-    generateSummary(fakeClient({ stop_reason: 'end_turn', content: [{ type: 'text', text: 'x'.repeat(900) }] }), input, { model: 'm' }),
+    generateSummary(fakeClient({ stop_reason: 'end_turn', content: [{ type: 'text', text: 'x'.repeat(601) }] }), input, { model: 'm' }),
     /te lang/,
   );
 });

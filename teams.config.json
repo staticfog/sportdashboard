@@ -49,7 +49,7 @@
         { "type": "espn", "path": "soccer/uefa.europa.conf", "teamId": "139", "name": "Conference League", "sort": "rank", "columns": "voetbal" }
       ],
       "news": [
-        { "url": "https://www.parool.nl/ajax/rss.xml", "source": "Het Parool" },
+        { "url": "https://www.parool.nl/ajax/rss.xml", "source": "Het Parool", "match": "\\bAjax\\b" },
         { "url": "https://feeds.nos.nl/nosvoetbal", "source": "NOS", "match": "\\bAjax\\b" }
       ]
     },
