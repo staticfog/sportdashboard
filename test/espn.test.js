@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mapEspnStatus, parseEspnSchedule, parseEspnStandings } from '../scripts/lib/espn.js';
+import { mapEspnStatus, parseEspnNews, parseEspnSchedule, parseEspnStandings } from '../scripts/lib/espn.js';
 import { fixture } from './helpers.js';
 
 const soccerCols = [
@@ -127,6 +127,31 @@ test('standings: missing stat shows a dash', () => {
   const json = { children: [{ name: 'X', standings: { entries: [{ team: { id: '21', displayName: 'E' }, stats: [] }] } }] };
   const t = parseEspnStandings(json, { teamId: '21', columns: nflCols });
   assert.deepEqual(t.rows[0].values, ['–', '–', '–']);
+});
+
+test('news: articles about the team; no round-ups of all teams, no videos', () => {
+  const items = parseEspnNews(fixture('espn-nba-news.json'), { teamId: '18', source: 'ESPN' });
+  assert.deepEqual(
+    items.map((i) => i.title.slice(0, 20)),
+    ['New York takes on Ch', 'Knicks \'focus on lit'],
+  );
+  for (const i of items) {
+    assert.equal(i.source, 'ESPN');
+    assert.match(i.url, /^https?:\/\//);
+    assert.ok(i.date, `date for ${i.title}`);
+  }
+});
+
+test('news: match adds untagged headlines', () => {
+  const items = parseEspnNews(fixture('espn-nba-news.json'), { teamId: '18', match: '\\bFantasy\\b' });
+  assert.equal(items.length, 4);
+});
+
+test('news: empty list is fine, malformed throws', () => {
+  assert.deepEqual(parseEspnNews({ articles: [] }, { teamId: '18' }), []);
+  for (const bad of [null, {}, { articles: 'x' }]) {
+    assert.throws(() => parseEspnNews(bad, { teamId: '18' }), /ESPN-nieuws/);
+  }
 });
 
 test('standings: empty, malformed or team missing throws', () => {

@@ -67,7 +67,7 @@
       ],
       "news": [
         { "url": "https://www.philadelphiaeagles.com/rss/news", "source": "philadelphiaeagles.com" },
-        { "url": "https://www.espn.com/espn/rss/nfl/news", "source": "ESPN", "match": "\\bEagles\\b" }
+        { "type": "espn", "path": "football/nfl", "teamId": "21", "source": "ESPN", "match": "\\bEagles\\b" }
       ]
     },
     {
@@ -84,7 +84,7 @@
       ],
       "news": [
         { "url": "https://www.mlb.com/yankees/feeds/news/rss.xml", "source": "MLB.com" },
-        { "url": "https://www.espn.com/espn/rss/mlb/news", "source": "ESPN", "match": "\\bYankees\\b" }
+        { "type": "espn", "path": "baseball/mlb", "teamId": "10", "source": "ESPN", "match": "\\bYankees\\b" }
       ]
     },
     {
@@ -101,7 +101,7 @@
       ],
       "news": [
         { "url": "https://www.postingandtoasting.com/rss/index.xml", "source": "Posting and Toasting" },
-        { "url": "https://www.espn.com/espn/rss/nba/news", "source": "ESPN", "match": "\\bKnicks\\b" }
+        { "type": "espn", "path": "basketball/nba", "teamId": "18", "source": "ESPN", "match": "\\bKnicks\\b" }
       ]
     }
   ]

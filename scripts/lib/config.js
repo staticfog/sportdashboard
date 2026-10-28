@@ -33,7 +33,9 @@ export function validateConfig(config) {
       } else if (s.type !== 'espn' && s.type !== 'mlb') errors.push(`${at}.standings[${j}]: onbekend type "${s.type}"`);
     }
     for (const [j, n] of (t?.news ?? []).entries()) {
-      if (!/^https?:\/\//.test(n?.url ?? '')) errors.push(`${at}.news[${j}]: url moet met http(s) beginnen`);
+      if (n?.type === 'espn') {
+        if (!n.path || !n.teamId) errors.push(`${at}.news[${j}]: espn-nieuws vraagt path en teamId`);
+      } else if (!/^https?:\/\//.test(n?.url ?? '')) errors.push(`${at}.news[${j}]: url moet met http(s) beginnen`);
       if (!n?.source) errors.push(`${at}.news[${j}]: source ontbreekt`);
       if (n?.match) {
         try {

@@ -1,5 +1,12 @@
 // Fetches every source of one team and assembles the JSON the site reads.
-import { espnScheduleUrl, espnStandingsUrl, parseEspnSchedule, parseEspnStandings } from './espn.js';
+import {
+  espnNewsUrl,
+  espnScheduleUrl,
+  espnStandingsUrl,
+  parseEspnNews,
+  parseEspnSchedule,
+  parseEspnStandings,
+} from './espn.js';
 import { mlbScheduleUrl, mlbSeasonFor, mlbStandingsUrl, parseMlbSchedule, parseMlbStandings } from './mlb.js';
 import { mergeNews, parseFeed } from './rss.js';
 import { sourceKey } from './config.js';
@@ -59,9 +66,14 @@ async function loadStandings(src, { fetchJson, now }) {
   return parseEspnStandings(await fetchJson(espnStandingsUrl(src.path, src.level)), src);
 }
 
-async function loadNews(feeds, { fetchText, limit }) {
+async function loadFeed(feed, { fetchJson, fetchText }) {
+  if (feed.type === 'espn') return parseEspnNews(await fetchJson(espnNewsUrl(feed.path)), feed);
+  return parseFeed(await fetchText(feed.url), feed);
+}
+
+async function loadNews(feeds, { fetchJson, fetchText, limit }) {
   const settled = await Promise.all(
-    feeds.map(async (feed) => ({ feed, ...(await attempt(async () => parseFeed(await fetchText(feed.url), feed))) })),
+    feeds.map(async (feed) => ({ feed, ...(await attempt(() => loadFeed(feed, { fetchJson, fetchText }))) })),
   );
   const ok = settled.filter((s) => s.ok);
   if (feeds.length > 0 && ok.length === 0) {
@@ -70,6 +82,7 @@ async function loadNews(feeds, { fetchText, limit }) {
   return {
     items: mergeNews(ok.map((s) => s.value), limit),
     failedSources: settled.filter((s) => !s.ok).map((s) => s.feed.source),
+    failures: settled.filter((s) => !s.ok).map((s) => ({ source: s.feed.source, error: s.error })),
   };
 }
 
@@ -102,7 +115,7 @@ export async function buildTeam(team, prev, config, deps) {
     }),
   );
 
-  const newsFresh = await attempt(() => loadNews(team.news, { fetchText, limit: config.limits.news }));
+  const newsFresh = await attempt(() => loadNews(team.news, { fetchJson, fetchText, limit: config.limits.news }));
   sections.news = mergeSection(prevSections.news, newsFresh, now);
 
   const views = buildGameViews(gameSections, { now, limits: config.limits });

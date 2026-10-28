@@ -86,6 +86,16 @@ test('Yankees in winter: final standings, no games, off-season', async () => {
   assert.equal(out.standings[0].table.rows[1].highlight, true);
 });
 
+test('Knicks: ESPN news via the API, failing RSS reported with its error', async () => {
+  const knicks = config.teams.find((t) => t.id === 'knicks');
+  const net = fakeNet([['basketball/nba/news', fixture('espn-nba-news.json')]], { feedsUp: false });
+  const out = await buildTeam(knicks, null, config, { ...net, now: NOW, client: null });
+  assert.equal(out.news.status, 'ok');
+  assert.equal(out.news.items.length, 2);
+  assert.deepEqual(out.news.failedSources, ['Posting and Toasting']);
+  assert.deepEqual(out.sections.news.data.failures, [{ source: 'Posting and Toasting', error: 'HTTP 503' }]);
+});
+
 test('summary is generated once and then served from cache', async () => {
   let calls = 0;
   const deps = {

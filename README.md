@@ -27,12 +27,16 @@ test/                     tests met echte, ingekorte API-antwoorden in test/fixt
 | Eagles (NFL) en Knicks (NBA) | ESPN site-API: `football/nfl`, `basketball/nba` (team- en standings-endpoints) | geen | Zoals hierboven. De play-offs (`seasontype=3`) worden opgehaald als ze bestaan. Als ze ontbreken, is dat geen fout. |
 | Yankees (MLB) | Officiële MLB Stats API: `statsapi.mlb.com/api/v1/schedule` en `/standings` | geen | Elk antwoord vermeldt "Copyright MLB Advanced Media, L.P." met verwijzing naar hun voorwaarden. Alleen persoonlijk, niet-commercieel gebruik. Bronvermelding staat in de footer. |
 | Nieuws Ajax | RSS van Het Parool (Ajax-rubriek) en NOS Voetbal, allebei gefilterd op "Ajax" in de kop | geen | De Parool-rubriek bevat ook columns over ander voetbal, vandaar het filter. NOS bevat vaak geen Ajax-berichten. Ajax.nl en AD blokkeren automatische aanvragen en worden daarom niet gebruikt. |
-| Nieuws Eagles | RSS van philadelphiaeagles.com en ESPN NFL (gefilterd op "Eagles") | geen | |
-| Nieuws Yankees | RSS van mlb.com/yankees en ESPN MLB (gefilterd op "Yankees") | geen | |
-| Nieuws Knicks | RSS van Posting and Toasting (SB Nation) en ESPN NBA (gefilterd op "Knicks") | geen | nba.com weigert RSS-aanvragen (403). |
+| Nieuws Eagles | RSS van philadelphiaeagles.com en de ESPN-nieuws-API (`site.api.espn.com/…/football/nfl/news`) | geen | Zie de opmerking over ESPN-nieuws hieronder. |
+| Nieuws Yankees | RSS van mlb.com/yankees en de ESPN-nieuws-API (`…/baseball/mlb/news`) | geen | |
+| Nieuws Knicks | RSS van Posting and Toasting (SB Nation) en de ESPN-nieuws-API (`…/basketball/nba/news`) | geen | nba.com weigert RSS-aanvragen (403). |
 | Samenvatting | Anthropic API, model `claude-opus-5-5` | `ANTHROPIC_API_KEY` | Kost een paar cent per keer. Wordt alleen aangeroepen als de onderliggende data veranderd is. |
 
 Getest op 26 en 28 oktober 2026. football-data.org is bewust niet gebruikt. De gratis versie bevat de Conference League niet, levert uitslagen met vertraging en vraagt een sleutel, terwijl ESPN beide Ajax-competities zonder sleutel levert.
+
+**ESPN-nieuws:** de RSS-feeds op www.espn.com werken vanaf een gewone pc, maar niet vanuit GitHub Actions. Daarom gebruikt het dashboard de nieuws-API op site.api.espn.com. Een artikel telt mee als de teamnaam in de kop staat, of als ESPN het artikel met het team heeft gelabeld en er hooguit twee teams in voorkomen. Zo vallen overzichtsstukken als power rankings weg. In de config is dat een nieuwsbron met `"type": "espn"`, `path` en het ESPN-`teamId`.
+
+Faalt een nieuwsbron, dan staat de foutmelding in `sections.news.data.failures` in de JSON van het team en in het log van de workflow.
 
 Het dashboard bewaart van nieuws alleen kop, bron, datum en link. Er wordt geen artikeltekst opgeslagen of getoond.
 
@@ -100,6 +104,10 @@ Ga daarna naar **Settings → Actions → General → Workflow permissions** en 
 1. In Cloudflare: **Workers & Pages → Create → Pages → Connect to Git** en kies de repository.
 2. Laat de build-opdracht leeg en zet de build-uitvoermap op `public`.
 3. Zet in GitHub de repository-variabele `DEPLOY_TARGET` op `cloudflare` (**Settings → Secrets and variables → Actions → Variables**). De workflow publiceert dan niet meer zelf naar GitHub Pages. Cloudflare bouwt automatisch na elke data-commit.
+
+## Op je telefoon
+
+Open de site en zet hem op je beginscherm. Op de iPhone doe je dat in Safari via het deel-icoon en **Zet op beginscherm**. Op Android doe je dat in Chrome via het menu en **Toevoegen aan startscherm**. De app heet dan SPORT27, heeft het rugnummer-icoon en opent schermvullend. De icoontjes staan in `public/icons/` en de app-instellingen in `public/manifest.webmanifest`.
 
 ## Lokaal draaien (optioneel)
 

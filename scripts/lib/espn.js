@@ -69,6 +69,37 @@ export function parseEspnSchedule(json, { teamId, competition }) {
   return games;
 }
 
+export function espnNewsUrl(path) {
+  return `${SITE}/${path}/news?limit=50`;
+}
+
+const MAX_TEAM_TAGS = 2;
+
+/**
+ * League news, kept when the headline matches `match`, or when ESPN tagged the article with our team
+ * and at most two teams in total (league round-ups such as power rankings tag every team).
+ * Used instead of ESPN's RSS on www.espn.com, which does not answer requests from GitHub Actions.
+ */
+export function parseEspnNews(json, { teamId, source = 'ESPN', match } = {}) {
+  if (!json || typeof json !== 'object' || !Array.isArray(json.articles)) {
+    throw new Error('ESPN-nieuws: antwoord bevat geen articles-lijst');
+  }
+  const filter = match ? new RegExp(match, 'i') : null;
+  const items = [];
+  for (const a of json.articles) {
+    if (!a || a.type === 'Media') continue;
+    const title = String(a.headline ?? '').replace(/\s+/g, ' ').trim();
+    const url = a.links?.web?.href;
+    if (!title || typeof url !== 'string' || !/^https?:\/\//i.test(url)) continue;
+    const teams = (Array.isArray(a.categories) ? a.categories : []).filter((c) => c?.type === 'team');
+    const tagged = teams.length <= MAX_TEAM_TAGS && teams.some((c) => String(c.teamId) === String(teamId));
+    if (!tagged && !(filter && filter.test(title))) continue;
+    const d = new Date(a.published);
+    items.push({ title, url, date: Number.isNaN(d.getTime()) ? null : d.toISOString(), source });
+  }
+  return items;
+}
+
 function collectGroups(node, out = []) {
   if (!node || typeof node !== 'object') return out;
   const entries = node.standings?.entries;

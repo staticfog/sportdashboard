@@ -42,6 +42,7 @@ async function main() {
       .filter(([, s]) => s.status !== 'ok')
       .map(([k, s]) => `${k}=${s.status} (${s.error})`);
     console.log(`${team.id}: ${changed ? 'bijgewerkt' : 'ongewijzigd'}${problems.length ? ` | ${problems.join(', ')}` : ''}`);
+    for (const f of next.sections.news?.data?.failures ?? []) console.log(`${team.id}: nieuwsbron ${f.source} faalde: ${f.error}`);
     if (next.summary.error) console.log(`${team.id}: samenvatting ${next.summary.status}: ${next.summary.error}`);
   }
 
