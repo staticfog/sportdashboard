@@ -941,7 +941,7 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T16:05:07.109Z",
+    "updatedAt": "2026-10-28T16:38:24.545Z",
     "failedSources": [],
     "items": [
       {
@@ -955,12 +955,6 @@
         "url": "https://www.parool.nl/sport/michel-over-benauwde-zege-van-ajax-op-sparta-ter-stegen-was-de-beste-man-op-het-veld~bf44ebba/",
         "date": "2026-10-25T19:36:00.000Z",
         "source": "Het Parool"
-      },
-      {
-        "title": "Ajax loopt in op koploper Feyenoord en passeert PSV dankzij moeizame zege bij Sparta",
-        "url": "https://nos.nl/l/2636646",
-        "date": "2026-10-25T17:41:23.000Z",
-        "source": "NOS"
       },
       {
         "title": "Ajax piept en kraakt, maar klimt met nipte zege op Sparta naar plek twee",
@@ -979,18 +973,24 @@
         "url": "https://www.parool.nl/ajax/teruglezen-ajax-atalanta-eerste-zege-is-binnen-voor-ajax-dat-dankzij-late-goals-van-invallers-tolu-en-ouazane-wint-van-atalanta~be9b9f61/",
         "date": "2026-10-22T14:00:00.000Z",
         "source": "Het Parool"
+      },
+      {
+        "title": "Ajax is af en toe ‘manisch’ op het veld, ziet Míchel: ‘Met twaalf nieuwe spelers is het moeilijk om vastigheid te vinden’",
+        "url": "https://www.parool.nl/sport/ajax-is-af-en-toe-manisch-op-het-veld-ziet-michel-met-twaalf-nieuwe-spelers-is-het-moeilijk-om-vastigheid-te-vinden~b2a782b1/",
+        "date": "2026-10-22T01:00:00.000Z",
+        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax wint drie wedstrijden op rij, onder meer met 2-1 bij Sparta Rotterdam op 25 oktober. Het staat tweede in de Eredivisie (21 punten) en dertiende in de Conference League. In het nieuws: Ajax loopt volgens de NOS in op koploper Feyenoord en passeert PSV na een moeizame zege bij Sparta.",
-    "hash": "4acdc6cdbea4df9ec62472f179afd3b7f454c42100930b736e9f8f4225b4eeda",
-    "generatedAt": "2026-10-28T15:42:19.059Z",
+    "text": "Ajax won de laatste drie wedstrijden, onder meer met 2-0 van Atalanta in de Conference League. In de Eredivisie staat Ajax tweede met 21 punten uit 10 duels, in de Conference League dertiende. In het nieuws: Ajax klimt na een nipte zege op Sparta naar plek twee.",
+    "hash": "d960d918cdcd84e88a1d685f4a3c594e297f44d8e92f8798ad9a194e2f8a37f8",
+    "generatedAt": "2026-10-28T16:38:24.545Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T16:05:07.109Z",
+  "updatedAt": "2026-10-28T16:38:24.545Z",
   "sections": {
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
@@ -2320,7 +2320,7 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T16:05:07.109Z",
+      "updatedAt": "2026-10-28T16:38:24.545Z",
       "data": {
         "items": [
           {
@@ -2334,12 +2334,6 @@
             "url": "https://www.parool.nl/sport/michel-over-benauwde-zege-van-ajax-op-sparta-ter-stegen-was-de-beste-man-op-het-veld~bf44ebba/",
             "date": "2026-10-25T19:36:00.000Z",
             "source": "Het Parool"
-          },
-          {
-            "title": "Ajax loopt in op koploper Feyenoord en passeert PSV dankzij moeizame zege bij Sparta",
-            "url": "https://nos.nl/l/2636646",
-            "date": "2026-10-25T17:41:23.000Z",
-            "source": "NOS"
           },
           {
             "title": "Ajax piept en kraakt, maar klimt met nipte zege op Sparta naar plek twee",
@@ -2357,6 +2351,12 @@
             "title": "Eerste zege is binnen voor Ajax, dat dankzij late goals van invallers Tolu en Ouazane wint van Atalanta",
             "url": "https://www.parool.nl/ajax/teruglezen-ajax-atalanta-eerste-zege-is-binnen-voor-ajax-dat-dankzij-late-goals-van-invallers-tolu-en-ouazane-wint-van-atalanta~be9b9f61/",
             "date": "2026-10-22T14:00:00.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "Ajax is af en toe ‘manisch’ op het veld, ziet Míchel: ‘Met twaalf nieuwe spelers is het moeilijk om vastigheid te vinden’",
+            "url": "https://www.parool.nl/sport/ajax-is-af-en-toe-manisch-op-het-veld-ziet-michel-met-twaalf-nieuwe-spelers-is-het-moeilijk-om-vastigheid-te-vinden~b2a782b1/",
+            "date": "2026-10-22T01:00:00.000Z",
             "source": "Het Parool"
           }
         ],

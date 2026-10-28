@@ -217,9 +217,27 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T16:05:07.109Z",
+    "updatedAt": "2026-10-28T16:38:24.545Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "James Dolan pockets $10 million for splitting the Knicks and Rangers",
+        "url": "https://www.postingandtoasting.com/knicks-news/90611/james-dolan-pockets-10-million-for-splitting-the-knicks-and-rangers",
+        "date": "2026-10-28T16:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Game Preview: Knicks at Bulls, October 28, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
+        "date": "2026-10-28T14:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
+        "date": "2026-10-28T12:41:57.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Knicks 'focus on little things,' beat Pistons for first win of season",
         "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
@@ -237,36 +255,18 @@
         "url": "https://www.postingandtoasting.com/knicks-scores-results/90572/knicks-111-pistons-97-scenes-from-win-number-one",
         "date": "2026-10-28T03:19:36.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks get first win of the season with a 111-97 victory over the previously unbeaten Pistons",
-        "url": "http://www.espn.com/nba/recap?gameId=401909878",
-        "date": "2026-10-28T03:03:48.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Sources: Knicks assistant coach Chris Jent steps away for personal reasons",
-        "url": "https://www.espn.com/nba/story/_/id/50302780/knicks-assistant-coach-chris-jent-takes-personal-leave",
-        "date": "2026-10-28T01:03:38.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Game Discussion Thread: Knicks vs. Pistons, October 27, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/90563/game-discussion-thread-knicks-vs-pistons-october-27-2026",
-        "date": "2026-10-27T23:30:00.000Z",
-        "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks begonnen het seizoen met drie nederlagen, maar boekten op 28 oktober tegen de Detroit Pistons (111-97) hun eerste zege. Met 1-3 staan ze vierde van vijf in de Atlantic Division. In het nieuws: assistent-coach Chris Jent zou om persoonlijke redenen een stap terug doen.",
-    "hash": "b6fd0d0faf5a2d357460d25cee85b47e516d52ab76bc3855d8f479540fb86c6c",
-    "generatedAt": "2026-10-28T16:05:07.109Z",
+    "text": "De Knicks staan na drie nederlagen op rij op de eerste zege van het seizoen: 111-97 tegen Detroit Pistons op 28 okt. Met 1-3 staan ze vierde van vijf in de Atlantic Division, 2 wedstrijden achter de koploper. In het nieuws: James Dolan zou $10 miljoen opstrijken door de Knicks en de Rangers op te splitsen.",
+    "hash": "7574064e72c04aa00966ffce655b18c20fdfcb59805995c62c8e1f653b5b10a8",
+    "generatedAt": "2026-10-28T16:38:24.545Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T16:05:07.109Z",
+  "updatedAt": "2026-10-28T16:38:24.545Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1399,9 +1399,27 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T16:05:07.109Z",
+      "updatedAt": "2026-10-28T16:38:24.545Z",
       "data": {
         "items": [
+          {
+            "title": "James Dolan pockets $10 million for splitting the Knicks and Rangers",
+            "url": "https://www.postingandtoasting.com/knicks-news/90611/james-dolan-pockets-10-million-for-splitting-the-knicks-and-rangers",
+            "date": "2026-10-28T16:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Game Preview: Knicks at Bulls, October 28, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
+            "date": "2026-10-28T14:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
+            "date": "2026-10-28T12:41:57.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Knicks 'focus on little things,' beat Pistons for first win of season",
             "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
@@ -1418,24 +1436,6 @@
             "title": "Knicks 111, Pistons 97: Scenes from win number one",
             "url": "https://www.postingandtoasting.com/knicks-scores-results/90572/knicks-111-pistons-97-scenes-from-win-number-one",
             "date": "2026-10-28T03:19:36.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks get first win of the season with a 111-97 victory over the previously unbeaten Pistons",
-            "url": "http://www.espn.com/nba/recap?gameId=401909878",
-            "date": "2026-10-28T03:03:48.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Sources: Knicks assistant coach Chris Jent steps away for personal reasons",
-            "url": "https://www.espn.com/nba/story/_/id/50302780/knicks-assistant-coach-chris-jent-takes-personal-leave",
-            "date": "2026-10-28T01:03:38.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Game Discussion Thread: Knicks vs. Pistons, October 27, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/90563/game-discussion-thread-knicks-vs-pistons-october-27-2026",
-            "date": "2026-10-27T23:30:00.000Z",
             "source": "Posting and Toasting"
           }
         ],
