@@ -391,8 +391,11 @@ function setActive(id) {
   }
 }
 
+let observer = null;
+
 function observeActive() {
   if (!('IntersectionObserver' in window)) return;
+  observer?.disconnect();
   const io = new IntersectionObserver(
     (entries) => {
       const visible = entries.filter((e) => e.isIntersecting);
@@ -401,6 +404,157 @@ function observeActive() {
     { rootMargin: '-35% 0px -60% 0px' },
   );
   for (const card of document.querySelectorAll('.card')) io.observe(card);
+  observer = io;
+}
+
+/* ---------- team order and visibility (per device) ---------- */
+
+const PREFS_KEY = 'sport27.teams';
+
+function loadPrefs() {
+  try {
+    const p = JSON.parse(localStorage.getItem(PREFS_KEY) ?? 'null');
+    if (p && Array.isArray(p.order) && Array.isArray(p.hidden)) return p;
+  } catch {
+    /* private mode or corrupt value: fall back to the default */
+  }
+  return { order: [], hidden: [] };
+}
+
+function savePrefs(prefs) {
+  try {
+    localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+  } catch {
+    /* not persisted; still applied for this visit */
+  }
+}
+
+/** Saved order first, then teams added to the config later, in config order. */
+function orderedTeams(teams, prefs) {
+  const byId = new Map(teams.map((t) => [t.id, t]));
+  const ids = [...prefs.order.filter((id) => byId.has(id)), ...teams.map((t) => t.id).filter((id) => !prefs.order.includes(id))];
+  return ids.map((id) => byId.get(id));
+}
+
+const state = { index: null, data: new Map(), prefs: loadPrefs() };
+
+function renderPage() {
+  const all = orderedTeams(state.index.teams, state.prefs);
+  const visible = all.filter((t) => !state.prefs.hidden.includes(t.id));
+  renderPicker(visible);
+  const cards = document.getElementById('cards');
+  if (visible.length === 0) {
+    cards.replaceChildren(
+      h('p', { class: 'empty' }, 'Alle teams zijn verborgen. ', h('button', { type: 'button', class: 'link-btn', 'data-open-settings': '' }, 'Teams kiezen')),
+    );
+    return;
+  }
+  cards.replaceChildren(
+    ...visible.map((t) => {
+      const team = state.data.get(t.id);
+      try {
+        return team ? renderCard(team) : renderMissing(t);
+      } catch (err) {
+        console.error(t.id, err);
+        return renderMissing(t);
+      }
+    }),
+  );
+  observeActive();
+}
+
+function renderSettings() {
+  const all = orderedTeams(state.index.teams, state.prefs);
+  const list = document.getElementById('settings-list');
+  list.replaceChildren(
+    ...all.map((t, i) => {
+      const shown = !state.prefs.hidden.includes(t.id);
+      const offSeason = state.data.get(t.id)?.season?.active === false;
+      return h(
+        'li',
+        { class: `set-row${shown ? '' : ' is-hidden'}`, vars: accentVars(t.colors) },
+        h(
+          'label',
+          { class: 'set-row__toggle' },
+          h('input', { type: 'checkbox', class: 'switch', checked: shown, 'data-toggle': t.id }),
+          h(
+            'span',
+            { class: 'set-row__text' },
+            h('span', { class: 'set-row__name' }, h('span', { class: 'dot', 'aria-hidden': 'true' }), t.name),
+            offSeason && h('span', { class: 'set-row__tag' }, 'buiten seizoen'),
+          ),
+        ),
+        h('button', { type: 'button', class: 'icon-btn', 'data-move': t.id, 'data-dir': '-1', disabled: i === 0, 'aria-label': `${t.name} omhoog` }, '↑'),
+        h('button', { type: 'button', class: 'icon-btn', 'data-move': t.id, 'data-dir': '1', disabled: i === all.length - 1, 'aria-label': `${t.name} omlaag` }, '↓'),
+      );
+    }),
+  );
+}
+
+function updatePrefs(change, ...focusSelectors) {
+  change(state.prefs);
+  savePrefs(state.prefs);
+  renderSettings();
+  renderPage();
+  // The list is re-rendered, so put focus back on the control that was used (first selector that matches).
+  for (const sel of focusSelectors) {
+    const el = document.querySelector(sel);
+    if (el) {
+      el.focus();
+      break;
+    }
+  }
+}
+
+function setupSettings() {
+  const dialog = document.getElementById('settings');
+  const open = () => {
+    renderSettings();
+    if (typeof dialog.showModal === 'function') dialog.showModal();
+    else dialog.setAttribute('open', '');
+  };
+  document.getElementById('open-settings').addEventListener('click', open);
+  document.getElementById('cards').addEventListener('click', (e) => {
+    if (e.target.closest('[data-open-settings]')) open();
+  });
+
+  const list = document.getElementById('settings-list');
+  list.addEventListener('change', (e) => {
+    const id = e.target.dataset.toggle;
+    if (!id) return;
+    updatePrefs((p) => {
+      p.hidden = e.target.checked ? p.hidden.filter((x) => x !== id) : [...new Set([...p.hidden, id])];
+    }, `[data-toggle="${id}"]`);
+  });
+  dialog.addEventListener('click', (e) => {
+    // tap on the backdrop closes the dialog
+    if (e.target === dialog) dialog.close();
+  });
+  list.addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-move]');
+    if (!btn) return;
+    const id = btn.dataset.move;
+    const dir = Number(btn.dataset.dir);
+    updatePrefs(
+      (p) => {
+        const ids = orderedTeams(state.index.teams, p).map((t) => t.id);
+        const i = ids.indexOf(id);
+        const j = i + dir;
+        if (j < 0 || j >= ids.length) return;
+        [ids[i], ids[j]] = [ids[j], ids[i]];
+        p.order = ids;
+      },
+      // same arrow, so repeated taps keep moving the team; the other arrow once it reaches the end
+      `[data-move="${id}"][data-dir="${dir}"]:not([disabled])`,
+      `[data-move="${id}"]:not([disabled])`,
+    );
+  });
+  document.getElementById('settings-reset').addEventListener('click', () => {
+    updatePrefs((p) => {
+      p.order = [];
+      p.hidden = [];
+    });
+  });
 }
 
 async function getJson(url) {
@@ -419,20 +573,12 @@ async function main() {
     return;
   }
   TZ = index.timezone || TZ;
-  renderPicker(index.teams);
+  state.index = index;
   renderRunStatus(index);
   const teams = await Promise.all(index.teams.map((t) => getJson(`data/${encodeURIComponent(t.id)}.json`).catch(() => null)));
-  cards.replaceChildren(
-    ...index.teams.map((t, i) => {
-      try {
-        return teams[i] ? renderCard(teams[i]) : renderMissing(t);
-      } catch (err) {
-        console.error(t.id, err);
-        return renderMissing(t);
-      }
-    }),
-  );
-  observeActive();
+  index.teams.forEach((t, i) => teams[i] && state.data.set(t.id, teams[i]));
+  renderPage();
+  setupSettings();
 }
 
 main();

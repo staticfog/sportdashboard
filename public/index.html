@@ -31,6 +31,9 @@
       <div class="top__bar">
         <h1 class="brand">SPORT27</h1>
         <p class="run" id="run-status"></p>
+        <button type="button" class="icon-btn" id="open-settings" aria-haspopup="dialog" aria-label="Teams kiezen en ordenen">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="16" cy="7" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/><circle cx="10" cy="17" r="2.2" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+        </button>
       </div>
       <nav class="picker" aria-label="Teams">
         <ul id="picker"></ul>
@@ -40,6 +43,17 @@
     <main id="cards" class="cards">
       <p class="placeholder">Laden…</p>
     </main>
+    <dialog id="settings" class="settings" aria-labelledby="settings-title">
+      <form method="dialog" class="settings__inner">
+        <h2 id="settings-title" class="settings__title">Teams</h2>
+        <p class="settings__hint">Kies welke teams je ziet en in welke volgorde. Dit wordt alleen op dit toestel onthouden.</p>
+        <ol id="settings-list" class="settings__list"></ol>
+        <div class="settings__actions">
+          <button type="button" class="btn btn--ghost" id="settings-reset">Standaard</button>
+          <button type="submit" class="btn">Klaar</button>
+        </div>
+      </form>
+    </dialog>
     <footer class="foot">
       <p>
         Uitslagen en standen: ESPN en de MLB Stats API (MLB-data © MLB Advanced Media, L.P.). Nieuwskoppen linken naar
