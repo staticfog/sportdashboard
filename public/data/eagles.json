@@ -217,9 +217,27 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T16:05:07.109Z",
+    "updatedAt": "2026-10-29T00:48:32.226Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Eagles at Commanders Injury Report",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
+        "date": "2026-10-28T22:56:01.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles sign RB Jaydon Blue to the active roster, add three to the practice squad",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-rb-jaydon-blue-to-the-active-roster-add-three-to-the-practice-squad-dameon-pierce",
+        "date": "2026-10-28T21:07:46.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
+        "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
+        "date": "2026-10-28T20:28:42.000Z",
+        "source": "ESPN"
+      },
       {
         "title": "How to watch, stream, and listen | Eagles at Commanders",
         "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
@@ -237,36 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/eagles-release-db-dean-clark-and-t-xavier-truss-from-the-practice-squad-nfl-week-8-commanders-2026",
         "date": "2026-10-27T20:23:02.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Spadaro: Can Eagles build upon the offense's performance?",
-        "url": "https://www.philadelphiaeagles.com/news/can-eagles-build-upon-the-offense-performance-cowboys-2026-nfl-week-7-monday-night-football",
-        "date": "2026-10-27T05:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Game Recap: Cowboys 38, Eagles 21",
-        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-game-recap-2026-nfl-week-7-monday-night-football-saquon-barkley-dak-prescott",
-        "date": "2026-10-27T04:45:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Cowboys vs. Eagles Inactives",
-        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-inactives-saquon-barkley-jalyx-hunt-2026-week-7-monday-night-football",
-        "date": "2026-10-26T22:45:13.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles hebben vijf nederlagen op rij geleden, de laatste op 27 oktober met 21-38 thuis tegen de Dallas Cowboys. In de NFC East staan ze met 2-5 op de derde plaats van vier. In het nieuws: de Eagles halen DB Dean Clark en T Xavier Truss uit de practice squad.",
-    "hash": "90fb4fdb96fadf5fb880e4fe41d2e2aa4d0ba4b0431dcdd0327a34fd8bf8593c",
-    "generatedAt": "2026-10-28T15:42:19.059Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, met als laatste een 21-38 thuisnederlaag tegen de Dallas Cowboys. In de NFC East staan ze derde van vier met 2-5 (saldo -48). In het nieuws: Eagles sign RB Jaydon Blue to the active roster.",
+    "hash": "46f10f1952fedac74a355aeb43c15aa304b5aa19c608ca8c83b173031641ee4a",
+    "generatedAt": "2026-10-29T00:48:32.226Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T16:05:07.109Z",
+  "updatedAt": "2026-10-29T00:48:32.226Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,27 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T16:05:07.109Z",
+      "updatedAt": "2026-10-29T00:48:32.226Z",
       "data": {
         "items": [
+          {
+            "title": "Eagles at Commanders Injury Report",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
+            "date": "2026-10-28T22:56:01.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles sign RB Jaydon Blue to the active roster, add three to the practice squad",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-rb-jaydon-blue-to-the-active-roster-add-three-to-the-practice-squad-dameon-pierce",
+            "date": "2026-10-28T21:07:46.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
+            "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
+            "date": "2026-10-28T20:28:42.000Z",
+            "source": "ESPN"
+          },
           {
             "title": "How to watch, stream, and listen | Eagles at Commanders",
             "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
@@ -586,24 +604,6 @@
             "title": "Eagles release DB Dean Clark and T Xavier Truss from the practice squad",
             "url": "https://www.philadelphiaeagles.com/news/eagles-release-db-dean-clark-and-t-xavier-truss-from-the-practice-squad-nfl-week-8-commanders-2026",
             "date": "2026-10-27T20:23:02.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Spadaro: Can Eagles build upon the offense's performance?",
-            "url": "https://www.philadelphiaeagles.com/news/can-eagles-build-upon-the-offense-performance-cowboys-2026-nfl-week-7-monday-night-football",
-            "date": "2026-10-27T05:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Game Recap: Cowboys 38, Eagles 21",
-            "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-game-recap-2026-nfl-week-7-monday-night-football-saquon-barkley-dak-prescott",
-            "date": "2026-10-27T04:45:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Cowboys vs. Eagles Inactives",
-            "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-inactives-saquon-barkley-jalyx-hunt-2026-week-7-monday-night-football",
-            "date": "2026-10-26T22:45:13.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

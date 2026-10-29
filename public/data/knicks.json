@@ -15,7 +15,7 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "updatedAt": "2026-10-29T00:48:32.226Z",
     "issues": [],
     "items": [
       {
@@ -74,7 +74,7 @@
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "updatedAt": "2026-10-29T00:48:32.226Z",
     "issues": [],
     "items": [
       {
@@ -85,7 +85,7 @@
         "home": false,
         "opponent": "Chicago Bulls",
         "opponentShort": "CHI",
-        "status": "scheduled",
+        "status": "live",
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
@@ -217,9 +217,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-28T16:38:24.545Z",
+    "updatedAt": "2026-10-29T00:48:32.226Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Game Discussion Thread: Knicks at Bulls, October 28, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/90607/game-discussion-thread-knicks-at-bulls-october-28-2026",
+        "date": "2026-10-28T23:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks Bulletin: ‘He’s just a different person’",
+        "url": "https://www.postingandtoasting.com/knicks-news/90600/knicks-bulletin-hes-just-a-different-person",
+        "date": "2026-10-28T17:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "James Dolan pockets $10 million for splitting the Knicks and Rangers",
         "url": "https://www.postingandtoasting.com/knicks-news/90611/james-dolan-pockets-10-million-for-splitting-the-knicks-and-rangers",
@@ -243,34 +255,22 @@
         "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
         "date": "2026-10-28T06:10:56.000Z",
         "source": "ESPN"
-      },
-      {
-        "title": "New York takes on Chicago on 3-game skid",
-        "url": "http://www.espn.com/nba/preview?gameId=401909886",
-        "date": "2026-10-28T06:02:49.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Knicks 111, Pistons 97: Scenes from win number one",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90572/knicks-111-pistons-97-scenes-from-win-number-one",
-        "date": "2026-10-28T03:19:36.000Z",
-        "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks staan na drie nederlagen op rij op de eerste zege van het seizoen: 111-97 tegen Detroit Pistons op 28 okt. Met 1-3 staan ze vierde van vijf in de Atlantic Division, 2 wedstrijden achter de koploper. In het nieuws: James Dolan zou $10 miljoen opstrijken door de Knicks en de Rangers op te splitsen.",
-    "hash": "7574064e72c04aa00966ffce655b18c20fdfcb59805995c62c8e1f653b5b10a8",
-    "generatedAt": "2026-10-28T16:38:24.545Z",
+    "text": "De Knicks verloren de eerste drie wedstrijden en boekten op 28 okt hun eerste zege, 111-97 tegen de Pistons. Met 1-3 staan ze vierde van vijf in de Atlantic, 2 wedstrijden achter. In het nieuws: James Dolan zou $10 miljoen opstrijken voor het splitsen van de Knicks en de Rangers.",
+    "hash": "46c65b353f8af2d2d13f86232792578d4a76c200506093b8b41d51397f7e186d",
+    "generatedAt": "2026-10-29T00:48:32.226Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-28T16:38:24.545Z",
+  "updatedAt": "2026-10-29T00:48:32.226Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-10-29T00:48:32.226Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -332,7 +332,7 @@
           "home": false,
           "opponent": "Chicago Bulls",
           "opponentShort": "CHI",
-          "status": "scheduled",
+          "status": "live",
           "teamScore": null,
           "opponentScore": null,
           "outcome": null
@@ -1399,9 +1399,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-28T16:38:24.545Z",
+      "updatedAt": "2026-10-29T00:48:32.226Z",
       "data": {
         "items": [
+          {
+            "title": "Game Discussion Thread: Knicks at Bulls, October 28, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/90607/game-discussion-thread-knicks-at-bulls-october-28-2026",
+            "date": "2026-10-28T23:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks Bulletin: ‘He’s just a different person’",
+            "url": "https://www.postingandtoasting.com/knicks-news/90600/knicks-bulletin-hes-just-a-different-person",
+            "date": "2026-10-28T17:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "James Dolan pockets $10 million for splitting the Knicks and Rangers",
             "url": "https://www.postingandtoasting.com/knicks-news/90611/james-dolan-pockets-10-million-for-splitting-the-knicks-and-rangers",
@@ -1425,18 +1437,6 @@
             "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
             "date": "2026-10-28T06:10:56.000Z",
             "source": "ESPN"
-          },
-          {
-            "title": "New York takes on Chicago on 3-game skid",
-            "url": "http://www.espn.com/nba/preview?gameId=401909886",
-            "date": "2026-10-28T06:02:49.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Knicks 111, Pistons 97: Scenes from win number one",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90572/knicks-111-pistons-97-scenes-from-win-number-one",
-            "date": "2026-10-28T03:19:36.000Z",
-            "source": "Posting and Toasting"
           }
         ],
         "failedSources": [],
