@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-10-29T00:48:32.226Z",
+    "updatedAt": "2026-10-30T06:59:58.194Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401909886",
+        "date": "2026-10-29T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Chicago Bulls",
+        "opponentShort": "CHI",
+        "status": "final",
+        "teamScore": 133,
+        "opponentScore": 127,
+        "outcome": "W"
+      },
       {
         "id": "espn-401909878",
         "date": "2026-10-28T00:00:00.000Z",
@@ -74,22 +87,9 @@
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-10-29T00:48:32.226Z",
+    "updatedAt": "2026-10-30T06:59:58.194Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401909886",
-        "date": "2026-10-29T00:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Chicago Bulls",
-        "opponentShort": "CHI",
-        "status": "live",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401909280",
         "date": "2026-10-30T23:30:00.000Z",
@@ -128,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401909940",
+        "date": "2026-11-08T01:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Cleveland Cavaliers",
+        "opponentShort": "CLE",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -135,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-10-30T06:59:58.194Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -152,11 +165,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "1",
-              ".750",
+              ".800",
               "-",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -168,7 +181,7 @@
               "3",
               "1",
               ".750",
-              "-",
+              "0.5",
               "W3"
             ]
           },
@@ -178,11 +191,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
-              "2",
+              "3",
               "1",
-              ".667",
+              ".750",
               "0.5",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -191,11 +204,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "1",
-              "3",
-              ".250",
               "2",
-              "W1"
+              "3",
+              ".400",
+              "2",
+              "W2"
             ]
           },
           {
@@ -207,7 +220,7 @@
               "0",
               "4",
               ".000",
-              "3",
+              "3.5",
               "L4"
             ]
           }
@@ -217,60 +230,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-29T00:48:32.226Z",
+    "updatedAt": "2026-10-30T06:59:58.194Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Game Discussion Thread: Knicks at Bulls, October 28, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/90607/game-discussion-thread-knicks-at-bulls-october-28-2026",
-        "date": "2026-10-28T23:30:00.000Z",
+        "title": "Game Preview: Knicks at 76ers, October 30, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/90661/game-preview-knicks-at-76ers-october-30-2026",
+        "date": "2026-10-30T04:31:11.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Knicks Bulletin: ‘He’s just a different person’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90600/knicks-bulletin-hes-just-a-different-person",
-        "date": "2026-10-28T17:30:00.000Z",
+        "title": "Knicks decline Pacôme Dadiet’s option",
+        "url": "https://www.postingandtoasting.com/knicks-news/90711/knicks-decline-pacome-dadiets-option",
+        "date": "2026-10-30T04:30:51.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "James Dolan pockets $10 million for splitting the Knicks and Rangers",
-        "url": "https://www.postingandtoasting.com/knicks-news/90611/james-dolan-pockets-10-million-for-splitting-the-knicks-and-rangers",
-        "date": "2026-10-28T16:00:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Preview: Knicks at Bulls, October 28, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
-        "date": "2026-10-28T14:30:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
-        "date": "2026-10-28T12:41:57.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 'focus on little things,' beat Pistons for first win of season",
-        "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
-        "date": "2026-10-28T06:10:56.000Z",
+        "title": "Knicks' Jose Alvarado (ankle) to miss fourth straight vs. 76ers",
+        "url": "https://www.espn.com/nba/story/_/id/50323505/knicks-jose-alvarado-ankle-injury-76ers",
+        "date": "2026-10-30T01:22:15.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "Praying for the healthy Knicks as we approach Día de Muertos",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/90667/praying-for-the-healthy-knicks-as-we-approach-dia-de-muertos",
+        "date": "2026-10-29T17:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks Bulletin: ‘Sugar’",
+        "url": "https://www.postingandtoasting.com/knicks-news/90669/knicks-bulletin-sugar",
+        "date": "2026-10-29T14:45:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks 133, Bulls 127: “19 point comeback. Yawn.”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90652/knicks-133-bulls-127-19-point-comeback-yawn",
+        "date": "2026-10-29T12:00:00.000Z",
+        "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks verloren de eerste drie wedstrijden en boekten op 28 okt hun eerste zege, 111-97 tegen de Pistons. Met 1-3 staan ze vierde van vijf in de Atlantic, 2 wedstrijden achter. In het nieuws: James Dolan zou $10 miljoen opstrijken voor het splitsen van de Knicks en de Rangers.",
-    "hash": "46c65b353f8af2d2d13f86232792578d4a76c200506093b8b41d51397f7e186d",
-    "generatedAt": "2026-10-29T00:48:32.226Z",
+    "text": "De Knicks herstelden zich na drie nederlagen op rij met twee zeges, tegen Detroit en uit bij Chicago (133-127). Met 2-3 staan ze vierde van vijf in de Atlantic, 2 duels achter. In het nieuws: de Knicks zouden de optie van Pacôme Dadiet niet lichten.",
+    "hash": "fe0cccde01205d50a7b9fde98cdc4a46a75665234ad4c36e1a165fefed67ff10",
+    "generatedAt": "2026-10-30T06:59:58.194Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-29T00:48:32.226Z",
+  "updatedAt": "2026-10-30T06:59:58.194Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-10-29T00:48:32.226Z",
+      "updatedAt": "2026-10-30T06:59:58.194Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -332,10 +345,10 @@
           "home": false,
           "opponent": "Chicago Bulls",
           "opponentShort": "CHI",
-          "status": "live",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 133,
+          "opponentScore": 127,
+          "outcome": "W"
         },
         {
           "id": "espn-401909280",
@@ -1317,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-10-30T06:59:58.194Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1334,11 +1347,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "1",
-              ".750",
+              ".800",
               "-",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -1350,7 +1363,7 @@
               "3",
               "1",
               ".750",
-              "-",
+              "0.5",
               "W3"
             ]
           },
@@ -1360,11 +1373,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
-              "2",
+              "3",
               "1",
-              ".667",
+              ".750",
               "0.5",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -1373,11 +1386,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "1",
-              "3",
-              ".250",
               "2",
-              "W1"
+              "3",
+              ".400",
+              "2",
+              "W2"
             ]
           },
           {
@@ -1389,7 +1402,7 @@
               "0",
               "4",
               ".000",
-              "3",
+              "3.5",
               "L4"
             ]
           }
@@ -1399,44 +1412,44 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-29T00:48:32.226Z",
+      "updatedAt": "2026-10-30T06:59:58.194Z",
       "data": {
         "items": [
           {
-            "title": "Game Discussion Thread: Knicks at Bulls, October 28, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/90607/game-discussion-thread-knicks-at-bulls-october-28-2026",
-            "date": "2026-10-28T23:30:00.000Z",
+            "title": "Game Preview: Knicks at 76ers, October 30, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/90661/game-preview-knicks-at-76ers-october-30-2026",
+            "date": "2026-10-30T04:31:11.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Knicks Bulletin: ‘He’s just a different person’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90600/knicks-bulletin-hes-just-a-different-person",
-            "date": "2026-10-28T17:30:00.000Z",
+            "title": "Knicks decline Pacôme Dadiet’s option",
+            "url": "https://www.postingandtoasting.com/knicks-news/90711/knicks-decline-pacome-dadiets-option",
+            "date": "2026-10-30T04:30:51.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "James Dolan pockets $10 million for splitting the Knicks and Rangers",
-            "url": "https://www.postingandtoasting.com/knicks-news/90611/james-dolan-pockets-10-million-for-splitting-the-knicks-and-rangers",
-            "date": "2026-10-28T16:00:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Preview: Knicks at Bulls, October 28, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90592/game-preview-knicks-at-bulls-october-28-2026",
-            "date": "2026-10-28T14:30:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 111, Pistons 97: “Y’all cool now?”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90585/knicks-111-pistons-97-yall-cool-now",
-            "date": "2026-10-28T12:41:57.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 'focus on little things,' beat Pistons for first win of season",
-            "url": "https://www.espn.com/nba/story/_/id/50305071/knicks-focus-little-things-earn-first-win-season",
-            "date": "2026-10-28T06:10:56.000Z",
+            "title": "Knicks' Jose Alvarado (ankle) to miss fourth straight vs. 76ers",
+            "url": "https://www.espn.com/nba/story/_/id/50323505/knicks-jose-alvarado-ankle-injury-76ers",
+            "date": "2026-10-30T01:22:15.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "Praying for the healthy Knicks as we approach Día de Muertos",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/90667/praying-for-the-healthy-knicks-as-we-approach-dia-de-muertos",
+            "date": "2026-10-29T17:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks Bulletin: ‘Sugar’",
+            "url": "https://www.postingandtoasting.com/knicks-news/90669/knicks-bulletin-sugar",
+            "date": "2026-10-29T14:45:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks 133, Bulls 127: “19 point comeback. Yawn.”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90652/knicks-133-bulls-127-19-point-comeback-yawn",
+            "date": "2026-10-29T12:00:00.000Z",
+            "source": "Posting and Toasting"
           }
         ],
         "failedSources": [],

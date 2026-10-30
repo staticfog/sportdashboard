@@ -177,13 +177,37 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-29T00:48:32.226Z",
+    "updatedAt": "2026-10-30T06:59:58.194Z",
     "failedSources": [],
     "items": [
       {
         "title": "Watch Yankees prospects in Arizona Fall League action",
         "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-        "date": "2026-10-28T23:37:00.000Z",
+        "date": "2026-10-30T05:59:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Presenting the 2026 All-Postseason Team",
+        "url": "https://www.mlb.com/yankees/news/2026-mlb-all-postseason-team",
+        "date": "2026-10-30T02:44:28.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "The best moment from each series during the playoffs",
+        "url": "https://www.mlb.com/yankees/news/best-postseason-moments-2026",
+        "date": "2026-10-30T02:43:59.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Brewers' Pat Murphy rips Yankees in viral celebratory exchange with Jake Bauers",
+        "url": "https://www.espn.com/mlb/story/_/id/50317928/brewers-pat-murphy-rips-yankees-jake-bauers-exchange",
+        "date": "2026-10-29T22:08:51.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Yankees' nondrafted RHP Etheridge building on momentum in Arizona Fall League",
+        "url": "https://www.mlb.com/yankees/news/yankees-pitching-prospect-j-t-etheridge-builds-on-momentum-in-arizona-fall-league",
+        "date": "2026-10-29T02:47:10.000Z",
         "source": "MLB.com"
       },
       {
@@ -191,42 +215,18 @@
         "url": "https://www.espn.com/mlb/story/_/id/50300403/jorge-posada-says-feel-welcome-yankees",
         "date": "2026-10-27T20:58:51.000Z",
         "source": "ESPN"
-      },
-      {
-        "title": "Schlittler seems a lock for Cy, but other Yankees could bring home awards, too",
-        "url": "https://www.mlb.com/yankees/news/cam-schlittler-other-yankees-could-win-postseason-awards",
-        "date": "2026-10-27T14:17:19.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "No. 1 prospect Kilby among Fall League's Week 3 top performers",
-        "url": "https://www.mlb.com/yankees/news/arizona-fall-league-top-performers-week-3-2026",
-        "date": "2026-10-25T23:20:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "30 years ago, Pettitte got redemption with World Series masterpiece",
-        "url": "https://www.mlb.com/yankees/news/andy-pettitte-recalls-1996-world-series-performance",
-        "date": "2026-10-24T15:52:15.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Yankees agree to 3-year extension with pitching coach Blake (report)",
-        "url": "https://www.mlb.com/yankees/news/yankees-pitching-coach-matt-blake-contract-extension",
-        "date": "2026-10-24T15:16:56.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na een 2-0 tegen de Boston Red Sox in de Wild Card Series verloren ze de AL Division Series met 0-3 van de Tampa Bay Rays. In de AL East staan ze tweede (93-68). In het nieuws: Schlittler lijkt een zekerheid voor de Cy Young.",
-    "hash": "6b8bcbcd15dbcc750b32fddd6044d3fe61843cab67dca9a2e3847113f6ff2e81",
-    "generatedAt": "2026-10-28T16:05:07.109Z",
+    "text": "De Yankees zitten buiten het seizoen. Na twee ruime zeges op de Boston Red Sox in de Wild Card Series gingen ze in de AL Division Series met 0-3 onderuit tegen de Tampa Bay Rays. In de AL East staan ze tweede (93-68). In het nieuws: Yankees-prospects in de Arizona Fall League.",
+    "hash": "a2f9c39f8783412e419de43b6cdbc5b0a8a1f6bef1a56468ce2fc1b6e42a2808",
+    "generatedAt": "2026-10-30T06:59:58.194Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-29T00:48:32.226Z",
+  "updatedAt": "2026-10-30T06:59:58.194Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,13 +2542,37 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-29T00:48:32.226Z",
+      "updatedAt": "2026-10-30T06:59:58.194Z",
       "data": {
         "items": [
           {
             "title": "Watch Yankees prospects in Arizona Fall League action",
             "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-            "date": "2026-10-28T23:37:00.000Z",
+            "date": "2026-10-30T05:59:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Presenting the 2026 All-Postseason Team",
+            "url": "https://www.mlb.com/yankees/news/2026-mlb-all-postseason-team",
+            "date": "2026-10-30T02:44:28.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "The best moment from each series during the playoffs",
+            "url": "https://www.mlb.com/yankees/news/best-postseason-moments-2026",
+            "date": "2026-10-30T02:43:59.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Brewers' Pat Murphy rips Yankees in viral celebratory exchange with Jake Bauers",
+            "url": "https://www.espn.com/mlb/story/_/id/50317928/brewers-pat-murphy-rips-yankees-jake-bauers-exchange",
+            "date": "2026-10-29T22:08:51.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Yankees' nondrafted RHP Etheridge building on momentum in Arizona Fall League",
+            "url": "https://www.mlb.com/yankees/news/yankees-pitching-prospect-j-t-etheridge-builds-on-momentum-in-arizona-fall-league",
+            "date": "2026-10-29T02:47:10.000Z",
             "source": "MLB.com"
           },
           {
@@ -2556,30 +2580,6 @@
             "url": "https://www.espn.com/mlb/story/_/id/50300403/jorge-posada-says-feel-welcome-yankees",
             "date": "2026-10-27T20:58:51.000Z",
             "source": "ESPN"
-          },
-          {
-            "title": "Schlittler seems a lock for Cy, but other Yankees could bring home awards, too",
-            "url": "https://www.mlb.com/yankees/news/cam-schlittler-other-yankees-could-win-postseason-awards",
-            "date": "2026-10-27T14:17:19.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "No. 1 prospect Kilby among Fall League's Week 3 top performers",
-            "url": "https://www.mlb.com/yankees/news/arizona-fall-league-top-performers-week-3-2026",
-            "date": "2026-10-25T23:20:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "30 years ago, Pettitte got redemption with World Series masterpiece",
-            "url": "https://www.mlb.com/yankees/news/andy-pettitte-recalls-1996-world-series-performance",
-            "date": "2026-10-24T15:52:15.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Yankees agree to 3-year extension with pitching coach Blake (report)",
-            "url": "https://www.mlb.com/yankees/news/yankees-pitching-coach-matt-blake-contract-extension",
-            "date": "2026-10-24T15:16:56.000Z",
-            "source": "MLB.com"
           }
         ],
         "failedSources": [],

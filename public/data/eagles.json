@@ -217,13 +217,31 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-29T00:48:32.226Z",
+    "updatedAt": "2026-10-30T06:59:58.194Z",
     "failedSources": [],
     "items": [
       {
+        "title": "Commanders and Eagles head into 'Sunday Night Football' with season-defining matchup on deck",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873035",
+        "date": "2026-10-29T22:32:53.000Z",
+        "source": "ESPN"
+      },
+      {
         "title": "Eagles at Commanders Injury Report",
         "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
-        "date": "2026-10-28T22:56:01.000Z",
+        "date": "2026-10-29T22:15:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Spadaro: Eagles at Commanders rematch has a much different look",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-rematch-has-a-much-different-look-2026-nfl-week-8-sunday-night-football",
+        "date": "2026-10-29T18:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "How well do you know your Eagles vs. Commanders history?",
+        "url": "https://www.philadelphiaeagles.com/news/how-well-do-you-know-your-eagles-vs-commanders-history-2026-week-8",
+        "date": "2026-10-29T13:58:49.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
@@ -233,40 +251,22 @@
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
-        "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
-        "date": "2026-10-28T20:28:42.000Z",
-        "source": "ESPN"
-      },
-      {
         "title": "How to watch, stream, and listen | Eagles at Commanders",
         "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
         "date": "2026-10-28T09:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Makai Lemon reflects on his first career touchdown",
-        "url": "https://www.philadelphiaeagles.com/news/makai-lemon-reflects-on-his-first-career-touchdown-cowboys-nfl-week-7-2026-tanner-mckee",
-        "date": "2026-10-27T21:00:33.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles release DB Dean Clark and T Xavier Truss from the practice squad",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-release-db-dean-clark-and-t-xavier-truss-from-the-practice-squad-nfl-week-8-commanders-2026",
-        "date": "2026-10-27T20:23:02.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, met als laatste een 21-38 thuisnederlaag tegen de Dallas Cowboys. In de NFC East staan ze derde van vier met 2-5 (saldo -48). In het nieuws: Eagles sign RB Jaydon Blue to the active roster.",
-    "hash": "46f10f1952fedac74a355aeb43c15aa304b5aa19c608ca8c83b173031641ee4a",
-    "generatedAt": "2026-10-29T00:48:32.226Z",
+    "text": "De Eagles zitten in een reeks van vijf nederlagen op rij, met als laatste 21-38 thuis tegen Dallas op 27 oktober. Met 2 zeges en 5 nederlagen (puntsaldo -48) staan ze derde van vier in de NFC East. In het nieuws: de Eagles zouden RB Jaydon Blue aan de actieve selectie hebben toegevoegd.",
+    "hash": "6a46430efb7f02626095157743ce6328101edea28a392e766117ab40296631d4",
+    "generatedAt": "2026-10-30T06:59:58.194Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-29T00:48:32.226Z",
+  "updatedAt": "2026-10-30T06:59:58.194Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,13 +567,31 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-29T00:48:32.226Z",
+      "updatedAt": "2026-10-30T06:59:58.194Z",
       "data": {
         "items": [
           {
+            "title": "Commanders and Eagles head into 'Sunday Night Football' with season-defining matchup on deck",
+            "url": "http://www.espn.com/nfl/preview?gameId=401873035",
+            "date": "2026-10-29T22:32:53.000Z",
+            "source": "ESPN"
+          },
+          {
             "title": "Eagles at Commanders Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
-            "date": "2026-10-28T22:56:01.000Z",
+            "date": "2026-10-29T22:15:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Spadaro: Eagles at Commanders rematch has a much different look",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-rematch-has-a-much-different-look-2026-nfl-week-8-sunday-night-football",
+            "date": "2026-10-29T18:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "How well do you know your Eagles vs. Commanders history?",
+            "url": "https://www.philadelphiaeagles.com/news/how-well-do-you-know-your-eagles-vs-commanders-history-2026-week-8",
+            "date": "2026-10-29T13:58:49.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
@@ -583,27 +601,9 @@
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
-            "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
-            "date": "2026-10-28T20:28:42.000Z",
-            "source": "ESPN"
-          },
-          {
             "title": "How to watch, stream, and listen | Eagles at Commanders",
             "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
             "date": "2026-10-28T09:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Makai Lemon reflects on his first career touchdown",
-            "url": "https://www.philadelphiaeagles.com/news/makai-lemon-reflects-on-his-first-career-touchdown-cowboys-nfl-week-7-2026-tanner-mckee",
-            "date": "2026-10-27T21:00:33.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles release DB Dean Clark and T Xavier Truss from the practice squad",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-release-db-dean-clark-and-t-xavier-truss-from-the-practice-squad-nfl-week-8-commanders-2026",
-            "date": "2026-10-27T20:23:02.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
