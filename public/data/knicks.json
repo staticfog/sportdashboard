@@ -230,9 +230,33 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-30T06:59:58.194Z",
+    "updatedAt": "2026-10-30T23:38:37.705Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Philadelphia 76ers star Brown to miss Friday NBA Cup game vs. New York Knicks",
+        "url": "https://www.espn.com/nba/story/_/id/50331446/76ers-jaylen-brown-friday-nba-cup-game",
+        "date": "2026-10-30T23:28:24.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Knicks Bulletin: ‘He’s a great guy to play off’",
+        "url": "https://www.postingandtoasting.com/knicks-news/90726/knicks-bulletin-hes-a-great-guy-to-play-off",
+        "date": "2026-10-30T16:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Jalen Brunson named Athlete of the Year by the Philadelphia Sports Writers Association",
+        "url": "https://www.postingandtoasting.com/knicks-news/90725/jalen-brunson-named-athlete-of-the-year-by-the-philadelphia-sports-writers-association",
+        "date": "2026-10-30T13:47:27.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "NBA Cup Preview: Can the Knicks pass their first title defense?",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/90704/nba-cup-preview-can-the-knicks-pass-their-first-title-defense",
+        "date": "2026-10-30T12:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Game Preview: Knicks at 76ers, October 30, 2026",
         "url": "https://www.postingandtoasting.com/knicks-game-previews/90661/game-preview-knicks-at-76ers-october-30-2026",
@@ -244,42 +268,18 @@
         "url": "https://www.postingandtoasting.com/knicks-news/90711/knicks-decline-pacome-dadiets-option",
         "date": "2026-10-30T04:30:51.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks' Jose Alvarado (ankle) to miss fourth straight vs. 76ers",
-        "url": "https://www.espn.com/nba/story/_/id/50323505/knicks-jose-alvarado-ankle-injury-76ers",
-        "date": "2026-10-30T01:22:15.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Praying for the healthy Knicks as we approach Día de Muertos",
-        "url": "https://www.postingandtoasting.com/knicks-analysis/90667/praying-for-the-healthy-knicks-as-we-approach-dia-de-muertos",
-        "date": "2026-10-29T17:00:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks Bulletin: ‘Sugar’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90669/knicks-bulletin-sugar",
-        "date": "2026-10-29T14:45:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 133, Bulls 127: “19 point comeback. Yawn.”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90652/knicks-133-bulls-127-19-point-comeback-yawn",
-        "date": "2026-10-29T12:00:00.000Z",
-        "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks herstelden zich na drie nederlagen op rij met twee zeges, tegen Detroit en uit bij Chicago (133-127). Met 2-3 staan ze vierde van vijf in de Atlantic, 2 duels achter. In het nieuws: de Knicks zouden de optie van Pacôme Dadiet niet lichten.",
-    "hash": "fe0cccde01205d50a7b9fde98cdc4a46a75665234ad4c36e1a165fefed67ff10",
-    "generatedAt": "2026-10-30T06:59:58.194Z",
+    "text": "Na drie nederlagen op rij wonnen de Knicks twee keer achter elkaar, tegen Detroit en Chicago. Met 2-3 staan ze vierde van vijf in de Atlantic Division. In het nieuws: Jalen Brunson uitgeroepen tot Athlete of the Year door de Philadelphia Sports Writers Association.",
+    "hash": "18c45064555b5e8015dd5161e428a3e8fa60b2268185d26e25c6d4d5a61da341",
+    "generatedAt": "2026-10-30T23:38:37.705Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-30T06:59:58.194Z",
+  "updatedAt": "2026-10-30T23:38:37.705Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1412,9 +1412,33 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-30T06:59:58.194Z",
+      "updatedAt": "2026-10-30T23:38:37.705Z",
       "data": {
         "items": [
+          {
+            "title": "Philadelphia 76ers star Brown to miss Friday NBA Cup game vs. New York Knicks",
+            "url": "https://www.espn.com/nba/story/_/id/50331446/76ers-jaylen-brown-friday-nba-cup-game",
+            "date": "2026-10-30T23:28:24.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Knicks Bulletin: ‘He’s a great guy to play off’",
+            "url": "https://www.postingandtoasting.com/knicks-news/90726/knicks-bulletin-hes-a-great-guy-to-play-off",
+            "date": "2026-10-30T16:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Jalen Brunson named Athlete of the Year by the Philadelphia Sports Writers Association",
+            "url": "https://www.postingandtoasting.com/knicks-news/90725/jalen-brunson-named-athlete-of-the-year-by-the-philadelphia-sports-writers-association",
+            "date": "2026-10-30T13:47:27.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "NBA Cup Preview: Can the Knicks pass their first title defense?",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/90704/nba-cup-preview-can-the-knicks-pass-their-first-title-defense",
+            "date": "2026-10-30T12:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Game Preview: Knicks at 76ers, October 30, 2026",
             "url": "https://www.postingandtoasting.com/knicks-game-previews/90661/game-preview-knicks-at-76ers-october-30-2026",
@@ -1425,30 +1449,6 @@
             "title": "Knicks decline Pacôme Dadiet’s option",
             "url": "https://www.postingandtoasting.com/knicks-news/90711/knicks-decline-pacome-dadiets-option",
             "date": "2026-10-30T04:30:51.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks' Jose Alvarado (ankle) to miss fourth straight vs. 76ers",
-            "url": "https://www.espn.com/nba/story/_/id/50323505/knicks-jose-alvarado-ankle-injury-76ers",
-            "date": "2026-10-30T01:22:15.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Praying for the healthy Knicks as we approach Día de Muertos",
-            "url": "https://www.postingandtoasting.com/knicks-analysis/90667/praying-for-the-healthy-knicks-as-we-approach-dia-de-muertos",
-            "date": "2026-10-29T17:00:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks Bulletin: ‘Sugar’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90669/knicks-bulletin-sugar",
-            "date": "2026-10-29T14:45:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 133, Bulls 127: “19 point comeback. Yawn.”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90652/knicks-133-bulls-127-19-point-comeback-yawn",
-            "date": "2026-10-29T12:00:00.000Z",
             "source": "Posting and Toasting"
           }
         ],
