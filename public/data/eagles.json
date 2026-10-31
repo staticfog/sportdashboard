@@ -217,9 +217,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-30T23:38:37.705Z",
+    "updatedAt": "2026-10-31T21:26:10.654Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "NFLPA names Michael Carter II as the Week 8 Community MVP",
+        "url": "https://www.philadelphiaeagles.com/news/nflpa-names-michael-carter-ii-as-the-week-8-community-mvp",
+        "date": "2026-10-31T16:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles Tackle Football Coach of the Week: Skip Edwards, Bordentown Regional High School",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-visa-tackle-football-coach-of-the-week-skip-edwards-bordentown-regional-high-school",
+        "date": "2026-10-31T13:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
       {
         "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
         "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
@@ -243,30 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/hopephl-is-hopeful-for-a-better-philadelphia-thanks-to-a-55-000-donation-from-the-eagles-a-fan-of-change-campaign",
         "date": "2026-10-30T17:30:02.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Michael Vick's iconic MNF game is now in the ESPN Fantasy Football Hall of Fame",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50322041/fantasy-football-hall-fame-michael-vick",
-        "date": "2026-10-30T14:00:41.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Spadaro: As adversity hits, new voices emerge in Eagles locker room",
-        "url": "https://www.philadelphiaeagles.com/news/saquon-barkley-landon-dickerson-as-adversity-hits-new-voices-emerge-in-eagles-locker-room",
-        "date": "2026-10-30T09:00:00.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 27 oktober met 21-38 thuis tegen Dallas. Ze staan derde van vier in de NFC East met 2 zeges en 5 nederlagen (saldo -48). In het nieuws: Saquon Barkley heeft geen blessurestatus voor het duel met de Commanders.",
-    "hash": "2896e834f9ba3f1a3516e558305c6852a7259040c4f23eba1b0fb3c41169681c",
-    "generatedAt": "2026-10-30T23:38:37.705Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, de meest recente op 27 oktober met 21-38 thuis tegen de Dallas Cowboys. Met 2 zeges en 5 nederlagen (puntensaldo -48) staan ze derde van vier in de NFC East. In het nieuws: Saquon Barkley zou geen blessurestatus hebben.",
+    "hash": "b213199bda9759e7ebec1f8e8b17ffc2ba3584fd3dd8b42dde9fc032f10e861e",
+    "generatedAt": "2026-10-31T21:26:10.654Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-30T23:38:37.705Z",
+  "updatedAt": "2026-10-31T21:26:10.654Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-30T23:38:37.705Z",
+      "updatedAt": "2026-10-31T21:26:10.654Z",
       "data": {
         "items": [
+          {
+            "title": "NFLPA names Michael Carter II as the Week 8 Community MVP",
+            "url": "https://www.philadelphiaeagles.com/news/nflpa-names-michael-carter-ii-as-the-week-8-community-mvp",
+            "date": "2026-10-31T16:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles Tackle Football Coach of the Week: Skip Edwards, Bordentown Regional High School",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-visa-tackle-football-coach-of-the-week-skip-edwards-bordentown-regional-high-school",
+            "date": "2026-10-31T13:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
           {
             "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
             "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
@@ -592,18 +604,6 @@
             "title": "HopePHL is hopeful for a better Philadelphia thanks to a $55,000 donation from the Eagles' A Fan of Change campaign",
             "url": "https://www.philadelphiaeagles.com/news/hopephl-is-hopeful-for-a-better-philadelphia-thanks-to-a-55-000-donation-from-the-eagles-a-fan-of-change-campaign",
             "date": "2026-10-30T17:30:02.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Michael Vick's iconic MNF game is now in the ESPN Fantasy Football Hall of Fame",
-            "url": "https://www.espn.com/fantasy/football/story/_/id/50322041/fantasy-football-hall-fame-michael-vick",
-            "date": "2026-10-30T14:00:41.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Spadaro: As adversity hits, new voices emerge in Eagles locker room",
-            "url": "https://www.philadelphiaeagles.com/news/saquon-barkley-landon-dickerson-as-adversity-hits-new-voices-emerge-in-eagles-locker-room",
-            "date": "2026-10-30T09:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

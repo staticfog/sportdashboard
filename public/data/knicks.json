@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-10-30T06:59:58.194Z",
+    "updatedAt": "2026-10-31T21:26:10.654Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401909280",
+        "date": "2026-10-30T23:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Philadelphia 76ers",
+        "opponentShort": "PHI",
+        "status": "final",
+        "teamScore": 93,
+        "opponentScore": 98,
+        "outcome": "V"
+      },
       {
         "id": "espn-401909886",
         "date": "2026-10-29T00:00:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 103,
         "opponentScore": 107,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401909089",
-        "date": "2026-10-20T23:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": true,
-        "opponent": "Philadelphia 76ers",
-        "opponentShort": "PHI",
-        "status": "final",
-        "teamScore": 100,
-        "opponentScore": 106,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-10-30T06:59:58.194Z",
+    "updatedAt": "2026-10-31T21:26:10.654Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401909280",
-        "date": "2026-10-30T23:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Philadelphia 76ers",
-        "opponentShort": "PHI",
-        "status": "scheduled",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401909910",
         "date": "2026-11-03T00:30:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401909960",
+        "date": "2026-11-11T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Milwaukee Bucks",
+        "opponentShort": "MIL",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-10-30T06:59:58.194Z",
+      "updatedAt": "2026-10-31T21:26:10.654Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -165,11 +165,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "4",
+              "5",
               "1",
-              ".800",
+              ".833",
               "-",
-              "W1"
+              "W2"
             ]
           },
           {
@@ -178,11 +178,11 @@
             "short": "BOS",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "1",
-              ".750",
+              ".800",
               "0.5",
-              "W3"
+              "W4"
             ]
           },
           {
@@ -192,10 +192,10 @@
             "highlight": false,
             "values": [
               "3",
-              "1",
-              ".750",
-              "0.5",
-              "W1"
+              "2",
+              ".600",
+              "1.5",
+              "L1"
             ]
           },
           {
@@ -205,10 +205,10 @@
             "highlight": true,
             "values": [
               "2",
+              "4",
+              ".333",
               "3",
-              ".400",
-              "2",
-              "W2"
+              "L1"
             ]
           },
           {
@@ -218,10 +218,10 @@
             "highlight": false,
             "values": [
               "0",
-              "4",
+              "5",
               ".000",
-              "3.5",
-              "L4"
+              "4.5",
+              "L5"
             ]
           }
         ]
@@ -230,60 +230,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-30T23:38:37.705Z",
+    "updatedAt": "2026-10-31T21:26:10.654Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Philadelphia 76ers star Brown to miss Friday NBA Cup game vs. New York Knicks",
-        "url": "https://www.espn.com/nba/story/_/id/50331446/76ers-jaylen-brown-friday-nba-cup-game",
-        "date": "2026-10-30T23:28:24.000Z",
+        "title": "Knicks Bulletin: ‘Josh said he feels the fatigue?’",
+        "url": "https://www.postingandtoasting.com/knicks-news/90769/knicks-bulletin-josh-said-he-feels-the-fatigue",
+        "date": "2026-10-31T14:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "LeBron James shines vs. Knicks in 'his best game' with 76ers",
+        "url": "https://www.espn.com/nba/story/_/id/50333418/lebron-james-shines-vs-knicks-best-game-76ers",
+        "date": "2026-10-31T12:13:21.000Z",
         "source": "ESPN"
       },
       {
-        "title": "Knicks Bulletin: ‘He’s a great guy to play off’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90726/knicks-bulletin-hes-a-great-guy-to-play-off",
-        "date": "2026-10-30T16:00:00.000Z",
+        "title": "Knicks know they need to play 'the right way' as shaky start continues",
+        "url": "https://www.espn.com/nba/story/_/id/50333242/knicks-know-need-play-right-way-shaky-start-continues",
+        "date": "2026-10-31T05:24:44.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Without injured Brown, 76ers outlast Knicks in NBA Cup Group Play",
+        "url": "https://www.espn.com/nba/story/_/id/50331446/76ers-jaylen-brown-friday-nba-cup-game",
+        "date": "2026-10-31T02:48:07.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "76ers 98, Knicks 93: “Unfortunately it took us too long to show up tonight.”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90751/76ers-98-knicks-93-unfortunately-it-took-us-too-long-to-show-up-tonight",
+        "date": "2026-10-31T02:26:16.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Jalen Brunson named Athlete of the Year by the Philadelphia Sports Writers Association",
-        "url": "https://www.postingandtoasting.com/knicks-news/90725/jalen-brunson-named-athlete-of-the-year-by-the-philadelphia-sports-writers-association",
-        "date": "2026-10-30T13:47:27.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "NBA Cup Preview: Can the Knicks pass their first title defense?",
-        "url": "https://www.postingandtoasting.com/knicks-analysis/90704/nba-cup-preview-can-the-knicks-pass-their-first-title-defense",
-        "date": "2026-10-30T12:30:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Preview: Knicks at 76ers, October 30, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90661/game-preview-knicks-at-76ers-october-30-2026",
-        "date": "2026-10-30T04:31:11.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks decline Pacôme Dadiet’s option",
-        "url": "https://www.postingandtoasting.com/knicks-news/90711/knicks-decline-pacome-dadiets-option",
-        "date": "2026-10-30T04:30:51.000Z",
-        "source": "Posting and Toasting"
+        "title": "LeBron James scores 20 points to help 76ers beat champion Knicks for 2nd time this season, 98-93",
+        "url": "http://www.espn.com/nba/recap?gameId=401909280",
+        "date": "2026-10-31T02:15:48.000Z",
+        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Na drie nederlagen op rij wonnen de Knicks twee keer achter elkaar, tegen Detroit en Chicago. Met 2-3 staan ze vierde van vijf in de Atlantic Division. In het nieuws: Jalen Brunson uitgeroepen tot Athlete of the Year door de Philadelphia Sports Writers Association.",
-    "hash": "18c45064555b5e8015dd5161e428a3e8fa60b2268185d26e25c6d4d5a61da341",
-    "generatedAt": "2026-10-30T23:38:37.705Z",
+    "text": "De Knicks staan met 2 winstpartijen en 4 nederlagen vierde van vijf in de Atlantic Division, op 3 wedstrijden van de koppositie. Na twee zeges volgde op 31 oktober een 93-98-nederlaag bij Philadelphia. In het nieuws: de Knicks moeten \"the right way\" spelen nu de wankele start aanhoudt.",
+    "hash": "7450ffa00072269f9f96c546493a3542c4e770b9d718c48467c00f20d9a5296f",
+    "generatedAt": "2026-10-31T21:26:10.654Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-30T23:38:37.705Z",
+  "updatedAt": "2026-10-31T21:26:10.654Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-10-30T06:59:58.194Z",
+      "updatedAt": "2026-10-31T21:26:10.654Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -358,10 +358,10 @@
           "home": false,
           "opponent": "Philadelphia 76ers",
           "opponentShort": "PHI",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 93,
+          "opponentScore": 98,
+          "outcome": "V"
         },
         {
           "id": "espn-401909910",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-10-30T06:59:58.194Z",
+      "updatedAt": "2026-10-31T21:26:10.654Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1347,11 +1347,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "4",
+              "5",
               "1",
-              ".800",
+              ".833",
               "-",
-              "W1"
+              "W2"
             ]
           },
           {
@@ -1360,11 +1360,11 @@
             "short": "BOS",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "1",
-              ".750",
+              ".800",
               "0.5",
-              "W3"
+              "W4"
             ]
           },
           {
@@ -1374,10 +1374,10 @@
             "highlight": false,
             "values": [
               "3",
-              "1",
-              ".750",
-              "0.5",
-              "W1"
+              "2",
+              ".600",
+              "1.5",
+              "L1"
             ]
           },
           {
@@ -1387,10 +1387,10 @@
             "highlight": true,
             "values": [
               "2",
+              "4",
+              ".333",
               "3",
-              ".400",
-              "2",
-              "W2"
+              "L1"
             ]
           },
           {
@@ -1400,10 +1400,10 @@
             "highlight": false,
             "values": [
               "0",
-              "4",
+              "5",
               ".000",
-              "3.5",
-              "L4"
+              "4.5",
+              "L5"
             ]
           }
         ]
@@ -1412,44 +1412,44 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-30T23:38:37.705Z",
+      "updatedAt": "2026-10-31T21:26:10.654Z",
       "data": {
         "items": [
           {
-            "title": "Philadelphia 76ers star Brown to miss Friday NBA Cup game vs. New York Knicks",
-            "url": "https://www.espn.com/nba/story/_/id/50331446/76ers-jaylen-brown-friday-nba-cup-game",
-            "date": "2026-10-30T23:28:24.000Z",
+            "title": "Knicks Bulletin: ‘Josh said he feels the fatigue?’",
+            "url": "https://www.postingandtoasting.com/knicks-news/90769/knicks-bulletin-josh-said-he-feels-the-fatigue",
+            "date": "2026-10-31T14:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "LeBron James shines vs. Knicks in 'his best game' with 76ers",
+            "url": "https://www.espn.com/nba/story/_/id/50333418/lebron-james-shines-vs-knicks-best-game-76ers",
+            "date": "2026-10-31T12:13:21.000Z",
             "source": "ESPN"
           },
           {
-            "title": "Knicks Bulletin: ‘He’s a great guy to play off’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90726/knicks-bulletin-hes-a-great-guy-to-play-off",
-            "date": "2026-10-30T16:00:00.000Z",
+            "title": "Knicks know they need to play 'the right way' as shaky start continues",
+            "url": "https://www.espn.com/nba/story/_/id/50333242/knicks-know-need-play-right-way-shaky-start-continues",
+            "date": "2026-10-31T05:24:44.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Without injured Brown, 76ers outlast Knicks in NBA Cup Group Play",
+            "url": "https://www.espn.com/nba/story/_/id/50331446/76ers-jaylen-brown-friday-nba-cup-game",
+            "date": "2026-10-31T02:48:07.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "76ers 98, Knicks 93: “Unfortunately it took us too long to show up tonight.”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90751/76ers-98-knicks-93-unfortunately-it-took-us-too-long-to-show-up-tonight",
+            "date": "2026-10-31T02:26:16.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Jalen Brunson named Athlete of the Year by the Philadelphia Sports Writers Association",
-            "url": "https://www.postingandtoasting.com/knicks-news/90725/jalen-brunson-named-athlete-of-the-year-by-the-philadelphia-sports-writers-association",
-            "date": "2026-10-30T13:47:27.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "NBA Cup Preview: Can the Knicks pass their first title defense?",
-            "url": "https://www.postingandtoasting.com/knicks-analysis/90704/nba-cup-preview-can-the-knicks-pass-their-first-title-defense",
-            "date": "2026-10-30T12:30:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Preview: Knicks at 76ers, October 30, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90661/game-preview-knicks-at-76ers-october-30-2026",
-            "date": "2026-10-30T04:31:11.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks decline Pacôme Dadiet’s option",
-            "url": "https://www.postingandtoasting.com/knicks-news/90711/knicks-decline-pacome-dadiets-option",
-            "date": "2026-10-30T04:30:51.000Z",
-            "source": "Posting and Toasting"
+            "title": "LeBron James scores 20 points to help 76ers beat champion Knicks for 2nd time this season, 98-93",
+            "url": "http://www.espn.com/nba/recap?gameId=401909280",
+            "date": "2026-10-31T02:15:48.000Z",
+            "source": "ESPN"
           }
         ],
         "failedSources": [],
