@@ -217,9 +217,15 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-31T21:26:10.654Z",
+    "updatedAt": "2026-11-01T00:59:53.345Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
+        "date": "2026-11-01T00:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
       {
         "title": "NFLPA names Michael Carter II as the Week 8 Community MVP",
         "url": "https://www.philadelphiaeagles.com/news/nflpa-names-michael-carter-ii-as-the-week-8-community-mvp",
@@ -249,24 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
         "date": "2026-10-30T19:51:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "HopePHL is hopeful for a better Philadelphia thanks to a $55,000 donation from the Eagles' A Fan of Change campaign",
-        "url": "https://www.philadelphiaeagles.com/news/hopephl-is-hopeful-for-a-better-philadelphia-thanks-to-a-55-000-donation-from-the-eagles-a-fan-of-change-campaign",
-        "date": "2026-10-30T17:30:02.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, de meest recente op 27 oktober met 21-38 thuis tegen de Dallas Cowboys. Met 2 zeges en 5 nederlagen (puntensaldo -48) staan ze derde van vier in de NFC East. In het nieuws: Saquon Barkley zou geen blessurestatus hebben.",
-    "hash": "b213199bda9759e7ebec1f8e8b17ffc2ba3584fd3dd8b42dde9fc032f10e861e",
-    "generatedAt": "2026-10-31T21:26:10.654Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 27 oktober thuis met 21-38 van de Dallas Cowboys. Met 2 zeges, 5 nederlagen en een saldo van -48 staan ze derde van vier in de NFC East. In het nieuws: Saquon Barkley zonder blessurestatus voor het duel met de Commanders.",
+    "hash": "62237c2712f795e493251415853b89f9de72c7a58b54e7b3bb69d3ea82c47906",
+    "generatedAt": "2026-11-01T00:59:53.345Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-31T21:26:10.654Z",
+  "updatedAt": "2026-11-01T00:59:53.345Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,15 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-31T21:26:10.654Z",
+      "updatedAt": "2026-11-01T00:59:53.345Z",
       "data": {
         "items": [
+          {
+            "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
+            "date": "2026-11-01T00:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
           {
             "title": "NFLPA names Michael Carter II as the Week 8 Community MVP",
             "url": "https://www.philadelphiaeagles.com/news/nflpa-names-michael-carter-ii-as-the-week-8-community-mvp",
@@ -598,12 +604,6 @@
             "title": "Eagles at Commanders Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
             "date": "2026-10-30T19:51:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "HopePHL is hopeful for a better Philadelphia thanks to a $55,000 donation from the Eagles' A Fan of Change campaign",
-            "url": "https://www.philadelphiaeagles.com/news/hopephl-is-hopeful-for-a-better-philadelphia-thanks-to-a-55-000-donation-from-the-eagles-a-fan-of-change-campaign",
-            "date": "2026-10-30T17:30:02.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

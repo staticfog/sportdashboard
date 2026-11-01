@@ -16,9 +16,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-10-31T21:26:10.654Z",
+    "updatedAt": "2026-11-01T00:59:53.345Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401875562",
+        "date": "2026-10-31T20:00:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": true,
+        "opponent": "AZ Alkmaar",
+        "opponentShort": "AZ",
+        "status": "final",
+        "teamScore": 1,
+        "opponentScore": 0,
+        "outcome": "W"
+      },
       {
         "id": "espn-401875567",
         "date": "2026-10-25T15:45:00.000Z",
@@ -70,40 +83,14 @@
         "teamScore": 1,
         "opponentScore": 2,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401875589",
-        "date": "2026-10-10T19:00:00.000Z",
-        "timeKnown": true,
-        "competition": "Eredivisie",
-        "home": true,
-        "opponent": "NEC Nijmegen",
-        "opponentShort": "NEC",
-        "status": "final",
-        "teamScore": 1,
-        "opponentScore": 1,
-        "outcome": "G"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-10-31T21:26:10.654Z",
+    "updatedAt": "2026-11-01T00:59:53.345Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401875562",
-        "date": "2026-10-31T20:00:00.000Z",
-        "timeKnown": true,
-        "competition": "Eredivisie",
-        "home": true,
-        "opponent": "AZ Alkmaar",
-        "opponentShort": "AZ",
-        "status": "live",
-        "teamScore": 1,
-        "opponentScore": 0,
-        "outcome": null
-      },
       {
         "id": "espn-401915829",
         "date": "2026-11-05T17:45:00.000Z",
@@ -142,6 +129,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401915815",
+        "date": "2026-11-26T17:45:00.000Z",
+        "timeKnown": true,
+        "competition": "Conference League",
+        "home": true,
+        "opponent": "FC Thun",
+        "opponentShort": "THUN",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -149,7 +149,7 @@
     {
       "label": "Eredivisie",
       "status": "ok",
-      "updatedAt": "2026-10-31T21:26:10.654Z",
+      "updatedAt": "2026-11-01T00:59:53.345Z",
       "table": {
         "name": "Eredivisie",
         "columns": [
@@ -177,6 +177,20 @@
           },
           {
             "rank": 2,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "11",
+              "7",
+              "3",
+              "1",
+              "+17",
+              "24"
+            ]
+          },
+          {
+            "rank": 3,
             "team": "PSV Eindhoven",
             "short": "PSV",
             "highlight": false,
@@ -187,20 +201,6 @@
               "2",
               "+22",
               "23"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "Ajax Amsterdam",
-            "short": "AJA",
-            "highlight": true,
-            "values": [
-              "10",
-              "6",
-              "3",
-              "1",
-              "+16",
-              "21"
             ]
           },
           {
@@ -223,11 +223,11 @@
             "short": "AZ",
             "highlight": false,
             "values": [
-              "10",
+              "11",
               "6",
               "2",
-              "2",
-              "+8",
+              "3",
+              "+7",
               "20"
             ]
           },
@@ -275,30 +275,30 @@
           },
           {
             "rank": 9,
-            "team": "Go Ahead Eagles",
-            "short": "GAE",
-            "highlight": false,
-            "values": [
-              "10",
-              "3",
-              "5",
-              "2",
-              "0",
-              "14"
-            ]
-          },
-          {
-            "rank": 10,
             "team": "SC Cambuur",
             "short": "CAM",
             "highlight": false,
             "values": [
-              "10",
-              "3",
+              "11",
+              "4",
               "3",
               "4",
-              "-3",
-              "12"
+              "+1",
+              "15"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "11",
+              "3",
+              "5",
+              "3",
+              "-4",
+              "14"
             ]
           },
           {
@@ -941,12 +941,24 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-10-31T21:26:10.654Z",
+    "updatedAt": "2026-11-01T00:59:53.345Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Ajax vroeg op voorsprong tegen AZ na goal Tolu, Brandt valt geblesseerd uit",
-        "url": "https://www.parool.nl/amsterdam/ajax-vroeg-op-voorsprong-tegen-az-na-goal-tolu-brandt-valt-geblesseerd-uit~bc201fcd2/",
+        "title": "Ajax verslaat AZ voor het eerst in ruim vier jaar en nadert Feyenoord tot één punt",
+        "url": "https://www.parool.nl/ajax/ajax-verslaat-az-voor-het-eerst-in-ruim-vier-jaar-en-nadert-feyenoord-tot-een-punt~bc5c6300/",
+        "date": "2026-10-31T22:13:06.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "Ajax verlost zich van AZ-syndroom dankzij vroege treffer Arokodare",
+        "url": "https://nos.nl/l/2637526",
+        "date": "2026-10-31T21:59:06.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Ajax verslaat AZ door vroege kopgoal van Tolu, Brandt geblesseerd",
+        "url": "https://www.parool.nl/amsterdam/ajax-verslaat-az-door-vroege-kopgoal-van-tolu-brandt-geblesseerd~bc201fcd2/",
         "date": "2026-10-31T19:30:00.000Z",
         "source": "Het Parool"
       },
@@ -967,35 +979,36 @@
         "url": "https://nos.nl/l/2637322",
         "date": "2026-10-30T15:26:28.000Z",
         "source": "NOS"
-      },
-      {
-        "title": "Tolu of Leonardo, wie is de beste spits voor Ajax?",
-        "url": "https://www.parool.nl/video/tolu-of-leonardo-wie-is-de-beste-spits-voor-ajax~bd58f06f/",
-        "date": "2026-10-30T09:45:00.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Tolu Arokodare versus Marcos Leonardo: wie is de beste spits voor Ajax op basis van de statistieken?",
-        "url": "https://www.parool.nl/kunst-media/tolu-arokodare-versus-marcos-leonardo-wie-is-de-beste-spits-voor-ajax-op-basis-van-de-statistieken~b7201e02/",
-        "date": "2026-10-30T02:00:00.000Z",
-        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax heeft drie wedstrijden op rij gewonnen, waaronder 2-0 tegen Atalanta in de Conference League. In de Eredivisie staat de ploeg derde van 18 met 21 punten, in de Conference League dertiende van 36. In het nieuws: bij de loting van de KNVB-beker kreeg Ajax een thuisduel.",
-    "hash": "bc963d24f8dc1620fd348024c2618fb6928645eab957dd37e6d40fbfb6c2461a",
-    "generatedAt": "2026-10-31T21:26:10.654Z",
+    "text": "Ajax heeft vier wedstrijden op rij gewonnen, de laatste op 31 oktober met 1-0 thuis tegen AZ. In de Eredivisie staat Ajax tweede met 24 punten uit 11 duels, in de Conference League dertiende. In het nieuws: Ajax zou Feyenoord tot één punt naderen, en er wordt geschreven over een blessure van Brandt.",
+    "hash": "53a89858ac2cc4550778d9dc24eb55c8bb99569aa4ace1504c022073506f7771",
+    "generatedAt": "2026-11-01T00:59:53.345Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-10-31T21:26:10.654Z",
+  "updatedAt": "2026-11-01T00:59:53.345Z",
   "sections": {
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
-      "updatedAt": "2026-10-31T21:26:10.654Z",
+      "updatedAt": "2026-11-01T00:59:53.345Z",
       "data": [
+        {
+          "id": "espn-401875562",
+          "date": "2026-10-31T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": true,
+          "opponent": "AZ Alkmaar",
+          "opponentShort": "AZ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
         {
           "id": "espn-401875567",
           "date": "2026-10-25T15:45:00.000Z",
@@ -1125,19 +1138,6 @@
           "teamScore": 2,
           "opponentScore": 0,
           "outcome": "W"
-        },
-        {
-          "id": "espn-401875562",
-          "date": "2026-10-31T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Eredivisie",
-          "home": true,
-          "opponent": "AZ Alkmaar",
-          "opponentShort": "AZ",
-          "status": "live",
-          "teamScore": 1,
-          "opponentScore": 0,
-          "outcome": null
         },
         {
           "id": "espn-401875550",
@@ -1524,6 +1524,276 @@
           "outcome": null
         }
       ],
+      "error": null
+    },
+    "standings:espn-soccer/ned.1-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-01T00:59:53.345Z",
+      "data": {
+        "name": "Eredivisie",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Feyenoord Rotterdam",
+            "short": "FEY",
+            "highlight": false,
+            "values": [
+              "11",
+              "7",
+              "4",
+              "0",
+              "+21",
+              "25"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "11",
+              "7",
+              "3",
+              "1",
+              "+17",
+              "24"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "11",
+              "7",
+              "2",
+              "2",
+              "+22",
+              "23"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "10",
+              "6",
+              "2",
+              "2",
+              "+9",
+              "20"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "11",
+              "6",
+              "2",
+              "3",
+              "+7",
+              "20"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "Fortuna Sittard",
+            "short": "FOR",
+            "highlight": false,
+            "values": [
+              "11",
+              "5",
+              "4",
+              "2",
+              "0",
+              "19"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Heerenveen",
+            "short": "HEE",
+            "highlight": false,
+            "values": [
+              "11",
+              "5",
+              "3",
+              "3",
+              "+6",
+              "18"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "FC Groningen",
+            "short": "GRO",
+            "highlight": false,
+            "values": [
+              "10",
+              "4",
+              "3",
+              "3",
+              "+3",
+              "15"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "SC Cambuur",
+            "short": "CAM",
+            "highlight": false,
+            "values": [
+              "11",
+              "4",
+              "3",
+              "4",
+              "+1",
+              "15"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "11",
+              "3",
+              "5",
+              "3",
+              "-4",
+              "14"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "FC Utrecht",
+            "short": "UTR",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "3",
+              "4",
+              "-10",
+              "12"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "Excelsior",
+            "short": "EXC",
+            "highlight": false,
+            "values": [
+              "10",
+              "3",
+              "2",
+              "5",
+              "-3",
+              "11"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "NEC Nijmegen",
+            "short": "NEC",
+            "highlight": false,
+            "values": [
+              "11",
+              "2",
+              "5",
+              "4",
+              "-2",
+              "11"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "Sparta Rotterdam",
+            "short": "SPA",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "3",
+              "5",
+              "-7",
+              "9"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "PEC Zwolle",
+            "short": "PEC",
+            "highlight": false,
+            "values": [
+              "10",
+              "2",
+              "2",
+              "6",
+              "-12",
+              "8"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Telstar",
+            "short": "TEL",
+            "highlight": false,
+            "values": [
+              "10",
+              "1",
+              "3",
+              "6",
+              "-9",
+              "6"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "ADO Den Haag",
+            "short": "ADO",
+            "highlight": false,
+            "values": [
+              "10",
+              "1",
+              "3",
+              "6",
+              "-10",
+              "6"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "Willem II",
+            "short": "WIL",
+            "highlight": false,
+            "values": [
+              "11",
+              "0",
+              "2",
+              "9",
+              "-29",
+              "2"
+            ]
+          }
+        ]
+      },
       "error": null
     },
     "standings:espn-soccer/uefa.europa.conf-139": {
@@ -2048,284 +2318,26 @@
       },
       "error": null
     },
-    "standings:espn-soccer/ned.1-139": {
-      "status": "ok",
-      "updatedAt": "2026-10-31T21:26:10.654Z",
-      "data": {
-        "name": "Eredivisie",
-        "columns": [
-          "GS",
-          "W",
-          "G",
-          "V",
-          "DS",
-          "P"
-        ],
-        "rows": [
-          {
-            "rank": 1,
-            "team": "Feyenoord Rotterdam",
-            "short": "FEY",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "4",
-              "0",
-              "+21",
-              "25"
-            ]
-          },
-          {
-            "rank": 2,
-            "team": "PSV Eindhoven",
-            "short": "PSV",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "2",
-              "2",
-              "+22",
-              "23"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "Ajax Amsterdam",
-            "short": "AJA",
-            "highlight": true,
-            "values": [
-              "10",
-              "6",
-              "3",
-              "1",
-              "+16",
-              "21"
-            ]
-          },
-          {
-            "rank": 4,
-            "team": "FC Twente",
-            "short": "TWE",
-            "highlight": false,
-            "values": [
-              "10",
-              "6",
-              "2",
-              "2",
-              "+9",
-              "20"
-            ]
-          },
-          {
-            "rank": 5,
-            "team": "AZ Alkmaar",
-            "short": "AZ",
-            "highlight": false,
-            "values": [
-              "10",
-              "6",
-              "2",
-              "2",
-              "+8",
-              "20"
-            ]
-          },
-          {
-            "rank": 6,
-            "team": "Fortuna Sittard",
-            "short": "FOR",
-            "highlight": false,
-            "values": [
-              "11",
-              "5",
-              "4",
-              "2",
-              "0",
-              "19"
-            ]
-          },
-          {
-            "rank": 7,
-            "team": "Heerenveen",
-            "short": "HEE",
-            "highlight": false,
-            "values": [
-              "11",
-              "5",
-              "3",
-              "3",
-              "+6",
-              "18"
-            ]
-          },
-          {
-            "rank": 8,
-            "team": "FC Groningen",
-            "short": "GRO",
-            "highlight": false,
-            "values": [
-              "10",
-              "4",
-              "3",
-              "3",
-              "+3",
-              "15"
-            ]
-          },
-          {
-            "rank": 9,
-            "team": "Go Ahead Eagles",
-            "short": "GAE",
-            "highlight": false,
-            "values": [
-              "10",
-              "3",
-              "5",
-              "2",
-              "0",
-              "14"
-            ]
-          },
-          {
-            "rank": 10,
-            "team": "SC Cambuur",
-            "short": "CAM",
-            "highlight": false,
-            "values": [
-              "10",
-              "3",
-              "3",
-              "4",
-              "-3",
-              "12"
-            ]
-          },
-          {
-            "rank": 11,
-            "team": "FC Utrecht",
-            "short": "UTR",
-            "highlight": false,
-            "values": [
-              "10",
-              "3",
-              "3",
-              "4",
-              "-10",
-              "12"
-            ]
-          },
-          {
-            "rank": 12,
-            "team": "Excelsior",
-            "short": "EXC",
-            "highlight": false,
-            "values": [
-              "10",
-              "3",
-              "2",
-              "5",
-              "-3",
-              "11"
-            ]
-          },
-          {
-            "rank": 13,
-            "team": "NEC Nijmegen",
-            "short": "NEC",
-            "highlight": false,
-            "values": [
-              "11",
-              "2",
-              "5",
-              "4",
-              "-2",
-              "11"
-            ]
-          },
-          {
-            "rank": 14,
-            "team": "Sparta Rotterdam",
-            "short": "SPA",
-            "highlight": false,
-            "values": [
-              "10",
-              "2",
-              "3",
-              "5",
-              "-7",
-              "9"
-            ]
-          },
-          {
-            "rank": 15,
-            "team": "PEC Zwolle",
-            "short": "PEC",
-            "highlight": false,
-            "values": [
-              "10",
-              "2",
-              "2",
-              "6",
-              "-12",
-              "8"
-            ]
-          },
-          {
-            "rank": 16,
-            "team": "Telstar",
-            "short": "TEL",
-            "highlight": false,
-            "values": [
-              "10",
-              "1",
-              "3",
-              "6",
-              "-9",
-              "6"
-            ]
-          },
-          {
-            "rank": 17,
-            "team": "ADO Den Haag",
-            "short": "ADO",
-            "highlight": false,
-            "values": [
-              "10",
-              "1",
-              "3",
-              "6",
-              "-10",
-              "6"
-            ]
-          },
-          {
-            "rank": 18,
-            "team": "Willem II",
-            "short": "WIL",
-            "highlight": false,
-            "values": [
-              "11",
-              "0",
-              "2",
-              "9",
-              "-29",
-              "2"
-            ]
-          }
-        ]
-      },
-      "error": null
-    },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-10-31T21:26:10.654Z",
+      "updatedAt": "2026-11-01T00:59:53.345Z",
       "data": {
         "items": [
           {
-            "title": "Ajax vroeg op voorsprong tegen AZ na goal Tolu, Brandt valt geblesseerd uit",
-            "url": "https://www.parool.nl/amsterdam/ajax-vroeg-op-voorsprong-tegen-az-na-goal-tolu-brandt-valt-geblesseerd-uit~bc201fcd2/",
+            "title": "Ajax verslaat AZ voor het eerst in ruim vier jaar en nadert Feyenoord tot één punt",
+            "url": "https://www.parool.nl/ajax/ajax-verslaat-az-voor-het-eerst-in-ruim-vier-jaar-en-nadert-feyenoord-tot-een-punt~bc5c6300/",
+            "date": "2026-10-31T22:13:06.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "Ajax verlost zich van AZ-syndroom dankzij vroege treffer Arokodare",
+            "url": "https://nos.nl/l/2637526",
+            "date": "2026-10-31T21:59:06.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Ajax verslaat AZ door vroege kopgoal van Tolu, Brandt geblesseerd",
+            "url": "https://www.parool.nl/amsterdam/ajax-verslaat-az-door-vroege-kopgoal-van-tolu-brandt-geblesseerd~bc201fcd2/",
             "date": "2026-10-31T19:30:00.000Z",
             "source": "Het Parool"
           },
@@ -2346,18 +2358,6 @@
             "url": "https://nos.nl/l/2637322",
             "date": "2026-10-30T15:26:28.000Z",
             "source": "NOS"
-          },
-          {
-            "title": "Tolu of Leonardo, wie is de beste spits voor Ajax?",
-            "url": "https://www.parool.nl/video/tolu-of-leonardo-wie-is-de-beste-spits-voor-ajax~bd58f06f/",
-            "date": "2026-10-30T09:45:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Tolu Arokodare versus Marcos Leonardo: wie is de beste spits voor Ajax op basis van de statistieken?",
-            "url": "https://www.parool.nl/kunst-media/tolu-arokodare-versus-marcos-leonardo-wie-is-de-beste-spits-voor-ajax-op-basis-van-de-statistieken~b7201e02/",
-            "date": "2026-10-30T02:00:00.000Z",
-            "source": "Het Parool"
           }
         ],
         "failedSources": [],
