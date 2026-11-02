@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "updatedAt": "2026-11-02T05:51:09.807Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401873035",
+        "date": "2026-11-02T01:20:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Washington Commanders",
+        "opponentShort": "WSH",
+        "status": "final",
+        "teamScore": 10,
+        "opponentScore": 27,
+        "outcome": "V"
+      },
       {
         "id": "espn-401873009",
         "date": "2026-10-27T00:15:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 20,
         "opponentScore": 24,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401872963",
-        "date": "2026-09-29T00:15:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": false,
-        "opponent": "Chicago Bears",
-        "opponentShort": "CHI",
-        "status": "final",
-        "teamScore": 7,
-        "opponentScore": 27,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-10-28T14:46:31.994Z",
+    "updatedAt": "2026-11-02T05:51:09.807Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401873035",
-        "date": "2026-11-02T01:20:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": false,
-        "opponent": "Washington Commanders",
-        "opponentShort": "WSH",
-        "status": "scheduled",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401873044",
         "date": "2026-11-08T18:00:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401873104",
+        "date": "2026-12-06T21:05:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Arizona Cardinals",
+        "opponentShort": "ARI",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-11-02T05:51:09.807Z",
       "table": {
         "name": "NFC East",
         "columns": [
@@ -179,36 +179,36 @@
             "highlight": false,
             "values": [
               "3",
-              "4",
+              "5",
               "0",
-              ".429",
-              "+9"
+              ".375",
+              "+6"
             ]
           },
           {
             "rank": 3,
+            "team": "Washington Commanders",
+            "short": "WSH",
+            "highlight": false,
+            "values": [
+              "2",
+              "4",
+              "1",
+              ".357",
+              "-23"
+            ]
+          },
+          {
+            "rank": 4,
             "team": "Philadelphia Eagles",
             "short": "PHI",
             "highlight": true,
             "values": [
               "2",
-              "5",
+              "6",
               "0",
-              ".286",
-              "-48"
-            ]
-          },
-          {
-            "rank": 4,
-            "team": "Washington Commanders",
-            "short": "WSH",
-            "highlight": false,
-            "values": [
-              "1",
-              "4",
-              "1",
               ".250",
-              "-40"
+              "-65"
             ]
           }
         ]
@@ -217,60 +217,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-01T00:59:53.345Z",
+    "updatedAt": "2026-11-02T05:51:09.807Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
-        "date": "2026-11-01T00:00:00.000Z",
+        "title": "Game Recap: Commanders 27, Eagles 10",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
+        "date": "2026-11-02T05:13:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "NFLPA names Michael Carter II as the Week 8 Community MVP",
-        "url": "https://www.philadelphiaeagles.com/news/nflpa-names-michael-carter-ii-as-the-week-8-community-mvp",
-        "date": "2026-10-31T16:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles Tackle Football Coach of the Week: Skip Edwards, Bordentown Regional High School",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-visa-tackle-football-coach-of-the-week-skip-edwards-bordentown-regional-high-school",
-        "date": "2026-10-31T13:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
-        "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
-        "date": "2026-10-30T21:13:22.000Z",
+        "title": "Jayden Daniels throws TD pass and Commanders shut out Eagles over final 3 quarters of 27-10 win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873035",
+        "date": "2026-11-02T04:43:47.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "Eagles at Commanders Inactives",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-inactives-nfl-2026-week-8-sunday-night-football",
+        "date": "2026-11-01T23:50:00.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Spadaro: Game Preview at Commanders, 6 storylines to follow",
         "url": "https://www.philadelphiaeagles.com/news/game-preview-eagles-at-commanders-6-storylines-to-follow-tanner-mckee-jayden-daniels-2026-nfl-week-8-sunday-night-football",
-        "date": "2026-10-30T21:00:00.000Z",
+        "date": "2026-11-01T04:15:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Eagles at Commanders Injury Report",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
-        "date": "2026-10-30T19:51:00.000Z",
+        "title": "How to watch, stream, and listen | Eagles at Commanders",
+        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
+        "date": "2026-11-01T04:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
+        "date": "2026-11-01T00:00:00.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 27 oktober thuis met 21-38 van de Dallas Cowboys. Met 2 zeges, 5 nederlagen en een saldo van -48 staan ze derde van vier in de NFC East. In het nieuws: Saquon Barkley zonder blessurestatus voor het duel met de Commanders.",
-    "hash": "62237c2712f795e493251415853b89f9de72c7a58b54e7b3bb69d3ea82c47906",
-    "generatedAt": "2026-11-01T00:59:53.345Z",
+    "text": "De Philadelphia Eagles zitten in een slechte reeks: de laatste vijf wedstrijden gingen allemaal verloren, als laatste met 10-27 bij de Washington Commanders op 2 november. In de NFC East staan ze vierde en laatste met 2 winstpartijen, 6 nederlagen en een puntensaldo van -65. In het nieuws: de Commanders zouden na het eerste kwart niet meer gescoord hebben tegen de Eagles.",
+    "hash": "2d5c2b239becf62a1f96864aed7f793e3081c407f54a5420349bbe92db036543",
+    "generatedAt": "2026-11-02T05:51:09.807Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-01T00:59:53.345Z",
+  "updatedAt": "2026-11-02T05:51:09.807Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-11-02T05:51:09.807Z",
       "data": [
         {
           "id": "espn-401872929",
@@ -371,10 +371,10 @@
           "home": false,
           "opponent": "Washington Commanders",
           "opponentShort": "WSH",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 10,
+          "opponentScore": 27,
+          "outcome": "V"
         },
         {
           "id": "espn-401873044",
@@ -498,7 +498,7 @@
     },
     "standings:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-10-28T14:46:31.994Z",
+      "updatedAt": "2026-11-02T05:51:09.807Z",
       "data": {
         "name": "NFC East",
         "columns": [
@@ -529,36 +529,36 @@
             "highlight": false,
             "values": [
               "3",
-              "4",
+              "5",
               "0",
-              ".429",
-              "+9"
+              ".375",
+              "+6"
             ]
           },
           {
             "rank": 3,
+            "team": "Washington Commanders",
+            "short": "WSH",
+            "highlight": false,
+            "values": [
+              "2",
+              "4",
+              "1",
+              ".357",
+              "-23"
+            ]
+          },
+          {
+            "rank": 4,
             "team": "Philadelphia Eagles",
             "short": "PHI",
             "highlight": true,
             "values": [
               "2",
-              "5",
+              "6",
               "0",
-              ".286",
-              "-48"
-            ]
-          },
-          {
-            "rank": 4,
-            "team": "Washington Commanders",
-            "short": "WSH",
-            "highlight": false,
-            "values": [
-              "1",
-              "4",
-              "1",
               ".250",
-              "-40"
+              "-65"
             ]
           }
         ]
@@ -567,43 +567,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-01T00:59:53.345Z",
+      "updatedAt": "2026-11-02T05:51:09.807Z",
       "data": {
         "items": [
           {
-            "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
-            "date": "2026-11-01T00:00:00.000Z",
+            "title": "Game Recap: Commanders 27, Eagles 10",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
+            "date": "2026-11-02T05:13:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "NFLPA names Michael Carter II as the Week 8 Community MVP",
-            "url": "https://www.philadelphiaeagles.com/news/nflpa-names-michael-carter-ii-as-the-week-8-community-mvp",
-            "date": "2026-10-31T16:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles Tackle Football Coach of the Week: Skip Edwards, Bordentown Regional High School",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-visa-tackle-football-coach-of-the-week-skip-edwards-bordentown-regional-high-school",
-            "date": "2026-10-31T13:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
-            "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
-            "date": "2026-10-30T21:13:22.000Z",
+            "title": "Jayden Daniels throws TD pass and Commanders shut out Eagles over final 3 quarters of 27-10 win",
+            "url": "http://www.espn.com/nfl/recap?gameId=401873035",
+            "date": "2026-11-02T04:43:47.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "Eagles at Commanders Inactives",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-inactives-nfl-2026-week-8-sunday-night-football",
+            "date": "2026-11-01T23:50:00.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Spadaro: Game Preview at Commanders, 6 storylines to follow",
             "url": "https://www.philadelphiaeagles.com/news/game-preview-eagles-at-commanders-6-storylines-to-follow-tanner-mckee-jayden-daniels-2026-nfl-week-8-sunday-night-football",
-            "date": "2026-10-30T21:00:00.000Z",
+            "date": "2026-11-01T04:15:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Eagles at Commanders Injury Report",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-injury-report-2026-nfl-week-8-sunday-night-football-saquon-barkley-devonta-smith",
-            "date": "2026-10-30T19:51:00.000Z",
+            "title": "How to watch, stream, and listen | Eagles at Commanders",
+            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
+            "date": "2026-11-01T04:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
+            "date": "2026-11-01T00:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
