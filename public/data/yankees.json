@@ -177,13 +177,37 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-02T05:51:09.807Z",
+    "updatedAt": "2026-11-03T06:34:09.078Z",
     "failedSources": [],
     "items": [
       {
         "title": "Watch Yankees prospects in Arizona Fall League action",
         "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-        "date": "2026-11-02T05:10:00.000Z",
+        "date": "2026-11-03T06:04:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Schlittler named AL Cy Young finalist on heels of dominant season",
+        "url": "https://www.mlb.com/yankees/news/cam-schlittler-2026-al-cy-young-award-finalist",
+        "date": "2026-11-03T01:32:53.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Checking in on top prospects in winter ball",
+        "url": "https://www.mlb.com/yankees/news/top-prospects-in-winter-ball-2026",
+        "date": "2026-11-03T00:41:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Yankees extend qualifying offer to Bednar, but not Chisholm",
+        "url": "https://www.mlb.com/yankees/news/david-bednar-receives-qualifying-offer-from-yankees",
+        "date": "2026-11-02T23:05:13.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Bill White up for Hall on Contemporary Baseball Era Ballot",
+        "url": "https://www.mlb.com/yankees/news/hall-of-fame-2026-contemporary-baseball-era-ballot-nominees",
+        "date": "2026-11-02T16:03:28.000Z",
         "source": "MLB.com"
       },
       {
@@ -191,42 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/cody-bellinger-wins-2026-gold-glove-award",
         "date": "2026-11-02T04:15:00.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "RHP Cade Smith wins Minor League Gold Glove",
-        "url": "https://www.mlb.com/yankees/news/here-are-2026-s-milb-gold-glove-winners",
-        "date": "2026-11-02T02:30:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "1B West among Fall League's Week 4 top performers",
-        "url": "https://www.mlb.com/yankees/news/arizona-fall-league-top-performers-week-4-2026",
-        "date": "2026-11-01T23:40:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Bellinger (LF), Wells (C), Caballero (UTIL) nominated for Gold Gloves",
-        "url": "https://www.mlb.com/yankees/news/2026-gold-glove-award-finalists",
-        "date": "2026-11-01T04:00:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "The best moment from each series during the playoffs",
-        "url": "https://www.mlb.com/yankees/news/best-postseason-moments-2026",
-        "date": "2026-10-30T15:35:00.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na twee ruime zeges op Boston in de Wild Card Series werden ze in de AL Division Series in drie duels uitgeschakeld door Tampa Bay, het laatst op 8 oktober (3-4). In de AL East werden ze tweede van vijf (93-68). In het nieuws: Yankees-talenten in actie in de Arizona Fall League.",
-    "hash": "508fac62fa5bccc2bda6315a318afd9832a4f4b7f159d872f3335e731ddc0694",
-    "generatedAt": "2026-11-02T05:51:09.807Z",
+    "text": "De Yankees zitten buiten het seizoen. Na twee Wild Card-zeges op de Boston Red Sox verloren ze de AL Division Series met 0-3 van de Tampa Bay Rays (laatste duel 8 okt). In de AL East werden ze tweede van vijf (93-68). In het nieuws: een qualifying offer voor Bednar, niet voor Chisholm.",
+    "hash": "6e7bf86a693362fbc753a835529463b718558ae4ef78f5f82c972af14c7e25d3",
+    "generatedAt": "2026-11-03T06:34:09.078Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-02T05:51:09.807Z",
+  "updatedAt": "2026-11-03T06:34:09.078Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,43 +2542,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-03T06:34:09.078Z",
       "data": {
         "items": [
           {
             "title": "Watch Yankees prospects in Arizona Fall League action",
             "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-            "date": "2026-11-02T05:10:00.000Z",
+            "date": "2026-11-03T06:04:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Schlittler named AL Cy Young finalist on heels of dominant season",
+            "url": "https://www.mlb.com/yankees/news/cam-schlittler-2026-al-cy-young-award-finalist",
+            "date": "2026-11-03T01:32:53.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Checking in on top prospects in winter ball",
+            "url": "https://www.mlb.com/yankees/news/top-prospects-in-winter-ball-2026",
+            "date": "2026-11-03T00:41:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Yankees extend qualifying offer to Bednar, but not Chisholm",
+            "url": "https://www.mlb.com/yankees/news/david-bednar-receives-qualifying-offer-from-yankees",
+            "date": "2026-11-02T23:05:13.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Bill White up for Hall on Contemporary Baseball Era Ballot",
+            "url": "https://www.mlb.com/yankees/news/hall-of-fame-2026-contemporary-baseball-era-ballot-nominees",
+            "date": "2026-11-02T16:03:28.000Z",
             "source": "MLB.com"
           },
           {
             "title": "Bellinger's rock-solid LF defense rewarded with 2nd career Gold Glove",
             "url": "https://www.mlb.com/yankees/news/cody-bellinger-wins-2026-gold-glove-award",
             "date": "2026-11-02T04:15:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "RHP Cade Smith wins Minor League Gold Glove",
-            "url": "https://www.mlb.com/yankees/news/here-are-2026-s-milb-gold-glove-winners",
-            "date": "2026-11-02T02:30:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "1B West among Fall League's Week 4 top performers",
-            "url": "https://www.mlb.com/yankees/news/arizona-fall-league-top-performers-week-4-2026",
-            "date": "2026-11-01T23:40:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Bellinger (LF), Wells (C), Caballero (UTIL) nominated for Gold Gloves",
-            "url": "https://www.mlb.com/yankees/news/2026-gold-glove-award-finalists",
-            "date": "2026-11-01T04:00:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "The best moment from each series during the playoffs",
-            "url": "https://www.mlb.com/yankees/news/best-postseason-moments-2026",
-            "date": "2026-10-30T15:35:00.000Z",
             "source": "MLB.com"
           }
         ],

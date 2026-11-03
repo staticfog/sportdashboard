@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-10-31T21:26:10.654Z",
+    "updatedAt": "2026-11-03T06:34:09.078Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401909910",
+        "date": "2026-11-03T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Brooklyn Nets",
+        "opponentShort": "BKN",
+        "status": "final",
+        "teamScore": 103,
+        "opponentScore": 90,
+        "outcome": "W"
+      },
       {
         "id": "espn-401909280",
         "date": "2026-10-30T23:30:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 102,
         "opponentScore": 111,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401909095",
-        "date": "2026-10-23T23:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Boston Celtics",
-        "opponentShort": "BOS",
-        "status": "final",
-        "teamScore": 103,
-        "opponentScore": 107,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-10-31T21:26:10.654Z",
+    "updatedAt": "2026-11-03T06:34:09.078Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401909910",
-        "date": "2026-11-03T00:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": true,
-        "opponent": "Brooklyn Nets",
-        "opponentShort": "BKN",
-        "status": "scheduled",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401909926",
         "date": "2026-11-05T00:30:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401909967",
+        "date": "2026-11-12T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Cleveland Cavaliers",
+        "opponentShort": "CLE",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-03T06:34:09.078Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -165,11 +165,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "6",
+              "7",
               "1",
-              ".857",
+              ".875",
               "-",
-              "W3"
+              "W4"
             ]
           },
           {
@@ -179,10 +179,10 @@
             "highlight": false,
             "values": [
               "5",
-              "1",
-              ".833",
-              "0.5",
-              "W5"
+              "2",
+              ".714",
+              "1.5",
+              "L1"
             ]
           },
           {
@@ -191,11 +191,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "3",
-              ".500",
+              ".571",
               "2.5",
-              "L2"
+              "W1"
             ]
           },
           {
@@ -204,11 +204,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "2",
+              "3",
               "4",
-              ".333",
+              ".429",
               "3.5",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -218,10 +218,10 @@
             "highlight": false,
             "values": [
               "1",
-              "5",
-              ".167",
-              "4.5",
-              "W1"
+              "6",
+              ".143",
+              "5.5",
+              "L1"
             ]
           }
         ]
@@ -230,60 +230,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-02T05:51:09.807Z",
+    "updatedAt": "2026-11-03T06:34:09.078Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Knicks Week Preview: November 1-7, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90799/knicks-week-preview-november-1-7-2026",
-        "date": "2026-11-02T02:35:37.000Z",
+        "title": "Knicks 103, Nets 90: Scenes from ShamWow, Clarkson, and Kolek sparking life into a dead game",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90855/knicks-103-nets-90-scenes-from-shamwow-clarkson-and-kolek-sparking-life-into-a-dead-game",
+        "date": "2026-11-03T03:24:06.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Jalen Brunson joins Harry Styles on stage to cap Styles' MSG residency",
-        "url": "https://www.espn.com/nba/story/_/id/50344218/jalen-brunson-harry-styles-madison-square-garden",
-        "date": "2026-11-02T01:18:04.000Z",
+        "title": "Knicks break away in fourth quarter and beat the Nets for the 15th straight time, 103-90",
+        "url": "http://www.espn.com/nba/recap?gameId=401909910",
+        "date": "2026-11-03T03:20:04.000Z",
         "source": "ESPN"
       },
       {
-        "title": "Knicks Bulletin: ‘Josh said he feels the fatigue?’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90769/knicks-bulletin-josh-said-he-feels-the-fatigue",
-        "date": "2026-10-31T14:00:00.000Z",
+        "title": "Game Discussion Thread: Knicks vs. Nets, November 2, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/90851/game-discussion-thread-knicks-vs-nets-november-2-2026",
+        "date": "2026-11-03T00:00:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "76ers 98, Knicks 93: “Unfortunately it took us too long to show up tonight.”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90751/76ers-98-knicks-93-unfortunately-it-took-us-too-long-to-show-up-tonight",
-        "date": "2026-10-31T02:26:16.000Z",
+        "title": "Knicks Bulletin: ‘If you skip steps doing that, you’re going to die’",
+        "url": "https://www.postingandtoasting.com/knicks-news/90808/knicks-bulletin-if-you-skip-steps-doing-that-youre-going-to-die",
+        "date": "2026-11-02T17:00:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Game Discussion Thread: Knicks at 76ers, October 30, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/90736/game-discussion-thread-knicks-at-76ers-october-30-2026",
-        "date": "2026-10-30T22:30:00.000Z",
+        "title": "Uncharacteristic sloppiness costing Knicks in early-season losses",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/90794/uncharacteristic-sloppiness-costing-knicks-in-early-season-losses",
+        "date": "2026-11-02T15:45:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Knicks Bulletin: ‘He’s a great guy to play off’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90726/knicks-bulletin-hes-a-great-guy-to-play-off",
-        "date": "2026-10-30T16:00:00.000Z",
+        "title": "Game Preview: Knicks vs. Nets, November 2, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/90788/game-preview-knicks-vs-nets-november-2-2026",
+        "date": "2026-11-02T05:00:00.000Z",
         "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks staan 2-4 en vierde van vijf in de Atlantic Division, 3,5 wedstrijd achter de koploper. Na twee zeges op rij verloren ze op 31 oktober nipt bij Philadelphia (93-98). In het nieuws: Jalen Brunson zou samen met Harry Styles op het podium in MSG hebben gestaan.",
-    "hash": "acca720a39183f46eb8632acb3a5657d00454e64ae8400e4c707eefa95eda6a9",
-    "generatedAt": "2026-11-02T05:51:09.807Z",
+    "text": "De Knicks wonnen op 3 november thuis met 103-90 van Brooklyn en staan op 3 zeges en 4 nederlagen, vierde van vijf in de Atlantic Division, op 3,5 duels van de koploper. In het nieuws: de vijftiende zege op rij tegen de Nets. Ook wordt er geschreven over slordigheid bij de vroege nederlagen.",
+    "hash": "53032b39a912d1012b3b18eb54a8e7f88b63cc3ad21ff9b38359bd23dbcec16c",
+    "generatedAt": "2026-11-03T06:34:09.078Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-02T05:51:09.807Z",
+  "updatedAt": "2026-11-03T06:34:09.078Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-10-31T21:26:10.654Z",
+      "updatedAt": "2026-11-03T06:34:09.078Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -371,10 +371,10 @@
           "home": true,
           "opponent": "Brooklyn Nets",
           "opponentShort": "BKN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 103,
+          "opponentScore": 90,
+          "outcome": "W"
         },
         {
           "id": "espn-401909926",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-03T06:34:09.078Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1347,11 +1347,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "6",
+              "7",
               "1",
-              ".857",
+              ".875",
               "-",
-              "W3"
+              "W4"
             ]
           },
           {
@@ -1361,10 +1361,10 @@
             "highlight": false,
             "values": [
               "5",
-              "1",
-              ".833",
-              "0.5",
-              "W5"
+              "2",
+              ".714",
+              "1.5",
+              "L1"
             ]
           },
           {
@@ -1373,11 +1373,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "3",
-              ".500",
+              ".571",
               "2.5",
-              "L2"
+              "W1"
             ]
           },
           {
@@ -1386,11 +1386,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "2",
+              "3",
               "4",
-              ".333",
+              ".429",
               "3.5",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -1400,10 +1400,10 @@
             "highlight": false,
             "values": [
               "1",
-              "5",
-              ".167",
-              "4.5",
-              "W1"
+              "6",
+              ".143",
+              "5.5",
+              "L1"
             ]
           }
         ]
@@ -1412,43 +1412,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-03T06:34:09.078Z",
       "data": {
         "items": [
           {
-            "title": "Knicks Week Preview: November 1-7, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90799/knicks-week-preview-november-1-7-2026",
-            "date": "2026-11-02T02:35:37.000Z",
+            "title": "Knicks 103, Nets 90: Scenes from ShamWow, Clarkson, and Kolek sparking life into a dead game",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90855/knicks-103-nets-90-scenes-from-shamwow-clarkson-and-kolek-sparking-life-into-a-dead-game",
+            "date": "2026-11-03T03:24:06.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Jalen Brunson joins Harry Styles on stage to cap Styles' MSG residency",
-            "url": "https://www.espn.com/nba/story/_/id/50344218/jalen-brunson-harry-styles-madison-square-garden",
-            "date": "2026-11-02T01:18:04.000Z",
+            "title": "Knicks break away in fourth quarter and beat the Nets for the 15th straight time, 103-90",
+            "url": "http://www.espn.com/nba/recap?gameId=401909910",
+            "date": "2026-11-03T03:20:04.000Z",
             "source": "ESPN"
           },
           {
-            "title": "Knicks Bulletin: ‘Josh said he feels the fatigue?’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90769/knicks-bulletin-josh-said-he-feels-the-fatigue",
-            "date": "2026-10-31T14:00:00.000Z",
+            "title": "Game Discussion Thread: Knicks vs. Nets, November 2, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/90851/game-discussion-thread-knicks-vs-nets-november-2-2026",
+            "date": "2026-11-03T00:00:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "76ers 98, Knicks 93: “Unfortunately it took us too long to show up tonight.”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90751/76ers-98-knicks-93-unfortunately-it-took-us-too-long-to-show-up-tonight",
-            "date": "2026-10-31T02:26:16.000Z",
+            "title": "Knicks Bulletin: ‘If you skip steps doing that, you’re going to die’",
+            "url": "https://www.postingandtoasting.com/knicks-news/90808/knicks-bulletin-if-you-skip-steps-doing-that-youre-going-to-die",
+            "date": "2026-11-02T17:00:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Game Discussion Thread: Knicks at 76ers, October 30, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/90736/game-discussion-thread-knicks-at-76ers-october-30-2026",
-            "date": "2026-10-30T22:30:00.000Z",
+            "title": "Uncharacteristic sloppiness costing Knicks in early-season losses",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/90794/uncharacteristic-sloppiness-costing-knicks-in-early-season-losses",
+            "date": "2026-11-02T15:45:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Knicks Bulletin: ‘He’s a great guy to play off’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90726/knicks-bulletin-hes-a-great-guy-to-play-off",
-            "date": "2026-10-30T16:00:00.000Z",
+            "title": "Game Preview: Knicks vs. Nets, November 2, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/90788/game-preview-knicks-vs-nets-november-2-2026",
+            "date": "2026-11-02T05:00:00.000Z",
             "source": "Posting and Toasting"
           }
         ],

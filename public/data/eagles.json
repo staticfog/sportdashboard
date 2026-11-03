@@ -217,20 +217,26 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-02T05:51:09.807Z",
+    "updatedAt": "2026-11-03T06:34:09.078Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Game Recap: Commanders 27, Eagles 10",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
-        "date": "2026-11-02T05:13:00.000Z",
+        "title": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak",
+        "url": "https://www.espn.com/nfl/story/_/id/50361174/sirianni-no-changes-oc-qb-eagles-six-game-skid",
+        "date": "2026-11-03T00:15:03.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Nick Sirianni: We're going to 'continue to fight'",
+        "url": "https://www.philadelphiaeagles.com/news/nick-sirianni-we-re-going-to-continue-to-fight",
+        "date": "2026-11-02T06:07:19.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Jayden Daniels throws TD pass and Commanders shut out Eagles over final 3 quarters of 27-10 win",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873035",
-        "date": "2026-11-02T04:43:47.000Z",
-        "source": "ESPN"
+        "title": "Game Recap: Commanders 27, Eagles 10",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
+        "date": "2026-11-02T05:54:00.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Eagles at Commanders Inactives",
@@ -249,24 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
         "date": "2026-11-01T04:00:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
-        "date": "2026-11-01T00:00:00.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles zitten in een slechte reeks: de laatste vijf wedstrijden gingen allemaal verloren, als laatste met 10-27 bij de Washington Commanders op 2 november. In de NFC East staan ze vierde en laatste met 2 winstpartijen, 6 nederlagen en een puntensaldo van -65. In het nieuws: de Commanders zouden na het eerste kwart niet meer gescoord hebben tegen de Eagles.",
-    "hash": "2d5c2b239becf62a1f96864aed7f793e3081c407f54a5420349bbe92db036543",
-    "generatedAt": "2026-11-02T05:51:09.807Z",
+    "text": "De Eagles hebben vijf keer op rij verloren, met als laatste een 10-27 nederlaag bij Washington op 2 november. Met 2 overwinningen en 6 nederlagen staan ze laatste in de NFC East. In het nieuws: Nick Sirianni zou ondanks de verliesreeks niets veranderen op de posities van OC en QB.",
+    "hash": "897cafda644790eda3469e7461f9725aec0bfb1516b0d82dbc300dec1a2953ce",
+    "generatedAt": "2026-11-03T06:34:09.078Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-02T05:51:09.807Z",
+  "updatedAt": "2026-11-03T06:34:09.078Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,20 +567,26 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-03T06:34:09.078Z",
       "data": {
         "items": [
           {
-            "title": "Game Recap: Commanders 27, Eagles 10",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
-            "date": "2026-11-02T05:13:00.000Z",
+            "title": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak",
+            "url": "https://www.espn.com/nfl/story/_/id/50361174/sirianni-no-changes-oc-qb-eagles-six-game-skid",
+            "date": "2026-11-03T00:15:03.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Nick Sirianni: We're going to 'continue to fight'",
+            "url": "https://www.philadelphiaeagles.com/news/nick-sirianni-we-re-going-to-continue-to-fight",
+            "date": "2026-11-02T06:07:19.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Jayden Daniels throws TD pass and Commanders shut out Eagles over final 3 quarters of 27-10 win",
-            "url": "http://www.espn.com/nfl/recap?gameId=401873035",
-            "date": "2026-11-02T04:43:47.000Z",
-            "source": "ESPN"
+            "title": "Game Recap: Commanders 27, Eagles 10",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
+            "date": "2026-11-02T05:54:00.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Eagles at Commanders Inactives",
@@ -598,12 +604,6 @@
             "title": "How to watch, stream, and listen | Eagles at Commanders",
             "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-commanders-nfl-week-8-2026-tanner-mckee-makai-lemon-sunday-night-football",
             "date": "2026-11-01T04:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
-            "date": "2026-11-01T00:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
