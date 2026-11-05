@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-05T03:26:37.073Z",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -192,10 +192,10 @@
             "highlight": false,
             "values": [
               "4",
-              "3",
-              ".571",
-              "3",
-              "W1"
+              "4",
+              ".500",
+              "3.5",
+              "L1"
             ]
           },
           {
@@ -230,9 +230,27 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-05T03:26:37.073Z",
+    "updatedAt": "2026-11-05T20:36:59.701Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Knicks Bulletin: ‘I said it for you, I hope I don’t get in trouble’",
+        "url": "https://www.postingandtoasting.com/knicks-news/90961/knicks-bulletin-i-said-it-for-you-i-hope-i-dont-get-in-trouble",
+        "date": "2026-11-05T15:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks 135, Bulls 105: “We’re so back…”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90950/knicks-135-bulls-105-were-so-back",
+        "date": "2026-11-05T13:09:46.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks 135, Bulls 105: Scenes from the World Champs looking like it",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/90938/knicks-135-bulls-105-scenes-from-the-world-champs-looking-like-it",
+        "date": "2026-11-05T04:12:17.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Brunson scores 33 points, leads the Knicks to a 135-105 win over the Bulls",
         "url": "http://www.espn.com/nba/recap?gameId=401909926",
@@ -250,36 +268,18 @@
         "url": "https://www.postingandtoasting.com/knicks-news/90913/knicks-bulletin-im-a-little-excited-that-were-struggling",
         "date": "2026-11-04T14:00:00.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Preview: Knicks vs. Bulls, November 4, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90870/game-preview-knicks-vs-bulls-november-4-2026",
-        "date": "2026-11-04T07:00:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Player Grades: Knicks 103, Nets 90",
-        "url": "https://www.postingandtoasting.com/knicks-analysis/90904/player-grades-knicks-103-nets-90",
-        "date": "2026-11-03T21:25:01.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "How the Knicks' season, title defense got chaotic -- fast",
-        "url": "https://www.espn.com/nba/story/_/id/50360774/new-york-knicks-rings-contracts-losses",
-        "date": "2026-11-03T17:05:15.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks wonnen hun laatste twee duels en vier van de laatste vijf, zoals op 5 november met 135-105 tegen de Bulls. In de Atlantic Division staan ze vierde van vijf met 4 zeges en 4 nederlagen, 3,5 wedstrijd achter de koploper. In het nieuws: Brunson zou 33 punten hebben gescoord in die zege.",
-    "hash": "a96898b1e8417e16bb97aae6e5dec9d3144eee789512fd0d478a1620a65677a5",
-    "generatedAt": "2026-11-05T03:26:37.073Z",
+    "text": "De Knicks wonnen vier van hun laatste vijf wedstrijden en staan op een reeks van twee zeges, met als uitschieter 135-105 tegen Chicago op 5 november. In de Atlantic staan ze vierde van vijf met 4-4, op 3,5 wedstrijden achterstand. In het nieuws: Brunson met 33 punten bij die zege op de Bulls.",
+    "hash": "ffd2bc8a84b5a01ff34014a18367a5332b402ff93ab70d74a99ffad0b5500c49",
+    "generatedAt": "2026-11-05T20:36:59.701Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-05T03:26:37.073Z",
+  "updatedAt": "2026-11-05T20:36:59.701Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-05T03:26:37.073Z",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1374,10 +1374,10 @@
             "highlight": false,
             "values": [
               "4",
-              "3",
-              ".571",
-              "3",
-              "W1"
+              "4",
+              ".500",
+              "3.5",
+              "L1"
             ]
           },
           {
@@ -1412,9 +1412,27 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-05T03:26:37.073Z",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
       "data": {
         "items": [
+          {
+            "title": "Knicks Bulletin: ‘I said it for you, I hope I don’t get in trouble’",
+            "url": "https://www.postingandtoasting.com/knicks-news/90961/knicks-bulletin-i-said-it-for-you-i-hope-i-dont-get-in-trouble",
+            "date": "2026-11-05T15:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks 135, Bulls 105: “We’re so back…”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90950/knicks-135-bulls-105-were-so-back",
+            "date": "2026-11-05T13:09:46.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks 135, Bulls 105: Scenes from the World Champs looking like it",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/90938/knicks-135-bulls-105-scenes-from-the-world-champs-looking-like-it",
+            "date": "2026-11-05T04:12:17.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Brunson scores 33 points, leads the Knicks to a 135-105 win over the Bulls",
             "url": "http://www.espn.com/nba/recap?gameId=401909926",
@@ -1432,24 +1450,6 @@
             "url": "https://www.postingandtoasting.com/knicks-news/90913/knicks-bulletin-im-a-little-excited-that-were-struggling",
             "date": "2026-11-04T14:00:00.000Z",
             "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Preview: Knicks vs. Bulls, November 4, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90870/game-preview-knicks-vs-bulls-november-4-2026",
-            "date": "2026-11-04T07:00:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Player Grades: Knicks 103, Nets 90",
-            "url": "https://www.postingandtoasting.com/knicks-analysis/90904/player-grades-knicks-103-nets-90",
-            "date": "2026-11-03T21:25:01.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "How the Knicks' season, title defense got chaotic -- fast",
-            "url": "https://www.espn.com/nba/story/_/id/50360774/new-york-knicks-rings-contracts-losses",
-            "date": "2026-11-03T17:05:15.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],

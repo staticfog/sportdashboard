@@ -177,13 +177,25 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-05T03:26:37.073Z",
+    "updatedAt": "2026-11-05T20:36:59.701Z",
     "failedSources": [],
     "items": [
       {
         "title": "Watch Yankees prospects in Arizona Fall League action",
         "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-        "date": "2026-11-05T03:17:00.000Z",
+        "date": "2026-11-05T20:26:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Bellinger, Rice nominated for Silver Slugger for 2nd straight year",
+        "url": "https://www.mlb.com/yankees/news/2026-silver-slugger-award-finalists",
+        "date": "2026-11-05T16:13:03.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "How does Yanks' No. 1 prospect Kilby look? His AFL teammates, coaches are eager to share",
+        "url": "https://www.mlb.com/yankees/news/yankees-prospect-dax-kilby-impresses-in-arizona-fall-league",
+        "date": "2026-11-05T06:12:14.000Z",
         "source": "MLB.com"
       },
       {
@@ -203,30 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/mlb-early-offseason-power-rankings-2027",
         "date": "2026-11-04T17:35:00.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
-        "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game-rosters",
-        "date": "2026-11-04T16:01:59.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Where does Lombard Jr. rank on '26 rookies based on long-term value list?",
-        "url": "https://www.mlb.com/yankees/news/ranking-2026-rookies-based-on-long-term-value",
-        "date": "2026-11-04T00:20:00.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na twee ruime zeges op de Boston Red Sox in de Wild Card Series verloren ze alle drie de duels in de AL Division Series tegen de Tampa Bay Rays, de laatste op 8 oktober. In de AL East staan ze tweede met 93-68. In het nieuws: Yankees-prospects in de Arizona Fall League.",
-    "hash": "89167557d8df6cdf3814cc9272716404612622933dace19a815a7b662d40fd6b",
-    "generatedAt": "2026-11-05T03:26:37.073Z",
+    "text": "De Yankees zitten buiten het seizoen. Na twee zeges op de Boston Red Sox in de Wild Card Series verloren ze alle drie de duels in de Division Series van de Tampa Bay Rays. In de AL East staan ze tweede (93-68). In het nieuws: Bellinger en Rice genomineerd voor de Silver Slugger.",
+    "hash": "60347b3fdf9cae80a1d14240a9a2addde3356063b187374624b086514c491787",
+    "generatedAt": "2026-11-05T20:36:59.701Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-05T03:26:37.073Z",
+  "updatedAt": "2026-11-05T20:36:59.701Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,13 +2542,25 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-05T03:26:37.073Z",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
       "data": {
         "items": [
           {
             "title": "Watch Yankees prospects in Arizona Fall League action",
             "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-            "date": "2026-11-05T03:17:00.000Z",
+            "date": "2026-11-05T20:26:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Bellinger, Rice nominated for Silver Slugger for 2nd straight year",
+            "url": "https://www.mlb.com/yankees/news/2026-silver-slugger-award-finalists",
+            "date": "2026-11-05T16:13:03.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "How does Yanks' No. 1 prospect Kilby look? His AFL teammates, coaches are eager to share",
+            "url": "https://www.mlb.com/yankees/news/yankees-prospect-dax-kilby-impresses-in-arizona-fall-league",
+            "date": "2026-11-05T06:12:14.000Z",
             "source": "MLB.com"
           },
           {
@@ -2567,18 +2579,6 @@
             "title": "An early look at the 2027 Power Rankings",
             "url": "https://www.mlb.com/yankees/news/mlb-early-offseason-power-rankings-2027",
             "date": "2026-11-04T17:35:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
-            "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game-rosters",
-            "date": "2026-11-04T16:01:59.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Where does Lombard Jr. rank on '26 rookies based on long-term value list?",
-            "url": "https://www.mlb.com/yankees/news/ranking-2026-rookies-based-on-long-term-value",
-            "date": "2026-11-04T00:20:00.000Z",
             "source": "MLB.com"
           }
         ],
