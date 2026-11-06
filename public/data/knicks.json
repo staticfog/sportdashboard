@@ -230,9 +230,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-05T20:36:59.701Z",
+    "updatedAt": "2026-11-06T09:17:08.738Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Jalen Brunson guest stars on 'Law & Order: SVU' alongside Mariska Hargitay",
+        "url": "https://www.espn.com/nba/story/_/id/49967701/new-york-knicks-jalen-brunson-law-order-svu-guest-appearance-mariska-hargitay",
+        "date": "2026-11-06T04:12:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Law &#038; Order SVU Watch Along",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/90977/law-order-svu-watch-along",
+        "date": "2026-11-06T01:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Knicks Bulletin: ‘I said it for you, I hope I don’t get in trouble’",
         "url": "https://www.postingandtoasting.com/knicks-news/90961/knicks-bulletin-i-said-it-for-you-i-hope-i-dont-get-in-trouble",
@@ -252,34 +264,22 @@
         "source": "Posting and Toasting"
       },
       {
-        "title": "Brunson scores 33 points, leads the Knicks to a 135-105 win over the Bulls",
-        "url": "http://www.espn.com/nba/recap?gameId=401909926",
-        "date": "2026-11-05T03:14:44.000Z",
-        "source": "ESPN"
-      },
-      {
         "title": "Game Discussion Thread: Knicks vs. Bulls, November 4, 2026",
         "url": "https://www.postingandtoasting.com/knicks-game-threads/90911/game-discussion-thread-knicks-vs-bulls-november-4-2026",
         "date": "2026-11-05T00:00:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks Bulletin: ‘I&#8217;m a little excited that we&#8217;re struggling’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90913/knicks-bulletin-im-a-little-excited-that-were-struggling",
-        "date": "2026-11-04T14:00:00.000Z",
         "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks wonnen vier van hun laatste vijf wedstrijden en staan op een reeks van twee zeges, met als uitschieter 135-105 tegen Chicago op 5 november. In de Atlantic staan ze vierde van vijf met 4-4, op 3,5 wedstrijden achterstand. In het nieuws: Brunson met 33 punten bij die zege op de Bulls.",
-    "hash": "ffd2bc8a84b5a01ff34014a18367a5332b402ff93ab70d74a99ffad0b5500c49",
-    "generatedAt": "2026-11-05T20:36:59.701Z",
+    "text": "De Knicks wonnen vier van hun laatste vijf duels, met als uitschieter 135-105 tegen de Bulls op 5 november, en staan op een reeks van twee zeges. Met 4-4 zijn ze vierde van vijf in de Atlantic, 3,5 duels achter de koploper. In het nieuws: Jalen Brunson als gastster in 'Law & Order: SVU'.",
+    "hash": "5429f13e2514ef59e4c793657d4e85093b43f5ff80aa287663340e4eced069dc",
+    "generatedAt": "2026-11-06T09:17:08.738Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-05T20:36:59.701Z",
+  "updatedAt": "2026-11-06T09:17:08.738Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1412,9 +1412,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "updatedAt": "2026-11-06T09:17:08.738Z",
       "data": {
         "items": [
+          {
+            "title": "Jalen Brunson guest stars on 'Law & Order: SVU' alongside Mariska Hargitay",
+            "url": "https://www.espn.com/nba/story/_/id/49967701/new-york-knicks-jalen-brunson-law-order-svu-guest-appearance-mariska-hargitay",
+            "date": "2026-11-06T04:12:06.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Law &#038; Order SVU Watch Along",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/90977/law-order-svu-watch-along",
+            "date": "2026-11-06T01:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Knicks Bulletin: ‘I said it for you, I hope I don’t get in trouble’",
             "url": "https://www.postingandtoasting.com/knicks-news/90961/knicks-bulletin-i-said-it-for-you-i-hope-i-dont-get-in-trouble",
@@ -1434,21 +1446,9 @@
             "source": "Posting and Toasting"
           },
           {
-            "title": "Brunson scores 33 points, leads the Knicks to a 135-105 win over the Bulls",
-            "url": "http://www.espn.com/nba/recap?gameId=401909926",
-            "date": "2026-11-05T03:14:44.000Z",
-            "source": "ESPN"
-          },
-          {
             "title": "Game Discussion Thread: Knicks vs. Bulls, November 4, 2026",
             "url": "https://www.postingandtoasting.com/knicks-game-threads/90911/game-discussion-thread-knicks-vs-bulls-november-4-2026",
             "date": "2026-11-05T00:00:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks Bulletin: ‘I&#8217;m a little excited that we&#8217;re struggling’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90913/knicks-bulletin-im-a-little-excited-that-were-struggling",
-            "date": "2026-11-04T14:00:00.000Z",
             "source": "Posting and Toasting"
           }
         ],
