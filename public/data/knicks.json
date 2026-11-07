@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "updatedAt": "2026-11-07T09:55:57.579Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -166,10 +166,10 @@
             "highlight": false,
             "values": [
               "8",
-              "1",
-              ".889",
+              "2",
+              ".800",
               "-",
-              "W5"
+              "L1"
             ]
           },
           {
@@ -178,11 +178,11 @@
             "short": "BOS",
             "highlight": false,
             "values": [
-              "6",
+              "7",
               "2",
-              ".750",
-              "1.5",
-              "W1"
+              ".778",
+              "0.5",
+              "W2"
             ]
           },
           {
@@ -191,11 +191,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
+              "5",
               "4",
-              "4",
-              ".500",
-              "3.5",
-              "L1"
+              ".556",
+              "2.5",
+              "W1"
             ]
           },
           {
@@ -207,7 +207,7 @@
               "4",
               "4",
               ".500",
-              "3.5",
+              "3",
               "W2"
             ]
           },
@@ -220,7 +220,7 @@
               "2",
               "6",
               ".250",
-              "5.5",
+              "5",
               "W1"
             ]
           }
@@ -230,56 +230,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-06T09:17:08.738Z",
+    "updatedAt": "2026-11-07T09:55:57.579Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Jalen Brunson guest stars on 'Law & Order: SVU' alongside Mariska Hargitay",
-        "url": "https://www.espn.com/nba/story/_/id/49967701/new-york-knicks-jalen-brunson-law-order-svu-guest-appearance-mariska-hargitay",
-        "date": "2026-11-06T04:12:06.000Z",
+        "title": "Cleveland takes on New York in conference matchup",
+        "url": "http://www.espn.com/nba/preview?gameId=401909940",
+        "date": "2026-11-07T07:03:36.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "Knicks 'appreciative' of Taylor Swift after Kolek, McBride question fandom",
+        "url": "https://www.espn.com/nba/story/_/id/50401522/knicks-appreciative-taylor-swift-players-comments",
+        "date": "2026-11-07T06:36:08.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Knicks defend Taylor Swift's fandom after Tyler Kolek, Miles McBride weigh in",
+        "url": "https://www.espn.com/nba/story/_/id/50401300/taylor-swift-knicks-fan-tyler-kolek-miles-mcbride",
+        "date": "2026-11-06T20:12:51.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Westchester Knicks 2026-27 Season Primer",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/90998/westchester-knicks-2026-27-season-primer",
+        "date": "2026-11-06T19:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "The Knicks have a bench guard conundrum",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/90933/the-knicks-have-a-guard-excess-conundrum-mcbride-shamet-clarkson-alvarado-kolek",
+        "date": "2026-11-06T16:45:55.000Z",
+        "source": "Posting and Toasting"
       },
       {
         "title": "Law &#038; Order SVU Watch Along",
         "url": "https://www.postingandtoasting.com/knicks-game-threads/90977/law-order-svu-watch-along",
         "date": "2026-11-06T01:30:00.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks Bulletin: ‘I said it for you, I hope I don’t get in trouble’",
-        "url": "https://www.postingandtoasting.com/knicks-news/90961/knicks-bulletin-i-said-it-for-you-i-hope-i-dont-get-in-trouble",
-        "date": "2026-11-05T15:30:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 135, Bulls 105: “We’re so back…”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90950/knicks-135-bulls-105-were-so-back",
-        "date": "2026-11-05T13:09:46.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 135, Bulls 105: Scenes from the World Champs looking like it",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/90938/knicks-135-bulls-105-scenes-from-the-world-champs-looking-like-it",
-        "date": "2026-11-05T04:12:17.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Discussion Thread: Knicks vs. Bulls, November 4, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/90911/game-discussion-thread-knicks-vs-bulls-november-4-2026",
-        "date": "2026-11-05T00:00:00.000Z",
-        "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks wonnen vier van hun laatste vijf duels, met als uitschieter 135-105 tegen de Bulls op 5 november, en staan op een reeks van twee zeges. Met 4-4 zijn ze vierde van vijf in de Atlantic, 3,5 duels achter de koploper. In het nieuws: Jalen Brunson als gastster in 'Law & Order: SVU'.",
-    "hash": "5429f13e2514ef59e4c793657d4e85093b43f5ff80aa287663340e4eced069dc",
-    "generatedAt": "2026-11-06T09:17:08.738Z",
+    "text": "De Knicks wonnen vier van hun laatste vijf duels en zitten op een reeks van twee zeges, met als uitschieter 135-105 tegen Chicago op 5 november. In de Atlantic staan ze met 4-4 vierde van vijf, op drie wedstrijden van de koppositie. In het nieuws: de Knicks verdedigen de fandom van Taylor Swift.",
+    "hash": "398f5fe8ef5dfc18ab0e5cede56f5df73536738a55bcca7cbf1a70a97a94de70",
+    "generatedAt": "2026-11-07T09:55:57.579Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-06T09:17:08.738Z",
+  "updatedAt": "2026-11-07T09:55:57.579Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "updatedAt": "2026-11-07T09:55:57.579Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1348,10 +1348,10 @@
             "highlight": false,
             "values": [
               "8",
-              "1",
-              ".889",
+              "2",
+              ".800",
               "-",
-              "W5"
+              "L1"
             ]
           },
           {
@@ -1360,11 +1360,11 @@
             "short": "BOS",
             "highlight": false,
             "values": [
-              "6",
+              "7",
               "2",
-              ".750",
-              "1.5",
-              "W1"
+              ".778",
+              "0.5",
+              "W2"
             ]
           },
           {
@@ -1373,11 +1373,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
+              "5",
               "4",
-              "4",
-              ".500",
-              "3.5",
-              "L1"
+              ".556",
+              "2.5",
+              "W1"
             ]
           },
           {
@@ -1389,7 +1389,7 @@
               "4",
               "4",
               ".500",
-              "3.5",
+              "3",
               "W2"
             ]
           },
@@ -1402,7 +1402,7 @@
               "2",
               "6",
               ".250",
-              "5.5",
+              "5",
               "W1"
             ]
           }
@@ -1412,43 +1412,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-06T09:17:08.738Z",
+      "updatedAt": "2026-11-07T09:55:57.579Z",
       "data": {
         "items": [
           {
-            "title": "Jalen Brunson guest stars on 'Law & Order: SVU' alongside Mariska Hargitay",
-            "url": "https://www.espn.com/nba/story/_/id/49967701/new-york-knicks-jalen-brunson-law-order-svu-guest-appearance-mariska-hargitay",
-            "date": "2026-11-06T04:12:06.000Z",
+            "title": "Cleveland takes on New York in conference matchup",
+            "url": "http://www.espn.com/nba/preview?gameId=401909940",
+            "date": "2026-11-07T07:03:36.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "Knicks 'appreciative' of Taylor Swift after Kolek, McBride question fandom",
+            "url": "https://www.espn.com/nba/story/_/id/50401522/knicks-appreciative-taylor-swift-players-comments",
+            "date": "2026-11-07T06:36:08.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Knicks defend Taylor Swift's fandom after Tyler Kolek, Miles McBride weigh in",
+            "url": "https://www.espn.com/nba/story/_/id/50401300/taylor-swift-knicks-fan-tyler-kolek-miles-mcbride",
+            "date": "2026-11-06T20:12:51.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Westchester Knicks 2026-27 Season Primer",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/90998/westchester-knicks-2026-27-season-primer",
+            "date": "2026-11-06T19:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "The Knicks have a bench guard conundrum",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/90933/the-knicks-have-a-guard-excess-conundrum-mcbride-shamet-clarkson-alvarado-kolek",
+            "date": "2026-11-06T16:45:55.000Z",
+            "source": "Posting and Toasting"
           },
           {
             "title": "Law &#038; Order SVU Watch Along",
             "url": "https://www.postingandtoasting.com/knicks-game-threads/90977/law-order-svu-watch-along",
             "date": "2026-11-06T01:30:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks Bulletin: ‘I said it for you, I hope I don’t get in trouble’",
-            "url": "https://www.postingandtoasting.com/knicks-news/90961/knicks-bulletin-i-said-it-for-you-i-hope-i-dont-get-in-trouble",
-            "date": "2026-11-05T15:30:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 135, Bulls 105: “We’re so back…”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90950/knicks-135-bulls-105-were-so-back",
-            "date": "2026-11-05T13:09:46.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 135, Bulls 105: Scenes from the World Champs looking like it",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/90938/knicks-135-bulls-105-scenes-from-the-world-champs-looking-like-it",
-            "date": "2026-11-05T04:12:17.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Discussion Thread: Knicks vs. Bulls, November 4, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/90911/game-discussion-thread-knicks-vs-bulls-november-4-2026",
-            "date": "2026-11-05T00:00:00.000Z",
             "source": "Posting and Toasting"
           }
         ],

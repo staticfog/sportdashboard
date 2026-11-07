@@ -217,14 +217,32 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-06T09:17:08.738Z",
+    "updatedAt": "2026-11-07T09:55:57.579Z",
     "failedSources": [],
     "items": [
       {
-        "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-        "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-        "date": "2026-11-06T00:53:52.000Z",
+        "title": "Eagles Tackle Football Coach of the Week: Dennis Shaw, Chester High School",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-tackle-football-coach-of-the-week-dennis-shaw-chester-high-school",
+        "date": "2026-11-07T05:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Giants' Cam Skattebo doubtful vs. Eagles; Malik Nabers 'full go'",
+        "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go",
+        "date": "2026-11-07T00:36:48.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "Giants vs. Eagles Injury Report",
+        "url": "https://www.philadelphiaeagles.com/news/giants-vs-eagles-injury-report-saquon-barkley-devonta-smith-cam-skattebo-2026-nfl-week-9",
+        "date": "2026-11-06T21:12:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Meet Jalen Cyrus, the artist behind the viral Go Birds T-shirt",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-autism-foundation-meet-jalen-cyrus-the-artist-behind-the-viral-go-birds-t-shirt",
+        "date": "2026-11-06T14:30:00.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Joe Milton: 'This is a great opportunity'",
@@ -233,40 +251,22 @@
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Giants vs. Eagles Injury Report",
-        "url": "https://www.philadelphiaeagles.com/news/giants-vs-eagles-injury-report-saquon-barkley-devonta-smith-cam-skattebo-2026-nfl-week-9",
-        "date": "2026-11-05T22:45:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Giants try to end 13-game losing streak in Philadelphia, as Eagles turn to 3rd-string QB Milton",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873044",
-        "date": "2026-11-05T22:22:35.000Z",
-        "source": "ESPN"
-      },
-      {
         "title": "Eagles sign CB Christian Braswell to the practice squad",
         "url": "https://www.philadelphiaeagles.com/news/eagles-sign-cb-christian-braswell-to-the-practice-squad-nfl-week-9-2026-giants-roster-move",
         "date": "2026-11-04T22:15:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "How to watch, stream, and listen | Giants vs. Eagles",
-        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-giants-vs-eagles-saquon-barkley-tanner-mckee-cam-skattebo-malik-nabers-jj-mccarthy-kelly-green-2026-week-9",
-        "date": "2026-11-04T18:00:00.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Eagles verloren hun laatste vijf wedstrijden, het laatst op 2 november met 10-27 bij Washington. Met 2 zeges en 6 nederlagen (saldo -65) staan ze laatste in de NFC East. In het nieuws: de Eagles zouden overstappen op derde quarterback Joe Milton.",
-    "hash": "99a6a5d69184b40482f124d3002867b46c2b4f2d7f6b4072e68897ed2d6932bb",
-    "generatedAt": "2026-11-06T09:17:08.738Z",
+    "text": "De Philadelphia Eagles hebben vijf wedstrijden op rij verloren, de laatste op 2 november met 10-27 bij Washington. Met 2 overwinningen en 6 nederlagen (puntensaldo -65) staan ze vierde en laatste in de NFC East.",
+    "hash": "24f5c09402fab6e47b53034ba0785eb624bcf590e7c8d3b07e17c3b35ba7e6b7",
+    "generatedAt": "2026-11-07T09:55:57.579Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-06T09:17:08.738Z",
+  "updatedAt": "2026-11-07T09:55:57.579Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,14 +567,32 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-06T09:17:08.738Z",
+      "updatedAt": "2026-11-07T09:55:57.579Z",
       "data": {
         "items": [
           {
-            "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-            "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-            "date": "2026-11-06T00:53:52.000Z",
+            "title": "Eagles Tackle Football Coach of the Week: Dennis Shaw, Chester High School",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-tackle-football-coach-of-the-week-dennis-shaw-chester-high-school",
+            "date": "2026-11-07T05:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Giants' Cam Skattebo doubtful vs. Eagles; Malik Nabers 'full go'",
+            "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go",
+            "date": "2026-11-07T00:36:48.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "Giants vs. Eagles Injury Report",
+            "url": "https://www.philadelphiaeagles.com/news/giants-vs-eagles-injury-report-saquon-barkley-devonta-smith-cam-skattebo-2026-nfl-week-9",
+            "date": "2026-11-06T21:12:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Meet Jalen Cyrus, the artist behind the viral Go Birds T-shirt",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-autism-foundation-meet-jalen-cyrus-the-artist-behind-the-viral-go-birds-t-shirt",
+            "date": "2026-11-06T14:30:00.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Joe Milton: 'This is a great opportunity'",
@@ -583,27 +601,9 @@
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Giants vs. Eagles Injury Report",
-            "url": "https://www.philadelphiaeagles.com/news/giants-vs-eagles-injury-report-saquon-barkley-devonta-smith-cam-skattebo-2026-nfl-week-9",
-            "date": "2026-11-05T22:45:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Giants try to end 13-game losing streak in Philadelphia, as Eagles turn to 3rd-string QB Milton",
-            "url": "http://www.espn.com/nfl/preview?gameId=401873044",
-            "date": "2026-11-05T22:22:35.000Z",
-            "source": "ESPN"
-          },
-          {
             "title": "Eagles sign CB Christian Braswell to the practice squad",
             "url": "https://www.philadelphiaeagles.com/news/eagles-sign-cb-christian-braswell-to-the-practice-squad-nfl-week-9-2026-giants-roster-move",
             "date": "2026-11-04T22:15:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "How to watch, stream, and listen | Giants vs. Eagles",
-            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-giants-vs-eagles-saquon-barkley-tanner-mckee-cam-skattebo-malik-nabers-jj-mccarthy-kelly-green-2026-week-9",
-            "date": "2026-11-04T18:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
