@@ -149,7 +149,7 @@
     {
       "label": "Eredivisie",
       "status": "ok",
-      "updatedAt": "2026-11-07T09:55:57.579Z",
+      "updatedAt": "2026-11-08T00:26:34.209Z",
       "table": {
         "name": "Eredivisie",
         "columns": [
@@ -237,12 +237,12 @@
             "short": "FOR",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "5",
-              "4",
+              "5",
               "2",
               "0",
-              "19"
+              "20"
             ]
           },
           {
@@ -261,6 +261,20 @@
           },
           {
             "rank": 8,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "12",
+              "4",
+              "5",
+              "3",
+              "-3",
+              "17"
+            ]
+          },
+          {
+            "rank": 9,
             "team": "FC Groningen",
             "short": "GRO",
             "highlight": false,
@@ -274,7 +288,7 @@
             ]
           },
           {
-            "rank": 9,
+            "rank": 10,
             "team": "SC Cambuur",
             "short": "CAM",
             "highlight": false,
@@ -288,35 +302,7 @@
             ]
           },
           {
-            "rank": 10,
-            "team": "Go Ahead Eagles",
-            "short": "GAE",
-            "highlight": false,
-            "values": [
-              "11",
-              "3",
-              "5",
-              "3",
-              "-4",
-              "14"
-            ]
-          },
-          {
             "rank": 11,
-            "team": "Sparta Rotterdam",
-            "short": "SPA",
-            "highlight": false,
-            "values": [
-              "11",
-              "3",
-              "3",
-              "5",
-              "-6",
-              "12"
-            ]
-          },
-          {
-            "rank": 12,
             "team": "FC Utrecht",
             "short": "UTR",
             "highlight": false,
@@ -326,6 +312,20 @@
               "3",
               "5",
               "-12",
+              "12"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "Sparta Rotterdam",
+            "short": "SPA",
+            "highlight": false,
+            "values": [
+              "12",
+              "3",
+              "3",
+              "6",
+              "-8",
               "12"
             ]
           },
@@ -363,11 +363,11 @@
             "short": "EXC",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "3",
               "2",
-              "6",
-              "-12",
+              "7",
+              "-13",
               "11"
             ]
           },
@@ -377,12 +377,12 @@
             "short": "TEL",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "2",
-              "3",
+              "4",
               "6",
               "-7",
-              "9"
+              "10"
             ]
           },
           {
@@ -391,12 +391,12 @@
             "short": "ADO",
             "highlight": false,
             "values": [
-              "11",
-              "1",
+              "12",
+              "2",
               "3",
               "7",
-              "-11",
-              "6"
+              "-9",
+              "9"
             ]
           },
           {
@@ -941,12 +941,12 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-07T09:55:57.579Z",
+    "updatedAt": "2026-11-08T00:26:34.209Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Ook de financiële voorsprong van Ajax op PSV staat onder druk: ‘Het merk krimpt mee met de resultaten’",
-        "url": "https://www.parool.nl/ajax/ook-de-financiele-voorsprong-van-ajax-op-psv-staat-onder-druk-het-merk-krimpt-mee-met-de-resultaten~bbeb372a/",
+        "title": "Kan Ajax nog aanklampen bij PSV? ‘Het ontbreekt aan een duidelijk en stabiel financieel en technisch beleid’",
+        "url": "https://www.parool.nl/ajax/kan-ajax-nog-aanklampen-bij-psv-het-ontbreekt-aan-een-duidelijk-en-stabiel-financieel-en-technisch-beleid~bbeb372a/",
         "date": "2026-11-07T02:00:00.000Z",
         "source": "Het Parool"
       },
@@ -975,108 +975,23 @@
         "source": "Het Parool"
       },
       {
-        "title": "Arokodare leidt Ajax naar ruime zege op tiental Midtjylland, ook Leonardo scoort",
-        "url": "https://nos.nl/l/2638206",
-        "date": "2026-11-05T19:52:02.000Z",
-        "source": "NOS"
+        "title": "Voormalig Ajax-trainer Alfred Schreuder aan de slag in Turkije als opvolger van Emre",
+        "url": "https://www.parool.nl/sport/voormalig-ajax-trainer-alfred-schreuder-aan-de-slag-in-turkije-als-opvolger-van-emre~ba509fdf/",
+        "date": "2026-11-04T21:21:00.000Z",
+        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax wint al vijf wedstrijden op rij, met als laatste een 6-1 uitzege op FC Midtjylland op 5 november. In de Eredivisie staat de ploeg tweede met 24 punten, in de Conference League elfde. In het nieuws: algemeen directeur Menno Geelen vertrekt in april volgend jaar bij Ajax.",
-    "hash": "c3944f07913d65f451e45c00b630a1456fcc343616e8894af78e3cacdb9ae500",
-    "generatedAt": "2026-11-07T09:55:57.579Z",
+    "text": "Ajax won de laatste vijf wedstrijden, met als laatste een 6-1 bij FC Midtjylland op 5 november. In de Eredivisie staat Ajax tweede met 24 punten uit 11 duels, in de Conference League elfde. In het nieuws: algemeen directeur Menno Geelen vertrekt vervroegd bij Ajax.",
+    "hash": "1d89225cb22b15126632d5af4f8d4555232778048ab10184b90ce2d4cc5df0de",
+    "generatedAt": "2026-11-08T00:26:34.209Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-07T09:55:57.579Z",
+  "updatedAt": "2026-11-08T00:26:34.209Z",
   "sections": {
-    "games:espn-soccer/uefa.europa.conf-139": {
-      "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
-      "data": [
-        {
-          "id": "espn-401915829",
-          "date": "2026-11-05T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "FC Midtjylland",
-          "opponentShort": "MID",
-          "status": "final",
-          "teamScore": 6,
-          "opponentScore": 1,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915837",
-          "date": "2026-10-22T19:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Atalanta",
-          "opponentShort": "ATA",
-          "status": "final",
-          "teamScore": 2,
-          "opponentScore": 0,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915861",
-          "date": "2026-10-15T16:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Hajduk Split",
-          "opponentShort": "HAJ",
-          "status": "final",
-          "teamScore": 1,
-          "opponentScore": 2,
-          "outcome": "V"
-        },
-        {
-          "id": "espn-401915815",
-          "date": "2026-11-26T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "FC Thun",
-          "opponentShort": "THUN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915630",
-          "date": "2026-12-10T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Sint-Truidense",
-          "opponentShort": "STVV",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915731",
-          "date": "2026-12-17T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Getafe",
-          "opponentShort": "GET",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        }
-      ],
-      "error": null
-    },
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
       "updatedAt": "2026-11-01T00:59:53.345Z",
@@ -1524,6 +1439,361 @@
           "outcome": null
         }
       ],
+      "error": null
+    },
+    "games:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "data": [
+        {
+          "id": "espn-401915829",
+          "date": "2026-11-05T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "FC Midtjylland",
+          "opponentShort": "MID",
+          "status": "final",
+          "teamScore": 6,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915837",
+          "date": "2026-10-22T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Atalanta",
+          "opponentShort": "ATA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915861",
+          "date": "2026-10-15T16:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Hajduk Split",
+          "opponentShort": "HAJ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 2,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915630",
+          "date": "2026-12-10T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Sint-Truidense",
+          "opponentShort": "STVV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915731",
+          "date": "2026-12-17T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Getafe",
+          "opponentShort": "GET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "standings:espn-soccer/ned.1-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-08T00:26:34.209Z",
+      "data": {
+        "name": "Eredivisie",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "Feyenoord Rotterdam",
+            "short": "FEY",
+            "highlight": false,
+            "values": [
+              "11",
+              "7",
+              "4",
+              "0",
+              "+21",
+              "25"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "11",
+              "7",
+              "3",
+              "1",
+              "+17",
+              "24"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "11",
+              "7",
+              "2",
+              "2",
+              "+22",
+              "23"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "11",
+              "7",
+              "2",
+              "2",
+              "+18",
+              "23"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "11",
+              "6",
+              "2",
+              "3",
+              "+7",
+              "20"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "Fortuna Sittard",
+            "short": "FOR",
+            "highlight": false,
+            "values": [
+              "12",
+              "5",
+              "5",
+              "2",
+              "0",
+              "20"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Heerenveen",
+            "short": "HEE",
+            "highlight": false,
+            "values": [
+              "11",
+              "5",
+              "3",
+              "3",
+              "+6",
+              "18"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "12",
+              "4",
+              "5",
+              "3",
+              "-3",
+              "17"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "FC Groningen",
+            "short": "GRO",
+            "highlight": false,
+            "values": [
+              "11",
+              "4",
+              "3",
+              "4",
+              "+2",
+              "15"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "SC Cambuur",
+            "short": "CAM",
+            "highlight": false,
+            "values": [
+              "11",
+              "4",
+              "3",
+              "4",
+              "+1",
+              "15"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "FC Utrecht",
+            "short": "UTR",
+            "highlight": false,
+            "values": [
+              "11",
+              "3",
+              "3",
+              "5",
+              "-12",
+              "12"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "Sparta Rotterdam",
+            "short": "SPA",
+            "highlight": false,
+            "values": [
+              "12",
+              "3",
+              "3",
+              "6",
+              "-8",
+              "12"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "PEC Zwolle",
+            "short": "PEC",
+            "highlight": false,
+            "values": [
+              "12",
+              "3",
+              "3",
+              "6",
+              "-11",
+              "12"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "NEC Nijmegen",
+            "short": "NEC",
+            "highlight": false,
+            "values": [
+              "11",
+              "2",
+              "5",
+              "4",
+              "-2",
+              "11"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "Excelsior",
+            "short": "EXC",
+            "highlight": false,
+            "values": [
+              "12",
+              "3",
+              "2",
+              "7",
+              "-13",
+              "11"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Telstar",
+            "short": "TEL",
+            "highlight": false,
+            "values": [
+              "12",
+              "2",
+              "4",
+              "6",
+              "-7",
+              "10"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "ADO Den Haag",
+            "short": "ADO",
+            "highlight": false,
+            "values": [
+              "12",
+              "2",
+              "3",
+              "7",
+              "-9",
+              "9"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "Willem II",
+            "short": "WIL",
+            "highlight": false,
+            "values": [
+              "12",
+              "0",
+              "3",
+              "9",
+              "-29",
+              "3"
+            ]
+          }
+        ]
+      },
       "error": null
     },
     "standings:espn-soccer/uefa.europa.conf-139": {
@@ -2048,284 +2318,14 @@
       },
       "error": null
     },
-    "standings:espn-soccer/ned.1-139": {
-      "status": "ok",
-      "updatedAt": "2026-11-07T09:55:57.579Z",
-      "data": {
-        "name": "Eredivisie",
-        "columns": [
-          "GS",
-          "W",
-          "G",
-          "V",
-          "DS",
-          "P"
-        ],
-        "rows": [
-          {
-            "rank": 1,
-            "team": "Feyenoord Rotterdam",
-            "short": "FEY",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "4",
-              "0",
-              "+21",
-              "25"
-            ]
-          },
-          {
-            "rank": 2,
-            "team": "Ajax Amsterdam",
-            "short": "AJA",
-            "highlight": true,
-            "values": [
-              "11",
-              "7",
-              "3",
-              "1",
-              "+17",
-              "24"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "PSV Eindhoven",
-            "short": "PSV",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "2",
-              "2",
-              "+22",
-              "23"
-            ]
-          },
-          {
-            "rank": 4,
-            "team": "FC Twente",
-            "short": "TWE",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "2",
-              "2",
-              "+18",
-              "23"
-            ]
-          },
-          {
-            "rank": 5,
-            "team": "AZ Alkmaar",
-            "short": "AZ",
-            "highlight": false,
-            "values": [
-              "11",
-              "6",
-              "2",
-              "3",
-              "+7",
-              "20"
-            ]
-          },
-          {
-            "rank": 6,
-            "team": "Fortuna Sittard",
-            "short": "FOR",
-            "highlight": false,
-            "values": [
-              "11",
-              "5",
-              "4",
-              "2",
-              "0",
-              "19"
-            ]
-          },
-          {
-            "rank": 7,
-            "team": "Heerenveen",
-            "short": "HEE",
-            "highlight": false,
-            "values": [
-              "11",
-              "5",
-              "3",
-              "3",
-              "+6",
-              "18"
-            ]
-          },
-          {
-            "rank": 8,
-            "team": "FC Groningen",
-            "short": "GRO",
-            "highlight": false,
-            "values": [
-              "11",
-              "4",
-              "3",
-              "4",
-              "+2",
-              "15"
-            ]
-          },
-          {
-            "rank": 9,
-            "team": "SC Cambuur",
-            "short": "CAM",
-            "highlight": false,
-            "values": [
-              "11",
-              "4",
-              "3",
-              "4",
-              "+1",
-              "15"
-            ]
-          },
-          {
-            "rank": 10,
-            "team": "Go Ahead Eagles",
-            "short": "GAE",
-            "highlight": false,
-            "values": [
-              "11",
-              "3",
-              "5",
-              "3",
-              "-4",
-              "14"
-            ]
-          },
-          {
-            "rank": 11,
-            "team": "Sparta Rotterdam",
-            "short": "SPA",
-            "highlight": false,
-            "values": [
-              "11",
-              "3",
-              "3",
-              "5",
-              "-6",
-              "12"
-            ]
-          },
-          {
-            "rank": 12,
-            "team": "FC Utrecht",
-            "short": "UTR",
-            "highlight": false,
-            "values": [
-              "11",
-              "3",
-              "3",
-              "5",
-              "-12",
-              "12"
-            ]
-          },
-          {
-            "rank": 13,
-            "team": "PEC Zwolle",
-            "short": "PEC",
-            "highlight": false,
-            "values": [
-              "12",
-              "3",
-              "3",
-              "6",
-              "-11",
-              "12"
-            ]
-          },
-          {
-            "rank": 14,
-            "team": "NEC Nijmegen",
-            "short": "NEC",
-            "highlight": false,
-            "values": [
-              "11",
-              "2",
-              "5",
-              "4",
-              "-2",
-              "11"
-            ]
-          },
-          {
-            "rank": 15,
-            "team": "Excelsior",
-            "short": "EXC",
-            "highlight": false,
-            "values": [
-              "11",
-              "3",
-              "2",
-              "6",
-              "-12",
-              "11"
-            ]
-          },
-          {
-            "rank": 16,
-            "team": "Telstar",
-            "short": "TEL",
-            "highlight": false,
-            "values": [
-              "11",
-              "2",
-              "3",
-              "6",
-              "-7",
-              "9"
-            ]
-          },
-          {
-            "rank": 17,
-            "team": "ADO Den Haag",
-            "short": "ADO",
-            "highlight": false,
-            "values": [
-              "11",
-              "1",
-              "3",
-              "7",
-              "-11",
-              "6"
-            ]
-          },
-          {
-            "rank": 18,
-            "team": "Willem II",
-            "short": "WIL",
-            "highlight": false,
-            "values": [
-              "12",
-              "0",
-              "3",
-              "9",
-              "-29",
-              "3"
-            ]
-          }
-        ]
-      },
-      "error": null
-    },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-07T09:55:57.579Z",
+      "updatedAt": "2026-11-08T00:26:34.209Z",
       "data": {
         "items": [
           {
-            "title": "Ook de financiële voorsprong van Ajax op PSV staat onder druk: ‘Het merk krimpt mee met de resultaten’",
-            "url": "https://www.parool.nl/ajax/ook-de-financiele-voorsprong-van-ajax-op-psv-staat-onder-druk-het-merk-krimpt-mee-met-de-resultaten~bbeb372a/",
+            "title": "Kan Ajax nog aanklampen bij PSV? ‘Het ontbreekt aan een duidelijk en stabiel financieel en technisch beleid’",
+            "url": "https://www.parool.nl/ajax/kan-ajax-nog-aanklampen-bij-psv-het-ontbreekt-aan-een-duidelijk-en-stabiel-financieel-en-technisch-beleid~bbeb372a/",
             "date": "2026-11-07T02:00:00.000Z",
             "source": "Het Parool"
           },
@@ -2354,10 +2354,10 @@
             "source": "Het Parool"
           },
           {
-            "title": "Arokodare leidt Ajax naar ruime zege op tiental Midtjylland, ook Leonardo scoort",
-            "url": "https://nos.nl/l/2638206",
-            "date": "2026-11-05T19:52:02.000Z",
-            "source": "NOS"
+            "title": "Voormalig Ajax-trainer Alfred Schreuder aan de slag in Turkije als opvolger van Emre",
+            "url": "https://www.parool.nl/sport/voormalig-ajax-trainer-alfred-schreuder-aan-de-slag-in-turkije-als-opvolger-van-emre~ba509fdf/",
+            "date": "2026-11-04T21:21:00.000Z",
+            "source": "Het Parool"
           }
         ],
         "failedSources": [],
