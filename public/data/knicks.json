@@ -230,9 +230,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-08T15:01:30.762Z",
+    "updatedAt": "2026-11-08T19:31:29.078Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Knicks Bulletin: ‘I wasn’t lying in that sense’",
+        "url": "https://www.postingandtoasting.com/knicks-news/91051/knicks-bulletin-i-wasnt-lying-in-that-sense",
+        "date": "2026-11-08T15:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks Week Preview: Nov. 8-14, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/91057/knicks-week-preview-nov-8-14-2026",
+        "date": "2026-11-08T14:58:37.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Knicks 109, Cavaliers 97: “ANOTHER GAME HOLDING THE BAD GUYS UNDER 100”",
         "url": "https://www.postingandtoasting.com/knicks-scores-results/91037/knicks-109-cavaliers-97-another-game-holding-the-bad-guys-under-100",
@@ -256,30 +268,18 @@
         "url": "https://www.postingandtoasting.com/knicks-news/91002/knicks-bulletin-im-going-to-get-some-hate-from-the-swifties",
         "date": "2026-11-07T14:30:00.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Preview: Knicks at Cavaliers, November 7, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/90984/game-preview-knicks-at-cavaliers-november-7-2026",
-        "date": "2026-11-07T12:05:30.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Cleveland takes on New York in conference matchup",
-        "url": "http://www.espn.com/nba/preview?gameId=401909940",
-        "date": "2026-11-07T07:03:36.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks zijn in vorm: drie zeges op rij, de laatste op 8 november met 109-97 bij de Cleveland Cavaliers. In de Atlantic Division staan ze derde van vijf met 5 winstpartijen en 4 nederlagen, 2,5 wedstrijd achter de koploper. In het nieuws: Jalen Brunson met 31 punten tegen de Cavs.",
-    "hash": "1e5ca20f8a7bc5993f18d5cd30fd8afceea932d706271f0f6a5967dfca390843",
-    "generatedAt": "2026-11-08T15:01:30.762Z",
+    "text": "De Knicks hebben drie keer op rij gewonnen, het laatst op 8 november met 109-97 bij de Cleveland Cavaliers. In de Atlantic staan ze derde van vijf met 5-4, op 2,5 wedstrijden van de koploper. In het nieuws: een kop meldt 31 punten van Jalen Brunson tegen de Cavaliers.",
+    "hash": "ac8ce5a98b8dc956cdebd819690891194cf85fe9c007c2101c55b606da466ac7",
+    "generatedAt": "2026-11-08T19:31:29.078Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-08T15:01:30.762Z",
+  "updatedAt": "2026-11-08T19:31:29.078Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
@@ -1412,9 +1412,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-08T15:01:30.762Z",
+      "updatedAt": "2026-11-08T19:31:29.078Z",
       "data": {
         "items": [
+          {
+            "title": "Knicks Bulletin: ‘I wasn’t lying in that sense’",
+            "url": "https://www.postingandtoasting.com/knicks-news/91051/knicks-bulletin-i-wasnt-lying-in-that-sense",
+            "date": "2026-11-08T15:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks Week Preview: Nov. 8-14, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/91057/knicks-week-preview-nov-8-14-2026",
+            "date": "2026-11-08T14:58:37.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Knicks 109, Cavaliers 97: “ANOTHER GAME HOLDING THE BAD GUYS UNDER 100”",
             "url": "https://www.postingandtoasting.com/knicks-scores-results/91037/knicks-109-cavaliers-97-another-game-holding-the-bad-guys-under-100",
@@ -1438,18 +1450,6 @@
             "url": "https://www.postingandtoasting.com/knicks-news/91002/knicks-bulletin-im-going-to-get-some-hate-from-the-swifties",
             "date": "2026-11-07T14:30:00.000Z",
             "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Preview: Knicks at Cavaliers, November 7, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/90984/game-preview-knicks-at-cavaliers-november-7-2026",
-            "date": "2026-11-07T12:05:30.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Cleveland takes on New York in conference matchup",
-            "url": "http://www.espn.com/nba/preview?gameId=401909940",
-            "date": "2026-11-07T07:03:36.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],

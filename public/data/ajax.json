@@ -16,9 +16,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-08T15:01:30.762Z",
+    "updatedAt": "2026-11-08T19:31:29.078Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401875550",
+        "date": "2026-11-08T13:30:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": false,
+        "opponent": "FC Twente",
+        "opponentShort": "TWE",
+        "status": "final",
+        "teamScore": 2,
+        "opponentScore": 2,
+        "outcome": "G"
+      },
       {
         "id": "espn-401915829",
         "date": "2026-11-05T17:45:00.000Z",
@@ -70,40 +83,14 @@
         "teamScore": 2,
         "opponentScore": 0,
         "outcome": "W"
-      },
-      {
-        "id": "espn-401875575",
-        "date": "2026-10-18T14:45:00.000Z",
-        "timeKnown": true,
-        "competition": "Eredivisie",
-        "home": false,
-        "opponent": "FC Groningen",
-        "opponentShort": "GRO",
-        "status": "final",
-        "teamScore": 5,
-        "opponentScore": 2,
-        "outcome": "W"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-08T15:01:30.762Z",
+    "updatedAt": "2026-11-08T19:31:29.078Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401875550",
-        "date": "2026-11-08T13:30:00.000Z",
-        "timeKnown": true,
-        "competition": "Eredivisie",
-        "home": false,
-        "opponent": "FC Twente",
-        "opponentShort": "TWE",
-        "status": "live",
-        "teamScore": 2,
-        "opponentScore": 0,
-        "outcome": null
-      },
       {
         "id": "espn-401875547",
         "date": "2026-11-22T13:30:00.000Z",
@@ -142,6 +129,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401875528",
+        "date": "2026-12-06T13:30:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": true,
+        "opponent": "FC Utrecht",
+        "opponentShort": "UTR",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -149,7 +149,7 @@
     {
       "label": "Eredivisie",
       "status": "ok",
-      "updatedAt": "2026-11-08T15:01:30.762Z",
+      "updatedAt": "2026-11-08T19:31:29.078Z",
       "table": {
         "name": "Eredivisie",
         "columns": [
@@ -163,6 +163,20 @@
         "rows": [
           {
             "rank": 1,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "12",
+              "8",
+              "2",
+              "2",
+              "+25",
+              "26"
+            ]
+          },
+          {
+            "rank": 2,
             "team": "Feyenoord Rotterdam",
             "short": "FEY",
             "highlight": false,
@@ -176,31 +190,17 @@
             ]
           },
           {
-            "rank": 2,
+            "rank": 3,
             "team": "Ajax Amsterdam",
             "short": "AJA",
             "highlight": true,
             "values": [
-              "11",
+              "12",
               "7",
-              "3",
+              "4",
               "1",
               "+17",
-              "24"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "PSV Eindhoven",
-            "short": "PSV",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "2",
-              "2",
-              "+22",
-              "23"
+              "25"
             ]
           },
           {
@@ -209,16 +209,30 @@
             "short": "TWE",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "7",
-              "2",
+              "3",
               "2",
               "+18",
-              "23"
+              "24"
             ]
           },
           {
             "rank": 5,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "12",
+              "7",
+              "2",
+              "3",
+              "+8",
+              "23"
+            ]
+          },
+          {
+            "rank": 6,
             "team": "Heerenveen",
             "short": "HEE",
             "highlight": false,
@@ -229,20 +243,6 @@
               "3",
               "+8",
               "21"
-            ]
-          },
-          {
-            "rank": 6,
-            "team": "AZ Alkmaar",
-            "short": "AZ",
-            "highlight": false,
-            "values": [
-              "11",
-              "6",
-              "2",
-              "3",
-              "+7",
-              "20"
             ]
           },
           {
@@ -279,11 +279,11 @@
             "short": "GRO",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "4",
               "3",
-              "4",
-              "+2",
+              "5",
+              "+1",
               "15"
             ]
           },
@@ -293,11 +293,11 @@
             "short": "CAM",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "4",
               "3",
-              "4",
-              "+1",
+              "5",
+              "-2",
               "15"
             ]
           },
@@ -941,146 +941,74 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-08T15:01:30.762Z",
+    "updatedAt": "2026-11-08T19:31:29.078Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Kansen over een weer na snelle openingsgoal Ajax in aantrekkelijke topper tegen Twente",
-        "url": "https://www.parool.nl/sport/live-twente-ajax-kansen-over-een-weer-na-snelle-openingsgoal-ajax-in-topper-tegen-twente~b130f548/",
-        "date": "2026-11-08T12:52:00.000Z",
+        "title": "Ajax blijft tegen FC Twente voor de zesde keer op rij ongeslagen, maar er is nog genoeg werk aan de winkel voor Míchel",
+        "url": "https://www.parool.nl/sport/ajax-blijft-tegen-fc-twente-voor-de-zesde-keer-op-rij-ongeslagen-maar-er-is-nog-genoeg-werk-aan-de-winkel-voor-michel~b443cb39/",
+        "date": "2026-11-08T18:42:11.000Z",
         "source": "Het Parool"
+      },
+      {
+        "title": "PSV wint en is nieuwe koploper na verlies Feyenoord en gelijkspel Twente-Ajax",
+        "url": "https://nos.nl/l/2638615",
+        "date": "2026-11-08T17:47:48.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Scheidsrechter Joey Kooij door het stof na curieus VAR-moment bij FC Twente-Ajax: ‘Ongelukkig is het goede woord, ik baalde er enorm van’",
+        "url": "https://www.parool.nl/sport/scheidsrechter-joey-kooij-door-het-stof-na-curieus-var-moment-bij-fc-twente-ajax-ongelukkig-is-het-goede-woord-ik-baalde-er-enorm-van~b40f2a5d/",
+        "date": "2026-11-08T16:59:00.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "Weghorst en Arokodare bidden samen na Twente-Ajax: 'Mooie gesprekken over geloof'",
+        "url": "https://nos.nl/l/2638604",
+        "date": "2026-11-08T16:43:54.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Twente houdt Ajax van koppositie door late en verdiende gelijkmaker Weghorst",
+        "url": "https://nos.nl/l/2638581",
+        "date": "2026-11-08T15:29:35.000Z",
+        "source": "NOS"
       },
       {
         "title": "Topscorer Tolu predikt liefde bij Ajax: 'In het stadion ben ik gelukkig'",
         "url": "https://nos.nl/l/2638520",
         "date": "2026-11-08T05:00:02.000Z",
         "source": "NOS"
-      },
-      {
-        "title": "Kan Ajax nog aanklampen bij PSV? ‘Het ontbreekt aan een duidelijk en stabiel financieel en technisch beleid’",
-        "url": "https://www.parool.nl/ajax/kan-ajax-nog-aanklampen-bij-psv-het-ontbreekt-aan-een-duidelijk-en-stabiel-financieel-en-technisch-beleid~bbeb372a/",
-        "date": "2026-11-07T02:00:00.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Algemeen directeur Menno Geelen vervroegd weg bij Ajax",
-        "url": "https://www.parool.nl/sport/algemeen-directeur-menno-geelen-vervroegd-weg-bij-ajax~b62c00d8/",
-        "date": "2026-11-06T13:39:39.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Afgeschreven, uitgefloten, maar ineens is het: ‘Wijndal in Oranje’ – onder Míchel is iedereen bij Ajax belangrijk",
-        "url": "https://www.parool.nl/ajax/afgeschreven-uitgefloten-maar-ineens-is-het-wijndal-in-oranje-onder-michel-is-iedereen-bij-ajax-belangrijk~bc932dc7/",
-        "date": "2026-11-06T06:17:00.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Ajax walst na rust over tiental Midtjylland heen en boekt tweede zege in Conference League",
-        "url": "https://www.parool.nl/sport/ajax-walst-na-rust-over-tiental-midtjylland-heen-en-boekt-tweede-zege-in-conference-league~b0b8dc34/",
-        "date": "2026-11-05T20:12:00.000Z",
-        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax heeft vijf wedstrijden op rij gewonnen, met als laatste 6-1 bij FC Midtjylland op 5 november. In de Eredivisie staat Ajax tweede met 24 punten, in de Conference League elfde. In het nieuws: algemeen directeur Menno Geelen vervroegd weg bij Ajax (Het Parool).",
-    "hash": "9e2376efb94b629ff5bfb66c0904d32cd8c04b3e545d8ce3656f2c190696c80c",
-    "generatedAt": "2026-11-08T15:01:30.762Z",
+    "text": "Ajax is in vorm: na vier zeges op rij speelde de ploeg op 8 november met 2-2 gelijk bij FC Twente. In de Eredivisie staat Ajax derde met 25 punten, in de Conference League elfde. In het nieuws: Twente zou Ajax met een late gelijkmaker van Weghorst van de koppositie hebben gehouden.",
+    "hash": "5819c01085f1022eed3f468e516304c51b1af7a3e60dba856e79697a40f5cc1c",
+    "generatedAt": "2026-11-08T19:31:29.078Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-08T15:01:30.762Z",
+  "updatedAt": "2026-11-08T19:31:29.078Z",
   "sections": {
-    "games:espn-soccer/uefa.europa.conf-139": {
-      "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
-      "data": [
-        {
-          "id": "espn-401915829",
-          "date": "2026-11-05T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "FC Midtjylland",
-          "opponentShort": "MID",
-          "status": "final",
-          "teamScore": 6,
-          "opponentScore": 1,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915837",
-          "date": "2026-10-22T19:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Atalanta",
-          "opponentShort": "ATA",
-          "status": "final",
-          "teamScore": 2,
-          "opponentScore": 0,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915861",
-          "date": "2026-10-15T16:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Hajduk Split",
-          "opponentShort": "HAJ",
-          "status": "final",
-          "teamScore": 1,
-          "opponentScore": 2,
-          "outcome": "V"
-        },
-        {
-          "id": "espn-401915815",
-          "date": "2026-11-26T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "FC Thun",
-          "opponentShort": "THUN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915630",
-          "date": "2026-12-10T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Sint-Truidense",
-          "opponentShort": "STVV",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915731",
-          "date": "2026-12-17T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Getafe",
-          "opponentShort": "GET",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        }
-      ],
-      "error": null
-    },
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
-      "updatedAt": "2026-11-08T15:01:30.762Z",
+      "updatedAt": "2026-11-08T19:31:29.078Z",
       "data": [
+        {
+          "id": "espn-401875550",
+          "date": "2026-11-08T13:30:00.000Z",
+          "timeKnown": true,
+          "competition": "Eredivisie",
+          "home": false,
+          "opponent": "FC Twente",
+          "opponentShort": "TWE",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 2,
+          "outcome": "G"
+        },
         {
           "id": "espn-401875562",
           "date": "2026-10-31T20:00:00.000Z",
@@ -1223,19 +1151,6 @@
           "teamScore": 2,
           "opponentScore": 0,
           "outcome": "W"
-        },
-        {
-          "id": "espn-401875550",
-          "date": "2026-11-08T13:30:00.000Z",
-          "timeKnown": true,
-          "competition": "Eredivisie",
-          "home": false,
-          "opponent": "FC Twente",
-          "opponentShort": "TWE",
-          "status": "live",
-          "teamScore": 2,
-          "opponentScore": 0,
-          "outcome": null
         },
         {
           "id": "espn-401875547",
@@ -1526,9 +1441,94 @@
       ],
       "error": null
     },
+    "games:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "data": [
+        {
+          "id": "espn-401915829",
+          "date": "2026-11-05T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "FC Midtjylland",
+          "opponentShort": "MID",
+          "status": "final",
+          "teamScore": 6,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915837",
+          "date": "2026-10-22T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Atalanta",
+          "opponentShort": "ATA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915861",
+          "date": "2026-10-15T16:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Hajduk Split",
+          "opponentShort": "HAJ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 2,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915630",
+          "date": "2026-12-10T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Sint-Truidense",
+          "opponentShort": "STVV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915731",
+          "date": "2026-12-17T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Getafe",
+          "opponentShort": "GET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
     "standings:espn-soccer/ned.1-139": {
       "status": "ok",
-      "updatedAt": "2026-11-08T15:01:30.762Z",
+      "updatedAt": "2026-11-08T19:31:29.078Z",
       "data": {
         "name": "Eredivisie",
         "columns": [
@@ -1542,6 +1542,20 @@
         "rows": [
           {
             "rank": 1,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "12",
+              "8",
+              "2",
+              "2",
+              "+25",
+              "26"
+            ]
+          },
+          {
+            "rank": 2,
             "team": "Feyenoord Rotterdam",
             "short": "FEY",
             "highlight": false,
@@ -1555,31 +1569,17 @@
             ]
           },
           {
-            "rank": 2,
+            "rank": 3,
             "team": "Ajax Amsterdam",
             "short": "AJA",
             "highlight": true,
             "values": [
-              "11",
+              "12",
               "7",
-              "3",
+              "4",
               "1",
               "+17",
-              "24"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "PSV Eindhoven",
-            "short": "PSV",
-            "highlight": false,
-            "values": [
-              "11",
-              "7",
-              "2",
-              "2",
-              "+22",
-              "23"
+              "25"
             ]
           },
           {
@@ -1588,16 +1588,30 @@
             "short": "TWE",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "7",
-              "2",
+              "3",
               "2",
               "+18",
-              "23"
+              "24"
             ]
           },
           {
             "rank": 5,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "12",
+              "7",
+              "2",
+              "3",
+              "+8",
+              "23"
+            ]
+          },
+          {
+            "rank": 6,
             "team": "Heerenveen",
             "short": "HEE",
             "highlight": false,
@@ -1608,20 +1622,6 @@
               "3",
               "+8",
               "21"
-            ]
-          },
-          {
-            "rank": 6,
-            "team": "AZ Alkmaar",
-            "short": "AZ",
-            "highlight": false,
-            "values": [
-              "11",
-              "6",
-              "2",
-              "3",
-              "+7",
-              "20"
             ]
           },
           {
@@ -1658,11 +1658,11 @@
             "short": "GRO",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "4",
               "3",
-              "4",
-              "+2",
+              "5",
+              "+1",
               "15"
             ]
           },
@@ -1672,11 +1672,11 @@
             "short": "CAM",
             "highlight": false,
             "values": [
-              "11",
+              "12",
               "4",
               "3",
-              "4",
-              "+1",
+              "5",
+              "-2",
               "15"
             ]
           },
@@ -2320,44 +2320,44 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-08T15:01:30.762Z",
+      "updatedAt": "2026-11-08T19:31:29.078Z",
       "data": {
         "items": [
           {
-            "title": "Kansen over een weer na snelle openingsgoal Ajax in aantrekkelijke topper tegen Twente",
-            "url": "https://www.parool.nl/sport/live-twente-ajax-kansen-over-een-weer-na-snelle-openingsgoal-ajax-in-topper-tegen-twente~b130f548/",
-            "date": "2026-11-08T12:52:00.000Z",
+            "title": "Ajax blijft tegen FC Twente voor de zesde keer op rij ongeslagen, maar er is nog genoeg werk aan de winkel voor Míchel",
+            "url": "https://www.parool.nl/sport/ajax-blijft-tegen-fc-twente-voor-de-zesde-keer-op-rij-ongeslagen-maar-er-is-nog-genoeg-werk-aan-de-winkel-voor-michel~b443cb39/",
+            "date": "2026-11-08T18:42:11.000Z",
             "source": "Het Parool"
+          },
+          {
+            "title": "PSV wint en is nieuwe koploper na verlies Feyenoord en gelijkspel Twente-Ajax",
+            "url": "https://nos.nl/l/2638615",
+            "date": "2026-11-08T17:47:48.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Scheidsrechter Joey Kooij door het stof na curieus VAR-moment bij FC Twente-Ajax: ‘Ongelukkig is het goede woord, ik baalde er enorm van’",
+            "url": "https://www.parool.nl/sport/scheidsrechter-joey-kooij-door-het-stof-na-curieus-var-moment-bij-fc-twente-ajax-ongelukkig-is-het-goede-woord-ik-baalde-er-enorm-van~b40f2a5d/",
+            "date": "2026-11-08T16:59:00.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "Weghorst en Arokodare bidden samen na Twente-Ajax: 'Mooie gesprekken over geloof'",
+            "url": "https://nos.nl/l/2638604",
+            "date": "2026-11-08T16:43:54.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Twente houdt Ajax van koppositie door late en verdiende gelijkmaker Weghorst",
+            "url": "https://nos.nl/l/2638581",
+            "date": "2026-11-08T15:29:35.000Z",
+            "source": "NOS"
           },
           {
             "title": "Topscorer Tolu predikt liefde bij Ajax: 'In het stadion ben ik gelukkig'",
             "url": "https://nos.nl/l/2638520",
             "date": "2026-11-08T05:00:02.000Z",
             "source": "NOS"
-          },
-          {
-            "title": "Kan Ajax nog aanklampen bij PSV? ‘Het ontbreekt aan een duidelijk en stabiel financieel en technisch beleid’",
-            "url": "https://www.parool.nl/ajax/kan-ajax-nog-aanklampen-bij-psv-het-ontbreekt-aan-een-duidelijk-en-stabiel-financieel-en-technisch-beleid~bbeb372a/",
-            "date": "2026-11-07T02:00:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Algemeen directeur Menno Geelen vervroegd weg bij Ajax",
-            "url": "https://www.parool.nl/sport/algemeen-directeur-menno-geelen-vervroegd-weg-bij-ajax~b62c00d8/",
-            "date": "2026-11-06T13:39:39.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Afgeschreven, uitgefloten, maar ineens is het: ‘Wijndal in Oranje’ – onder Míchel is iedereen bij Ajax belangrijk",
-            "url": "https://www.parool.nl/ajax/afgeschreven-uitgefloten-maar-ineens-is-het-wijndal-in-oranje-onder-michel-is-iedereen-bij-ajax-belangrijk~bc932dc7/",
-            "date": "2026-11-06T06:17:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Ajax walst na rust over tiental Midtjylland heen en boekt tweede zege in Conference League",
-            "url": "https://www.parool.nl/sport/ajax-walst-na-rust-over-tiental-midtjylland-heen-en-boekt-tweede-zege-in-conference-league~b0b8dc34/",
-            "date": "2026-11-05T20:12:00.000Z",
-            "source": "Het Parool"
           }
         ],
         "failedSources": [],
