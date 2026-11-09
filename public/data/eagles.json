@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-08T19:31:29.078Z",
+    "updatedAt": "2026-11-09T06:04:39.644Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401873044",
+        "date": "2026-11-08T18:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "New York Giants",
+        "opponentShort": "NYG",
+        "status": "final",
+        "teamScore": 11,
+        "opponentScore": 19,
+        "outcome": "V"
+      },
       {
         "id": "espn-401873035",
         "date": "2026-11-02T01:20:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 17,
         "opponentScore": 19,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401872970",
-        "date": "2026-10-04T17:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": true,
-        "opponent": "Los Angeles Rams",
-        "opponentShort": "LAR",
-        "status": "final",
-        "teamScore": 20,
-        "opponentScore": 24,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-08T19:31:29.078Z",
+    "updatedAt": "2026-11-09T06:04:39.644Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401873044",
-        "date": "2026-11-08T18:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": true,
-        "opponent": "New York Giants",
-        "opponentShort": "NYG",
-        "status": "live",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401873076",
         "date": "2026-11-22T21:25:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401873114",
+        "date": "2026-12-13T18:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Indianapolis Colts",
+        "opponentShort": "IND",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-09T06:04:39.644Z",
       "table": {
         "name": "NFC East",
         "columns": [
@@ -165,11 +165,11 @@
             "short": "NYG",
             "highlight": false,
             "values": [
-              "4",
+              "5",
               "2",
               "1",
-              ".643",
-              "+2"
+              ".688",
+              "+10"
             ]
           },
           {
@@ -178,11 +178,11 @@
             "short": "DAL",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "5",
               "0",
-              ".375",
-              "+6"
+              ".444",
+              "+10"
             ]
           },
           {
@@ -192,10 +192,10 @@
             "highlight": false,
             "values": [
               "2",
-              "4",
+              "5",
               "1",
-              ".357",
-              "-23"
+              ".313",
+              "-30"
             ]
           },
           {
@@ -205,10 +205,10 @@
             "highlight": true,
             "values": [
               "2",
-              "6",
+              "7",
               "0",
-              ".250",
-              "-65"
+              ".222",
+              "-73"
             ]
           }
         ]
@@ -217,13 +217,25 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-08T19:31:29.078Z",
+    "updatedAt": "2026-11-09T06:04:39.644Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Live Updates: Giants vs. Eagles",
+        "title": "Coach Nick Sirianni not ruling out staff changes after Eagles' 7th straight loss",
+        "url": "https://www.espn.com/nfl/story/_/id/50427398/sirianni-not-ruling-changes-eagles-7th-straight-loss",
+        "date": "2026-11-09T01:06:42.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Eagles name SportsRadio 94WIP broadcast booth at Lincoln Financial Field after Merrill Reese",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-name-sportsradio-94wip-broadcast-booth-at-lincoln-financial-field-after-merrill-reese",
+        "date": "2026-11-08T23:30:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Game Recap: Giants 19, Eagles 11",
         "url": "https://www.philadelphiaeagles.com/news/giants-vs-eagles-game-recap-2026-nfl-week-9-kelly-green-joe-milton-saquon-barkley-jj-mccarthy-malik-nabers",
-        "date": "2026-11-08T19:24:00.000Z",
+        "date": "2026-11-08T23:27:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
@@ -239,38 +251,26 @@
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-        "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-        "date": "2026-11-08T02:18:40.000Z",
-        "source": "ESPN"
-      },
-      {
         "title": "Eagles elevate Elijah Mitchell, Cole Wisniewski for Sunday's game vs. Giants",
         "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-cole-wisniewski-for-sunday-s-game-vs-giants",
         "date": "2026-11-07T21:57:12.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Game Preview vs. Giants: Six storylines to follow Sunday",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-game-preview-vs-giants-six-storylines-to-follow-sunday-joe-milton-saquon-barkley-malik-nabers-jj-mccarthy-2026-nfl-week-9-kelly-green",
-        "date": "2026-11-07T10:00:00.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 2 november met 10-27 bij Washington Commanders. Met 2 zeges en 6 nederlagen (puntensaldo -65) staan ze laatste in de NFC East. In het nieuws: de Eagles spelen in week 9 in hun 'Kelly Green'-tenue.",
-    "hash": "b1c84df5addf5396dbb67de928fb92063e76504c464fad7e3532d52c3224a2e9",
-    "generatedAt": "2026-11-08T19:31:29.078Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst met 11-19 van de New York Giants op 8 november. Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East. In het nieuws: coach Nick Sirianni zou personeelswijzigingen niet uitsluiten na de zevende nederlaag op rij.",
+    "hash": "c48107f2c20a2b3f9c9c3c8aa22102f74f8be40ae8ef31d22c616c7e05ea6de0",
+    "generatedAt": "2026-11-09T06:04:39.644Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-08T19:31:29.078Z",
+  "updatedAt": "2026-11-09T06:04:39.644Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-08T19:31:29.078Z",
+      "updatedAt": "2026-11-09T06:04:39.644Z",
       "data": [
         {
           "id": "espn-401872929",
@@ -384,10 +384,10 @@
           "home": true,
           "opponent": "New York Giants",
           "opponentShort": "NYG",
-          "status": "live",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 11,
+          "opponentScore": 19,
+          "outcome": "V"
         },
         {
           "id": "espn-401873076",
@@ -498,7 +498,7 @@
     },
     "standings:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-02T05:51:09.807Z",
+      "updatedAt": "2026-11-09T06:04:39.644Z",
       "data": {
         "name": "NFC East",
         "columns": [
@@ -515,11 +515,11 @@
             "short": "NYG",
             "highlight": false,
             "values": [
-              "4",
+              "5",
               "2",
               "1",
-              ".643",
-              "+2"
+              ".688",
+              "+10"
             ]
           },
           {
@@ -528,11 +528,11 @@
             "short": "DAL",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "5",
               "0",
-              ".375",
-              "+6"
+              ".444",
+              "+10"
             ]
           },
           {
@@ -542,10 +542,10 @@
             "highlight": false,
             "values": [
               "2",
-              "4",
+              "5",
               "1",
-              ".357",
-              "-23"
+              ".313",
+              "-30"
             ]
           },
           {
@@ -555,10 +555,10 @@
             "highlight": true,
             "values": [
               "2",
-              "6",
+              "7",
               "0",
-              ".250",
-              "-65"
+              ".222",
+              "-73"
             ]
           }
         ]
@@ -567,13 +567,25 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-08T19:31:29.078Z",
+      "updatedAt": "2026-11-09T06:04:39.644Z",
       "data": {
         "items": [
           {
-            "title": "Live Updates: Giants vs. Eagles",
+            "title": "Coach Nick Sirianni not ruling out staff changes after Eagles' 7th straight loss",
+            "url": "https://www.espn.com/nfl/story/_/id/50427398/sirianni-not-ruling-changes-eagles-7th-straight-loss",
+            "date": "2026-11-09T01:06:42.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Eagles name SportsRadio 94WIP broadcast booth at Lincoln Financial Field after Merrill Reese",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-name-sportsradio-94wip-broadcast-booth-at-lincoln-financial-field-after-merrill-reese",
+            "date": "2026-11-08T23:30:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Game Recap: Giants 19, Eagles 11",
             "url": "https://www.philadelphiaeagles.com/news/giants-vs-eagles-game-recap-2026-nfl-week-9-kelly-green-joe-milton-saquon-barkley-jj-mccarthy-malik-nabers",
-            "date": "2026-11-08T19:24:00.000Z",
+            "date": "2026-11-08T23:27:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
@@ -589,21 +601,9 @@
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-            "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-            "date": "2026-11-08T02:18:40.000Z",
-            "source": "ESPN"
-          },
-          {
             "title": "Eagles elevate Elijah Mitchell, Cole Wisniewski for Sunday's game vs. Giants",
             "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-cole-wisniewski-for-sunday-s-game-vs-giants",
             "date": "2026-11-07T21:57:12.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Game Preview vs. Giants: Six storylines to follow Sunday",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-game-preview-vs-giants-six-storylines-to-follow-sunday-joe-milton-saquon-barkley-malik-nabers-jj-mccarthy-2026-nfl-week-9-kelly-green",
-            "date": "2026-11-07T10:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
