@@ -177,19 +177,37 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-09T06:04:39.644Z",
+    "updatedAt": "2026-11-10T08:18:49.147Z",
     "failedSources": [],
     "items": [
       {
-        "title": "NL prospects rally to win AFL Fall Stars Game",
-        "url": "https://www.mlb.com/yankees/news/arizona-fall-league-fall-stars-game-2026-watch-live",
-        "date": "2026-11-09T04:32:00.000Z",
+        "title": "Watch Yankees prospects in Arizona Fall League action",
+        "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+        "date": "2026-11-10T06:07:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Watch Yankees prospects in Arizona Fall League action",
-        "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-        "date": "2026-11-08T23:59:00.000Z",
+        "title": "Where does Lombard Jr. rank on '26 rookies based on long-term value list?",
+        "url": "https://www.mlb.com/yankees/news/ranking-2026-rookies-based-on-long-term-value",
+        "date": "2026-11-10T04:17:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "'27 Rookie of the Year candidates -- one from each team",
+        "url": "https://www.mlb.com/yankees/news/each-team-2027-rookie-of-the-year-candidate",
+        "date": "2026-11-10T01:15:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
+        "url": "https://www.mlb.com/yankees/news/who-will-be-yankees-closer-in-2027",
+        "date": "2026-11-09T21:58:09.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Here's how every prospect fared in the AFL Fall Stars Game",
+        "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game",
+        "date": "2026-11-09T06:59:00.000Z",
         "source": "MLB.com"
       },
       {
@@ -197,36 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/yankees-2027-rotation-outlook",
         "date": "2026-11-08T23:47:04.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "Breaking down the Fall Stars Game participants by organization",
-        "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-by-organization",
-        "date": "2026-11-08T05:14:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
-        "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game-rosters",
-        "date": "2026-11-08T05:14:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Yankees' Triple-A affiliate goes back to the future with new identity",
-        "url": "https://www.mlb.com/yankees/news/yankees-triple-a-affiliate-rebrands-as-highlanders",
-        "date": "2026-11-07T20:35:16.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na twee overwinningen in de Wild Card Series tegen de Red Sox gingen ze in de Division Series drie keer onderuit tegen de Rays, de laatste keer op 8 oktober. In de AL East werden ze tweede met 93-68. In het nieuws: of de rotatie in 2027 nog beter kan.",
-    "hash": "87b916be25d72e42c488d5c1dabed64a74c0c9e4d7beab42587591683a064a8a",
-    "generatedAt": "2026-11-09T06:04:39.644Z",
+    "text": "Buiten het seizoen: de Yankees werden tweede in de AL East (93-68), wonnen beide wedstrijden van de Wild Card Series tegen de Red Sox en strandden daarna met drie nederlagen tegen de Rays in de AL Division Series. Er wordt geschreven over wie in 2027 de closer wordt, met Bednar als vrije speler.",
+    "hash": "840848f0623ed4a5b2d914d3190740888a85e60e209ec20d28aac8583723d0a1",
+    "generatedAt": "2026-11-10T08:18:49.147Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-09T06:04:39.644Z",
+  "updatedAt": "2026-11-10T08:18:49.147Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,43 +2542,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-09T06:04:39.644Z",
+      "updatedAt": "2026-11-10T08:18:49.147Z",
       "data": {
         "items": [
           {
-            "title": "NL prospects rally to win AFL Fall Stars Game",
-            "url": "https://www.mlb.com/yankees/news/arizona-fall-league-fall-stars-game-2026-watch-live",
-            "date": "2026-11-09T04:32:00.000Z",
+            "title": "Watch Yankees prospects in Arizona Fall League action",
+            "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+            "date": "2026-11-10T06:07:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Watch Yankees prospects in Arizona Fall League action",
-            "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-            "date": "2026-11-08T23:59:00.000Z",
+            "title": "Where does Lombard Jr. rank on '26 rookies based on long-term value list?",
+            "url": "https://www.mlb.com/yankees/news/ranking-2026-rookies-based-on-long-term-value",
+            "date": "2026-11-10T04:17:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "'27 Rookie of the Year candidates -- one from each team",
+            "url": "https://www.mlb.com/yankees/news/each-team-2027-rookie-of-the-year-candidate",
+            "date": "2026-11-10T01:15:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
+            "url": "https://www.mlb.com/yankees/news/who-will-be-yankees-closer-in-2027",
+            "date": "2026-11-09T21:58:09.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Here's how every prospect fared in the AFL Fall Stars Game",
+            "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game",
+            "date": "2026-11-09T06:59:00.000Z",
             "source": "MLB.com"
           },
           {
             "title": "Could the Yankees’ rotation be even better in 2027?",
             "url": "https://www.mlb.com/yankees/news/yankees-2027-rotation-outlook",
             "date": "2026-11-08T23:47:04.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Breaking down the Fall Stars Game participants by organization",
-            "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-by-organization",
-            "date": "2026-11-08T05:14:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
-            "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game-rosters",
-            "date": "2026-11-08T05:14:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Yankees' Triple-A affiliate goes back to the future with new identity",
-            "url": "https://www.mlb.com/yankees/news/yankees-triple-a-affiliate-rebrands-as-highlanders",
-            "date": "2026-11-07T20:35:16.000Z",
             "source": "MLB.com"
           }
         ],
