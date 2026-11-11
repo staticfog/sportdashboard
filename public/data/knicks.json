@@ -15,7 +15,7 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-08T15:01:30.762Z",
+    "updatedAt": "2026-11-11T02:42:55.362Z",
     "issues": [],
     "items": [
       {
@@ -87,7 +87,7 @@
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-08T15:01:30.762Z",
+    "updatedAt": "2026-11-11T02:42:55.362Z",
     "issues": [],
     "items": [
       {
@@ -98,7 +98,7 @@
         "home": true,
         "opponent": "Milwaukee Bucks",
         "opponentShort": "MIL",
-        "status": "scheduled",
+        "status": "live",
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
@@ -230,20 +230,32 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-10T08:18:49.147Z",
+    "updatedAt": "2026-11-11T02:42:55.362Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Game Discussion Thread: Knicks vs. Bucks, November 10, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/91100/game-discussion-thread-knicks-vs-bucks-november-10-2026",
+        "date": "2026-11-11T00:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks Bulletin: ‘Typically, there’s some ulterior motives and personal agendas’",
+        "url": "https://www.postingandtoasting.com/knicks-news/91091/knicks-bulletin-typically-theres-some-ulterior-motives-and-personal-agendas",
+        "date": "2026-11-10T14:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Game Preview: Knicks vs. Bucks, November 10, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/91076/game-preview-knicks-vs-bucks-november-10-2026",
+        "date": "2026-11-10T05:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Knicks’ Jalen Brunson earns NBA accolade after great week of play",
         "url": "https://www.postingandtoasting.com/knicks-news/91085/knicks-jalen-brunson-earns-nba-accolade-after-great-week-of-play",
         "date": "2026-11-10T00:02:25.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "New York plays Milwaukee, seeks 4th straight home win",
-        "url": "http://www.espn.com/nba/preview?gameId=401909960",
-        "date": "2026-11-09T07:04:36.000Z",
-        "source": "ESPN"
       },
       {
         "title": "Knicks Bulletin: ‘I wasn’t lying in that sense’",
@@ -256,34 +268,22 @@
         "url": "https://www.postingandtoasting.com/knicks-game-previews/91057/knicks-week-preview-nov-8-14-2026",
         "date": "2026-11-08T14:58:37.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 109, Cavaliers 97: “ANOTHER GAME HOLDING THE BAD GUYS UNDER 100”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/91037/knicks-109-cavaliers-97-another-game-holding-the-bad-guys-under-100",
-        "date": "2026-11-08T03:46:22.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Discussion Thread: Knicks at Cavaliers, November 7, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/91012/game-thread-knicks-at-cavaliers-november-7-2026",
-        "date": "2026-11-08T00:30:00.000Z",
-        "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks hebben drie wedstrijden op rij gewonnen, het laatst op 8 november met 109-97 bij de Cleveland Cavaliers. Met 5 overwinningen en 4 nederlagen staan ze derde van vijf in de Atlantic Division. In het nieuws: Jalen Brunson zou na een sterke week een NBA-onderscheiding krijgen.",
-    "hash": "ebc4add39454fd68b4c5e3f844932d19981a5ebb33fb46ca22b804969b01cac3",
-    "generatedAt": "2026-11-10T08:18:49.147Z",
+    "text": "De Knicks zitten in goede vorm met drie zeges op rij, waaronder 109-97 bij Cleveland op 8 november. Met 5 overwinningen en 4 nederlagen staan ze derde van vijf in de Atlantic Division. In het nieuws: Jalen Brunson zou na een sterke week een NBA-onderscheiding hebben gekregen.",
+    "hash": "8854f193e527fe7c705547cddb6a8e9b034fe08fd106de4de239705b68b4c692",
+    "generatedAt": "2026-11-11T02:42:55.362Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-10T08:18:49.147Z",
+  "updatedAt": "2026-11-11T02:42:55.362Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-08T15:01:30.762Z",
+      "updatedAt": "2026-11-11T02:42:55.362Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -410,7 +410,7 @@
           "home": true,
           "opponent": "Milwaukee Bucks",
           "opponentShort": "MIL",
-          "status": "scheduled",
+          "status": "live",
           "teamScore": null,
           "opponentScore": null,
           "outcome": null
@@ -1412,20 +1412,32 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-10T08:18:49.147Z",
+      "updatedAt": "2026-11-11T02:42:55.362Z",
       "data": {
         "items": [
+          {
+            "title": "Game Discussion Thread: Knicks vs. Bucks, November 10, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/91100/game-discussion-thread-knicks-vs-bucks-november-10-2026",
+            "date": "2026-11-11T00:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks Bulletin: ‘Typically, there’s some ulterior motives and personal agendas’",
+            "url": "https://www.postingandtoasting.com/knicks-news/91091/knicks-bulletin-typically-theres-some-ulterior-motives-and-personal-agendas",
+            "date": "2026-11-10T14:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Game Preview: Knicks vs. Bucks, November 10, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/91076/game-preview-knicks-vs-bucks-november-10-2026",
+            "date": "2026-11-10T05:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Knicks’ Jalen Brunson earns NBA accolade after great week of play",
             "url": "https://www.postingandtoasting.com/knicks-news/91085/knicks-jalen-brunson-earns-nba-accolade-after-great-week-of-play",
             "date": "2026-11-10T00:02:25.000Z",
             "source": "Posting and Toasting"
-          },
-          {
-            "title": "New York plays Milwaukee, seeks 4th straight home win",
-            "url": "http://www.espn.com/nba/preview?gameId=401909960",
-            "date": "2026-11-09T07:04:36.000Z",
-            "source": "ESPN"
           },
           {
             "title": "Knicks Bulletin: ‘I wasn’t lying in that sense’",
@@ -1437,18 +1449,6 @@
             "title": "Knicks Week Preview: Nov. 8-14, 2026",
             "url": "https://www.postingandtoasting.com/knicks-game-previews/91057/knicks-week-preview-nov-8-14-2026",
             "date": "2026-11-08T14:58:37.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 109, Cavaliers 97: “ANOTHER GAME HOLDING THE BAD GUYS UNDER 100”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/91037/knicks-109-cavaliers-97-another-game-holding-the-bad-guys-under-100",
-            "date": "2026-11-08T03:46:22.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Discussion Thread: Knicks at Cavaliers, November 7, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/91012/game-thread-knicks-at-cavaliers-november-7-2026",
-            "date": "2026-11-08T00:30:00.000Z",
             "source": "Posting and Toasting"
           }
         ],

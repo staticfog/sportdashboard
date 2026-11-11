@@ -217,26 +217,26 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-10T08:18:49.147Z",
+    "updatedAt": "2026-11-11T02:42:55.362Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Jaguars acquire Eagles DT Jordan Davis in blockbuster trade",
-        "url": "https://www.espn.com/nfl/story/_/id/50435639/jaguars-get-eagles-jordan-davis-blockbuster-trade",
-        "date": "2026-11-10T06:19:21.000Z",
+        "title": "Bengals nix agreed-upon trade with Eagles, sources say",
+        "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
+        "date": "2026-11-10T22:23:26.000Z",
         "source": "ESPN"
       },
       {
-        "title": "Are Jaguars all-in after trades for Bates, Davis? Plus Eagles, Falcons reaction",
-        "url": "https://www.espn.com/nfl/story/_/id/50432490/jaguars-trade-jessie-bates-iii-falcons-draft",
-        "date": "2026-11-10T00:39:55.000Z",
-        "source": "ESPN"
+        "title": "Eagles waive RB Jaydon Blue",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-waive-rb-jaydon-blue-week-10-2026",
+        "date": "2026-11-10T22:13:14.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Nick Sirianni says he did not give booing Eagles fans middle finger",
-        "url": "https://www.espn.com/nfl/story/_/id/50435515/sirianni-says-did-not-give-eagles-fans-middle-finger",
-        "date": "2026-11-09T22:25:51.000Z",
-        "source": "ESPN"
+        "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
+        "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
+        "date": "2026-11-10T10:00:10.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",
@@ -260,13 +260,13 @@
   },
   "summary": {
     "status": "ok",
-    "text": "Philadelphia Eagles verloren de laatste vijf wedstrijden, de meest recente op 8 november thuis tegen de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste (4e) in de NFC East. In het nieuws: de Eagles ruilen DT Jordan Davis naar de Jacksonville Jaguars voor meerdere hoge draftpicks.",
-    "hash": "7113f344affe1818c2b33b3fbf6433a18c84b24d16e313bba4375b52576f9267",
-    "generatedAt": "2026-11-10T08:18:49.147Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 8 november met 11-19 thuis tegen de New York Giants. Met 2-7 staan ze laatste in de NFC East (4e van 4, saldo -73). In het nieuws: \"Eagles trade Jordan Davis to the Jaguars for multiple high draft picks\".",
+    "hash": "2ae978e9828a1b30fcb643b040544ca7e8a70a2c33705f90e545d4ba81d9091f",
+    "generatedAt": "2026-11-11T02:42:55.362Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-10T08:18:49.147Z",
+  "updatedAt": "2026-11-11T02:42:55.362Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,26 +567,26 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-10T08:18:49.147Z",
+      "updatedAt": "2026-11-11T02:42:55.362Z",
       "data": {
         "items": [
           {
-            "title": "Jaguars acquire Eagles DT Jordan Davis in blockbuster trade",
-            "url": "https://www.espn.com/nfl/story/_/id/50435639/jaguars-get-eagles-jordan-davis-blockbuster-trade",
-            "date": "2026-11-10T06:19:21.000Z",
+            "title": "Bengals nix agreed-upon trade with Eagles, sources say",
+            "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
+            "date": "2026-11-10T22:23:26.000Z",
             "source": "ESPN"
           },
           {
-            "title": "Are Jaguars all-in after trades for Bates, Davis? Plus Eagles, Falcons reaction",
-            "url": "https://www.espn.com/nfl/story/_/id/50432490/jaguars-trade-jessie-bates-iii-falcons-draft",
-            "date": "2026-11-10T00:39:55.000Z",
-            "source": "ESPN"
+            "title": "Eagles waive RB Jaydon Blue",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-waive-rb-jaydon-blue-week-10-2026",
+            "date": "2026-11-10T22:13:14.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Nick Sirianni says he did not give booing Eagles fans middle finger",
-            "url": "https://www.espn.com/nfl/story/_/id/50435515/sirianni-says-did-not-give-eagles-fans-middle-finger",
-            "date": "2026-11-09T22:25:51.000Z",
-            "source": "ESPN"
+            "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
+            "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
+            "date": "2026-11-10T10:00:10.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",

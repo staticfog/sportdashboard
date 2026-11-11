@@ -177,56 +177,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-10T08:18:49.147Z",
+    "updatedAt": "2026-11-11T02:42:55.362Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Watch Yankees prospects in Arizona Fall League action",
-        "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-        "date": "2026-11-10T06:07:00.000Z",
+        "title": "Fried has surgery to remove bone spur from pitching elbow",
+        "url": "https://www.mlb.com/yankees/news/max-fried-elbow-surgery-to-be-ready-for-spring-training",
+        "date": "2026-11-11T01:39:44.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Where does Lombard Jr. rank on '26 rookies based on long-term value list?",
-        "url": "https://www.mlb.com/yankees/news/ranking-2026-rookies-based-on-long-term-value",
-        "date": "2026-11-10T04:17:00.000Z",
+        "title": "LIVE: Watch No. 1 prospect Kilby in Arizona Fall League action",
+        "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+        "date": "2026-11-11T01:23:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Yankees' Fried has bone spur removed, to start throwing again in Dec.",
+        "url": "https://www.espn.com/mlb/story/_/id/50446604/yankees-max-fried-bone-spur-removed-start-throwing-again-december",
+        "date": "2026-11-10T22:15:36.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Bob Boone, All-Star catcher and father of Yankees manager Aaron, dies at 78",
+        "url": "https://www.mlb.com/yankees/news/bob-boone-dies",
+        "date": "2026-11-10T16:09:00.000Z",
         "source": "MLB.com"
       },
       {
         "title": "'27 Rookie of the Year candidates -- one from each team",
         "url": "https://www.mlb.com/yankees/news/each-team-2027-rookie-of-the-year-candidate",
-        "date": "2026-11-10T01:15:00.000Z",
+        "date": "2026-11-10T16:00:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
-        "url": "https://www.mlb.com/yankees/news/who-will-be-yankees-closer-in-2027",
-        "date": "2026-11-09T21:58:09.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Here's how every prospect fared in the AFL Fall Stars Game",
-        "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game",
-        "date": "2026-11-09T06:59:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Could the Yankees’ rotation be even better in 2027?",
-        "url": "https://www.mlb.com/yankees/news/yankees-2027-rotation-outlook",
-        "date": "2026-11-08T23:47:04.000Z",
+        "title": "Rice brings young fighter with him throughout breakout summer",
+        "url": "https://www.mlb.com/yankees/news/ben-rice-and-yankees-wear-bracelets-for-young-fan",
+        "date": "2026-11-10T13:49:34.000Z",
         "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Buiten het seizoen: de Yankees werden tweede in de AL East (93-68), wonnen beide wedstrijden van de Wild Card Series tegen de Red Sox en strandden daarna met drie nederlagen tegen de Rays in de AL Division Series. Er wordt geschreven over wie in 2027 de closer wordt, met Bednar als vrije speler.",
-    "hash": "840848f0623ed4a5b2d914d3190740888a85e60e209ec20d28aac8583723d0a1",
-    "generatedAt": "2026-11-10T08:18:49.147Z",
+    "text": "De Yankees zijn buiten het seizoen. Na twee zeges op de Red Sox in de Wild Card Series verloren ze in de AL Division Series drie keer op rij van de Tampa Bay Rays, het laatst op 8 okt. In de AL East werden ze tweede met 93-68. In het nieuws: Fried laat een botuitsteeksel uit zijn werpelleboog verwijderen.",
+    "hash": "9e832ece7e60c1af3f846eb32a0a0037caaf841cb3976d6fe10dbb41a09e430c",
+    "generatedAt": "2026-11-11T02:42:55.362Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-10T08:18:49.147Z",
+  "updatedAt": "2026-11-11T02:42:55.362Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,43 +2542,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-10T08:18:49.147Z",
+      "updatedAt": "2026-11-11T02:42:55.362Z",
       "data": {
         "items": [
           {
-            "title": "Watch Yankees prospects in Arizona Fall League action",
-            "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-            "date": "2026-11-10T06:07:00.000Z",
+            "title": "Fried has surgery to remove bone spur from pitching elbow",
+            "url": "https://www.mlb.com/yankees/news/max-fried-elbow-surgery-to-be-ready-for-spring-training",
+            "date": "2026-11-11T01:39:44.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Where does Lombard Jr. rank on '26 rookies based on long-term value list?",
-            "url": "https://www.mlb.com/yankees/news/ranking-2026-rookies-based-on-long-term-value",
-            "date": "2026-11-10T04:17:00.000Z",
+            "title": "LIVE: Watch No. 1 prospect Kilby in Arizona Fall League action",
+            "url": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+            "date": "2026-11-11T01:23:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Yankees' Fried has bone spur removed, to start throwing again in Dec.",
+            "url": "https://www.espn.com/mlb/story/_/id/50446604/yankees-max-fried-bone-spur-removed-start-throwing-again-december",
+            "date": "2026-11-10T22:15:36.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Bob Boone, All-Star catcher and father of Yankees manager Aaron, dies at 78",
+            "url": "https://www.mlb.com/yankees/news/bob-boone-dies",
+            "date": "2026-11-10T16:09:00.000Z",
             "source": "MLB.com"
           },
           {
             "title": "'27 Rookie of the Year candidates -- one from each team",
             "url": "https://www.mlb.com/yankees/news/each-team-2027-rookie-of-the-year-candidate",
-            "date": "2026-11-10T01:15:00.000Z",
+            "date": "2026-11-10T16:00:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
-            "url": "https://www.mlb.com/yankees/news/who-will-be-yankees-closer-in-2027",
-            "date": "2026-11-09T21:58:09.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Here's how every prospect fared in the AFL Fall Stars Game",
-            "url": "https://www.mlb.com/yankees/news/2026-arizona-fall-league-fall-stars-game",
-            "date": "2026-11-09T06:59:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Could the Yankees’ rotation be even better in 2027?",
-            "url": "https://www.mlb.com/yankees/news/yankees-2027-rotation-outlook",
-            "date": "2026-11-08T23:47:04.000Z",
+            "title": "Rice brings young fighter with him throughout breakout summer",
+            "url": "https://www.mlb.com/yankees/news/ben-rice-and-yankees-wear-bracelets-for-young-fan",
+            "date": "2026-11-10T13:49:34.000Z",
             "source": "MLB.com"
           }
         ],
