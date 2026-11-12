@@ -217,14 +217,26 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-11T02:42:55.362Z",
+    "updatedAt": "2026-11-12T01:28:25.919Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Bengals nix agreed-upon trade with Eagles, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
-        "date": "2026-11-10T22:23:26.000Z",
+        "title": "Bengals' Zac Taylor apologizes for failed trade with Eagles: 'It was on our end'",
+        "url": "https://www.espn.com/nfl/story/_/id/50454351/bengals-zac-taylor-apologizes-failed-trade-eagles",
+        "date": "2026-11-11T20:31:41.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "The Philadelphia Eagles' 2026 trade haul is likely to age well over time",
+        "url": "https://www.espn.com/nfl/story/_/id/50447827/philadelphia-eagles-trade-haul-2027-draft-picks",
+        "date": "2026-11-11T13:25:44.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "2026 Salute to Service Nominee: Trailblazer Rachel Washburn's impact goes beyond the uniforms",
+        "url": "https://www.philadelphiaeagles.com/news/2026-salute-to-service-nominee-trailblazer-rachel-washburn-s-impact-goes-beyond-the-uniforms",
+        "date": "2026-11-11T10:00:15.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Eagles waive RB Jaydon Blue",
@@ -243,30 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/eagles-trade-jordan-davis-to-the-jaguars-for-multiple-high-draft-picks",
         "date": "2026-11-09T22:15:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Steelers vs. Eagles moves to a 1 PM kickoff",
-        "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-moves-to-1-pm-kickoff-2026-nfl-week-11-salute-to-service",
-        "date": "2026-11-09T17:17:36.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles name SportsRadio 94WIP broadcast booth at Lincoln Financial Field after Merrill Reese",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-name-sportsradio-94wip-broadcast-booth-at-lincoln-financial-field-after-merrill-reese",
-        "date": "2026-11-08T23:30:00.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 8 november met 11-19 thuis tegen de New York Giants. Met 2-7 staan ze laatste in de NFC East (4e van 4, saldo -73). In het nieuws: \"Eagles trade Jordan Davis to the Jaguars for multiple high draft picks\".",
-    "hash": "2ae978e9828a1b30fcb643b040544ca7e8a70a2c33705f90e545d4ba81d9091f",
-    "generatedAt": "2026-11-11T02:42:55.362Z",
+    "text": "De Philadelphia Eagles zitten in een reeks van vijf nederlagen op rij, de laatste op 8 november thuis tegen de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East, met een puntensaldo van -73. In het nieuws: \"Eagles waive RB Jaydon Blue\".",
+    "hash": "d896dccbaf06968445e91dea5fd380f36daff601605284707837db5f94798a0e",
+    "generatedAt": "2026-11-12T01:28:25.919Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-11T02:42:55.362Z",
+  "updatedAt": "2026-11-12T01:28:25.919Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,14 +567,26 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-11T02:42:55.362Z",
+      "updatedAt": "2026-11-12T01:28:25.919Z",
       "data": {
         "items": [
           {
-            "title": "Bengals nix agreed-upon trade with Eagles, sources say",
-            "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
-            "date": "2026-11-10T22:23:26.000Z",
+            "title": "Bengals' Zac Taylor apologizes for failed trade with Eagles: 'It was on our end'",
+            "url": "https://www.espn.com/nfl/story/_/id/50454351/bengals-zac-taylor-apologizes-failed-trade-eagles",
+            "date": "2026-11-11T20:31:41.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "The Philadelphia Eagles' 2026 trade haul is likely to age well over time",
+            "url": "https://www.espn.com/nfl/story/_/id/50447827/philadelphia-eagles-trade-haul-2027-draft-picks",
+            "date": "2026-11-11T13:25:44.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "2026 Salute to Service Nominee: Trailblazer Rachel Washburn's impact goes beyond the uniforms",
+            "url": "https://www.philadelphiaeagles.com/news/2026-salute-to-service-nominee-trailblazer-rachel-washburn-s-impact-goes-beyond-the-uniforms",
+            "date": "2026-11-11T10:00:15.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Eagles waive RB Jaydon Blue",
@@ -592,18 +604,6 @@
             "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",
             "url": "https://www.philadelphiaeagles.com/news/eagles-trade-jordan-davis-to-the-jaguars-for-multiple-high-draft-picks",
             "date": "2026-11-09T22:15:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Steelers vs. Eagles moves to a 1 PM kickoff",
-            "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-moves-to-1-pm-kickoff-2026-nfl-week-11-salute-to-service",
-            "date": "2026-11-09T17:17:36.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles name SportsRadio 94WIP broadcast booth at Lincoln Financial Field after Merrill Reese",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-name-sportsradio-94wip-broadcast-booth-at-lincoln-financial-field-after-merrill-reese",
-            "date": "2026-11-08T23:30:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
