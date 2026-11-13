@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-12T01:28:25.919Z",
+    "updatedAt": "2026-11-13T07:49:22.872Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401909967",
+        "date": "2026-11-12T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Cleveland Cavaliers",
+        "opponentShort": "CLE",
+        "status": "final",
+        "teamScore": 107,
+        "opponentScore": 115,
+        "outcome": "V"
+      },
       {
         "id": "espn-401909960",
         "date": "2026-11-11T00:30:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 103,
         "opponentScore": 90,
         "outcome": "W"
-      },
-      {
-        "id": "espn-401909280",
-        "date": "2026-10-30T23:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Philadelphia 76ers",
-        "opponentShort": "PHI",
-        "status": "final",
-        "teamScore": 93,
-        "opponentScore": 98,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-12T01:28:25.919Z",
+    "updatedAt": "2026-11-13T07:49:22.872Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401909967",
-        "date": "2026-11-12T00:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": true,
-        "opponent": "Cleveland Cavaliers",
-        "opponentShort": "CLE",
-        "status": "live",
-        "teamScore": 53,
-        "opponentScore": 59,
-        "outcome": null
-      },
       {
         "id": "espn-401909296",
         "date": "2026-11-14T00:00:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401910021",
+        "date": "2026-11-20T01:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Minnesota Timberwolves",
+        "opponentShort": "MIN",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-12T01:28:25.919Z",
+      "updatedAt": "2026-11-13T07:49:22.872Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -165,11 +165,11 @@
             "short": "BOS",
             "highlight": false,
             "values": [
-              "9",
+              "10",
               "2",
-              ".818",
+              ".833",
               "-",
-              "W4"
+              "W5"
             ]
           },
           {
@@ -178,11 +178,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "9",
+              "10",
               "3",
-              ".750",
+              ".769",
               "0.5",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -192,10 +192,10 @@
             "highlight": true,
             "values": [
               "6",
-              "4",
-              ".600",
-              "2.5",
-              "W4"
+              "5",
+              ".545",
+              "3.5",
+              "L1"
             ]
           },
           {
@@ -205,10 +205,10 @@
             "highlight": false,
             "values": [
               "5",
+              "7",
+              ".417",
               "5",
-              ".500",
-              "3.5",
-              "L1"
+              "L3"
             ]
           },
           {
@@ -217,11 +217,11 @@
             "short": "BKN",
             "highlight": false,
             "values": [
-              "2",
+              "3",
               "8",
-              ".200",
+              ".273",
               "6.5",
-              "L2"
+              "W1"
             ]
           }
         ]
@@ -230,60 +230,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-12T01:28:25.919Z",
+    "updatedAt": "2026-11-13T07:49:22.872Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Game Discussion Thread: Knicks vs. Cavaliers, November 11, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/91143/game-discussion-thread-knicks-vs-cavaliers-november-11-2026",
-        "date": "2026-11-11T23:30:00.000Z",
+        "title": "Game Preview: Knicks at Pacers, November 13, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/91179/game-preview-knicks-at-pacers-november-13-2026",
+        "date": "2026-11-13T05:00:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Even post-Mitchell Robinson, the Knicks are feasting on the glass",
-        "url": "https://www.postingandtoasting.com/knicks-analysis/91072/even-post-mitchell-robinson-the-knicks-are-feasting-on-the-glass",
-        "date": "2026-11-11T18:15:00.000Z",
+        "title": "Mike Brown is sticking with Mikal Bridges. For now.",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/91197/mike-brown-is-sticking-with-mikal-bridges-for-now",
+        "date": "2026-11-12T16:36:18.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Game Preview: Knicks vs. Cavaliers, November 11, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/91135/game-preview-knicks-vs-cavaliers-november-11-2026",
-        "date": "2026-11-11T16:30:00.000Z",
+        "title": "NBA trade deadline: Big questions for Knicks, Thunder and other top teams",
+        "url": "https://www.espn.com/nba/story/_/id/50434044/early-nba-trade-deadline-questions-top-contenders",
+        "date": "2026-11-12T16:08:05.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Knicks Bulletin: ‘It’s gonna be hard to find minutes at times for Mikal’",
+        "url": "https://www.postingandtoasting.com/knicks-news/91175/knicks-bulletin-its-gonna-be-hard-to-find-minutes-at-times-for-mikal",
+        "date": "2026-11-12T14:30:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Knicks Bulletin: ‘You know he doesn&#8217;t jump real high, but he&#8217;s long’",
-        "url": "https://www.postingandtoasting.com/knicks-news/91130/knicks-bulletin-you-know-he-doesnt-jump-real-high-but-hes-long",
-        "date": "2026-11-11T14:30:00.000Z",
+        "title": "Cavaliers 115, Knicks 107: “Credit them, but…”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/91169/cavaliers-115-knicks-107-credit-them-but",
+        "date": "2026-11-12T12:30:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Knicks 117, Bucks 85: “Looked like it was a layup line all night”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/91115/knicks-117-bucks-85-looked-like-it-was-a-layup-line-all-night",
-        "date": "2026-11-11T11:46:29.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "New York faces Cleveland, aims for 5th straight win",
-        "url": "http://www.espn.com/nba/preview?gameId=401909967",
-        "date": "2026-11-11T07:04:37.000Z",
+        "title": "Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss",
+        "url": "https://www.espn.com/nba/story/_/id/50459253/knicks-mike-brown-questions-jalen-brunson-zero-ft-tries",
+        "date": "2026-11-12T11:56:49.000Z",
         "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks zitten in vorm met vier zeges op rij, waaronder een ruime 117-85 tegen de Milwaukee Bucks op 11 november. In de Atlantic Division staan ze met 6-4 op de derde plaats van vijf, 2,5 wedstrijden achter de koploper. Er wordt geschreven over hoe de Knicks de rebounds domineren, ook na Mitchell Robinson.",
-    "hash": "9881a68aca512995e153389f1efc2c90f8ab14512719309ed9d4ca79dfff7018",
-    "generatedAt": "2026-11-12T01:28:25.919Z",
+    "text": "Na vier zeges op rij verloren de Knicks op 12 november thuis van Cleveland (107-115). Met 6 winst en 5 verlies staan ze derde van vijf in de Atlantic Division, op 3,5 wedstrijden van de koploper. In het nieuws: \"Mike Brown is sticking with Mikal Bridges. For now.\"",
+    "hash": "695b159d0e380b2d176a78db9a37e930c9fd6014d41419cd8b2717ca1f30c551",
+    "generatedAt": "2026-11-13T07:49:22.872Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-12T01:28:25.919Z",
+  "updatedAt": "2026-11-13T07:49:22.872Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-12T01:28:25.919Z",
+      "updatedAt": "2026-11-13T07:49:22.872Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -423,10 +423,10 @@
           "home": true,
           "opponent": "Cleveland Cavaliers",
           "opponentShort": "CLE",
-          "status": "live",
-          "teamScore": 53,
-          "opponentScore": 59,
-          "outcome": null
+          "status": "final",
+          "teamScore": 107,
+          "opponentScore": 115,
+          "outcome": "V"
         },
         {
           "id": "espn-401909296",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-12T01:28:25.919Z",
+      "updatedAt": "2026-11-13T07:49:22.872Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1347,11 +1347,11 @@
             "short": "BOS",
             "highlight": false,
             "values": [
-              "9",
+              "10",
               "2",
-              ".818",
+              ".833",
               "-",
-              "W4"
+              "W5"
             ]
           },
           {
@@ -1360,11 +1360,11 @@
             "short": "PHI",
             "highlight": false,
             "values": [
-              "9",
+              "10",
               "3",
-              ".750",
+              ".769",
               "0.5",
-              "L1"
+              "W1"
             ]
           },
           {
@@ -1374,10 +1374,10 @@
             "highlight": true,
             "values": [
               "6",
-              "4",
-              ".600",
-              "2.5",
-              "W4"
+              "5",
+              ".545",
+              "3.5",
+              "L1"
             ]
           },
           {
@@ -1387,10 +1387,10 @@
             "highlight": false,
             "values": [
               "5",
+              "7",
+              ".417",
               "5",
-              ".500",
-              "3.5",
-              "L1"
+              "L3"
             ]
           },
           {
@@ -1399,11 +1399,11 @@
             "short": "BKN",
             "highlight": false,
             "values": [
-              "2",
+              "3",
               "8",
-              ".200",
+              ".273",
               "6.5",
-              "L2"
+              "W1"
             ]
           }
         ]
@@ -1412,43 +1412,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-12T01:28:25.919Z",
+      "updatedAt": "2026-11-13T07:49:22.872Z",
       "data": {
         "items": [
           {
-            "title": "Game Discussion Thread: Knicks vs. Cavaliers, November 11, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/91143/game-discussion-thread-knicks-vs-cavaliers-november-11-2026",
-            "date": "2026-11-11T23:30:00.000Z",
+            "title": "Game Preview: Knicks at Pacers, November 13, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/91179/game-preview-knicks-at-pacers-november-13-2026",
+            "date": "2026-11-13T05:00:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Even post-Mitchell Robinson, the Knicks are feasting on the glass",
-            "url": "https://www.postingandtoasting.com/knicks-analysis/91072/even-post-mitchell-robinson-the-knicks-are-feasting-on-the-glass",
-            "date": "2026-11-11T18:15:00.000Z",
+            "title": "Mike Brown is sticking with Mikal Bridges. For now.",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/91197/mike-brown-is-sticking-with-mikal-bridges-for-now",
+            "date": "2026-11-12T16:36:18.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Game Preview: Knicks vs. Cavaliers, November 11, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/91135/game-preview-knicks-vs-cavaliers-november-11-2026",
-            "date": "2026-11-11T16:30:00.000Z",
+            "title": "NBA trade deadline: Big questions for Knicks, Thunder and other top teams",
+            "url": "https://www.espn.com/nba/story/_/id/50434044/early-nba-trade-deadline-questions-top-contenders",
+            "date": "2026-11-12T16:08:05.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Knicks Bulletin: ‘It’s gonna be hard to find minutes at times for Mikal’",
+            "url": "https://www.postingandtoasting.com/knicks-news/91175/knicks-bulletin-its-gonna-be-hard-to-find-minutes-at-times-for-mikal",
+            "date": "2026-11-12T14:30:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Knicks Bulletin: ‘You know he doesn&#8217;t jump real high, but he&#8217;s long’",
-            "url": "https://www.postingandtoasting.com/knicks-news/91130/knicks-bulletin-you-know-he-doesnt-jump-real-high-but-hes-long",
-            "date": "2026-11-11T14:30:00.000Z",
+            "title": "Cavaliers 115, Knicks 107: “Credit them, but…”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/91169/cavaliers-115-knicks-107-credit-them-but",
+            "date": "2026-11-12T12:30:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Knicks 117, Bucks 85: “Looked like it was a layup line all night”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/91115/knicks-117-bucks-85-looked-like-it-was-a-layup-line-all-night",
-            "date": "2026-11-11T11:46:29.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "New York faces Cleveland, aims for 5th straight win",
-            "url": "http://www.espn.com/nba/preview?gameId=401909967",
-            "date": "2026-11-11T07:04:37.000Z",
+            "title": "Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss",
+            "url": "https://www.espn.com/nba/story/_/id/50459253/knicks-mike-brown-questions-jalen-brunson-zero-ft-tries",
+            "date": "2026-11-12T11:56:49.000Z",
             "source": "ESPN"
           }
         ],
