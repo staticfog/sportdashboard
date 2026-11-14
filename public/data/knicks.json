@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-13T07:49:22.872Z",
+    "updatedAt": "2026-11-14T03:04:17.017Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401909296",
+        "date": "2026-11-14T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Indiana Pacers",
+        "opponentShort": "IND",
+        "status": "final",
+        "teamScore": 104,
+        "opponentScore": 106,
+        "outcome": "V"
+      },
       {
         "id": "espn-401909967",
         "date": "2026-11-12T00:00:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 135,
         "opponentScore": 105,
         "outcome": "W"
-      },
-      {
-        "id": "espn-401909910",
-        "date": "2026-11-03T00:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": true,
-        "opponent": "Brooklyn Nets",
-        "opponentShort": "BKN",
-        "status": "final",
-        "teamScore": 103,
-        "opponentScore": 90,
-        "outcome": "W"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-13T07:49:22.872Z",
+    "updatedAt": "2026-11-14T03:04:17.017Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401909296",
-        "date": "2026-11-14T00:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Indiana Pacers",
-        "opponentShort": "IND",
-        "status": "scheduled",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401909990",
         "date": "2026-11-15T23:00:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401910024",
+        "date": "2026-11-22T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Portland Trail Blazers",
+        "opponentShort": "POR",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-13T07:49:22.872Z",
+      "updatedAt": "2026-11-14T03:04:17.017Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -192,10 +192,10 @@
             "highlight": true,
             "values": [
               "6",
-              "5",
-              ".545",
-              "3.5",
-              "L1"
+              "6",
+              ".500",
+              "4",
+              "L2"
             ]
           },
           {
@@ -230,9 +230,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-13T07:49:22.872Z",
+    "updatedAt": "2026-11-14T03:04:17.017Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Game Discussion Thread: Knicks at Pacers, November 13, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/91224/game-discussion-thread-knicks-at-pacers-november-13-2026",
+        "date": "2026-11-13T23:53:02.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
+        "url": "https://www.espn.com/fantasy/basketball/story/_/id/50473517/fantasy-basketball-nba-analytics-consistency-bridges",
+        "date": "2026-11-13T19:56:25.000Z",
+        "source": "ESPN"
+      },
       {
         "title": "Game Preview: Knicks at Pacers, November 13, 2026",
         "url": "https://www.postingandtoasting.com/knicks-game-previews/91179/game-preview-knicks-at-pacers-november-13-2026",
@@ -256,34 +268,22 @@
         "url": "https://www.postingandtoasting.com/knicks-news/91175/knicks-bulletin-its-gonna-be-hard-to-find-minutes-at-times-for-mikal",
         "date": "2026-11-12T14:30:00.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Cavaliers 115, Knicks 107: “Credit them, but…”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/91169/cavaliers-115-knicks-107-credit-them-but",
-        "date": "2026-11-12T12:30:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss",
-        "url": "https://www.espn.com/nba/story/_/id/50459253/knicks-mike-brown-questions-jalen-brunson-zero-ft-tries",
-        "date": "2026-11-12T11:56:49.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Na vier zeges op rij verloren de Knicks op 12 november thuis van Cleveland (107-115). Met 6 winst en 5 verlies staan ze derde van vijf in de Atlantic Division, op 3,5 wedstrijden van de koploper. In het nieuws: \"Mike Brown is sticking with Mikal Bridges. For now.\"",
-    "hash": "695b159d0e380b2d176a78db9a37e930c9fd6014d41419cd8b2717ca1f30c551",
-    "generatedAt": "2026-11-13T07:49:22.872Z",
+    "text": "De Knicks verloren de laatste twee duels, nipt bij Indiana (104-106) en thuis van Cleveland, na een reeks van drie zeges. Met 6-6 staan ze derde van vijf in de Atlantic, op 4 wedstrijden achterstand. In het nieuws: Mike Brown houdt \"voorlopig\" vast aan Mikal Bridges.",
+    "hash": "7ee9419806ae68c8c9e1943abe55133b7a6822f4dab31f434b08be308bb02973",
+    "generatedAt": "2026-11-14T03:04:17.017Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-13T07:49:22.872Z",
+  "updatedAt": "2026-11-14T03:04:17.017Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-13T07:49:22.872Z",
+      "updatedAt": "2026-11-14T03:04:17.017Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -436,10 +436,10 @@
           "home": false,
           "opponent": "Indiana Pacers",
           "opponentShort": "IND",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 104,
+          "opponentScore": 106,
+          "outcome": "V"
         },
         {
           "id": "espn-401909990",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-13T07:49:22.872Z",
+      "updatedAt": "2026-11-14T03:04:17.017Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1374,10 +1374,10 @@
             "highlight": true,
             "values": [
               "6",
-              "5",
-              ".545",
-              "3.5",
-              "L1"
+              "6",
+              ".500",
+              "4",
+              "L2"
             ]
           },
           {
@@ -1412,9 +1412,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-13T07:49:22.872Z",
+      "updatedAt": "2026-11-14T03:04:17.017Z",
       "data": {
         "items": [
+          {
+            "title": "Game Discussion Thread: Knicks at Pacers, November 13, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/91224/game-discussion-thread-knicks-at-pacers-november-13-2026",
+            "date": "2026-11-13T23:53:02.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
+            "url": "https://www.espn.com/fantasy/basketball/story/_/id/50473517/fantasy-basketball-nba-analytics-consistency-bridges",
+            "date": "2026-11-13T19:56:25.000Z",
+            "source": "ESPN"
+          },
           {
             "title": "Game Preview: Knicks at Pacers, November 13, 2026",
             "url": "https://www.postingandtoasting.com/knicks-game-previews/91179/game-preview-knicks-at-pacers-november-13-2026",
@@ -1438,18 +1450,6 @@
             "url": "https://www.postingandtoasting.com/knicks-news/91175/knicks-bulletin-its-gonna-be-hard-to-find-minutes-at-times-for-mikal",
             "date": "2026-11-12T14:30:00.000Z",
             "source": "Posting and Toasting"
-          },
-          {
-            "title": "Cavaliers 115, Knicks 107: “Credit them, but…”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/91169/cavaliers-115-knicks-107-credit-them-but",
-            "date": "2026-11-12T12:30:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks' Mike Brown questions FT disparity, Jalen Brunson's zero attempts in loss",
-            "url": "https://www.espn.com/nba/story/_/id/50459253/knicks-mike-brown-questions-jalen-brunson-zero-ft-tries",
-            "date": "2026-11-12T11:56:49.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],
