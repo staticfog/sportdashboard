@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-13T07:49:22.872Z",
+      "updatedAt": "2026-11-16T01:53:17.309Z",
       "table": {
         "name": "NFC East",
         "columns": [
@@ -179,10 +179,10 @@
             "highlight": false,
             "values": [
               "4",
-              "5",
+              "6",
               "0",
-              ".444",
-              "+10"
+              ".400",
+              "+4"
             ]
           },
           {
@@ -217,21 +217,9 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-14T03:04:17.017Z",
+    "updatedAt": "2026-11-16T01:53:17.309Z",
     "failedSources": [],
     "items": [
-      {
-        "title": "NFL outlines steps in Jalen Hurts investigation in letter to senator",
-        "url": "https://www.espn.com/nfl/story/_/id/50474564/nfl-outlines-aspects-jalen-hurts-investigation-senator",
-        "date": "2026-11-13T22:23:25.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Eagles release wide receiver Hollywood Brown per request",
-        "url": "https://www.espn.com/nfl/story/_/id/50473514/sources-eagles-release-wr-hollywood-brown-per-request",
-        "date": "2026-11-13T21:31:47.000Z",
-        "source": "ESPN"
-      },
       {
         "title": "Eagles waive Hollywood Brown, Fred Johnson",
         "url": "https://www.philadelphiaeagles.com/news/eagles-waive-hollywood-brown-fred-johnson",
@@ -255,18 +243,30 @@
         "url": "https://www.philadelphiaeagles.com/news/eagles-waive-rb-jaydon-blue-week-10-2026",
         "date": "2026-11-10T22:13:14.000Z",
         "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
+        "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
+        "date": "2026-11-10T10:00:10.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-trade-jordan-davis-to-the-jaguars-for-multiple-high-draft-picks",
+        "date": "2026-11-09T22:15:00.000Z",
+        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Philadelphia Eagles verloren vijf wedstrijden op rij, de laatste op 8 november thuis tegen de New York Giants (11-19). Met 2 zeges en 7 nederlagen (saldo -73) staan ze laatste in de NFC East. In het nieuws: \"Eagles release wide receiver Hollywood Brown per request\".",
-    "hash": "1fa4163fae22d4ab6253ee433d164880087a664b07e36b3fafd07cb93fdc4c45",
-    "generatedAt": "2026-11-14T03:04:17.017Z",
+    "text": "De Eagles verloren vijf wedstrijden op rij, als laatste op 8 november thuis van de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East. In het nieuws: de Eagles waiven Hollywood Brown, Fred Johnson en RB Jaydon Blue.",
+    "hash": "409b268c82dfdaab0cd92bfc5b277af36300ac5205fb35bd65fcacac4608ce1c",
+    "generatedAt": "2026-11-16T01:53:17.309Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-14T03:04:17.017Z",
+  "updatedAt": "2026-11-16T01:53:17.309Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -498,7 +498,7 @@
     },
     "standings:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-13T07:49:22.872Z",
+      "updatedAt": "2026-11-16T01:53:17.309Z",
       "data": {
         "name": "NFC East",
         "columns": [
@@ -529,10 +529,10 @@
             "highlight": false,
             "values": [
               "4",
-              "5",
+              "6",
               "0",
-              ".444",
-              "+10"
+              ".400",
+              "+4"
             ]
           },
           {
@@ -567,21 +567,9 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-14T03:04:17.017Z",
+      "updatedAt": "2026-11-16T01:53:17.309Z",
       "data": {
         "items": [
-          {
-            "title": "NFL outlines steps in Jalen Hurts investigation in letter to senator",
-            "url": "https://www.espn.com/nfl/story/_/id/50474564/nfl-outlines-aspects-jalen-hurts-investigation-senator",
-            "date": "2026-11-13T22:23:25.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Eagles release wide receiver Hollywood Brown per request",
-            "url": "https://www.espn.com/nfl/story/_/id/50473514/sources-eagles-release-wr-hollywood-brown-per-request",
-            "date": "2026-11-13T21:31:47.000Z",
-            "source": "ESPN"
-          },
           {
             "title": "Eagles waive Hollywood Brown, Fred Johnson",
             "url": "https://www.philadelphiaeagles.com/news/eagles-waive-hollywood-brown-fred-johnson",
@@ -604,6 +592,18 @@
             "title": "Eagles waive RB Jaydon Blue",
             "url": "https://www.philadelphiaeagles.com/news/eagles-waive-rb-jaydon-blue-week-10-2026",
             "date": "2026-11-10T22:13:14.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
+            "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
+            "date": "2026-11-10T10:00:10.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-trade-jordan-davis-to-the-jaguars-for-multiple-high-draft-picks",
+            "date": "2026-11-09T22:15:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

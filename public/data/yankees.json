@@ -177,9 +177,27 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-15T09:12:09.916Z",
+    "updatedAt": "2026-11-16T01:53:17.309Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Tim Hill, Yankees agree to 1-year, $2.25M deal, sources say",
+        "url": "https://www.espn.com/mlb/story/_/id/50492078/tim-hill-yankees-agree-1-year-225m-deal-sources-say",
+        "date": "2026-11-15T19:44:18.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Hill agrees to 1-year deal to return to Yankees (source)",
+        "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
+        "date": "2026-11-15T16:26:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Is this free agent the perfect fit at 2B for Yankees?",
+        "url": "https://www.mlb.com/yankees/news/brandon-lowe-makes-sense-for-yankees-in-free-agency",
+        "date": "2026-11-15T13:58:46.000Z",
+        "source": "MLB.com"
+      },
       {
         "title": "Top first-time candidates to win MVP, Cy Young in 2027",
         "url": "https://www.mlb.com/yankees/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
@@ -197,36 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/brian-cashman-discusses-yankees-2026-offseason-plan",
         "date": "2026-11-13T18:13:13.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "Here’s every ranked prospect that needs to be protected ahead of Tuesday’s 40-man deadline",
-        "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-        "date": "2026-11-13T01:47:50.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Move from backstop to mound restarts clock for hard-throwing Yanks prospect",
-        "url": "https://www.mlb.com/yankees/news/antonio-gomez-on-transition-from-catching-to-pitching",
-        "date": "2026-11-12T21:10:50.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Brewers' Misiorowski, Yanks' Schlittler crowned unanimous Cy Young winners",
-        "url": "https://www.espn.com/mlb/story/_/id/50456772/brewers-misiorowski-yanks-schlittler-unanimous-cy-young-winners",
-        "date": "2026-11-12T16:10:50.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na twee zeges op de Boston Red Sox in de AL Wild Card Series gingen ze in de AL Division Series met 0-3 onderuit tegen de Tampa Bay Rays. In de AL East werden ze tweede (93-68). In het nieuws: de Yankees zouden na de GM Meetings meerdere versterkingen op het oog hebben.",
-    "hash": "ea2bcae05750f6c8099b8a9b9a0bb6c209da1913028b0e93babd040fbf1e80be",
-    "generatedAt": "2026-11-15T09:12:09.916Z",
+    "text": "De Yankees zitten buiten het seizoen. In de play-offs wonnen ze beide Wild Card-duels van Boston, maar verloren daarna drie keer van Tampa Bay in de AL Division Series. In de AL East werden ze tweede met 93-68. In het nieuws: een eenjarige deal met Tim Hill.",
+    "hash": "3a34a5b9e6f58f7498041960b32bd766f53d20f1ba4824d28670fd099e7c9b6e",
+    "generatedAt": "2026-11-16T01:53:17.309Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-15T09:12:09.916Z",
+  "updatedAt": "2026-11-16T01:53:17.309Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,9 +2542,27 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-15T09:12:09.916Z",
+      "updatedAt": "2026-11-16T01:53:17.309Z",
       "data": {
         "items": [
+          {
+            "title": "Tim Hill, Yankees agree to 1-year, $2.25M deal, sources say",
+            "url": "https://www.espn.com/mlb/story/_/id/50492078/tim-hill-yankees-agree-1-year-225m-deal-sources-say",
+            "date": "2026-11-15T19:44:18.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Hill agrees to 1-year deal to return to Yankees (source)",
+            "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
+            "date": "2026-11-15T16:26:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Is this free agent the perfect fit at 2B for Yankees?",
+            "url": "https://www.mlb.com/yankees/news/brandon-lowe-makes-sense-for-yankees-in-free-agency",
+            "date": "2026-11-15T13:58:46.000Z",
+            "source": "MLB.com"
+          },
           {
             "title": "Top first-time candidates to win MVP, Cy Young in 2027",
             "url": "https://www.mlb.com/yankees/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
@@ -2562,24 +2580,6 @@
             "url": "https://www.mlb.com/yankees/news/brian-cashman-discusses-yankees-2026-offseason-plan",
             "date": "2026-11-13T18:13:13.000Z",
             "source": "MLB.com"
-          },
-          {
-            "title": "Here’s every ranked prospect that needs to be protected ahead of Tuesday’s 40-man deadline",
-            "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-            "date": "2026-11-13T01:47:50.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Move from backstop to mound restarts clock for hard-throwing Yanks prospect",
-            "url": "https://www.mlb.com/yankees/news/antonio-gomez-on-transition-from-catching-to-pitching",
-            "date": "2026-11-12T21:10:50.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Brewers' Misiorowski, Yanks' Schlittler crowned unanimous Cy Young winners",
-            "url": "https://www.espn.com/mlb/story/_/id/50456772/brewers-misiorowski-yanks-schlittler-unanimous-cy-young-winners",
-            "date": "2026-11-12T16:10:50.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],
