@@ -217,9 +217,15 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-16T01:53:17.309Z",
+    "updatedAt": "2026-11-17T13:08:23.955Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Spadaro: Eagles sign Zach Ertz, make several roster moves as team is back from the bye",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-zach-ertz-make-several-roster-moves-as-team-is-back-from-the-bye",
+        "date": "2026-11-16T21:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
       {
         "title": "Eagles waive Hollywood Brown, Fred Johnson",
         "url": "https://www.philadelphiaeagles.com/news/eagles-waive-hollywood-brown-fred-johnson",
@@ -249,24 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
         "date": "2026-11-10T10:00:10.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-trade-jordan-davis-to-the-jaguars-for-multiple-high-draft-picks",
-        "date": "2026-11-09T22:15:00.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Eagles verloren vijf wedstrijden op rij, als laatste op 8 november thuis van de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East. In het nieuws: de Eagles waiven Hollywood Brown, Fred Johnson en RB Jaydon Blue.",
-    "hash": "409b268c82dfdaab0cd92bfc5b277af36300ac5205fb35bd65fcacac4608ce1c",
-    "generatedAt": "2026-11-16T01:53:17.309Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 8 november thuis tegen de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East. In het nieuws: \"Eagles sign Zach Ertz, make several roster moves\" en het ontslag van onder anderen Hollywood Brown.",
+    "hash": "df1bba87e9d10ff191eeccadc9eb965c0a3daea66283b8c8a29a90e883858ac5",
+    "generatedAt": "2026-11-17T13:08:23.955Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-16T01:53:17.309Z",
+  "updatedAt": "2026-11-17T13:08:23.955Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,15 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-16T01:53:17.309Z",
+      "updatedAt": "2026-11-17T13:08:23.955Z",
       "data": {
         "items": [
+          {
+            "title": "Spadaro: Eagles sign Zach Ertz, make several roster moves as team is back from the bye",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-zach-ertz-make-several-roster-moves-as-team-is-back-from-the-bye",
+            "date": "2026-11-16T21:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
           {
             "title": "Eagles waive Hollywood Brown, Fred Johnson",
             "url": "https://www.philadelphiaeagles.com/news/eagles-waive-hollywood-brown-fred-johnson",
@@ -598,12 +604,6 @@
             "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
             "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
             "date": "2026-11-10T10:00:10.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles trade Jordan Davis to the Jaguars for multiple high draft picks",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-trade-jordan-davis-to-the-jaguars-for-multiple-high-draft-picks",
-            "date": "2026-11-09T22:15:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
