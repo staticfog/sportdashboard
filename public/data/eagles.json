@@ -217,9 +217,27 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-17T13:08:23.955Z",
+    "updatedAt": "2026-11-18T04:10:07.612Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Army-Navy Game returns to Philadelphia in 2027 and beyond",
+        "url": "https://www.philadelphiaeagles.com/news/army-navy-game-returns-to-philadelphia-lincoln-financial-field-in-2027-and-beyond",
+        "date": "2026-11-18T01:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles sign RB Jaydon Blue to the active roster, DT Leki Fotu to the practice squad",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-rb-jaydon-blue-to-the-active-roster-dt-leki-fotu-to-the-practice-squad",
+        "date": "2026-11-17T21:10:13.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Quinyon Mitchell is consistent in his consistency",
+        "url": "https://www.philadelphiaeagles.com/news/quinyon-mitchell-is-consistent-in-his-consistency-eagles-2026",
+        "date": "2026-11-17T14:08:21.000Z",
+        "source": "philadelphiaeagles.com"
+      },
       {
         "title": "Spadaro: Eagles sign Zach Ertz, make several roster moves as team is back from the bye",
         "url": "https://www.philadelphiaeagles.com/news/eagles-sign-zach-ertz-make-several-roster-moves-as-team-is-back-from-the-bye",
@@ -237,36 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/zach-ertz-surprises-julie-ertz-with-national-soccer-hall-of-fame-selection",
         "date": "2026-11-13T04:30:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "2026 Salute to Service Nominee: Trailblazer Rachel Washburn's impact goes beyond the uniforms",
-        "url": "https://www.philadelphiaeagles.com/news/2026-salute-to-service-nominee-trailblazer-rachel-washburn-s-impact-goes-beyond-the-uniforms",
-        "date": "2026-11-11T10:00:15.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles waive RB Jaydon Blue",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-waive-rb-jaydon-blue-week-10-2026",
-        "date": "2026-11-10T22:13:14.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
-        "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
-        "date": "2026-11-10T10:00:10.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 8 november thuis tegen de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East. In het nieuws: \"Eagles sign Zach Ertz, make several roster moves\" en het ontslag van onder anderen Hollywood Brown.",
-    "hash": "df1bba87e9d10ff191eeccadc9eb965c0a3daea66283b8c8a29a90e883858ac5",
-    "generatedAt": "2026-11-17T13:08:23.955Z",
+    "text": "Philadelphia Eagles verloren de laatste vijf wedstrijden, meest recent op 8 november thuis van de New York Giants (11-19). Met 2-7 staan ze laatste (4e) in de NFC East, met een puntensaldo van -73. In het nieuws: de Eagles zouden Zach Ertz hebben vastgelegd en meerdere selectiewijzigingen hebben doorgevoerd.",
+    "hash": "37a4116ed2aa60cdc87f8da79cfcd719a8635c9c01191cfccdd38ad3c4764f6d",
+    "generatedAt": "2026-11-18T04:10:07.612Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-17T13:08:23.955Z",
+  "updatedAt": "2026-11-18T04:10:07.612Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,27 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-18T04:10:07.612Z",
       "data": {
         "items": [
+          {
+            "title": "Army-Navy Game returns to Philadelphia in 2027 and beyond",
+            "url": "https://www.philadelphiaeagles.com/news/army-navy-game-returns-to-philadelphia-lincoln-financial-field-in-2027-and-beyond",
+            "date": "2026-11-18T01:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles sign RB Jaydon Blue to the active roster, DT Leki Fotu to the practice squad",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-rb-jaydon-blue-to-the-active-roster-dt-leki-fotu-to-the-practice-squad",
+            "date": "2026-11-17T21:10:13.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Quinyon Mitchell is consistent in his consistency",
+            "url": "https://www.philadelphiaeagles.com/news/quinyon-mitchell-is-consistent-in-his-consistency-eagles-2026",
+            "date": "2026-11-17T14:08:21.000Z",
+            "source": "philadelphiaeagles.com"
+          },
           {
             "title": "Spadaro: Eagles sign Zach Ertz, make several roster moves as team is back from the bye",
             "url": "https://www.philadelphiaeagles.com/news/eagles-sign-zach-ertz-make-several-roster-moves-as-team-is-back-from-the-bye",
@@ -586,24 +604,6 @@
             "title": "Zach Ertz surprises Julie Ertz with National Soccer Hall of Fame selection",
             "url": "https://www.philadelphiaeagles.com/news/zach-ertz-surprises-julie-ertz-with-national-soccer-hall-of-fame-selection",
             "date": "2026-11-13T04:30:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "2026 Salute to Service Nominee: Trailblazer Rachel Washburn's impact goes beyond the uniforms",
-            "url": "https://www.philadelphiaeagles.com/news/2026-salute-to-service-nominee-trailblazer-rachel-washburn-s-impact-goes-beyond-the-uniforms",
-            "date": "2026-11-11T10:00:15.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles waive RB Jaydon Blue",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-waive-rb-jaydon-blue-week-10-2026",
-            "date": "2026-11-10T22:13:14.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "AAA Official Review: What did the Eagles, Joe Milton learn from the QB's first start?",
-            "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-what-did-the-eagles-joe-milton-learn-from-the-qb-s-first-start-giants-nfl-week-9-2026",
-            "date": "2026-11-10T10:00:10.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

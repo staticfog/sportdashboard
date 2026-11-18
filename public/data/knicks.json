@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-17T13:08:23.955Z",
+    "updatedAt": "2026-11-18T04:10:07.612Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401910002",
+        "date": "2026-11-18T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Toronto Raptors",
+        "opponentShort": "TOR",
+        "status": "final",
+        "teamScore": 111,
+        "opponentScore": 102,
+        "outcome": "W"
+      },
       {
         "id": "espn-401909990",
         "date": "2026-11-15T23:00:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 117,
         "opponentScore": 85,
         "outcome": "W"
-      },
-      {
-        "id": "espn-401909940",
-        "date": "2026-11-08T01:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Cleveland Cavaliers",
-        "opponentShort": "CLE",
-        "status": "final",
-        "teamScore": 109,
-        "opponentScore": 97,
-        "outcome": "W"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-17T13:08:23.955Z",
+    "updatedAt": "2026-11-18T04:10:07.612Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401910002",
-        "date": "2026-11-18T00:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Toronto Raptors",
-        "opponentShort": "TOR",
-        "status": "scheduled",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401910021",
         "date": "2026-11-20T01:00:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401909319",
+        "date": "2026-11-26T00:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Cleveland Cavaliers",
+        "opponentShort": "CLE",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-18T04:10:07.612Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -191,11 +191,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "7",
+              "8",
               "6",
-              ".538",
-              "4",
-              "W1"
+              ".571",
+              "3.5",
+              "W2"
             ]
           },
           {
@@ -205,10 +205,10 @@
             "highlight": false,
             "values": [
               "5",
-              "8",
-              ".385",
-              "6",
-              "L4"
+              "9",
+              ".357",
+              "6.5",
+              "L5"
             ]
           },
           {
@@ -230,9 +230,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-17T13:08:23.955Z",
+    "updatedAt": "2026-11-18T04:10:07.612Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Knicks 111, Raptors 102: Scenes from a mirror game",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/91350/knicks-111-raptors-102-scenes-from-a-mirror-game",
+        "date": "2026-11-18T03:17:29.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Game Discussion Thread: Knicks at Raptors, November 17, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/91342/game-discussion-thread-knicks-at-raptors-november-17-2026",
+        "date": "2026-11-18T00:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
       {
         "title": "Game Preview: Knicks at Raptors, November 17, 2026",
         "url": "https://www.postingandtoasting.com/knicks-game-previews/91299/game-preview-knicks-at-raptors-november-17-2026",
@@ -252,38 +264,26 @@
         "source": "Posting and Toasting"
       },
       {
-        "title": "New York visits Toronto following overtime win against Toronto",
-        "url": "http://www.espn.com/nba/preview?gameId=401910002",
-        "date": "2026-11-16T07:04:46.000Z",
-        "source": "ESPN"
-      },
-      {
         "title": "Knicks 112, Raptors 108 (OT): Scenes from our first bonus basketball of the season",
         "url": "https://www.postingandtoasting.com/knicks-scores-results/91282/knicks-112-raptors-108-ot-scenes-from-our-first-bonus-basketball-of-the-season",
         "date": "2026-11-16T02:44:01.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Game Discussion Thread: Knicks at Raptors, November 15, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/91276/game-discussion-thread-knicks-at-raptors-november-15-2026",
-        "date": "2026-11-15T22:30:00.000Z",
         "source": "Posting and Toasting"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks wonnen op 16 november na verlenging met 112-108 bij de Toronto Raptors, na eerder twee nederlagen op rij. Met 7 zeges en 6 nederlagen staan ze derde van vijf in de Atlantic Division, op 4 wedstrijden van de koploper. In het nieuws wordt die zege na verlenging een \"low key huge win\" genoemd.",
-    "hash": "ce70d6c487781270281ebf91fdd72263906b40b6804924599218ccdfe816fe73",
-    "generatedAt": "2026-11-17T13:08:23.955Z",
+    "text": "De Knicks winnen twee keer op rij, beide keren uit bij de Toronto Raptors (112-108 en 111-102), na twee nederlagen tegen Cleveland en Indiana. Met 8 zeges en 6 nederlagen staan ze derde van vijf in de Atlantic Division. In het nieuws: de zege van 112-108 ging volgens Posting and Toasting na verlenging.",
+    "hash": "12396a464c5bad65df548b25562b52b935944d9dca03a1273106fe88a6768048",
+    "generatedAt": "2026-11-18T04:10:07.612Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-17T13:08:23.955Z",
+  "updatedAt": "2026-11-18T04:10:07.612Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-18T04:10:07.612Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -462,10 +462,10 @@
           "home": false,
           "opponent": "Toronto Raptors",
           "opponentShort": "TOR",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 111,
+          "opponentScore": 102,
+          "outcome": "W"
         },
         {
           "id": "espn-401910021",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-18T04:10:07.612Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1373,11 +1373,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "7",
+              "8",
               "6",
-              ".538",
-              "4",
-              "W1"
+              ".571",
+              "3.5",
+              "W2"
             ]
           },
           {
@@ -1387,10 +1387,10 @@
             "highlight": false,
             "values": [
               "5",
-              "8",
-              ".385",
-              "6",
-              "L4"
+              "9",
+              ".357",
+              "6.5",
+              "L5"
             ]
           },
           {
@@ -1412,9 +1412,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-18T04:10:07.612Z",
       "data": {
         "items": [
+          {
+            "title": "Knicks 111, Raptors 102: Scenes from a mirror game",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/91350/knicks-111-raptors-102-scenes-from-a-mirror-game",
+            "date": "2026-11-18T03:17:29.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Game Discussion Thread: Knicks at Raptors, November 17, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/91342/game-discussion-thread-knicks-at-raptors-november-17-2026",
+            "date": "2026-11-18T00:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
           {
             "title": "Game Preview: Knicks at Raptors, November 17, 2026",
             "url": "https://www.postingandtoasting.com/knicks-game-previews/91299/game-preview-knicks-at-raptors-november-17-2026",
@@ -1434,21 +1446,9 @@
             "source": "Posting and Toasting"
           },
           {
-            "title": "New York visits Toronto following overtime win against Toronto",
-            "url": "http://www.espn.com/nba/preview?gameId=401910002",
-            "date": "2026-11-16T07:04:46.000Z",
-            "source": "ESPN"
-          },
-          {
             "title": "Knicks 112, Raptors 108 (OT): Scenes from our first bonus basketball of the season",
             "url": "https://www.postingandtoasting.com/knicks-scores-results/91282/knicks-112-raptors-108-ot-scenes-from-our-first-bonus-basketball-of-the-season",
             "date": "2026-11-16T02:44:01.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Game Discussion Thread: Knicks at Raptors, November 15, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/91276/game-discussion-thread-knicks-at-raptors-november-15-2026",
-            "date": "2026-11-15T22:30:00.000Z",
             "source": "Posting and Toasting"
           }
         ],

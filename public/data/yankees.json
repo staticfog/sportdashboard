@@ -177,56 +177,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-17T13:08:23.955Z",
+    "updatedAt": "2026-11-18T04:10:07.612Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Here’s every ranked prospect that needs to be protected ahead of Tuesday’s 40-man deadline",
+        "title": "These ranked prospects got 40-man roster spots",
         "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-        "date": "2026-11-17T02:42:00.000Z",
+        "date": "2026-11-18T02:15:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Prospects on the 40-man bubble -- 1 from each team",
-        "url": "https://www.mlb.com/yankees/news/prospects-on-40-man-roster-bubble-2026",
-        "date": "2026-11-17T00:30:00.000Z",
+        "title": "Yankees add RHP Lagrange to 40-man roster; RHP Hampton claimed",
+        "url": "https://www.mlb.com/yankees/news/chase-hampton-claimed-by-yankees-from-orioles",
+        "date": "2026-11-18T00:38:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Consummate professional, mentor and prankster, Gardner a first-timer on HOF ballot",
-        "url": "https://www.mlb.com/yankees/news/brett-gardner-mlb-hall-of-fame-ballot",
-        "date": "2026-11-16T17:09:46.000Z",
+        "title": "Latest Yankees injuries and transactions",
+        "url": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+        "date": "2026-11-17T23:47:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Gardner debuts on HOF ballot; Pettitte, A-Rod, Abreu return",
-        "url": "https://www.mlb.com/yankees/news/baseball-hall-of-fame-ballot-2027",
-        "date": "2026-11-16T17:04:53.000Z",
+        "title": "Bednar returning to Yankees after accepting qualifying offer",
+        "url": "https://www.mlb.com/yankees/news/david-bednar-accepts-yankees-qualifying-offer",
+        "date": "2026-11-17T22:54:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Tim Hill, Yankees agree to 1-year, $2.25M deal, sources say",
-        "url": "https://www.espn.com/mlb/story/_/id/50492078/tim-hill-yankees-agree-1-year-225m-deal-sources-say",
-        "date": "2026-11-15T19:44:18.000Z",
+        "title": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer",
+        "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
+        "date": "2026-11-17T22:44:27.000Z",
         "source": "ESPN"
       },
       {
-        "title": "Hill agrees to 1-year deal to return to Yankees (source)",
-        "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
-        "date": "2026-11-15T16:26:00.000Z",
+        "title": "After falling just short twice, will Piniella be elected to the Hall?",
+        "url": "https://www.mlb.com/yankees/news/lou-piniella-baseball-hall-of-fame-case",
+        "date": "2026-11-17T14:02:00.000Z",
         "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zijn buiten het seizoen. Na een 2-0 tegen de Boston Red Sox in de Wild Card Series verloren ze de AL Division Series met 0-3 van de Tampa Bay Rays. In de AL East staan ze tweede van vijf (93-68). In het nieuws: Tim Hill en de Yankees zouden een eenjarig contract van $2,25 miljoen zijn overeengekomen.",
-    "hash": "a0686054e4786afbd68269c432888ceca5349361bbaa165448b0eda86bea0463",
-    "generatedAt": "2026-11-17T13:08:23.955Z",
+    "text": "De Yankees zitten buiten het seizoen. Na twee zeges op de Boston Red Sox in de Wild Card Series volgden drie nederlagen tegen de Tampa Bay Rays in de AL Division Series. In de AL East staan ze tweede van vijf (93-68). In het nieuws: Bednar keert volgens de koppen terug na het accepteren van de qualifying offer.",
+    "hash": "fdcf9babf0b30768d0caab17b532b68faeb4b8724080f75cdf3c58e97f6b6d7e",
+    "generatedAt": "2026-11-18T04:10:07.612Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-17T13:08:23.955Z",
+  "updatedAt": "2026-11-18T04:10:07.612Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,43 +2542,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-18T04:10:07.612Z",
       "data": {
         "items": [
           {
-            "title": "Here’s every ranked prospect that needs to be protected ahead of Tuesday’s 40-man deadline",
+            "title": "These ranked prospects got 40-man roster spots",
             "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-            "date": "2026-11-17T02:42:00.000Z",
+            "date": "2026-11-18T02:15:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Prospects on the 40-man bubble -- 1 from each team",
-            "url": "https://www.mlb.com/yankees/news/prospects-on-40-man-roster-bubble-2026",
-            "date": "2026-11-17T00:30:00.000Z",
+            "title": "Yankees add RHP Lagrange to 40-man roster; RHP Hampton claimed",
+            "url": "https://www.mlb.com/yankees/news/chase-hampton-claimed-by-yankees-from-orioles",
+            "date": "2026-11-18T00:38:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Consummate professional, mentor and prankster, Gardner a first-timer on HOF ballot",
-            "url": "https://www.mlb.com/yankees/news/brett-gardner-mlb-hall-of-fame-ballot",
-            "date": "2026-11-16T17:09:46.000Z",
+            "title": "Latest Yankees injuries and transactions",
+            "url": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+            "date": "2026-11-17T23:47:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Gardner debuts on HOF ballot; Pettitte, A-Rod, Abreu return",
-            "url": "https://www.mlb.com/yankees/news/baseball-hall-of-fame-ballot-2027",
-            "date": "2026-11-16T17:04:53.000Z",
+            "title": "Bednar returning to Yankees after accepting qualifying offer",
+            "url": "https://www.mlb.com/yankees/news/david-bednar-accepts-yankees-qualifying-offer",
+            "date": "2026-11-17T22:54:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Tim Hill, Yankees agree to 1-year, $2.25M deal, sources say",
-            "url": "https://www.espn.com/mlb/story/_/id/50492078/tim-hill-yankees-agree-1-year-225m-deal-sources-say",
-            "date": "2026-11-15T19:44:18.000Z",
+            "title": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer",
+            "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
+            "date": "2026-11-17T22:44:27.000Z",
             "source": "ESPN"
           },
           {
-            "title": "Hill agrees to 1-year deal to return to Yankees (source)",
-            "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
-            "date": "2026-11-15T16:26:00.000Z",
+            "title": "After falling just short twice, will Piniella be elected to the Hall?",
+            "url": "https://www.mlb.com/yankees/news/lou-piniella-baseball-hall-of-fame-case",
+            "date": "2026-11-17T14:02:00.000Z",
             "source": "MLB.com"
           }
         ],
