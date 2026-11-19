@@ -941,9 +941,27 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-17T13:08:23.955Z",
+    "updatedAt": "2026-11-19T12:52:02.132Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Ajax krijgt boete voor vuurwerk bij uitduel met FC Midtjylland",
+        "url": "https://www.parool.nl/amsterdam/ajax-krijgt-boete-voor-vuurwerk-bij-uitduel-met-fc-midtjylland~be92b001/",
+        "date": "2026-11-18T17:59:37.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "15.000 euro boete en voorwaardelijke straf voor Ajax na vuurwerkincident",
+        "url": "https://nos.nl/l/2640064",
+        "date": "2026-11-18T17:55:07.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "De Ajax Legends: niet te vaak doen, maar dit was heerlijk – ASMR-voetbal",
+        "url": "https://www.parool.nl/columns-opinie/de-ajax-legends-niet-te-vaak-doen-maar-dit-was-heerlijk-asmr-voetbal~b5be168e/",
+        "date": "2026-11-18T11:00:00.000Z",
+        "source": "Het Parool"
+      },
       {
         "title": "Oud-Ajacied Mido (43) woog 150 kilo en kon amper bewegen, maar bij de Ajax Legends was hij weer fit: ‘Mijn gezondheid kwam in gevaar’",
         "url": "https://www.parool.nl/sport/oud-ajacied-mido-43-woog-150-kilo-en-kon-amper-bewegen-maar-bij-de-ajax-legends-was-hij-weer-fit-mijn-gezondheid-kwam-in-gevaar~bada39c6/",
@@ -961,37 +979,104 @@
         "url": "https://www.parool.nl/amsterdam/ajax-doet-onderzoek-naar-vuurwerkgooier-bij-legends-duel~bd44ea5a/",
         "date": "2026-11-15T18:13:38.000Z",
         "source": "Het Parool"
-      },
-      {
-        "title": "Ajax Legends verliezen doelpuntrijk spektakelstuk van Barça: Huntelaar tweemaal trefzeker",
-        "url": "https://www.parool.nl/sport/ajax-legends-verliezen-doelpuntrijk-spektakelstuk-van-barca-huntelaar-tweemaal-trefzeker~b849a3f4/",
-        "date": "2026-11-15T16:17:29.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Deze spelers doen mee aan de Legends-wedstrijd tussen Ajax en Barcelona in uitverkochte Johan Cruijff Arena",
-        "url": "https://www.parool.nl/sport/deze-spelers-doen-mee-aan-de-legends-wedstrijd-tussen-ajax-en-barcelona-in-uitverkochte-johan-cruijff-arena~b63e436e/",
-        "date": "2026-11-15T09:02:00.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "GVB test omstreden metrowijziging tijdens Ajax-Barcelona: metro 53 rijdt dit weekend niet",
-        "url": "https://www.parool.nl/amsterdam/gvb-test-omstreden-metrowijziging-tijdens-ajax-barcelona-metro-53-rijdt-dit-weekend-niet~befedbe7/",
-        "date": "2026-11-13T10:03:00.000Z",
-        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax won vier duels op rij, waaronder een 6-1 bij FC Midtjylland, en speelde op 8 november met 2-2 gelijk bij FC Twente. In de Eredivisie staat Ajax derde met 25 punten, in de Conference League elfde. In het nieuws: Ajax doet onderzoek naar een vuurwerkgooier bij het Legends-duel tegen Barcelona.",
-    "hash": "1bbc278c4d5158785d43b404595a9e5ac706b3d8caea8234959439ac5fcefbd6",
-    "generatedAt": "2026-11-17T13:08:23.955Z",
+    "text": "Ajax is ongeslagen in de laatste vijf duels: vier zeges op rij, gevolgd door 2-2 bij FC Twente op 8 november. In de Eredivisie staat Ajax derde met 25 punten, in de Conference League elfde. In het nieuws: een boete voor vuurwerk bij het uitduel met FC Midtjylland.",
+    "hash": "5cc5733fc7c2f39a155de59905954ec5b8ad5793123a6daf4d5ea8cf22dbc262",
+    "generatedAt": "2026-11-19T12:52:02.132Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-17T13:08:23.955Z",
+  "updatedAt": "2026-11-19T12:52:02.132Z",
   "sections": {
+    "games:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "data": [
+        {
+          "id": "espn-401915829",
+          "date": "2026-11-05T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "FC Midtjylland",
+          "opponentShort": "MID",
+          "status": "final",
+          "teamScore": 6,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915837",
+          "date": "2026-10-22T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Atalanta",
+          "opponentShort": "ATA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915861",
+          "date": "2026-10-15T16:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Hajduk Split",
+          "opponentShort": "HAJ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 2,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915630",
+          "date": "2026-12-10T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Sint-Truidense",
+          "opponentShort": "STVV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915731",
+          "date": "2026-12-17T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Getafe",
+          "opponentShort": "GET",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
       "updatedAt": "2026-11-08T19:31:29.078Z",
@@ -1433,91 +1518,6 @@
           "home": false,
           "opponent": "SC Cambuur",
           "opponentShort": "CAM",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        }
-      ],
-      "error": null
-    },
-    "games:espn-soccer/uefa.europa.conf-139": {
-      "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
-      "data": [
-        {
-          "id": "espn-401915829",
-          "date": "2026-11-05T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "FC Midtjylland",
-          "opponentShort": "MID",
-          "status": "final",
-          "teamScore": 6,
-          "opponentScore": 1,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915837",
-          "date": "2026-10-22T19:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Atalanta",
-          "opponentShort": "ATA",
-          "status": "final",
-          "teamScore": 2,
-          "opponentScore": 0,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915861",
-          "date": "2026-10-15T16:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Hajduk Split",
-          "opponentShort": "HAJ",
-          "status": "final",
-          "teamScore": 1,
-          "opponentScore": 2,
-          "outcome": "V"
-        },
-        {
-          "id": "espn-401915815",
-          "date": "2026-11-26T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "FC Thun",
-          "opponentShort": "THUN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915630",
-          "date": "2026-12-10T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Sint-Truidense",
-          "opponentShort": "STVV",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915731",
-          "date": "2026-12-17T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Getafe",
-          "opponentShort": "GET",
           "status": "scheduled",
           "teamScore": null,
           "opponentScore": null,
@@ -2320,9 +2320,27 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-17T13:08:23.955Z",
+      "updatedAt": "2026-11-19T12:52:02.132Z",
       "data": {
         "items": [
+          {
+            "title": "Ajax krijgt boete voor vuurwerk bij uitduel met FC Midtjylland",
+            "url": "https://www.parool.nl/amsterdam/ajax-krijgt-boete-voor-vuurwerk-bij-uitduel-met-fc-midtjylland~be92b001/",
+            "date": "2026-11-18T17:59:37.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "15.000 euro boete en voorwaardelijke straf voor Ajax na vuurwerkincident",
+            "url": "https://nos.nl/l/2640064",
+            "date": "2026-11-18T17:55:07.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "De Ajax Legends: niet te vaak doen, maar dit was heerlijk – ASMR-voetbal",
+            "url": "https://www.parool.nl/columns-opinie/de-ajax-legends-niet-te-vaak-doen-maar-dit-was-heerlijk-asmr-voetbal~b5be168e/",
+            "date": "2026-11-18T11:00:00.000Z",
+            "source": "Het Parool"
+          },
           {
             "title": "Oud-Ajacied Mido (43) woog 150 kilo en kon amper bewegen, maar bij de Ajax Legends was hij weer fit: ‘Mijn gezondheid kwam in gevaar’",
             "url": "https://www.parool.nl/sport/oud-ajacied-mido-43-woog-150-kilo-en-kon-amper-bewegen-maar-bij-de-ajax-legends-was-hij-weer-fit-mijn-gezondheid-kwam-in-gevaar~bada39c6/",
@@ -2339,24 +2357,6 @@
             "title": "Ajax doet onderzoek naar vuurwerkgooier bij 'Legends-duel'",
             "url": "https://www.parool.nl/amsterdam/ajax-doet-onderzoek-naar-vuurwerkgooier-bij-legends-duel~bd44ea5a/",
             "date": "2026-11-15T18:13:38.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Ajax Legends verliezen doelpuntrijk spektakelstuk van Barça: Huntelaar tweemaal trefzeker",
-            "url": "https://www.parool.nl/sport/ajax-legends-verliezen-doelpuntrijk-spektakelstuk-van-barca-huntelaar-tweemaal-trefzeker~b849a3f4/",
-            "date": "2026-11-15T16:17:29.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Deze spelers doen mee aan de Legends-wedstrijd tussen Ajax en Barcelona in uitverkochte Johan Cruijff Arena",
-            "url": "https://www.parool.nl/sport/deze-spelers-doen-mee-aan-de-legends-wedstrijd-tussen-ajax-en-barcelona-in-uitverkochte-johan-cruijff-arena~b63e436e/",
-            "date": "2026-11-15T09:02:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "GVB test omstreden metrowijziging tijdens Ajax-Barcelona: metro 53 rijdt dit weekend niet",
-            "url": "https://www.parool.nl/amsterdam/gvb-test-omstreden-metrowijziging-tijdens-ajax-barcelona-metro-53-rijdt-dit-weekend-niet~befedbe7/",
-            "date": "2026-11-13T10:03:00.000Z",
             "source": "Het Parool"
           }
         ],

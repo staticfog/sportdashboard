@@ -177,9 +177,15 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-18T04:10:07.612Z",
+    "updatedAt": "2026-11-19T12:52:02.132Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "These 12 sleeper prospects earned 40-man roster spots",
+        "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
+        "date": "2026-11-19T00:00:00.000Z",
+        "source": "MLB.com"
+      },
       {
         "title": "These ranked prospects got 40-man roster spots",
         "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
@@ -209,24 +215,18 @@
         "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
         "date": "2026-11-17T22:44:27.000Z",
         "source": "ESPN"
-      },
-      {
-        "title": "After falling just short twice, will Piniella be elected to the Hall?",
-        "url": "https://www.mlb.com/yankees/news/lou-piniella-baseball-hall-of-fame-case",
-        "date": "2026-11-17T14:02:00.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na twee zeges op de Boston Red Sox in de Wild Card Series volgden drie nederlagen tegen de Tampa Bay Rays in de AL Division Series. In de AL East staan ze tweede van vijf (93-68). In het nieuws: Bednar keert volgens de koppen terug na het accepteren van de qualifying offer.",
-    "hash": "fdcf9babf0b30768d0caab17b532b68faeb4b8724080f75cdf3c58e97f6b6d7e",
-    "generatedAt": "2026-11-18T04:10:07.612Z",
+    "text": "De Yankees zitten buiten het seizoen. Na twee zeges op de Red Sox in de Wild Card Series verloren ze in de AL Division Series drie keer van de Rays (laatste duel 8 okt). In de AL East staan ze tweede (93-68). In het nieuws: Bednar keert terug na het accepteren van een qualifying offer.",
+    "hash": "569fe81c10ad79b757a857e84549adc53467b34acedb99d949cae368169e03e8",
+    "generatedAt": "2026-11-19T12:52:02.132Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-18T04:10:07.612Z",
+  "updatedAt": "2026-11-19T12:52:02.132Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,9 +2542,15 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-18T04:10:07.612Z",
+      "updatedAt": "2026-11-19T12:52:02.132Z",
       "data": {
         "items": [
+          {
+            "title": "These 12 sleeper prospects earned 40-man roster spots",
+            "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
+            "date": "2026-11-19T00:00:00.000Z",
+            "source": "MLB.com"
+          },
           {
             "title": "These ranked prospects got 40-man roster spots",
             "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
@@ -2574,12 +2580,6 @@
             "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
             "date": "2026-11-17T22:44:27.000Z",
             "source": "ESPN"
-          },
-          {
-            "title": "After falling just short twice, will Piniella be elected to the Hall?",
-            "url": "https://www.mlb.com/yankees/news/lou-piniella-baseball-hall-of-fame-case",
-            "date": "2026-11-17T14:02:00.000Z",
-            "source": "MLB.com"
           }
         ],
         "failedSources": [],
