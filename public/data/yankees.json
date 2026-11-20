@@ -177,19 +177,31 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-19T12:52:02.132Z",
+    "updatedAt": "2026-11-20T03:00:34.948Z",
     "failedSources": [],
     "items": [
       {
-        "title": "These 12 sleeper prospects earned 40-man roster spots",
-        "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
-        "date": "2026-11-19T00:00:00.000Z",
+        "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
+        "url": "https://www.mlb.com/yankees/news/top-30-arizona-fall-league-prospects-2026",
+        "date": "2026-11-20T00:00:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Examining the Yankees' options at third base for 2027",
+        "url": "https://www.mlb.com/yankees/news/yankees-free-agent-and-trade-possibilities-at-third-base-for-2027",
+        "date": "2026-11-19T20:57:39.000Z",
         "source": "MLB.com"
       },
       {
         "title": "These ranked prospects got 40-man roster spots",
         "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-        "date": "2026-11-18T02:15:00.000Z",
+        "date": "2026-11-19T19:02:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "These 12 sleeper prospects earned 40-man roster spots",
+        "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
+        "date": "2026-11-19T00:00:00.000Z",
         "source": "MLB.com"
       },
       {
@@ -203,30 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
         "date": "2026-11-17T23:47:00.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "Bednar returning to Yankees after accepting qualifying offer",
-        "url": "https://www.mlb.com/yankees/news/david-bednar-accepts-yankees-qualifying-offer",
-        "date": "2026-11-17T22:54:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer",
-        "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
-        "date": "2026-11-17T22:44:27.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Na twee zeges op de Red Sox in de Wild Card Series verloren ze in de AL Division Series drie keer van de Rays (laatste duel 8 okt). In de AL East staan ze tweede (93-68). In het nieuws: Bednar keert terug na het accepteren van een qualifying offer.",
-    "hash": "569fe81c10ad79b757a857e84549adc53467b34acedb99d949cae368169e03e8",
-    "generatedAt": "2026-11-19T12:52:02.132Z",
+    "text": "De Yankees zitten buiten het seizoen. Ze staan tweede in de AL East (93-68), wonnen beide Wild Card-duels tegen de Boston Red Sox en verloren daarna alle drie de Division Series-duels tegen de Tampa Bay Rays. In het nieuws: \"Yankees add RHP Lagrange to 40-man roster\".",
+    "hash": "63544cddb9cee769a04f6ed8d0245a8e4b971e75fe0000ba586f1ebcf4123e59",
+    "generatedAt": "2026-11-20T03:00:34.948Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-19T12:52:02.132Z",
+  "updatedAt": "2026-11-20T03:00:34.948Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,19 +2542,31 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-19T12:52:02.132Z",
+      "updatedAt": "2026-11-20T03:00:34.948Z",
       "data": {
         "items": [
           {
-            "title": "These 12 sleeper prospects earned 40-man roster spots",
-            "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
-            "date": "2026-11-19T00:00:00.000Z",
+            "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
+            "url": "https://www.mlb.com/yankees/news/top-30-arizona-fall-league-prospects-2026",
+            "date": "2026-11-20T00:00:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Examining the Yankees' options at third base for 2027",
+            "url": "https://www.mlb.com/yankees/news/yankees-free-agent-and-trade-possibilities-at-third-base-for-2027",
+            "date": "2026-11-19T20:57:39.000Z",
             "source": "MLB.com"
           },
           {
             "title": "These ranked prospects got 40-man roster spots",
             "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-            "date": "2026-11-18T02:15:00.000Z",
+            "date": "2026-11-19T19:02:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "These 12 sleeper prospects earned 40-man roster spots",
+            "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
+            "date": "2026-11-19T00:00:00.000Z",
             "source": "MLB.com"
           },
           {
@@ -2568,18 +2580,6 @@
             "url": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
             "date": "2026-11-17T23:47:00.000Z",
             "source": "MLB.com"
-          },
-          {
-            "title": "Bednar returning to Yankees after accepting qualifying offer",
-            "url": "https://www.mlb.com/yankees/news/david-bednar-accepts-yankees-qualifying-offer",
-            "date": "2026-11-17T22:54:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer",
-            "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
-            "date": "2026-11-17T22:44:27.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],

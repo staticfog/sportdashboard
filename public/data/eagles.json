@@ -217,19 +217,37 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-19T12:52:02.132Z",
+    "updatedAt": "2026-11-20T03:00:34.948Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller",
-        "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
-        "date": "2026-11-19T11:37:28.000Z",
+        "title": "The Steelers last won in Philadelphia in 1965. Can they top an Eagles team on 7-game losing streak?",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873076",
+        "date": "2026-11-20T00:22:33.000Z",
         "source": "ESPN"
       },
       {
         "title": "Steelers vs. Eagles Injury Report",
         "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-injury-report-2026-nfl-week-11-salute-to-service",
-        "date": "2026-11-18T22:59:51.000Z",
+        "date": "2026-11-19T22:51:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Salute to Service: Honor the Heroes Among Us",
+        "url": "https://www.philadelphiaeagles.com/news/salute-to-service-honor-the-heroes-among-us-2026-eagles-steelers-week-11",
+        "date": "2026-11-19T19:30:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Can you name the Eagles' defense from the 2024 matchup vs. Steelers?",
+        "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-trivia-quiz-2026-week-11-can-you-name-the-2024-defense",
+        "date": "2026-11-19T16:04:06.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "How to watch, stream, and listen | Steelers vs. Eagles",
+        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-steelers-vs-eagles-2026-week-11-salute-to-service",
+        "date": "2026-11-19T15:00:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
@@ -237,36 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/eagles-claim-t-tackle-ajani-cornelius-nfl-week-11-steelers",
         "date": "2026-11-18T21:52:06.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Spadaro: Nick Sirianni confirms Joe Milton will start at quarterback",
-        "url": "https://www.philadelphiaeagles.com/news/nick-sirianni-confirms-joe-milton-will-start-at-quarterback",
-        "date": "2026-11-18T20:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "More than a faithful companion: The story of Jason and Woodrow",
-        "url": "https://www.philadelphiaeagles.com/news/more-than-a-faithful-companion-paws4people-robert-irvine-foundation-eagles-2026-salute-to-service",
-        "date": "2026-11-18T15:15:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles sign WR Quentin Skinner to the practice squad",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-quentin-skinner-2026-week-11",
-        "date": "2026-11-18T15:00:00.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles zitten in een slechte reeks van vijf nederlagen op rij, de laatste op 8 november tegen de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste in de NFC East. In het nieuws: Sirianni houdt vast aan Milton als eerste quarterback en Mannion als offensive playcaller.",
-    "hash": "f33323feeb7111c248114e9a5e705d6f968f926b1cbd33db9edd888e22e25207",
-    "generatedAt": "2026-11-19T12:52:02.132Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, laatst op 8 november thuis met 11-19 van de New York Giants. Met een 2-7 record (.222, puntensaldo -73) staan ze vierde en laatste in de NFC East. In het nieuws wordt geschreven over een reeks van zeven nederlagen op rij.",
+    "hash": "5ab19b42f16c42179439ae9c2e81f792803bb113558ba19553a0d84d57a02c30",
+    "generatedAt": "2026-11-20T03:00:34.948Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-19T12:52:02.132Z",
+  "updatedAt": "2026-11-20T03:00:34.948Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,43 +567,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-19T12:52:02.132Z",
+      "updatedAt": "2026-11-20T03:00:34.948Z",
       "data": {
         "items": [
           {
-            "title": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller",
-            "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
-            "date": "2026-11-19T11:37:28.000Z",
+            "title": "The Steelers last won in Philadelphia in 1965. Can they top an Eagles team on 7-game losing streak?",
+            "url": "http://www.espn.com/nfl/preview?gameId=401873076",
+            "date": "2026-11-20T00:22:33.000Z",
             "source": "ESPN"
           },
           {
             "title": "Steelers vs. Eagles Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-injury-report-2026-nfl-week-11-salute-to-service",
-            "date": "2026-11-18T22:59:51.000Z",
+            "date": "2026-11-19T22:51:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Salute to Service: Honor the Heroes Among Us",
+            "url": "https://www.philadelphiaeagles.com/news/salute-to-service-honor-the-heroes-among-us-2026-eagles-steelers-week-11",
+            "date": "2026-11-19T19:30:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Can you name the Eagles' defense from the 2024 matchup vs. Steelers?",
+            "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-trivia-quiz-2026-week-11-can-you-name-the-2024-defense",
+            "date": "2026-11-19T16:04:06.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "How to watch, stream, and listen | Steelers vs. Eagles",
+            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-steelers-vs-eagles-2026-week-11-salute-to-service",
+            "date": "2026-11-19T15:00:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
             "title": "Eagles claim T Ajani Cornelius",
             "url": "https://www.philadelphiaeagles.com/news/eagles-claim-t-tackle-ajani-cornelius-nfl-week-11-steelers",
             "date": "2026-11-18T21:52:06.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Spadaro: Nick Sirianni confirms Joe Milton will start at quarterback",
-            "url": "https://www.philadelphiaeagles.com/news/nick-sirianni-confirms-joe-milton-will-start-at-quarterback",
-            "date": "2026-11-18T20:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "More than a faithful companion: The story of Jason and Woodrow",
-            "url": "https://www.philadelphiaeagles.com/news/more-than-a-faithful-companion-paws4people-robert-irvine-foundation-eagles-2026-salute-to-service",
-            "date": "2026-11-18T15:15:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles sign WR Quentin Skinner to the practice squad",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-quentin-skinner-2026-week-11",
-            "date": "2026-11-18T15:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
