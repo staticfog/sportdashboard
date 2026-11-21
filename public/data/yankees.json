@@ -177,56 +177,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-20T03:00:34.948Z",
+    "updatedAt": "2026-11-21T09:37:54.621Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Luis Gil, former AL Rookie of Year, cut by New York Yankees at tender deadline",
+        "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
+        "date": "2026-11-21T04:27:32.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Yankees non-tender former Rookie of the Year Gil, reliever Cruz",
+        "url": "https://www.mlb.com/yankees/news/yankees-non-tender-decisions-2026",
+        "date": "2026-11-20T23:31:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Sources: Jonathan Loáisiga returning to Yankees on 2-year deal",
+        "url": "https://www.espn.com/mlb/story/_/id/50540563/sources-jonathan-loaisiga-returning-yankees-2-year-deal",
+        "date": "2026-11-20T16:52:06.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Loáisiga reunites with Yankees on 2-year deal (source)",
+        "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
+        "date": "2026-11-20T16:14:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "After busy day in office, Cashman hits field to Sleep Out for good cause",
+        "url": "https://www.mlb.com/yankees/news/brian-cashman-on-yankees-offseason-moves-sleep-out-charity-event",
+        "date": "2026-11-20T14:07:00.000Z",
+        "source": "MLB.com"
+      },
       {
         "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
         "url": "https://www.mlb.com/yankees/news/top-30-arizona-fall-league-prospects-2026",
         "date": "2026-11-20T00:00:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Examining the Yankees' options at third base for 2027",
-        "url": "https://www.mlb.com/yankees/news/yankees-free-agent-and-trade-possibilities-at-third-base-for-2027",
-        "date": "2026-11-19T20:57:39.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "These ranked prospects got 40-man roster spots",
-        "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-        "date": "2026-11-19T19:02:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "These 12 sleeper prospects earned 40-man roster spots",
-        "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
-        "date": "2026-11-19T00:00:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Yankees add RHP Lagrange to 40-man roster; RHP Hampton claimed",
-        "url": "https://www.mlb.com/yankees/news/chase-hampton-claimed-by-yankees-from-orioles",
-        "date": "2026-11-18T00:38:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Latest Yankees injuries and transactions",
-        "url": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-        "date": "2026-11-17T23:47:00.000Z",
         "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Ze staan tweede in de AL East (93-68), wonnen beide Wild Card-duels tegen de Boston Red Sox en verloren daarna alle drie de Division Series-duels tegen de Tampa Bay Rays. In het nieuws: \"Yankees add RHP Lagrange to 40-man roster\".",
-    "hash": "63544cddb9cee769a04f6ed8d0245a8e4b971e75fe0000ba586f1ebcf4123e59",
-    "generatedAt": "2026-11-20T03:00:34.948Z",
+    "text": "De Yankees zijn buiten het seizoen. Na twee zeges op Boston in de Wild Card Series volgde in de Division Series een 0-3 tegen Tampa Bay; in de AL East werden ze tweede (93-68). In het nieuws: Luis Gil zou niet zijn behouden en Jonathan Loáisiga zou terugkeren op een tweejarig contract.",
+    "hash": "d273bff62c883ad203c51e6be837dd24ffc41ee088f34bc1c41d904bd80e9829",
+    "generatedAt": "2026-11-21T09:37:54.621Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-20T03:00:34.948Z",
+  "updatedAt": "2026-11-21T09:37:54.621Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,43 +2542,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-20T03:00:34.948Z",
+      "updatedAt": "2026-11-21T09:37:54.621Z",
       "data": {
         "items": [
+          {
+            "title": "Luis Gil, former AL Rookie of Year, cut by New York Yankees at tender deadline",
+            "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
+            "date": "2026-11-21T04:27:32.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Yankees non-tender former Rookie of the Year Gil, reliever Cruz",
+            "url": "https://www.mlb.com/yankees/news/yankees-non-tender-decisions-2026",
+            "date": "2026-11-20T23:31:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Sources: Jonathan Loáisiga returning to Yankees on 2-year deal",
+            "url": "https://www.espn.com/mlb/story/_/id/50540563/sources-jonathan-loaisiga-returning-yankees-2-year-deal",
+            "date": "2026-11-20T16:52:06.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Loáisiga reunites with Yankees on 2-year deal (source)",
+            "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
+            "date": "2026-11-20T16:14:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "After busy day in office, Cashman hits field to Sleep Out for good cause",
+            "url": "https://www.mlb.com/yankees/news/brian-cashman-on-yankees-offseason-moves-sleep-out-charity-event",
+            "date": "2026-11-20T14:07:00.000Z",
+            "source": "MLB.com"
+          },
           {
             "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
             "url": "https://www.mlb.com/yankees/news/top-30-arizona-fall-league-prospects-2026",
             "date": "2026-11-20T00:00:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Examining the Yankees' options at third base for 2027",
-            "url": "https://www.mlb.com/yankees/news/yankees-free-agent-and-trade-possibilities-at-third-base-for-2027",
-            "date": "2026-11-19T20:57:39.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "These ranked prospects got 40-man roster spots",
-            "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-            "date": "2026-11-19T19:02:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "These 12 sleeper prospects earned 40-man roster spots",
-            "url": "https://www.mlb.com/yankees/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
-            "date": "2026-11-19T00:00:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Yankees add RHP Lagrange to 40-man roster; RHP Hampton claimed",
-            "url": "https://www.mlb.com/yankees/news/chase-hampton-claimed-by-yankees-from-orioles",
-            "date": "2026-11-18T00:38:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Latest Yankees injuries and transactions",
-            "url": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-            "date": "2026-11-17T23:47:00.000Z",
             "source": "MLB.com"
           }
         ],

@@ -941,9 +941,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-19T12:52:02.132Z",
+    "updatedAt": "2026-11-21T09:37:54.621Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Hoe de pijnlijke aftocht van Gaaei uitgroeide tot het ultieme symbool van de periode-Steijn bij Ajax",
+        "url": "https://www.parool.nl/ajax/hoe-de-pijnlijke-aftocht-van-gaaei-uitgroeide-tot-het-ultieme-symbool-van-de-periode-steijn-bij-ajax~b08727ff/",
+        "date": "2026-11-21T02:00:43.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "Ajax heeft Julian Brandt en drie anderen terug uit de ziekenboeg voor thuisduel met ADO Den Haag",
+        "url": "https://www.parool.nl/ajax/ajax-heeft-julian-brandt-en-drie-anderen-terug-uit-de-ziekenboeg-voor-thuisduel-met-ado-den-haag~bbe96a78/",
+        "date": "2026-11-20T16:33:03.000Z",
+        "source": "Het Parool"
+      },
       {
         "title": "Ajax krijgt boete voor vuurwerk bij uitduel met FC Midtjylland",
         "url": "https://www.parool.nl/amsterdam/ajax-krijgt-boete-voor-vuurwerk-bij-uitduel-met-fc-midtjylland~be92b001/",
@@ -967,116 +979,19 @@
         "url": "https://www.parool.nl/sport/oud-ajacied-mido-43-woog-150-kilo-en-kon-amper-bewegen-maar-bij-de-ajax-legends-was-hij-weer-fit-mijn-gezondheid-kwam-in-gevaar~bada39c6/",
         "date": "2026-11-16T18:51:05.000Z",
         "source": "Het Parool"
-      },
-      {
-        "title": "‘Zijn doelpunten als Ajax Legend betekenden heel veel voor Klaas-Jan Huntelaar’",
-        "url": "https://www.parool.nl/sport/zijn-doelpunten-als-ajax-legend-betekenden-heel-veel-voor-klaas-jan-huntelaar~b3faccd4/",
-        "date": "2026-11-16T16:24:55.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Ajax doet onderzoek naar vuurwerkgooier bij 'Legends-duel'",
-        "url": "https://www.parool.nl/amsterdam/ajax-doet-onderzoek-naar-vuurwerkgooier-bij-legends-duel~bd44ea5a/",
-        "date": "2026-11-15T18:13:38.000Z",
-        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax is ongeslagen in de laatste vijf duels: vier zeges op rij, gevolgd door 2-2 bij FC Twente op 8 november. In de Eredivisie staat Ajax derde met 25 punten, in de Conference League elfde. In het nieuws: een boete voor vuurwerk bij het uitduel met FC Midtjylland.",
-    "hash": "5cc5733fc7c2f39a155de59905954ec5b8ad5793123a6daf4d5ea8cf22dbc262",
-    "generatedAt": "2026-11-19T12:52:02.132Z",
+    "text": "Ajax is ongeslagen in de laatste vijf wedstrijden: vier overwinningen, waaronder 6-1 bij FC Midtjylland, en een 2-2 bij FC Twente. In de Eredivisie staat Ajax derde met 25 punten, in de Conference League elfde. In het nieuws: een boete voor vuurwerk bij het uitduel met FC Midtjylland.",
+    "hash": "f97cdd92f1ff5a48567a247137cd57467b1a2c0d6173f0b179f75c39f9da0e51",
+    "generatedAt": "2026-11-21T09:37:54.621Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-19T12:52:02.132Z",
+  "updatedAt": "2026-11-21T09:37:54.621Z",
   "sections": {
-    "games:espn-soccer/uefa.europa.conf-139": {
-      "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
-      "data": [
-        {
-          "id": "espn-401915829",
-          "date": "2026-11-05T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "FC Midtjylland",
-          "opponentShort": "MID",
-          "status": "final",
-          "teamScore": 6,
-          "opponentScore": 1,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915837",
-          "date": "2026-10-22T19:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Atalanta",
-          "opponentShort": "ATA",
-          "status": "final",
-          "teamScore": 2,
-          "opponentScore": 0,
-          "outcome": "W"
-        },
-        {
-          "id": "espn-401915861",
-          "date": "2026-10-15T16:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Hajduk Split",
-          "opponentShort": "HAJ",
-          "status": "final",
-          "teamScore": 1,
-          "opponentScore": 2,
-          "outcome": "V"
-        },
-        {
-          "id": "espn-401915815",
-          "date": "2026-11-26T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "FC Thun",
-          "opponentShort": "THUN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915630",
-          "date": "2026-12-10T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": false,
-          "opponent": "Sint-Truidense",
-          "opponentShort": "STVV",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        },
-        {
-          "id": "espn-401915731",
-          "date": "2026-12-17T20:00:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "Getafe",
-          "opponentShort": "GET",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
-        }
-      ],
-      "error": null
-    },
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
       "updatedAt": "2026-11-08T19:31:29.078Z",
@@ -1518,6 +1433,91 @@
           "home": false,
           "opponent": "SC Cambuur",
           "opponentShort": "CAM",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        }
+      ],
+      "error": null
+    },
+    "games:espn-soccer/uefa.europa.conf-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "data": [
+        {
+          "id": "espn-401915829",
+          "date": "2026-11-05T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "FC Midtjylland",
+          "opponentShort": "MID",
+          "status": "final",
+          "teamScore": 6,
+          "opponentScore": 1,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915837",
+          "date": "2026-10-22T19:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Atalanta",
+          "opponentShort": "ATA",
+          "status": "final",
+          "teamScore": 2,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
+        {
+          "id": "espn-401915861",
+          "date": "2026-10-15T16:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Hajduk Split",
+          "opponentShort": "HAJ",
+          "status": "final",
+          "teamScore": 1,
+          "opponentScore": 2,
+          "outcome": "V"
+        },
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915630",
+          "date": "2026-12-10T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": false,
+          "opponent": "Sint-Truidense",
+          "opponentShort": "STVV",
+          "status": "scheduled",
+          "teamScore": null,
+          "opponentScore": null,
+          "outcome": null
+        },
+        {
+          "id": "espn-401915731",
+          "date": "2026-12-17T20:00:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "Getafe",
+          "opponentShort": "GET",
           "status": "scheduled",
           "teamScore": null,
           "opponentScore": null,
@@ -2320,9 +2320,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-19T12:52:02.132Z",
+      "updatedAt": "2026-11-21T09:37:54.621Z",
       "data": {
         "items": [
+          {
+            "title": "Hoe de pijnlijke aftocht van Gaaei uitgroeide tot het ultieme symbool van de periode-Steijn bij Ajax",
+            "url": "https://www.parool.nl/ajax/hoe-de-pijnlijke-aftocht-van-gaaei-uitgroeide-tot-het-ultieme-symbool-van-de-periode-steijn-bij-ajax~b08727ff/",
+            "date": "2026-11-21T02:00:43.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "Ajax heeft Julian Brandt en drie anderen terug uit de ziekenboeg voor thuisduel met ADO Den Haag",
+            "url": "https://www.parool.nl/ajax/ajax-heeft-julian-brandt-en-drie-anderen-terug-uit-de-ziekenboeg-voor-thuisduel-met-ado-den-haag~bbe96a78/",
+            "date": "2026-11-20T16:33:03.000Z",
+            "source": "Het Parool"
+          },
           {
             "title": "Ajax krijgt boete voor vuurwerk bij uitduel met FC Midtjylland",
             "url": "https://www.parool.nl/amsterdam/ajax-krijgt-boete-voor-vuurwerk-bij-uitduel-met-fc-midtjylland~be92b001/",
@@ -2345,18 +2357,6 @@
             "title": "Oud-Ajacied Mido (43) woog 150 kilo en kon amper bewegen, maar bij de Ajax Legends was hij weer fit: ‘Mijn gezondheid kwam in gevaar’",
             "url": "https://www.parool.nl/sport/oud-ajacied-mido-43-woog-150-kilo-en-kon-amper-bewegen-maar-bij-de-ajax-legends-was-hij-weer-fit-mijn-gezondheid-kwam-in-gevaar~bada39c6/",
             "date": "2026-11-16T18:51:05.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "‘Zijn doelpunten als Ajax Legend betekenden heel veel voor Klaas-Jan Huntelaar’",
-            "url": "https://www.parool.nl/sport/zijn-doelpunten-als-ajax-legend-betekenden-heel-veel-voor-klaas-jan-huntelaar~b3faccd4/",
-            "date": "2026-11-16T16:24:55.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Ajax doet onderzoek naar vuurwerkgooier bij 'Legends-duel'",
-            "url": "https://www.parool.nl/amsterdam/ajax-doet-onderzoek-naar-vuurwerkgooier-bij-legends-duel~bd44ea5a/",
-            "date": "2026-11-15T18:13:38.000Z",
             "source": "Het Parool"
           }
         ],

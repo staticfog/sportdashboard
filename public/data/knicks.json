@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-20T03:00:34.948Z",
+    "updatedAt": "2026-11-21T09:37:54.621Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401910021",
+        "date": "2026-11-20T01:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": false,
+        "opponent": "Minnesota Timberwolves",
+        "opponentShort": "MIN",
+        "status": "final",
+        "teamScore": 102,
+        "opponentScore": 99,
+        "outcome": "W"
+      },
       {
         "id": "espn-401910002",
         "date": "2026-11-18T00:30:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 107,
         "opponentScore": 115,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401909960",
-        "date": "2026-11-11T00:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": true,
-        "opponent": "Milwaukee Bucks",
-        "opponentShort": "MIL",
-        "status": "final",
-        "teamScore": 117,
-        "opponentScore": 85,
-        "outcome": "W"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-20T03:00:34.948Z",
+    "updatedAt": "2026-11-21T09:37:54.621Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401910021",
-        "date": "2026-11-20T01:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NBA",
-        "home": false,
-        "opponent": "Minnesota Timberwolves",
-        "opponentShort": "MIN",
-        "status": "live",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401910024",
         "date": "2026-11-22T00:30:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401909326",
+        "date": "2026-11-28T00:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NBA",
+        "home": true,
+        "opponent": "Miami Heat",
+        "opponentShort": "MIA",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-19T12:52:02.132Z",
+      "updatedAt": "2026-11-21T09:37:54.621Z",
       "table": {
         "name": "Atlantic",
         "columns": [
@@ -191,11 +191,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "8",
+              "9",
               "6",
-              ".571",
-              "4",
-              "W2"
+              ".600",
+              "3.5",
+              "W3"
             ]
           },
           {
@@ -204,11 +204,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
-              "5",
+              "6",
               "10",
-              ".333",
-              "7.5",
-              "L6"
+              ".375",
+              "7",
+              "W1"
             ]
           },
           {
@@ -218,10 +218,10 @@
             "highlight": false,
             "values": [
               "3",
-              "11",
-              ".214",
-              "9",
-              "L3"
+              "12",
+              ".200",
+              "9.5",
+              "L4"
             ]
           }
         ]
@@ -230,60 +230,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-20T03:00:34.948Z",
+    "updatedAt": "2026-11-21T09:37:54.621Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Game Discussion Thread: Knicks at Timberwolves, November 19, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-threads/91410/game-discussion-thread-knicks-at-timberwolves-november-19-2026",
-        "date": "2026-11-20T00:30:00.000Z",
+        "title": "Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark",
+        "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
+        "date": "2026-11-21T09:14:19.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Game Preview: Knicks vs Trail Blazers, November 21, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/91455/game-preview-knicks-vs-trail-blazers-november-21-2026",
+        "date": "2026-11-21T07:00:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Knicks Bulletin: ‘It’s going to be bittersweet’",
-        "url": "https://www.postingandtoasting.com/knicks-news/91408/knicks-bulletin-xxx",
-        "date": "2026-11-19T17:00:00.000Z",
+        "title": "Knicks Bulletin: ‘I was raised by Wolves’",
+        "url": "https://www.postingandtoasting.com/knicks-news/91440/knicks-bulletin-xxxx",
+        "date": "2026-11-20T15:35:00.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Game Preview: Knicks at Timberwolves, November 19, 2026",
-        "url": "https://www.postingandtoasting.com/knicks-game-previews/91417/game-preview-knicks-at-timberwolves-november-19-2026",
-        "date": "2026-11-19T14:08:18.000Z",
+        "title": "Knicks 102, Timberwolves 99: “3 straight on the road, what’s up…”",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/91451/knicks-102-timberwolves-99-3-straight-on-the-road-whats-up",
+        "date": "2026-11-20T12:11:53.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "The longest single-opponent winning streaks in Knicks history",
-        "url": "https://www.postingandtoasting.com/knicks-analysis/91360/the-longest-single-opponent-winning-streaks-in-knicks-history-nets-raptors",
-        "date": "2026-11-18T21:13:16.000Z",
+        "title": "Knicks 102, Timberwolves 99: Scenes from a beautiful game with a funky tail",
+        "url": "https://www.postingandtoasting.com/knicks-scores-results/91442/knicks-102-timberwolves-99-scenes-from-a-beautiful-game-with-a-funky-tail",
+        "date": "2026-11-20T03:58:43.000Z",
         "source": "Posting and Toasting"
       },
       {
-        "title": "Knicks Bulletin: ‘The cardiac Knicks find a way’",
-        "url": "https://www.postingandtoasting.com/knicks-news/91347/knicks-bulletin-xxx",
-        "date": "2026-11-18T15:45:00.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks 111, Raptors 102: “Let it be 15 straight”",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/91363/knicks-111-raptors-102-let-it-be-15-straight",
-        "date": "2026-11-18T12:35:11.000Z",
-        "source": "Posting and Toasting"
+        "title": "Knicks fend off the Timberwolves 102-99 behind 22 points from Karl-Anthony Towns vs. his former team",
+        "url": "http://www.espn.com/nba/recap?gameId=401910021",
+        "date": "2026-11-20T03:53:32.000Z",
+        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks hebben twee keer op rij gewonnen, beide keren uit bij Toronto Raptors, na twee nederlagen tegen Cleveland en Indiana. Met 8 zeges en 6 nederlagen staan ze derde van vijf in de Atlantic Division, op 4 wedstrijden achterstand. In het nieuws: de langste zegereeksen van de Knicks tegen één tegenstander.",
-    "hash": "cded51f438f217def3125ee2f0baf63b2b8d6386e5a631c0363123073e54f5df",
-    "generatedAt": "2026-11-20T03:00:34.948Z",
+    "text": "De Knicks wonnen drie keer op rij uit, de laatste op 20 nov met 102-99 bij Minnesota, na twee nederlagen daarvoor. Met 9 zeges en 6 nederlagen staan ze derde van vijf in de Atlantic Division, op 3,5 wedstrijd van de koploper. In het nieuws: \"3 straight on the road, what's up…\"",
+    "hash": "d859c6a58cade7358728e01abbb29d6b9e676529eb50daf24fc59be517ab1ce1",
+    "generatedAt": "2026-11-21T09:37:54.621Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-20T03:00:34.948Z",
+  "updatedAt": "2026-11-21T09:37:54.621Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-20T03:00:34.948Z",
+      "updatedAt": "2026-11-21T09:37:54.621Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -475,10 +475,10 @@
           "home": false,
           "opponent": "Minnesota Timberwolves",
           "opponentShort": "MIN",
-          "status": "live",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 102,
+          "opponentScore": 99,
+          "outcome": "W"
         },
         {
           "id": "espn-401910024",
@@ -1330,7 +1330,7 @@
     },
     "standings:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-19T12:52:02.132Z",
+      "updatedAt": "2026-11-21T09:37:54.621Z",
       "data": {
         "name": "Atlantic",
         "columns": [
@@ -1373,11 +1373,11 @@
             "short": "NY",
             "highlight": true,
             "values": [
-              "8",
+              "9",
               "6",
-              ".571",
-              "4",
-              "W2"
+              ".600",
+              "3.5",
+              "W3"
             ]
           },
           {
@@ -1386,11 +1386,11 @@
             "short": "TOR",
             "highlight": false,
             "values": [
-              "5",
+              "6",
               "10",
-              ".333",
-              "7.5",
-              "L6"
+              ".375",
+              "7",
+              "W1"
             ]
           },
           {
@@ -1400,10 +1400,10 @@
             "highlight": false,
             "values": [
               "3",
-              "11",
-              ".214",
-              "9",
-              "L3"
+              "12",
+              ".200",
+              "9.5",
+              "L4"
             ]
           }
         ]
@@ -1412,44 +1412,44 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-20T03:00:34.948Z",
+      "updatedAt": "2026-11-21T09:37:54.621Z",
       "data": {
         "items": [
           {
-            "title": "Game Discussion Thread: Knicks at Timberwolves, November 19, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-threads/91410/game-discussion-thread-knicks-at-timberwolves-november-19-2026",
-            "date": "2026-11-20T00:30:00.000Z",
+            "title": "Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark",
+            "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
+            "date": "2026-11-21T09:14:19.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Game Preview: Knicks vs Trail Blazers, November 21, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/91455/game-preview-knicks-vs-trail-blazers-november-21-2026",
+            "date": "2026-11-21T07:00:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Knicks Bulletin: ‘It’s going to be bittersweet’",
-            "url": "https://www.postingandtoasting.com/knicks-news/91408/knicks-bulletin-xxx",
-            "date": "2026-11-19T17:00:00.000Z",
+            "title": "Knicks Bulletin: ‘I was raised by Wolves’",
+            "url": "https://www.postingandtoasting.com/knicks-news/91440/knicks-bulletin-xxxx",
+            "date": "2026-11-20T15:35:00.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Game Preview: Knicks at Timberwolves, November 19, 2026",
-            "url": "https://www.postingandtoasting.com/knicks-game-previews/91417/game-preview-knicks-at-timberwolves-november-19-2026",
-            "date": "2026-11-19T14:08:18.000Z",
+            "title": "Knicks 102, Timberwolves 99: “3 straight on the road, what’s up…”",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/91451/knicks-102-timberwolves-99-3-straight-on-the-road-whats-up",
+            "date": "2026-11-20T12:11:53.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "The longest single-opponent winning streaks in Knicks history",
-            "url": "https://www.postingandtoasting.com/knicks-analysis/91360/the-longest-single-opponent-winning-streaks-in-knicks-history-nets-raptors",
-            "date": "2026-11-18T21:13:16.000Z",
+            "title": "Knicks 102, Timberwolves 99: Scenes from a beautiful game with a funky tail",
+            "url": "https://www.postingandtoasting.com/knicks-scores-results/91442/knicks-102-timberwolves-99-scenes-from-a-beautiful-game-with-a-funky-tail",
+            "date": "2026-11-20T03:58:43.000Z",
             "source": "Posting and Toasting"
           },
           {
-            "title": "Knicks Bulletin: ‘The cardiac Knicks find a way’",
-            "url": "https://www.postingandtoasting.com/knicks-news/91347/knicks-bulletin-xxx",
-            "date": "2026-11-18T15:45:00.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks 111, Raptors 102: “Let it be 15 straight”",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/91363/knicks-111-raptors-102-let-it-be-15-straight",
-            "date": "2026-11-18T12:35:11.000Z",
-            "source": "Posting and Toasting"
+            "title": "Knicks fend off the Timberwolves 102-99 behind 22 points from Karl-Anthony Towns vs. his former team",
+            "url": "http://www.espn.com/nba/recap?gameId=401910021",
+            "date": "2026-11-20T03:53:32.000Z",
+            "source": "ESPN"
           }
         ],
         "failedSources": [],
