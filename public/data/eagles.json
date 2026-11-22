@@ -217,9 +217,33 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-21T09:37:54.621Z",
+    "updatedAt": "2026-11-22T03:02:04.494Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Eagles activate RB Will Shipley, place LB Zack Baun and WR Dontayvion Wicks on Injured Reserve",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-activate-will-shipley-place-zack-baun-dontayvion-wicks-on-injured-reserve",
+        "date": "2026-11-21T21:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Steelers activate WR Roman Wilson off IR for Eagles game",
+        "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+        "date": "2026-11-21T20:54:35.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Game Preview vs. Steelers: Six storylines to follow Sunday",
+        "url": "https://www.philadelphiaeagles.com/news/game-preview-vs-steelers-six-storylines-to-follow-sunday-devonta-smith-joe-milton-aaron-rodgers-tj-watt-saquon-barkley-nfl-week-11-2026",
+        "date": "2026-11-21T16:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Edge Jonathan Greenard loves to makes plays, despite Eagles' standing",
+        "url": "https://www.espn.com/nfl/story/_/id/50541401/eagles-jonathan-greenard-loves-make-plays-record",
+        "date": "2026-11-21T11:00:15.000Z",
+        "source": "ESPN"
+      },
       {
         "title": "Steelers vs. Eagles Injury Report",
         "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-injury-report-2026-nfl-week-11-salute-to-service",
@@ -231,42 +255,18 @@
         "url": "https://www.philadelphiaeagles.com/news/2026-salute-to-service-nominee-trailblazer-rachel-washburn-s-impact-goes-beyond-the-uniforms",
         "date": "2026-11-20T05:00:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Salute to Service: Honor the Heroes Among Us",
-        "url": "https://www.philadelphiaeagles.com/news/salute-to-service-honor-the-heroes-among-us-2026-eagles-steelers-week-11",
-        "date": "2026-11-19T19:30:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Can you name the Eagles' defense from the 2024 matchup vs. Steelers?",
-        "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-trivia-quiz-2026-week-11-can-you-name-the-2024-defense",
-        "date": "2026-11-19T16:04:06.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "How to watch, stream, and listen | Steelers vs. Eagles",
-        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-steelers-vs-eagles-2026-week-11-salute-to-service",
-        "date": "2026-11-19T15:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles claim T Ajani Cornelius",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-claim-t-tackle-ajani-cornelius-nfl-week-11-steelers",
-        "date": "2026-11-18T21:52:06.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles hebben vijf keer op rij verloren, het laatst op 8 november thuis met 11-19 van de New York Giants. Met 2 zeges en 7 nederlagen staan ze laatste (4e van 4) in de NFC East, met een puntensaldo van -73. In het nieuws: de Salute to Service-nominatie van Rachel Washburn.",
-    "hash": "4f81a4e90472a3af9755a6537ff37a569589fe5235b38fab56a7cea8a5c323b9",
-    "generatedAt": "2026-11-21T09:37:54.621Z",
+    "text": "De Philadelphia Eagles verloren hun laatste vijf wedstrijden, het laatst op 8 november thuis van de New York Giants (11-19). Met 2 zeges en 7 nederlagen staan ze laatste in de NFC East (saldo -73). In het nieuws: de Eagles activeren Will Shipley en plaatsen Zack Baun en Dontayvion Wicks op injured reserve.",
+    "hash": "8fadd7f4d257b6119ea2b5e374864a43c5192a80fa24d7a60ec8c73c91c0532b",
+    "generatedAt": "2026-11-22T03:02:04.494Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-21T09:37:54.621Z",
+  "updatedAt": "2026-11-22T03:02:04.494Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,33 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-21T09:37:54.621Z",
+      "updatedAt": "2026-11-22T03:02:04.494Z",
       "data": {
         "items": [
+          {
+            "title": "Eagles activate RB Will Shipley, place LB Zack Baun and WR Dontayvion Wicks on Injured Reserve",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-activate-will-shipley-place-zack-baun-dontayvion-wicks-on-injured-reserve",
+            "date": "2026-11-21T21:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Steelers activate WR Roman Wilson off IR for Eagles game",
+            "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+            "date": "2026-11-21T20:54:35.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Game Preview vs. Steelers: Six storylines to follow Sunday",
+            "url": "https://www.philadelphiaeagles.com/news/game-preview-vs-steelers-six-storylines-to-follow-sunday-devonta-smith-joe-milton-aaron-rodgers-tj-watt-saquon-barkley-nfl-week-11-2026",
+            "date": "2026-11-21T16:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Edge Jonathan Greenard loves to makes plays, despite Eagles' standing",
+            "url": "https://www.espn.com/nfl/story/_/id/50541401/eagles-jonathan-greenard-loves-make-plays-record",
+            "date": "2026-11-21T11:00:15.000Z",
+            "source": "ESPN"
+          },
           {
             "title": "Steelers vs. Eagles Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-injury-report-2026-nfl-week-11-salute-to-service",
@@ -580,30 +604,6 @@
             "title": "2026 Salute to Service Nominee: Trailblazer Rachel Washburn's impact goes beyond the uniforms",
             "url": "https://www.philadelphiaeagles.com/news/2026-salute-to-service-nominee-trailblazer-rachel-washburn-s-impact-goes-beyond-the-uniforms",
             "date": "2026-11-20T05:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Salute to Service: Honor the Heroes Among Us",
-            "url": "https://www.philadelphiaeagles.com/news/salute-to-service-honor-the-heroes-among-us-2026-eagles-steelers-week-11",
-            "date": "2026-11-19T19:30:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Can you name the Eagles' defense from the 2024 matchup vs. Steelers?",
-            "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-trivia-quiz-2026-week-11-can-you-name-the-2024-defense",
-            "date": "2026-11-19T16:04:06.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "How to watch, stream, and listen | Steelers vs. Eagles",
-            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-steelers-vs-eagles-2026-week-11-salute-to-service",
-            "date": "2026-11-19T15:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles claim T Ajani Cornelius",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-claim-t-tackle-ajani-cornelius-nfl-week-11-steelers",
-            "date": "2026-11-18T21:52:06.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

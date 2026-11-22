@@ -177,13 +177,25 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-21T09:37:54.621Z",
+    "updatedAt": "2026-11-22T03:02:04.494Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Luis Gil, former AL Rookie of Year, cut by New York Yankees at tender deadline",
+        "title": "Gardner’s inclusion on HOF ballot reflective of legacy as an essential Yankee",
+        "url": "https://www.mlb.com/yankees/news/brett-gardner-yankees-2027-national-baseball-hall-of-fame-ballot",
+        "date": "2026-11-21T19:00:26.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "These ranked prospects got 40-man roster spots",
+        "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
+        "date": "2026-11-21T17:15:00.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
         "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-        "date": "2026-11-21T04:27:32.000Z",
+        "date": "2026-11-21T15:46:04.000Z",
         "source": "ESPN"
       },
       {
@@ -203,30 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
         "date": "2026-11-20T16:14:00.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "After busy day in office, Cashman hits field to Sleep Out for good cause",
-        "url": "https://www.mlb.com/yankees/news/brian-cashman-on-yankees-offseason-moves-sleep-out-charity-event",
-        "date": "2026-11-20T14:07:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
-        "url": "https://www.mlb.com/yankees/news/top-30-arizona-fall-league-prospects-2026",
-        "date": "2026-11-20T00:00:00.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zijn buiten het seizoen. Na twee zeges op Boston in de Wild Card Series volgde in de Division Series een 0-3 tegen Tampa Bay; in de AL East werden ze tweede (93-68). In het nieuws: Luis Gil zou niet zijn behouden en Jonathan Loáisiga zou terugkeren op een tweejarig contract.",
-    "hash": "d273bff62c883ad203c51e6be837dd24ffc41ee088f34bc1c41d904bd80e9829",
-    "generatedAt": "2026-11-21T09:37:54.621Z",
+    "text": "De Yankees zijn buiten het seizoen. Ze werden tweede in de AL East (93-68), wonnen de Wild Card Series met 2-0 van Boston en verloren daarna de Division Series met 0-3 van Tampa Bay (laatste duel op 8 okt). In het nieuws: oud-Rookie of the Year Luis Gil en reliever Cruz kregen een non-tender.",
+    "hash": "f1839255c4842b452d35c82f2beafe8afcd2d41340c4855c7ec508fb88e13218",
+    "generatedAt": "2026-11-22T03:02:04.494Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-21T09:37:54.621Z",
+  "updatedAt": "2026-11-22T03:02:04.494Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,13 +2542,25 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-21T09:37:54.621Z",
+      "updatedAt": "2026-11-22T03:02:04.494Z",
       "data": {
         "items": [
           {
-            "title": "Luis Gil, former AL Rookie of Year, cut by New York Yankees at tender deadline",
+            "title": "Gardner’s inclusion on HOF ballot reflective of legacy as an essential Yankee",
+            "url": "https://www.mlb.com/yankees/news/brett-gardner-yankees-2027-national-baseball-hall-of-fame-ballot",
+            "date": "2026-11-21T19:00:26.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "These ranked prospects got 40-man roster spots",
+            "url": "https://www.mlb.com/yankees/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
+            "date": "2026-11-21T17:15:00.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
             "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-            "date": "2026-11-21T04:27:32.000Z",
+            "date": "2026-11-21T15:46:04.000Z",
             "source": "ESPN"
           },
           {
@@ -2567,18 +2579,6 @@
             "title": "Loáisiga reunites with Yankees on 2-year deal (source)",
             "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
             "date": "2026-11-20T16:14:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "After busy day in office, Cashman hits field to Sleep Out for good cause",
-            "url": "https://www.mlb.com/yankees/news/brian-cashman-on-yankees-offseason-moves-sleep-out-charity-event",
-            "date": "2026-11-20T14:07:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
-            "url": "https://www.mlb.com/yankees/news/top-30-arizona-fall-league-prospects-2026",
-            "date": "2026-11-20T00:00:00.000Z",
             "source": "MLB.com"
           }
         ],
