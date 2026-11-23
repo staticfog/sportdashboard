@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-22T18:28:35.331Z",
+    "updatedAt": "2026-11-23T00:12:38.146Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401873076",
+        "date": "2026-11-22T18:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Pittsburgh Steelers",
+        "opponentShort": "PIT",
+        "status": "final",
+        "teamScore": 19,
+        "opponentScore": 16,
+        "outcome": "W"
+      },
       {
         "id": "espn-401873044",
         "date": "2026-11-08T18:00:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 14,
         "opponentScore": 25,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401872981",
-        "date": "2026-10-11T13:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": false,
-        "opponent": "Jacksonville Jaguars",
-        "opponentShort": "JAX",
-        "status": "final",
-        "teamScore": 17,
-        "opponentScore": 19,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-22T18:28:35.331Z",
+    "updatedAt": "2026-11-23T00:12:38.146Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401873076",
-        "date": "2026-11-22T18:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": true,
-        "opponent": "Pittsburgh Steelers",
-        "opponentShort": "PIT",
-        "status": "live",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401873080",
         "date": "2026-11-26T21:30:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401873125",
+        "date": "2026-12-19T22:00:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Seattle Seahawks",
+        "opponentShort": "SEA",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-16T01:53:17.309Z",
+      "updatedAt": "2026-11-23T00:12:38.146Z",
       "table": {
         "name": "NFC East",
         "columns": [
@@ -178,11 +178,11 @@
             "short": "DAL",
             "highlight": false,
             "values": [
-              "4",
+              "5",
               "6",
               "0",
-              ".400",
-              "+4"
+              ".455",
+              "+25"
             ]
           },
           {
@@ -204,11 +204,11 @@
             "short": "PHI",
             "highlight": true,
             "values": [
-              "2",
+              "3",
               "7",
               "0",
-              ".222",
-              "-73"
+              ".300",
+              "-70"
             ]
           }
         ]
@@ -217,60 +217,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-22T18:28:35.331Z",
+    "updatedAt": "2026-11-23T00:12:38.146Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Live Updates: Steelers vs. Eagles",
-        "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-game-recap-2026-nfl-week-11-salute-to-service-saquon-barkley-devonta-smith-aaron-rodgers-tj-watt",
-        "date": "2026-11-22T18:26:00.000Z",
+        "title": "Eagles' Riq Woolen benched after missed tackles vs. Steelers",
+        "url": "https://www.espn.com/nfl/story/_/id/50567158/eagles-riq-woolen-benched-missed-tackles-vs-steelers",
+        "date": "2026-11-23T00:05:38.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Steelers' DK Metcalf ejected for trying to poke Eagles' Cooper DeJean in eye",
+        "url": "https://www.espn.com/nfl/story/_/id/50564475/steelers-wr-dk-metcalf-ejected-game-eagles",
+        "date": "2026-11-22T23:39:52.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Spadaro: 10 takeaways from the Eagles' 19-16 victory over the Steelers",
+        "url": "https://www.philadelphiaeagles.com/news/10-takeaways-from-the-eagles-19-16-victory-over-the-steelers-saquon-barkley-jake-elliott-joe-milton-devonta-smith",
+        "date": "2026-11-22T23:00:00.000Z",
         "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Game Recap: Steelers vs. Eagles",
+        "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-game-recap-2026-nfl-week-11-salute-to-service-saquon-barkley-devonta-smith-aaron-rodgers-tj-watt",
+        "date": "2026-11-22T22:56:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Eagles snap 7-game losing streak and keep Steelers winless in Philly since 1965 with 19-16 victory",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873076",
+        "date": "2026-11-22T22:54:32.000Z",
+        "source": "ESPN"
       },
       {
         "title": "Steelers vs. Eagles Inactives",
         "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-inactives-nfl-2026-week-11-salute-to-service",
         "date": "2026-11-22T16:30:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Game Preview vs. Steelers: Six storylines to follow Sunday",
-        "url": "https://www.philadelphiaeagles.com/news/game-preview-vs-steelers-six-storylines-to-follow-sunday-devonta-smith-joe-milton-aaron-rodgers-tj-watt-saquon-barkley-nfl-week-11-2026",
-        "date": "2026-11-22T12:30:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "How to watch, stream, and listen | Steelers vs. Eagles",
-        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-steelers-vs-eagles-2026-week-11-salute-to-service",
-        "date": "2026-11-22T05:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Eagles activate RB Will Shipley, place LB Zack Baun and WR Dontayvion Wicks on Injured Reserve",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-activate-will-shipley-place-zack-baun-dontayvion-wicks-on-injured-reserve",
-        "date": "2026-11-21T21:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Steelers activate WR Roman Wilson off IR for Eagles game",
-        "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
-        "date": "2026-11-21T20:54:35.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Philadelphia Eagles verloren vijf wedstrijden op rij, het laatst op 8 november thuis van de New York Giants (11-19). Met 2 zeges en 7 nederlagen (saldo -73) staan ze laatste in de NFC East. In het nieuws: de Eagles activeren Will Shipley en zetten Zack Baun en Dontayvion Wicks op Injured Reserve.",
-    "hash": "ea59094b2cdf1bc97981d29da04ec5dc3d89ebbcfdf2018f96b7e401e53fd35b",
-    "generatedAt": "2026-11-22T18:28:35.331Z",
+    "text": "De Eagles wonnen op 22 november met 19-16 van de Steelers, na vier nederlagen op rij daarvoor. Met 3-7 staan ze laatste in de NFC East (saldo -70). In het nieuws: de zege zou een reeks van zeven nederlagen hebben doorbroken, en er wordt geschreven over het passeren van Riq Woolen.",
+    "hash": "91a4f64d7f2ca7a703d8e376e1ff1615fb4bb352cdec51a86cead348da509d2c",
+    "generatedAt": "2026-11-23T00:12:38.146Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-22T18:28:35.331Z",
+  "updatedAt": "2026-11-23T00:12:38.146Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-22T18:28:35.331Z",
+      "updatedAt": "2026-11-23T00:12:38.146Z",
       "data": [
         {
           "id": "espn-401872929",
@@ -397,10 +397,10 @@
           "home": true,
           "opponent": "Pittsburgh Steelers",
           "opponentShort": "PIT",
-          "status": "live",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
+          "status": "final",
+          "teamScore": 19,
+          "opponentScore": 16,
+          "outcome": "W"
         },
         {
           "id": "espn-401873080",
@@ -498,7 +498,7 @@
     },
     "standings:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-16T01:53:17.309Z",
+      "updatedAt": "2026-11-23T00:12:38.146Z",
       "data": {
         "name": "NFC East",
         "columns": [
@@ -528,11 +528,11 @@
             "short": "DAL",
             "highlight": false,
             "values": [
-              "4",
+              "5",
               "6",
               "0",
-              ".400",
-              "+4"
+              ".455",
+              "+25"
             ]
           },
           {
@@ -554,11 +554,11 @@
             "short": "PHI",
             "highlight": true,
             "values": [
-              "2",
+              "3",
               "7",
               "0",
-              ".222",
-              "-73"
+              ".300",
+              "-70"
             ]
           }
         ]
@@ -567,44 +567,44 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-22T18:28:35.331Z",
+      "updatedAt": "2026-11-23T00:12:38.146Z",
       "data": {
         "items": [
           {
-            "title": "Live Updates: Steelers vs. Eagles",
-            "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-game-recap-2026-nfl-week-11-salute-to-service-saquon-barkley-devonta-smith-aaron-rodgers-tj-watt",
-            "date": "2026-11-22T18:26:00.000Z",
+            "title": "Eagles' Riq Woolen benched after missed tackles vs. Steelers",
+            "url": "https://www.espn.com/nfl/story/_/id/50567158/eagles-riq-woolen-benched-missed-tackles-vs-steelers",
+            "date": "2026-11-23T00:05:38.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Steelers' DK Metcalf ejected for trying to poke Eagles' Cooper DeJean in eye",
+            "url": "https://www.espn.com/nfl/story/_/id/50564475/steelers-wr-dk-metcalf-ejected-game-eagles",
+            "date": "2026-11-22T23:39:52.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Spadaro: 10 takeaways from the Eagles' 19-16 victory over the Steelers",
+            "url": "https://www.philadelphiaeagles.com/news/10-takeaways-from-the-eagles-19-16-victory-over-the-steelers-saquon-barkley-jake-elliott-joe-milton-devonta-smith",
+            "date": "2026-11-22T23:00:00.000Z",
             "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Game Recap: Steelers vs. Eagles",
+            "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-game-recap-2026-nfl-week-11-salute-to-service-saquon-barkley-devonta-smith-aaron-rodgers-tj-watt",
+            "date": "2026-11-22T22:56:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Eagles snap 7-game losing streak and keep Steelers winless in Philly since 1965 with 19-16 victory",
+            "url": "http://www.espn.com/nfl/recap?gameId=401873076",
+            "date": "2026-11-22T22:54:32.000Z",
+            "source": "ESPN"
           },
           {
             "title": "Steelers vs. Eagles Inactives",
             "url": "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-inactives-nfl-2026-week-11-salute-to-service",
             "date": "2026-11-22T16:30:00.000Z",
             "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Game Preview vs. Steelers: Six storylines to follow Sunday",
-            "url": "https://www.philadelphiaeagles.com/news/game-preview-vs-steelers-six-storylines-to-follow-sunday-devonta-smith-joe-milton-aaron-rodgers-tj-watt-saquon-barkley-nfl-week-11-2026",
-            "date": "2026-11-22T12:30:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "How to watch, stream, and listen | Steelers vs. Eagles",
-            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-steelers-vs-eagles-2026-week-11-salute-to-service",
-            "date": "2026-11-22T05:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Eagles activate RB Will Shipley, place LB Zack Baun and WR Dontayvion Wicks on Injured Reserve",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-activate-will-shipley-place-zack-baun-dontayvion-wicks-on-injured-reserve",
-            "date": "2026-11-21T21:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Steelers activate WR Roman Wilson off IR for Eagles game",
-            "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
-            "date": "2026-11-21T20:54:35.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],

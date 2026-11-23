@@ -177,9 +177,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-22T03:02:04.494Z",
+    "updatedAt": "2026-11-23T00:12:38.146Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Sources: Luis Gil agrees to deal with Tigers after Yankees nontender",
+        "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
+        "date": "2026-11-22T22:12:52.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Who's on first? It can't be Rice AND García -- so here are some solutions",
+        "url": "https://www.mlb.com/yankees/news/ben-rice-luis-garcia-jr-yankees-first-base-options-for-2027",
+        "date": "2026-11-22T21:09:00.000Z",
+        "source": "MLB.com"
+      },
       {
         "title": "Gardner’s inclusion on HOF ballot reflective of legacy as an essential Yankee",
         "url": "https://www.mlb.com/yankees/news/brett-gardner-yankees-2027-national-baseball-hall-of-fame-ballot",
@@ -203,30 +215,18 @@
         "url": "https://www.mlb.com/yankees/news/yankees-non-tender-decisions-2026",
         "date": "2026-11-20T23:31:00.000Z",
         "source": "MLB.com"
-      },
-      {
-        "title": "Sources: Jonathan Loáisiga returning to Yankees on 2-year deal",
-        "url": "https://www.espn.com/mlb/story/_/id/50540563/sources-jonathan-loaisiga-returning-yankees-2-year-deal",
-        "date": "2026-11-20T16:52:06.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Loáisiga reunites with Yankees on 2-year deal (source)",
-        "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
-        "date": "2026-11-20T16:14:00.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zijn buiten het seizoen. Ze werden tweede in de AL East (93-68), wonnen de Wild Card Series met 2-0 van Boston en verloren daarna de Division Series met 0-3 van Tampa Bay (laatste duel op 8 okt). In het nieuws: oud-Rookie of the Year Luis Gil en reliever Cruz kregen een non-tender.",
-    "hash": "f1839255c4842b452d35c82f2beafe8afcd2d41340c4855c7ec508fb88e13218",
-    "generatedAt": "2026-11-22T03:02:04.494Z",
+    "text": "De Yankees zitten buiten het seizoen. Ze eindigden als tweede in de AL East (93-68), wonnen de Wild Card Series van Boston en verloren in de Division Series drie keer op rij van Tampa Bay. In het nieuws: Luis Gil zou na zijn nontender bij de Yankees een akkoord met de Tigers hebben bereikt.",
+    "hash": "4b81e9829cd7d79ab7ca2c274e2afbbfc2e5d96151a3e2cfeb30fc55b3cf8b1e",
+    "generatedAt": "2026-11-23T00:12:38.146Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-22T03:02:04.494Z",
+  "updatedAt": "2026-11-23T00:12:38.146Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,9 +2542,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-22T03:02:04.494Z",
+      "updatedAt": "2026-11-23T00:12:38.146Z",
       "data": {
         "items": [
+          {
+            "title": "Sources: Luis Gil agrees to deal with Tigers after Yankees nontender",
+            "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
+            "date": "2026-11-22T22:12:52.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Who's on first? It can't be Rice AND García -- so here are some solutions",
+            "url": "https://www.mlb.com/yankees/news/ben-rice-luis-garcia-jr-yankees-first-base-options-for-2027",
+            "date": "2026-11-22T21:09:00.000Z",
+            "source": "MLB.com"
+          },
           {
             "title": "Gardner’s inclusion on HOF ballot reflective of legacy as an essential Yankee",
             "url": "https://www.mlb.com/yankees/news/brett-gardner-yankees-2027-national-baseball-hall-of-fame-ballot",
@@ -2567,18 +2579,6 @@
             "title": "Yankees non-tender former Rookie of the Year Gil, reliever Cruz",
             "url": "https://www.mlb.com/yankees/news/yankees-non-tender-decisions-2026",
             "date": "2026-11-20T23:31:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Sources: Jonathan Loáisiga returning to Yankees on 2-year deal",
-            "url": "https://www.espn.com/mlb/story/_/id/50540563/sources-jonathan-loaisiga-returning-yankees-2-year-deal",
-            "date": "2026-11-20T16:52:06.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Loáisiga reunites with Yankees on 2-year deal (source)",
-            "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
-            "date": "2026-11-20T16:14:00.000Z",
             "source": "MLB.com"
           }
         ],
