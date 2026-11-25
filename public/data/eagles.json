@@ -217,56 +217,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-24T17:30:24.944Z",
+    "updatedAt": "2026-11-25T12:37:48.716Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Uar Bernard celebrated by Nigerian community leaders in Philadelphia",
-        "url": "https://www.philadelphiaeagles.com/news/uar-bernard-celebrated-by-nigerian-community-leaders-in-philadelphia",
-        "date": "2026-11-24T14:58:46.000Z",
-        "source": "philadelphiaeagles.com"
+        "title": "From practice squad to prime time: A look at Milton's big chance on Thanksgiving",
+        "url": "https://www.espn.com/nfl/story/_/id/50583319/joe-milton-build-momentum-thanksgiving-start-dallas-cowboys",
+        "date": "2026-11-25T11:00:11.000Z",
+        "source": "ESPN"
       },
       {
         "title": "Eagles at Cowboys Injury Report",
         "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-injury-report-2026-nfl-week-12-thanksgiving",
-        "date": "2026-11-23T23:30:00.000Z",
+        "date": "2026-11-24T23:00:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Toyota champions our nation's heroes during Salute to Service Week",
-        "url": "https://www.philadelphiaeagles.com/news/toyota-champions-our-nation-heroes-during-salute-to-service-week-2026-steelers-eagles",
-        "date": "2026-11-23T23:00:00.000Z",
+        "title": "Eagles sign LB Chance Campbell to active roster",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-lb-chance-campbell-to-active-roster-week-12-2026",
+        "date": "2026-11-24T21:08:08.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "AAA Official Review: The Eagles' defensive depth makes its presence felt",
-        "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-the-eagles-defensive-depth-makes-its-presence-felt-steelers-week-11-nfl",
-        "date": "2026-11-23T20:30:00.000Z",
+        "title": "Three former Eagles advance in Pro Football Hall of Fame selection process",
+        "url": "https://www.philadelphiaeagles.com/news/three-former-eagles-advance-in-pro-football-hall-of-fame-selection-process-maxie-baughan-lesean-mccoy-ricky-watters",
+        "date": "2026-11-24T21:00:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Joe Milton on his return to Dallas: 'Just going to play another football game'",
-        "url": "https://www.philadelphiaeagles.com/news/joe-milton-on-his-return-to-dallas-just-going-to-play-another-football-game",
-        "date": "2026-11-23T17:00:00.000Z",
+        "title": "How to watch, stream, and listen | Eagles at Cowboys",
+        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
+        "date": "2026-11-24T19:00:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Spadaro: 10 takeaways from the Eagles' 19-16 victory over the Steelers",
-        "url": "https://www.philadelphiaeagles.com/news/10-takeaways-from-the-eagles-19-16-victory-over-the-steelers-saquon-barkley-jake-elliott-joe-milton-devonta-smith",
-        "date": "2026-11-22T23:00:00.000Z",
+        "title": "Uar Bernard celebrated by Nigerian community leaders in Philadelphia",
+        "url": "https://www.philadelphiaeagles.com/news/uar-bernard-celebrated-by-nigerian-community-leaders-in-philadelphia",
+        "date": "2026-11-24T14:58:46.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Eagles doorbraken op 22 november een reeks van vier nederlagen met een thuiszege van 19-16 op de Pittsburgh Steelers. In de NFC East staan ze met 3-7 en een puntensaldo van -70 op de laatste plaats. In het nieuws: een analyse over de verdedigende diepte van de Eagles.",
-    "hash": "aded4159c38766e525d2c846a9522acdccd2b437e97b41390f1d8bf4ba413ebf",
-    "generatedAt": "2026-11-24T17:30:24.944Z",
+    "text": "De Eagles doorbraken op 22 november een reeks van vier nederlagen met een 19-16 thuiszege op de Steelers. In de NFC East staan ze laatste (4e van 4) met 3-7 en een puntensaldo van -70. In het nieuws: \"Eagles sign LB Chance Campbell to active roster\".",
+    "hash": "f128c948b80efb8810f30d74370dc5386800a6bb9f9e8b3d40d8563808561ed9",
+    "generatedAt": "2026-11-25T12:37:48.716Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-24T17:30:24.944Z",
+  "updatedAt": "2026-11-25T12:37:48.716Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,43 +567,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-24T17:30:24.944Z",
+      "updatedAt": "2026-11-25T12:37:48.716Z",
       "data": {
         "items": [
           {
-            "title": "Uar Bernard celebrated by Nigerian community leaders in Philadelphia",
-            "url": "https://www.philadelphiaeagles.com/news/uar-bernard-celebrated-by-nigerian-community-leaders-in-philadelphia",
-            "date": "2026-11-24T14:58:46.000Z",
-            "source": "philadelphiaeagles.com"
+            "title": "From practice squad to prime time: A look at Milton's big chance on Thanksgiving",
+            "url": "https://www.espn.com/nfl/story/_/id/50583319/joe-milton-build-momentum-thanksgiving-start-dallas-cowboys",
+            "date": "2026-11-25T11:00:11.000Z",
+            "source": "ESPN"
           },
           {
             "title": "Eagles at Cowboys Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-injury-report-2026-nfl-week-12-thanksgiving",
-            "date": "2026-11-23T23:30:00.000Z",
+            "date": "2026-11-24T23:00:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Toyota champions our nation's heroes during Salute to Service Week",
-            "url": "https://www.philadelphiaeagles.com/news/toyota-champions-our-nation-heroes-during-salute-to-service-week-2026-steelers-eagles",
-            "date": "2026-11-23T23:00:00.000Z",
+            "title": "Eagles sign LB Chance Campbell to active roster",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-lb-chance-campbell-to-active-roster-week-12-2026",
+            "date": "2026-11-24T21:08:08.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "AAA Official Review: The Eagles' defensive depth makes its presence felt",
-            "url": "https://www.philadelphiaeagles.com/news/aaa-official-review-the-eagles-defensive-depth-makes-its-presence-felt-steelers-week-11-nfl",
-            "date": "2026-11-23T20:30:00.000Z",
+            "title": "Three former Eagles advance in Pro Football Hall of Fame selection process",
+            "url": "https://www.philadelphiaeagles.com/news/three-former-eagles-advance-in-pro-football-hall-of-fame-selection-process-maxie-baughan-lesean-mccoy-ricky-watters",
+            "date": "2026-11-24T21:00:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Joe Milton on his return to Dallas: 'Just going to play another football game'",
-            "url": "https://www.philadelphiaeagles.com/news/joe-milton-on-his-return-to-dallas-just-going-to-play-another-football-game",
-            "date": "2026-11-23T17:00:00.000Z",
+            "title": "How to watch, stream, and listen | Eagles at Cowboys",
+            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
+            "date": "2026-11-24T19:00:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Spadaro: 10 takeaways from the Eagles' 19-16 victory over the Steelers",
-            "url": "https://www.philadelphiaeagles.com/news/10-takeaways-from-the-eagles-19-16-victory-over-the-steelers-saquon-barkley-jake-elliott-joe-milton-devonta-smith",
-            "date": "2026-11-22T23:00:00.000Z",
+            "title": "Uar Bernard celebrated by Nigerian community leaders in Philadelphia",
+            "url": "https://www.philadelphiaeagles.com/news/uar-bernard-celebrated-by-nigerian-community-leaders-in-philadelphia",
+            "date": "2026-11-24T14:58:46.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

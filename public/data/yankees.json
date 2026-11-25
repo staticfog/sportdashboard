@@ -177,13 +177,19 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-24T17:30:24.944Z",
+    "updatedAt": "2026-11-25T12:37:48.716Z",
     "failedSources": [],
     "items": [
       {
+        "title": "Hard-hitting prospect among Fall League's top Statcast performers",
+        "url": "https://www.mlb.com/yankees/news/arizona-fall-league-statcast-final-leaders-2026",
+        "date": "2026-11-25T01:15:00.000Z",
+        "source": "MLB.com"
+      },
+      {
         "title": "Yankees reach 1-year deal with lefty reliever Suter",
         "url": "https://www.mlb.com/yankees/news/brent-suter-yankees-contract",
-        "date": "2026-11-24T16:48:00.000Z",
+        "date": "2026-11-24T20:21:00.000Z",
         "source": "MLB.com"
       },
       {
@@ -209,24 +215,18 @@
         "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
         "date": "2026-11-23T18:53:18.000Z",
         "source": "ESPN"
-      },
-      {
-        "title": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
-        "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-        "date": "2026-11-23T18:53:07.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De New York Yankees zitten buiten het seizoen. Ze eindigden als tweede in de AL East (93-68), wonnen beide Wild Card-duels van de Boston Red Sox en verloren daarna drie keer van de Tampa Bay Rays in de Division Series. In het nieuws: een eenjarig contract met reliever Suter en een terugkeer van Hill.",
-    "hash": "a457f2cb053997f39883509deb41fd2f00b52675aa1b71c248854a89e5b34bec",
-    "generatedAt": "2026-11-24T17:30:24.944Z",
+    "text": "De Yankees zitten buiten het seizoen. Ze eindigden als tweede in de AL East (93-68), wonnen de Wild Card Series twee keer van Boston en verloren daarna drie keer van Tampa Bay in de Division Series. In het nieuws: een eenjarig contract met reliever Suter en een terugkeer van Hill.",
+    "hash": "d9a9229cff9e4812a6bf62ca015e88f6e69db931438811348cb6a6669948c520",
+    "generatedAt": "2026-11-25T12:37:48.716Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-24T17:30:24.944Z",
+  "updatedAt": "2026-11-25T12:37:48.716Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,13 +2542,19 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-24T17:30:24.944Z",
+      "updatedAt": "2026-11-25T12:37:48.716Z",
       "data": {
         "items": [
           {
+            "title": "Hard-hitting prospect among Fall League's top Statcast performers",
+            "url": "https://www.mlb.com/yankees/news/arizona-fall-league-statcast-final-leaders-2026",
+            "date": "2026-11-25T01:15:00.000Z",
+            "source": "MLB.com"
+          },
+          {
             "title": "Yankees reach 1-year deal with lefty reliever Suter",
             "url": "https://www.mlb.com/yankees/news/brent-suter-yankees-contract",
-            "date": "2026-11-24T16:48:00.000Z",
+            "date": "2026-11-24T20:21:00.000Z",
             "source": "MLB.com"
           },
           {
@@ -2573,12 +2579,6 @@
             "title": "Sources: Luis Gil agrees to deal with Tigers after Yankees nontender",
             "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
             "date": "2026-11-23T18:53:18.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
-            "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-            "date": "2026-11-23T18:53:07.000Z",
             "source": "ESPN"
           }
         ],

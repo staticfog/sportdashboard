@@ -941,9 +941,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-24T17:30:24.944Z",
+    "updatedAt": "2026-11-25T12:37:48.716Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Heeft Ajax de beste jeugdopleiding? Veel buitenlanders roepen nog altijd klakkeloos ja, veel Nederlanders even klakkeloos nee",
+        "url": "https://www.parool.nl/columns-opinie/heeft-ajax-de-beste-jeugdopleiding-veel-buitenlanders-roepen-nog-altijd-klakkeloos-ja-veel-nederlanders-even-klakkeloos-nee~bbd9def3/",
+        "date": "2026-11-25T11:23:33.000Z",
+        "source": "Het Parool"
+      },
+      {
+        "title": "ABN Amro officieel nieuwe shirtsponsor Ajax: ‘Rijke geschiedenis is fundament voor nieuw begin’",
+        "url": "https://www.parool.nl/sport/abn-amro-officieel-nieuwe-shirtsponsor-ajax-rijke-geschiedenis-is-fundament-voor-nieuw-begin~b6fca729/",
+        "date": "2026-11-25T09:59:23.000Z",
+        "source": "Het Parool"
+      },
       {
         "title": "Ajax heeft ABN Amro, PSV Brainport – waarom kunnen de havenbaronnen dat bij Feyenoord niet overtoepen?",
         "url": "https://www.parool.nl/sport/ajax-heeft-abn-amro-psv-brainport-waarom-kunnen-de-havenbaronnen-dat-bij-feyenoord-niet-overtoepen~bf0a8931/",
@@ -967,30 +979,18 @@
         "url": "https://www.parool.nl/ajax/abn-amro-keert-na-bijna-twintig-jaar-terug-als-hoofdsponsor-van-ajax~b7961e2a/",
         "date": "2026-11-23T22:56:00.000Z",
         "source": "Het Parool"
-      },
-      {
-        "title": "‘Tegen Feyenoord kan de breedte van Ajax een cruciale factor worden’",
-        "url": "https://www.parool.nl/sport/tegen-feyenoord-kan-de-breedte-van-ajax-een-cruciale-factor-worden~b9b91aa4/",
-        "date": "2026-11-23T13:00:00.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "‘Zijn actieradius kent geen grenzen’: de vraag is door wie Ajax de geblesseerde Jorthy Mokio (18) gaat vervangen",
-        "url": "https://www.parool.nl/sport/zijn-actieradius-kent-geen-grenzen-de-vraag-is-door-wie-ajax-de-geblesseerde-jorthy-mokio-18-gaat-vervangen~bd7c9c38/",
-        "date": "2026-11-22T18:29:00.000Z",
-        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax is in de laatste vijf wedstrijden ongeslagen, met vier zeges en een gelijkspel. In de Eredivisie staat de ploeg tweede met 28 punten, in de Conference League elfde. In het nieuws: ABN Amro keert terug als hoofdsponsor, en er wordt geschreven over een kuitbeenbreuk bij Jorthy Mokio.",
-    "hash": "92e455494010cebbb27d959ba95a25f091adbf45c02f46e37441928b2c58102e",
-    "generatedAt": "2026-11-24T17:30:24.944Z",
+    "text": "Ajax is ongeslagen in de laatste vijf duels: vier zeges en één gelijkspel, met als uitschieter een 6-1 bij FC Midtjylland. In de Eredivisie staat de club tweede met 28 punten, in de Conference League elfde. In het nieuws: ABN Amro wordt de nieuwe shirtsponsor en Jorthy Mokio zou maanden uitvallen met een kuitbeenbreuk.",
+    "hash": "9e90727123e40d7f3dc3f92ecfacd322a3dc23439c859b852b8d86babd9efa59",
+    "generatedAt": "2026-11-25T12:37:48.716Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-24T17:30:24.944Z",
+  "updatedAt": "2026-11-25T12:37:48.716Z",
   "sections": {
     "games:espn-soccer/ned.1-139": {
       "status": "ok",
@@ -1526,276 +1526,6 @@
       ],
       "error": null
     },
-    "standings:espn-soccer/ned.1-139": {
-      "status": "ok",
-      "updatedAt": "2026-11-22T18:28:35.331Z",
-      "data": {
-        "name": "Eredivisie",
-        "columns": [
-          "GS",
-          "W",
-          "G",
-          "V",
-          "DS",
-          "P"
-        ],
-        "rows": [
-          {
-            "rank": 1,
-            "team": "PSV Eindhoven",
-            "short": "PSV",
-            "highlight": false,
-            "values": [
-              "13",
-              "9",
-              "2",
-              "2",
-              "+28",
-              "29"
-            ]
-          },
-          {
-            "rank": 2,
-            "team": "Ajax Amsterdam",
-            "short": "AJA",
-            "highlight": true,
-            "values": [
-              "13",
-              "8",
-              "4",
-              "1",
-              "+20",
-              "28"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "FC Twente",
-            "short": "TWE",
-            "highlight": false,
-            "values": [
-              "13",
-              "8",
-              "3",
-              "2",
-              "+19",
-              "27"
-            ]
-          },
-          {
-            "rank": 4,
-            "team": "AZ Alkmaar",
-            "short": "AZ",
-            "highlight": false,
-            "values": [
-              "13",
-              "8",
-              "2",
-              "3",
-              "+12",
-              "26"
-            ]
-          },
-          {
-            "rank": 5,
-            "team": "Feyenoord Rotterdam",
-            "short": "FEY",
-            "highlight": false,
-            "values": [
-              "13",
-              "7",
-              "4",
-              "2",
-              "+18",
-              "25"
-            ]
-          },
-          {
-            "rank": 6,
-            "team": "Heerenveen",
-            "short": "HEE",
-            "highlight": false,
-            "values": [
-              "13",
-              "7",
-              "3",
-              "3",
-              "+10",
-              "24"
-            ]
-          },
-          {
-            "rank": 7,
-            "team": "Fortuna Sittard",
-            "short": "FOR",
-            "highlight": false,
-            "values": [
-              "13",
-              "6",
-              "5",
-              "2",
-              "+1",
-              "23"
-            ]
-          },
-          {
-            "rank": 8,
-            "team": "SC Cambuur",
-            "short": "CAM",
-            "highlight": false,
-            "values": [
-              "13",
-              "5",
-              "3",
-              "5",
-              "-1",
-              "18"
-            ]
-          },
-          {
-            "rank": 9,
-            "team": "Go Ahead Eagles",
-            "short": "GAE",
-            "highlight": false,
-            "values": [
-              "13",
-              "4",
-              "5",
-              "4",
-              "-4",
-              "17"
-            ]
-          },
-          {
-            "rank": 10,
-            "team": "FC Groningen",
-            "short": "GRO",
-            "highlight": false,
-            "values": [
-              "13",
-              "4",
-              "3",
-              "6",
-              "-1",
-              "15"
-            ]
-          },
-          {
-            "rank": 11,
-            "team": "PEC Zwolle",
-            "short": "PEC",
-            "highlight": false,
-            "values": [
-              "13",
-              "4",
-              "3",
-              "6",
-              "-9",
-              "15"
-            ]
-          },
-          {
-            "rank": 12,
-            "team": "NEC Nijmegen",
-            "short": "NEC",
-            "highlight": false,
-            "values": [
-              "13",
-              "3",
-              "5",
-              "5",
-              "-4",
-              "14"
-            ]
-          },
-          {
-            "rank": 13,
-            "team": "Excelsior",
-            "short": "EXC",
-            "highlight": false,
-            "values": [
-              "13",
-              "4",
-              "2",
-              "7",
-              "-12",
-              "14"
-            ]
-          },
-          {
-            "rank": 14,
-            "team": "Sparta Rotterdam",
-            "short": "SPA",
-            "highlight": false,
-            "values": [
-              "13",
-              "3",
-              "3",
-              "7",
-              "-12",
-              "12"
-            ]
-          },
-          {
-            "rank": 15,
-            "team": "FC Utrecht",
-            "short": "UTR",
-            "highlight": false,
-            "values": [
-              "13",
-              "3",
-              "3",
-              "7",
-              "-14",
-              "12"
-            ]
-          },
-          {
-            "rank": 16,
-            "team": "Telstar",
-            "short": "TEL",
-            "highlight": false,
-            "values": [
-              "13",
-              "2",
-              "4",
-              "7",
-              "-9",
-              "10"
-            ]
-          },
-          {
-            "rank": 17,
-            "team": "ADO Den Haag",
-            "short": "ADO",
-            "highlight": false,
-            "values": [
-              "13",
-              "2",
-              "3",
-              "8",
-              "-12",
-              "9"
-            ]
-          },
-          {
-            "rank": 18,
-            "team": "Willem II",
-            "short": "WIL",
-            "highlight": false,
-            "values": [
-              "13",
-              "0",
-              "3",
-              "10",
-              "-30",
-              "3"
-            ]
-          }
-        ]
-      },
-      "error": null
-    },
     "standings:espn-soccer/uefa.europa.conf-139": {
       "status": "ok",
       "updatedAt": "2026-11-06T09:17:08.738Z",
@@ -2318,11 +2048,293 @@
       },
       "error": null
     },
+    "standings:espn-soccer/ned.1-139": {
+      "status": "ok",
+      "updatedAt": "2026-11-22T18:28:35.331Z",
+      "data": {
+        "name": "Eredivisie",
+        "columns": [
+          "GS",
+          "W",
+          "G",
+          "V",
+          "DS",
+          "P"
+        ],
+        "rows": [
+          {
+            "rank": 1,
+            "team": "PSV Eindhoven",
+            "short": "PSV",
+            "highlight": false,
+            "values": [
+              "13",
+              "9",
+              "2",
+              "2",
+              "+28",
+              "29"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "13",
+              "8",
+              "4",
+              "1",
+              "+20",
+              "28"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "FC Twente",
+            "short": "TWE",
+            "highlight": false,
+            "values": [
+              "13",
+              "8",
+              "3",
+              "2",
+              "+19",
+              "27"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "AZ Alkmaar",
+            "short": "AZ",
+            "highlight": false,
+            "values": [
+              "13",
+              "8",
+              "2",
+              "3",
+              "+12",
+              "26"
+            ]
+          },
+          {
+            "rank": 5,
+            "team": "Feyenoord Rotterdam",
+            "short": "FEY",
+            "highlight": false,
+            "values": [
+              "13",
+              "7",
+              "4",
+              "2",
+              "+18",
+              "25"
+            ]
+          },
+          {
+            "rank": 6,
+            "team": "Heerenveen",
+            "short": "HEE",
+            "highlight": false,
+            "values": [
+              "13",
+              "7",
+              "3",
+              "3",
+              "+10",
+              "24"
+            ]
+          },
+          {
+            "rank": 7,
+            "team": "Fortuna Sittard",
+            "short": "FOR",
+            "highlight": false,
+            "values": [
+              "13",
+              "6",
+              "5",
+              "2",
+              "+1",
+              "23"
+            ]
+          },
+          {
+            "rank": 8,
+            "team": "SC Cambuur",
+            "short": "CAM",
+            "highlight": false,
+            "values": [
+              "13",
+              "5",
+              "3",
+              "5",
+              "-1",
+              "18"
+            ]
+          },
+          {
+            "rank": 9,
+            "team": "Go Ahead Eagles",
+            "short": "GAE",
+            "highlight": false,
+            "values": [
+              "13",
+              "4",
+              "5",
+              "4",
+              "-4",
+              "17"
+            ]
+          },
+          {
+            "rank": 10,
+            "team": "FC Groningen",
+            "short": "GRO",
+            "highlight": false,
+            "values": [
+              "13",
+              "4",
+              "3",
+              "6",
+              "-1",
+              "15"
+            ]
+          },
+          {
+            "rank": 11,
+            "team": "PEC Zwolle",
+            "short": "PEC",
+            "highlight": false,
+            "values": [
+              "13",
+              "4",
+              "3",
+              "6",
+              "-9",
+              "15"
+            ]
+          },
+          {
+            "rank": 12,
+            "team": "NEC Nijmegen",
+            "short": "NEC",
+            "highlight": false,
+            "values": [
+              "13",
+              "3",
+              "5",
+              "5",
+              "-4",
+              "14"
+            ]
+          },
+          {
+            "rank": 13,
+            "team": "Excelsior",
+            "short": "EXC",
+            "highlight": false,
+            "values": [
+              "13",
+              "4",
+              "2",
+              "7",
+              "-12",
+              "14"
+            ]
+          },
+          {
+            "rank": 14,
+            "team": "Sparta Rotterdam",
+            "short": "SPA",
+            "highlight": false,
+            "values": [
+              "13",
+              "3",
+              "3",
+              "7",
+              "-12",
+              "12"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "FC Utrecht",
+            "short": "UTR",
+            "highlight": false,
+            "values": [
+              "13",
+              "3",
+              "3",
+              "7",
+              "-14",
+              "12"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Telstar",
+            "short": "TEL",
+            "highlight": false,
+            "values": [
+              "13",
+              "2",
+              "4",
+              "7",
+              "-9",
+              "10"
+            ]
+          },
+          {
+            "rank": 17,
+            "team": "ADO Den Haag",
+            "short": "ADO",
+            "highlight": false,
+            "values": [
+              "13",
+              "2",
+              "3",
+              "8",
+              "-12",
+              "9"
+            ]
+          },
+          {
+            "rank": 18,
+            "team": "Willem II",
+            "short": "WIL",
+            "highlight": false,
+            "values": [
+              "13",
+              "0",
+              "3",
+              "10",
+              "-30",
+              "3"
+            ]
+          }
+        ]
+      },
+      "error": null
+    },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-24T17:30:24.944Z",
+      "updatedAt": "2026-11-25T12:37:48.716Z",
       "data": {
         "items": [
+          {
+            "title": "Heeft Ajax de beste jeugdopleiding? Veel buitenlanders roepen nog altijd klakkeloos ja, veel Nederlanders even klakkeloos nee",
+            "url": "https://www.parool.nl/columns-opinie/heeft-ajax-de-beste-jeugdopleiding-veel-buitenlanders-roepen-nog-altijd-klakkeloos-ja-veel-nederlanders-even-klakkeloos-nee~bbd9def3/",
+            "date": "2026-11-25T11:23:33.000Z",
+            "source": "Het Parool"
+          },
+          {
+            "title": "ABN Amro officieel nieuwe shirtsponsor Ajax: ‘Rijke geschiedenis is fundament voor nieuw begin’",
+            "url": "https://www.parool.nl/sport/abn-amro-officieel-nieuwe-shirtsponsor-ajax-rijke-geschiedenis-is-fundament-voor-nieuw-begin~b6fca729/",
+            "date": "2026-11-25T09:59:23.000Z",
+            "source": "Het Parool"
+          },
           {
             "title": "Ajax heeft ABN Amro, PSV Brainport – waarom kunnen de havenbaronnen dat bij Feyenoord niet overtoepen?",
             "url": "https://www.parool.nl/sport/ajax-heeft-abn-amro-psv-brainport-waarom-kunnen-de-havenbaronnen-dat-bij-feyenoord-niet-overtoepen~bf0a8931/",
@@ -2345,18 +2357,6 @@
             "title": "ABN Amro keert na bijna twintig jaar terug als hoofdsponsor van Ajax",
             "url": "https://www.parool.nl/ajax/abn-amro-keert-na-bijna-twintig-jaar-terug-als-hoofdsponsor-van-ajax~b7961e2a/",
             "date": "2026-11-23T22:56:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "‘Tegen Feyenoord kan de breedte van Ajax een cruciale factor worden’",
-            "url": "https://www.parool.nl/sport/tegen-feyenoord-kan-de-breedte-van-ajax-een-cruciale-factor-worden~b9b91aa4/",
-            "date": "2026-11-23T13:00:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "‘Zijn actieradius kent geen grenzen’: de vraag is door wie Ajax de geblesseerde Jorthy Mokio (18) gaat vervangen",
-            "url": "https://www.parool.nl/sport/zijn-actieradius-kent-geen-grenzen-de-vraag-is-door-wie-ajax-de-geblesseerde-jorthy-mokio-18-gaat-vervangen~bd7c9c38/",
-            "date": "2026-11-22T18:29:00.000Z",
             "source": "Het Parool"
           }
         ],
