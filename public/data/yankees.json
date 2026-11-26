@@ -177,9 +177,15 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-26T04:56:01.766Z",
+    "updatedAt": "2026-11-26T23:44:58.348Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Loáisiga reunites with Yankees on 2-year deal",
+        "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
+        "date": "2026-11-26T19:07:00.000Z",
+        "source": "MLB.com"
+      },
       {
         "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
         "url": "https://www.mlb.com/yankees/news/things-to-be-thankful-for-from-2026-mlb-season",
@@ -209,24 +215,18 @@
         "url": "https://www.espn.com/mlb/story/_/id/50594977/paul-goldschmidt-happy-reunite-andy-green-mets",
         "date": "2026-11-25T17:44:47.000Z",
         "source": "ESPN"
-      },
-      {
-        "title": "Former Orioles manager Hyde to be Yankees' bench coach (source)",
-        "url": "https://www.mlb.com/yankees/news/yankees-hire-brandon-hyde-as-bench-coach",
-        "date": "2026-11-25T17:43:24.000Z",
-        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Ze eindigden als tweede in de AL East (93-68) en wonnen de Wild Card Series met twee zeges tegen Boston, maar gingen in de Division Series met 0-3 onderuit tegen Tampa Bay. In het nieuws: de Yankees zouden ex-Orioles-coach Hyde als bench coach aantrekken.",
-    "hash": "a136d09d08d4a66c2d15c0ebdcf4bf22a8c0f369bab02ac26cf08a1b9a3f061c",
-    "generatedAt": "2026-11-26T04:56:01.766Z",
+    "text": "De Yankees zitten buiten het seizoen. Na twee zeges in de Wild Card Series tegen Boston eindigde de postseason in de AL Division Series tegen Tampa Bay (3-4 op 8 okt). In de AL East werden ze tweede met 93-68. In het nieuws: Loáisiga keert terug met een tweejarig contract en Hyde wordt bench coach.",
+    "hash": "164dcae0027efee5fb61d92b653016ab9390616277d730076facb758963fccef",
+    "generatedAt": "2026-11-26T23:44:58.348Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-26T04:56:01.766Z",
+  "updatedAt": "2026-11-26T23:44:58.348Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,9 +2542,15 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-26T04:56:01.766Z",
+      "updatedAt": "2026-11-26T23:44:58.348Z",
       "data": {
         "items": [
+          {
+            "title": "Loáisiga reunites with Yankees on 2-year deal",
+            "url": "https://www.mlb.com/yankees/news/jonathan-loaisiga-yankees-contract-2026",
+            "date": "2026-11-26T19:07:00.000Z",
+            "source": "MLB.com"
+          },
           {
             "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
             "url": "https://www.mlb.com/yankees/news/things-to-be-thankful-for-from-2026-mlb-season",
@@ -2574,12 +2580,6 @@
             "url": "https://www.espn.com/mlb/story/_/id/50594977/paul-goldschmidt-happy-reunite-andy-green-mets",
             "date": "2026-11-25T17:44:47.000Z",
             "source": "ESPN"
-          },
-          {
-            "title": "Former Orioles manager Hyde to be Yankees' bench coach (source)",
-            "url": "https://www.mlb.com/yankees/news/yankees-hire-brandon-hyde-as-bench-coach",
-            "date": "2026-11-25T17:43:24.000Z",
-            "source": "MLB.com"
           }
         ],
         "failedSources": [],

@@ -16,9 +16,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-22T18:28:35.331Z",
+    "updatedAt": "2026-11-26T23:44:58.348Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401915815",
+        "date": "2026-11-26T17:45:00.000Z",
+        "timeKnown": true,
+        "competition": "Conference League",
+        "home": true,
+        "opponent": "FC Thun",
+        "opponentShort": "THUN",
+        "status": "final",
+        "teamScore": 4,
+        "opponentScore": 0,
+        "outcome": "W"
+      },
       {
         "id": "espn-401875547",
         "date": "2026-11-22T13:30:00.000Z",
@@ -70,40 +83,14 @@
         "teamScore": 1,
         "opponentScore": 0,
         "outcome": "W"
-      },
-      {
-        "id": "espn-401875567",
-        "date": "2026-10-25T15:45:00.000Z",
-        "timeKnown": true,
-        "competition": "Eredivisie",
-        "home": false,
-        "opponent": "Sparta Rotterdam",
-        "opponentShort": "SPA",
-        "status": "final",
-        "teamScore": 2,
-        "opponentScore": 1,
-        "outcome": "W"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-22T18:28:35.331Z",
+    "updatedAt": "2026-11-26T23:44:58.348Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401915815",
-        "date": "2026-11-26T17:45:00.000Z",
-        "timeKnown": true,
-        "competition": "Conference League",
-        "home": true,
-        "opponent": "FC Thun",
-        "opponentShort": "THUN",
-        "status": "scheduled",
-        "teamScore": null,
-        "opponentScore": null,
-        "outcome": null
-      },
       {
         "id": "espn-401875535",
         "date": "2026-11-29T13:30:00.000Z",
@@ -138,6 +125,19 @@
         "home": false,
         "opponent": "Sint-Truidense",
         "opponentShort": "STVV",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
+      },
+      {
+        "id": "espn-401875520",
+        "date": "2026-12-13T19:00:00.000Z",
+        "timeKnown": true,
+        "competition": "Eredivisie",
+        "home": true,
+        "opponent": "SC Cambuur",
+        "opponentShort": "CAM",
         "status": "scheduled",
         "teamScore": null,
         "opponentScore": null,
@@ -419,7 +419,7 @@
     {
       "label": "Conference League",
       "status": "ok",
-      "updatedAt": "2026-11-06T09:17:08.738Z",
+      "updatedAt": "2026-11-26T23:44:58.348Z",
       "table": {
         "name": "Conference League",
         "columns": [
@@ -433,506 +433,506 @@
         "rows": [
           {
             "rank": 1,
-            "team": "FC Lugano",
-            "short": "LUG",
-            "highlight": false,
-            "values": [
-              "3",
-              "3",
-              "0",
-              "0",
-              "+7",
-              "9"
-            ]
-          },
-          {
-            "rank": 2,
-            "team": "Panathinaikos",
-            "short": "PAO",
-            "highlight": false,
-            "values": [
-              "3",
-              "3",
-              "0",
-              "0",
-              "+6",
-              "9"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "FC Twente",
-            "short": "TWE",
-            "highlight": false,
-            "values": [
-              "3",
-              "3",
-              "0",
-              "0",
-              "+6",
-              "9"
-            ]
-          },
-          {
-            "rank": 4,
             "team": "AS Monaco",
             "short": "MON",
             "highlight": false,
             "values": [
-              "3",
-              "3",
+              "4",
+              "4",
               "0",
               "0",
-              "+6",
+              "+7",
+              "12"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Brighton & Hove Albion",
+            "short": "BHA",
+            "highlight": false,
+            "values": [
+              "4",
+              "3",
+              "1",
+              "0",
+              "+9",
+              "10"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "Sint-Truidense",
+            "short": "STVV",
+            "highlight": false,
+            "values": [
+              "4",
+              "3",
+              "1",
+              "0",
+              "+5",
+              "10"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "4",
+              "3",
+              "0",
+              "1",
+              "+10",
               "9"
             ]
           },
           {
             "rank": 5,
-            "team": "Brighton & Hove Albion",
-            "short": "BHA",
+            "team": "Panathinaikos",
+            "short": "PAO",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
+              "1",
               "+5",
-              "7"
+              "9"
             ]
           },
           {
             "rank": 6,
-            "team": "SK Brann",
-            "short": "SKBR",
+            "team": "FC Lugano",
+            "short": "LUG",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
-              "+4",
-              "7"
+              "1",
+              "+5",
+              "9"
             ]
           },
           {
             "rank": 7,
-            "team": "F.C. København",
-            "short": "KBH",
+            "team": "FC Twente",
+            "short": "TWE",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
-              "+4",
-              "7"
+              "1",
+              "+5",
+              "9"
             ]
           },
           {
             "rank": 8,
-            "team": "CSU Craiova",
-            "short": "UCRA",
+            "team": "Trabzonspor",
+            "short": "TRAB",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
+              "1",
               "+4",
-              "7"
+              "9"
             ]
           },
           {
             "rank": 9,
-            "team": "Mjällby AIF",
-            "short": "MJA",
+            "team": "SC Freiburg",
+            "short": "SCF",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
+              "0",
               "1",
               "0",
-              "+4",
-              "7"
+              "9"
             ]
           },
           {
             "rank": 10,
-            "team": "Sint-Truidense",
-            "short": "STVV",
+            "team": "Braga",
+            "short": "SCB",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
               "1",
-              "0",
+              "1",
               "+3",
               "7"
             ]
           },
           {
             "rank": 11,
-            "team": "Ajax Amsterdam",
-            "short": "AJA",
-            "highlight": true,
+            "team": "Mjällby AIF",
+            "short": "MJA",
+            "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
-              "0",
               "1",
-              "+6",
-              "6"
+              "1",
+              "+3",
+              "7"
             ]
           },
           {
             "rank": 12,
-            "team": "Trabzonspor",
-            "short": "TRAB",
+            "team": "F.C. København",
+            "short": "KBH",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
-              "0",
               "1",
-              "+3",
-              "6"
+              "1",
+              "+2",
+              "7"
             ]
           },
           {
             "rank": 13,
-            "team": "Hajduk Split",
-            "short": "HAJ",
+            "team": "SK Brann",
+            "short": "SKBR",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
-              "0",
+              "1",
               "1",
               "+1",
-              "6"
+              "7"
             ]
           },
           {
             "rank": 14,
-            "team": "SC Freiburg",
-            "short": "SCF",
+            "team": "Atalanta",
+            "short": "ATA",
             "highlight": false,
             "values": [
-              "3",
+              "4",
+              "2",
+              "1",
+              "1",
+              "+1",
+              "7"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "Universitatea Craiova",
+            "short": "CRA",
+            "highlight": false,
+            "values": [
+              "4",
+              "2",
+              "1",
+              "1",
+              "0",
+              "7"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Hajduk Split",
+            "short": "HAJ",
+            "highlight": false,
+            "values": [
+              "4",
               "2",
               "0",
-              "1",
+              "2",
               "-1",
               "6"
             ]
           },
           {
-            "rank": 15,
-            "team": "Red Star Belgrade",
-            "short": "RSB",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "0",
-              "4"
-            ]
-          },
-          {
-            "rank": 16,
-            "team": "Atalanta",
-            "short": "ATA",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "0",
-              "4"
-            ]
-          },
-          {
             "rank": 17,
-            "team": "Braga",
-            "short": "SCB",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "-1",
-              "4"
-            ]
-          },
-          {
-            "rank": 18,
-            "team": "KAA Gent",
-            "short": "GENT",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "-1",
-              "4"
-            ]
-          },
-          {
-            "rank": 19,
-            "team": "Riga FC",
-            "short": "RIG",
-            "highlight": false,
-            "values": [
-              "3",
-              "0",
-              "3",
-              "0",
-              "0",
-              "3"
-            ]
-          },
-          {
-            "rank": 20,
-            "team": "FC Thun",
-            "short": "THUN",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "0",
-              "2",
-              "0",
-              "3"
-            ]
-          },
-          {
-            "rank": 21,
-            "team": "Borac Banja Luka",
-            "short": "BBL",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "0",
-              "2",
-              "-1",
-              "3"
-            ]
-          },
-          {
-            "rank": 22,
-            "team": "Lincoln Red Imps",
-            "short": "LRI",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "0",
-              "2",
-              "-3",
-              "3"
-            ]
-          },
-          {
-            "rank": 23,
-            "team": "Jablonec",
-            "short": "JABL",
-            "highlight": false,
-            "values": [
-              "3",
-              "0",
-              "2",
-              "1",
-              "-1",
-              "2"
-            ]
-          },
-          {
-            "rank": 24,
             "team": "AGF",
             "short": "AGF",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-1",
-              "2"
+              "+2",
+              "5"
             ]
           },
           {
-            "rank": 25,
+            "rank": 18,
+            "team": "Jablonec",
+            "short": "JABL",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "2",
+              "1",
+              "+1",
+              "5"
+            ]
+          },
+          {
+            "rank": 19,
+            "team": "Red Star Belgrade",
+            "short": "RSB",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "2",
+              "1",
+              "0",
+              "5"
+            ]
+          },
+          {
+            "rank": 20,
             "team": "FC Nordsjælland",
             "short": "FCN",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-2",
-              "2"
+              "-1",
+              "5"
             ]
           },
           {
-            "rank": 26,
+            "rank": 21,
             "team": "Egnatia",
             "short": "EGN",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-2",
-              "2"
+              "-1",
+              "5"
             ]
           },
           {
-            "rank": 27,
+            "rank": 22,
+            "team": "KAA Gent",
+            "short": "GENT",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "2",
+              "1",
+              "-1",
+              "5"
+            ]
+          },
+          {
+            "rank": 23,
             "team": "Kairat Almaty",
             "short": "KAI",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-4",
-              "2"
+              "-3",
+              "5"
             ]
           },
           {
-            "rank": 28,
-            "team": "CSKA Sofia",
-            "short": "CSKA",
-            "highlight": false,
-            "values": [
-              "3",
-              "0",
-              "1",
-              "2",
-              "-2",
-              "1"
-            ]
-          },
-          {
-            "rank": 29,
+            "rank": 24,
             "team": "Iberia 1999",
             "short": "IBE",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "1",
               "2",
+              "-2",
+              "4"
+            ]
+          },
+          {
+            "rank": 25,
+            "team": "FC Midtjylland",
+            "short": "MID",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "1",
+              "2",
+              "-4",
+              "4"
+            ]
+          },
+          {
+            "rank": 26,
+            "team": "Borac Banja Luka",
+            "short": "BBL",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "0",
+              "3",
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "rank": 27,
+            "team": "Riga FC",
+            "short": "RIG",
+            "highlight": false,
+            "values": [
+              "4",
+              "0",
+              "3",
+              "1",
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "rank": 28,
+            "team": "Inter D'Escaldes",
+            "short": "IDE",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "0",
+              "3",
               "-3",
-              "1"
+              "3"
+            ]
+          },
+          {
+            "rank": 29,
+            "team": "Lincoln Red Imps",
+            "short": "LRI",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "0",
+              "3",
+              "-4",
+              "3"
             ]
           },
           {
             "rank": 30,
-            "team": "Pafos",
-            "short": "PAF",
+            "team": "FC Thun",
+            "short": "THUN",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
               "1",
-              "2",
+              "0",
+              "3",
               "-4",
-              "1"
+              "3"
             ]
           },
           {
             "rank": 31,
-            "team": "Getafe",
-            "short": "GET",
+            "team": "Kauno Zalgiris",
+            "short": "ZAL",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
               "1",
-              "2",
-              "-4",
-              "1"
+              "0",
+              "3",
+              "-8",
+              "3"
             ]
           },
           {
             "rank": 32,
-            "team": "Heart of Midlothian",
-            "short": "HOM",
+            "team": "CSKA Sofia",
+            "short": "CSKA",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
               "1",
-              "2",
-              "-4",
+              "3",
+              "-3",
               "1"
             ]
           },
           {
             "rank": 33,
-            "team": "KuPS Kuopio",
-            "short": "KUPS",
+            "team": "Heart of Midlothian",
+            "short": "HOM",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
               "1",
-              "2",
-              "-4",
+              "3",
+              "-5",
               "1"
             ]
           },
           {
             "rank": 34,
-            "team": "FC Midtjylland",
-            "short": "MID",
+            "team": "Getafe",
+            "short": "GET",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
               "1",
-              "2",
-              "-6",
+              "3",
+              "-5",
               "1"
             ]
           },
           {
             "rank": 35,
-            "team": "Inter D'Escaldes",
-            "short": "IDE",
+            "team": "Pafos",
+            "short": "PAF",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
-              "0",
+              "1",
               "3",
-              "-5",
-              "0"
+              "-6",
+              "1"
             ]
           },
           {
             "rank": 36,
-            "team": "Kauno Zalgiris",
-            "short": "ZAL",
+            "team": "KuPS Kuopio",
+            "short": "KUPS",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
-              "0",
+              "1",
               "3",
-              "-10",
-              "0"
+              "-8",
+              "1"
             ]
           }
         ]
@@ -941,9 +941,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-26T04:56:01.766Z",
+    "updatedAt": "2026-11-26T23:44:58.348Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Bounida leidt Ajax langs Thun met twee goals, Berghuis zorgt voor fraai slotakkoord",
+        "url": "https://nos.nl/l/2641156",
+        "date": "2026-11-26T19:42:24.000Z",
+        "source": "NOS"
+      },
+      {
+        "title": "Ajax met goed gevoel richting Klassieker na ruime zege op FC Thun, prachtige goals Bounida en Berghuis",
+        "url": "https://www.parool.nl/ajax/ajax-met-goed-gevoel-richting-klassieker-na-ruime-zege-op-fc-thun-prachtige-goals-bounida-en-berghuis~b927b742/",
+        "date": "2026-11-26T16:50:00.000Z",
+        "source": "Het Parool"
+      },
       {
         "title": "‘Noem me ouderwets, maar ik kijk nog graag de samenvatting van Ajax bij Studio Sport – verklap de uitslag alsjeblieft niet!’",
         "url": "https://www.parool.nl/columns-opinie/opinie-noem-me-ouderwets-maar-ik-kijk-nog-graag-de-samenvatting-van-ajax-bij-studio-sport-verklap-de-uitslag-alsjeblieft-niet~b47ae4b5/",
@@ -967,35 +979,36 @@
         "url": "https://www.parool.nl/ajax/blessure-jorthy-mokio-is-grote-klap-voor-ajax-zegt-trainer-michel-ik-hoop-dat-hij-met-meer-kracht-dan-ooit-terugkomt~b279d6fd/",
         "date": "2026-11-25T15:16:00.000Z",
         "source": "Het Parool"
-      },
-      {
-        "title": "Heeft Ajax de beste jeugdopleiding? Veel buitenlanders roepen nog altijd klakkeloos ja, veel Nederlanders even klakkeloos nee",
-        "url": "https://www.parool.nl/columns-opinie/heeft-ajax-de-beste-jeugdopleiding-veel-buitenlanders-roepen-nog-altijd-klakkeloos-ja-veel-nederlanders-even-klakkeloos-nee~bbd9def3/",
-        "date": "2026-11-25T11:23:33.000Z",
-        "source": "Het Parool"
-      },
-      {
-        "title": "ABN Amro officieel nieuwe shirtsponsor Ajax: ‘Rijke geschiedenis is fundament voor nieuw begin’",
-        "url": "https://www.parool.nl/sport/abn-amro-officieel-nieuwe-shirtsponsor-ajax-rijke-geschiedenis-is-fundament-voor-nieuw-begin~b6fca729/",
-        "date": "2026-11-25T09:59:23.000Z",
-        "source": "Het Parool"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Ajax is in vorm: na een reeks van drie zeges volgde een 2-2 bij FC Twente, waarna ADO Den Haag op 22 november met 3-0 werd verslagen. In de Eredivisie staat Ajax tweede met 28 punten, in de Conference League elfde. In het nieuws: \"Ajax heeft Brandt, Ter Stegen, Amrabat en Berghuis terug voor Europees duel\" (NOS).",
-    "hash": "2c0a35e4a9abed265ae6dd5a3dbca90a3d504f6af3c733ed5177eb7a2579a14a",
-    "generatedAt": "2026-11-26T04:56:01.766Z",
+    "text": "Ajax is ongeslagen in de laatste vijf wedstrijden: vier zeges en een gelijkspel, met als laatste een 4-0 tegen FC Thun op 26 november. In de Eredivisie staat Ajax tweede met 28 punten, in de Conference League vierde. In het nieuws: Bounida en Berghuis scoorden tegen Thun.",
+    "hash": "a71e56bbfc753653fda7ce9b04bacfcf7a5ae9cf8cef8bae18e23e9e8dbad14f",
+    "generatedAt": "2026-11-26T23:44:58.348Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-26T04:56:01.766Z",
+  "updatedAt": "2026-11-26T23:44:58.348Z",
   "sections": {
     "games:espn-soccer/uefa.europa.conf-139": {
       "status": "ok",
-      "updatedAt": "2026-11-05T20:36:59.701Z",
+      "updatedAt": "2026-11-26T23:44:58.348Z",
       "data": [
+        {
+          "id": "espn-401915815",
+          "date": "2026-11-26T17:45:00.000Z",
+          "timeKnown": true,
+          "competition": "Conference League",
+          "home": true,
+          "opponent": "FC Thun",
+          "opponentShort": "THUN",
+          "status": "final",
+          "teamScore": 4,
+          "opponentScore": 0,
+          "outcome": "W"
+        },
         {
           "id": "espn-401915829",
           "date": "2026-11-05T17:45:00.000Z",
@@ -1034,19 +1047,6 @@
           "teamScore": 1,
           "opponentScore": 2,
           "outcome": "V"
-        },
-        {
-          "id": "espn-401915815",
-          "date": "2026-11-26T17:45:00.000Z",
-          "timeKnown": true,
-          "competition": "Conference League",
-          "home": true,
-          "opponent": "FC Thun",
-          "opponentShort": "THUN",
-          "status": "scheduled",
-          "teamScore": null,
-          "opponentScore": null,
-          "outcome": null
         },
         {
           "id": "espn-401915630",
@@ -1798,7 +1798,7 @@
     },
     "standings:espn-soccer/uefa.europa.conf-139": {
       "status": "ok",
-      "updatedAt": "2026-11-06T09:17:08.738Z",
+      "updatedAt": "2026-11-26T23:44:58.348Z",
       "data": {
         "name": "Conference League",
         "columns": [
@@ -1812,506 +1812,506 @@
         "rows": [
           {
             "rank": 1,
-            "team": "FC Lugano",
-            "short": "LUG",
-            "highlight": false,
-            "values": [
-              "3",
-              "3",
-              "0",
-              "0",
-              "+7",
-              "9"
-            ]
-          },
-          {
-            "rank": 2,
-            "team": "Panathinaikos",
-            "short": "PAO",
-            "highlight": false,
-            "values": [
-              "3",
-              "3",
-              "0",
-              "0",
-              "+6",
-              "9"
-            ]
-          },
-          {
-            "rank": 3,
-            "team": "FC Twente",
-            "short": "TWE",
-            "highlight": false,
-            "values": [
-              "3",
-              "3",
-              "0",
-              "0",
-              "+6",
-              "9"
-            ]
-          },
-          {
-            "rank": 4,
             "team": "AS Monaco",
             "short": "MON",
             "highlight": false,
             "values": [
-              "3",
-              "3",
+              "4",
+              "4",
               "0",
               "0",
-              "+6",
+              "+7",
+              "12"
+            ]
+          },
+          {
+            "rank": 2,
+            "team": "Brighton & Hove Albion",
+            "short": "BHA",
+            "highlight": false,
+            "values": [
+              "4",
+              "3",
+              "1",
+              "0",
+              "+9",
+              "10"
+            ]
+          },
+          {
+            "rank": 3,
+            "team": "Sint-Truidense",
+            "short": "STVV",
+            "highlight": false,
+            "values": [
+              "4",
+              "3",
+              "1",
+              "0",
+              "+5",
+              "10"
+            ]
+          },
+          {
+            "rank": 4,
+            "team": "Ajax Amsterdam",
+            "short": "AJA",
+            "highlight": true,
+            "values": [
+              "4",
+              "3",
+              "0",
+              "1",
+              "+10",
               "9"
             ]
           },
           {
             "rank": 5,
-            "team": "Brighton & Hove Albion",
-            "short": "BHA",
+            "team": "Panathinaikos",
+            "short": "PAO",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
+              "1",
               "+5",
-              "7"
+              "9"
             ]
           },
           {
             "rank": 6,
-            "team": "SK Brann",
-            "short": "SKBR",
+            "team": "FC Lugano",
+            "short": "LUG",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
-              "+4",
-              "7"
+              "1",
+              "+5",
+              "9"
             ]
           },
           {
             "rank": 7,
-            "team": "F.C. København",
-            "short": "KBH",
+            "team": "FC Twente",
+            "short": "TWE",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
-              "+4",
-              "7"
+              "1",
+              "+5",
+              "9"
             ]
           },
           {
             "rank": 8,
-            "team": "CSU Craiova",
-            "short": "UCRA",
+            "team": "Trabzonspor",
+            "short": "TRAB",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
-              "1",
               "0",
+              "1",
               "+4",
-              "7"
+              "9"
             ]
           },
           {
             "rank": 9,
-            "team": "Mjällby AIF",
-            "short": "MJA",
+            "team": "SC Freiburg",
+            "short": "SCF",
             "highlight": false,
             "values": [
+              "4",
               "3",
-              "2",
+              "0",
               "1",
               "0",
-              "+4",
-              "7"
+              "9"
             ]
           },
           {
             "rank": 10,
-            "team": "Sint-Truidense",
-            "short": "STVV",
+            "team": "Braga",
+            "short": "SCB",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
               "1",
-              "0",
+              "1",
               "+3",
               "7"
             ]
           },
           {
             "rank": 11,
-            "team": "Ajax Amsterdam",
-            "short": "AJA",
-            "highlight": true,
+            "team": "Mjällby AIF",
+            "short": "MJA",
+            "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
-              "0",
               "1",
-              "+6",
-              "6"
+              "1",
+              "+3",
+              "7"
             ]
           },
           {
             "rank": 12,
-            "team": "Trabzonspor",
-            "short": "TRAB",
+            "team": "F.C. København",
+            "short": "KBH",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
-              "0",
               "1",
-              "+3",
-              "6"
+              "1",
+              "+2",
+              "7"
             ]
           },
           {
             "rank": 13,
-            "team": "Hajduk Split",
-            "short": "HAJ",
+            "team": "SK Brann",
+            "short": "SKBR",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "2",
-              "0",
+              "1",
               "1",
               "+1",
-              "6"
+              "7"
             ]
           },
           {
             "rank": 14,
-            "team": "SC Freiburg",
-            "short": "SCF",
+            "team": "Atalanta",
+            "short": "ATA",
             "highlight": false,
             "values": [
-              "3",
+              "4",
+              "2",
+              "1",
+              "1",
+              "+1",
+              "7"
+            ]
+          },
+          {
+            "rank": 15,
+            "team": "Universitatea Craiova",
+            "short": "CRA",
+            "highlight": false,
+            "values": [
+              "4",
+              "2",
+              "1",
+              "1",
+              "0",
+              "7"
+            ]
+          },
+          {
+            "rank": 16,
+            "team": "Hajduk Split",
+            "short": "HAJ",
+            "highlight": false,
+            "values": [
+              "4",
               "2",
               "0",
-              "1",
+              "2",
               "-1",
               "6"
             ]
           },
           {
-            "rank": 15,
-            "team": "Red Star Belgrade",
-            "short": "RSB",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "0",
-              "4"
-            ]
-          },
-          {
-            "rank": 16,
-            "team": "Atalanta",
-            "short": "ATA",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "0",
-              "4"
-            ]
-          },
-          {
             "rank": 17,
-            "team": "Braga",
-            "short": "SCB",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "-1",
-              "4"
-            ]
-          },
-          {
-            "rank": 18,
-            "team": "KAA Gent",
-            "short": "GENT",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "1",
-              "1",
-              "-1",
-              "4"
-            ]
-          },
-          {
-            "rank": 19,
-            "team": "Riga FC",
-            "short": "RIG",
-            "highlight": false,
-            "values": [
-              "3",
-              "0",
-              "3",
-              "0",
-              "0",
-              "3"
-            ]
-          },
-          {
-            "rank": 20,
-            "team": "FC Thun",
-            "short": "THUN",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "0",
-              "2",
-              "0",
-              "3"
-            ]
-          },
-          {
-            "rank": 21,
-            "team": "Borac Banja Luka",
-            "short": "BBL",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "0",
-              "2",
-              "-1",
-              "3"
-            ]
-          },
-          {
-            "rank": 22,
-            "team": "Lincoln Red Imps",
-            "short": "LRI",
-            "highlight": false,
-            "values": [
-              "3",
-              "1",
-              "0",
-              "2",
-              "-3",
-              "3"
-            ]
-          },
-          {
-            "rank": 23,
-            "team": "Jablonec",
-            "short": "JABL",
-            "highlight": false,
-            "values": [
-              "3",
-              "0",
-              "2",
-              "1",
-              "-1",
-              "2"
-            ]
-          },
-          {
-            "rank": 24,
             "team": "AGF",
             "short": "AGF",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-1",
-              "2"
+              "+2",
+              "5"
             ]
           },
           {
-            "rank": 25,
+            "rank": 18,
+            "team": "Jablonec",
+            "short": "JABL",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "2",
+              "1",
+              "+1",
+              "5"
+            ]
+          },
+          {
+            "rank": 19,
+            "team": "Red Star Belgrade",
+            "short": "RSB",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "2",
+              "1",
+              "0",
+              "5"
+            ]
+          },
+          {
+            "rank": 20,
             "team": "FC Nordsjælland",
             "short": "FCN",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-2",
-              "2"
+              "-1",
+              "5"
             ]
           },
           {
-            "rank": 26,
+            "rank": 21,
             "team": "Egnatia",
             "short": "EGN",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-2",
-              "2"
+              "-1",
+              "5"
             ]
           },
           {
-            "rank": 27,
+            "rank": 22,
+            "team": "KAA Gent",
+            "short": "GENT",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "2",
+              "1",
+              "-1",
+              "5"
+            ]
+          },
+          {
+            "rank": 23,
             "team": "Kairat Almaty",
             "short": "KAI",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "2",
               "1",
-              "-4",
-              "2"
+              "-3",
+              "5"
             ]
           },
           {
-            "rank": 28,
-            "team": "CSKA Sofia",
-            "short": "CSKA",
-            "highlight": false,
-            "values": [
-              "3",
-              "0",
-              "1",
-              "2",
-              "-2",
-              "1"
-            ]
-          },
-          {
-            "rank": 29,
+            "rank": 24,
             "team": "Iberia 1999",
             "short": "IBE",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
+              "1",
               "1",
               "2",
+              "-2",
+              "4"
+            ]
+          },
+          {
+            "rank": 25,
+            "team": "FC Midtjylland",
+            "short": "MID",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "1",
+              "2",
+              "-4",
+              "4"
+            ]
+          },
+          {
+            "rank": 26,
+            "team": "Borac Banja Luka",
+            "short": "BBL",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "0",
+              "3",
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "rank": 27,
+            "team": "Riga FC",
+            "short": "RIG",
+            "highlight": false,
+            "values": [
+              "4",
+              "0",
+              "3",
+              "1",
+              "-2",
+              "3"
+            ]
+          },
+          {
+            "rank": 28,
+            "team": "Inter D'Escaldes",
+            "short": "IDE",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "0",
+              "3",
               "-3",
-              "1"
+              "3"
+            ]
+          },
+          {
+            "rank": 29,
+            "team": "Lincoln Red Imps",
+            "short": "LRI",
+            "highlight": false,
+            "values": [
+              "4",
+              "1",
+              "0",
+              "3",
+              "-4",
+              "3"
             ]
           },
           {
             "rank": 30,
-            "team": "Pafos",
-            "short": "PAF",
+            "team": "FC Thun",
+            "short": "THUN",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
               "1",
-              "2",
+              "0",
+              "3",
               "-4",
-              "1"
+              "3"
             ]
           },
           {
             "rank": 31,
-            "team": "Getafe",
-            "short": "GET",
+            "team": "Kauno Zalgiris",
+            "short": "ZAL",
             "highlight": false,
             "values": [
-              "3",
-              "0",
+              "4",
               "1",
-              "2",
-              "-4",
-              "1"
+              "0",
+              "3",
+              "-8",
+              "3"
             ]
           },
           {
             "rank": 32,
-            "team": "Heart of Midlothian",
-            "short": "HOM",
+            "team": "CSKA Sofia",
+            "short": "CSKA",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
               "1",
-              "2",
-              "-4",
+              "3",
+              "-3",
               "1"
             ]
           },
           {
             "rank": 33,
-            "team": "KuPS Kuopio",
-            "short": "KUPS",
+            "team": "Heart of Midlothian",
+            "short": "HOM",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
               "1",
-              "2",
-              "-4",
+              "3",
+              "-5",
               "1"
             ]
           },
           {
             "rank": 34,
-            "team": "FC Midtjylland",
-            "short": "MID",
+            "team": "Getafe",
+            "short": "GET",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
               "1",
-              "2",
-              "-6",
+              "3",
+              "-5",
               "1"
             ]
           },
           {
             "rank": 35,
-            "team": "Inter D'Escaldes",
-            "short": "IDE",
+            "team": "Pafos",
+            "short": "PAF",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
-              "0",
+              "1",
               "3",
-              "-5",
-              "0"
+              "-6",
+              "1"
             ]
           },
           {
             "rank": 36,
-            "team": "Kauno Zalgiris",
-            "short": "ZAL",
+            "team": "KuPS Kuopio",
+            "short": "KUPS",
             "highlight": false,
             "values": [
-              "3",
+              "4",
               "0",
-              "0",
+              "1",
               "3",
-              "-10",
-              "0"
+              "-8",
+              "1"
             ]
           }
         ]
@@ -2320,9 +2320,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-26T04:56:01.766Z",
+      "updatedAt": "2026-11-26T23:44:58.348Z",
       "data": {
         "items": [
+          {
+            "title": "Bounida leidt Ajax langs Thun met twee goals, Berghuis zorgt voor fraai slotakkoord",
+            "url": "https://nos.nl/l/2641156",
+            "date": "2026-11-26T19:42:24.000Z",
+            "source": "NOS"
+          },
+          {
+            "title": "Ajax met goed gevoel richting Klassieker na ruime zege op FC Thun, prachtige goals Bounida en Berghuis",
+            "url": "https://www.parool.nl/ajax/ajax-met-goed-gevoel-richting-klassieker-na-ruime-zege-op-fc-thun-prachtige-goals-bounida-en-berghuis~b927b742/",
+            "date": "2026-11-26T16:50:00.000Z",
+            "source": "Het Parool"
+          },
           {
             "title": "‘Noem me ouderwets, maar ik kijk nog graag de samenvatting van Ajax bij Studio Sport – verklap de uitslag alsjeblieft niet!’",
             "url": "https://www.parool.nl/columns-opinie/opinie-noem-me-ouderwets-maar-ik-kijk-nog-graag-de-samenvatting-van-ajax-bij-studio-sport-verklap-de-uitslag-alsjeblieft-niet~b47ae4b5/",
@@ -2345,18 +2357,6 @@
             "title": "Blessure Jorthy Mokio is grote klap voor Ajax, zegt trainer Míchel: ‘Ik hoop dat hij met meer kracht dan ooit terugkomt’",
             "url": "https://www.parool.nl/ajax/blessure-jorthy-mokio-is-grote-klap-voor-ajax-zegt-trainer-michel-ik-hoop-dat-hij-met-meer-kracht-dan-ooit-terugkomt~b279d6fd/",
             "date": "2026-11-25T15:16:00.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "Heeft Ajax de beste jeugdopleiding? Veel buitenlanders roepen nog altijd klakkeloos ja, veel Nederlanders even klakkeloos nee",
-            "url": "https://www.parool.nl/columns-opinie/heeft-ajax-de-beste-jeugdopleiding-veel-buitenlanders-roepen-nog-altijd-klakkeloos-ja-veel-nederlanders-even-klakkeloos-nee~bbd9def3/",
-            "date": "2026-11-25T11:23:33.000Z",
-            "source": "Het Parool"
-          },
-          {
-            "title": "ABN Amro officieel nieuwe shirtsponsor Ajax: ‘Rijke geschiedenis is fundament voor nieuw begin’",
-            "url": "https://www.parool.nl/sport/abn-amro-officieel-nieuwe-shirtsponsor-ajax-rijke-geschiedenis-is-fundament-voor-nieuw-begin~b6fca729/",
-            "date": "2026-11-25T09:59:23.000Z",
             "source": "Het Parool"
           }
         ],
