@@ -217,56 +217,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-25T12:37:48.716Z",
+    "updatedAt": "2026-11-26T04:56:01.766Z",
     "failedSources": [],
     "items": [
       {
-        "title": "From practice squad to prime time: A look at Milton's big chance on Thanksgiving",
-        "url": "https://www.espn.com/nfl/story/_/id/50583319/joe-milton-build-momentum-thanksgiving-start-dallas-cowboys",
-        "date": "2026-11-25T11:00:11.000Z",
+        "title": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
+        "date": "2026-11-26T01:02:11.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "Cowboys really need back-to-back wins this time with rival Eagles visiting on Thanksgiving",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873080",
+        "date": "2026-11-25T22:47:45.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Eagles sign DT Gabe Hall to active roster",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-dt-gabe-hall-to-active-roster-week-12-cowboys",
+        "date": "2026-11-25T21:00:20.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
+        "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
+        "date": "2026-11-25T19:00:00.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Eagles at Cowboys Injury Report",
         "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-injury-report-2026-nfl-week-12-thanksgiving",
-        "date": "2026-11-24T23:00:00.000Z",
+        "date": "2026-11-25T17:40:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Eagles sign LB Chance Campbell to active roster",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-lb-chance-campbell-to-active-roster-week-12-2026",
-        "date": "2026-11-24T21:08:08.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Three former Eagles advance in Pro Football Hall of Fame selection process",
-        "url": "https://www.philadelphiaeagles.com/news/three-former-eagles-advance-in-pro-football-hall-of-fame-selection-process-maxie-baughan-lesean-mccoy-ricky-watters",
-        "date": "2026-11-24T21:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "How to watch, stream, and listen | Eagles at Cowboys",
-        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
-        "date": "2026-11-24T19:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Uar Bernard celebrated by Nigerian community leaders in Philadelphia",
-        "url": "https://www.philadelphiaeagles.com/news/uar-bernard-celebrated-by-nigerian-community-leaders-in-philadelphia",
-        "date": "2026-11-24T14:58:46.000Z",
+        "title": "How well do you know Eagles Thanksgiving Day Football history?",
+        "url": "https://www.philadelphiaeagles.com/news/how-well-do-you-know-your-eagles-on-thanksgiving-history-week-12-nfl-cowboys",
+        "date": "2026-11-25T14:51:05.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Eagles doorbraken op 22 november een reeks van vier nederlagen met een 19-16 thuiszege op de Steelers. In de NFC East staan ze laatste (4e van 4) met 3-7 en een puntensaldo van -70. In het nieuws: \"Eagles sign LB Chance Campbell to active roster\".",
-    "hash": "f128c948b80efb8810f30d74370dc5386800a6bb9f9e8b3d40d8563808561ed9",
-    "generatedAt": "2026-11-25T12:37:48.716Z",
+    "text": "De Eagles beëindigden op 22 november een reeks van vier nederlagen op rij met een 19-16 thuiszege op de Pittsburgh Steelers. Ze staan laatste in de NFC East met 3 winstpartijen en 7 nederlagen (saldo -70). In het nieuws: \"Eagles sign DT Gabe Hall to active roster\".",
+    "hash": "5b00873907795f9107eac95603fa934c06ec3ce5e91207e4ca7e17e2b0d1aca3",
+    "generatedAt": "2026-11-26T04:56:01.766Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-25T12:37:48.716Z",
+  "updatedAt": "2026-11-26T04:56:01.766Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,43 +567,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-25T12:37:48.716Z",
+      "updatedAt": "2026-11-26T04:56:01.766Z",
       "data": {
         "items": [
           {
-            "title": "From practice squad to prime time: A look at Milton's big chance on Thanksgiving",
-            "url": "https://www.espn.com/nfl/story/_/id/50583319/joe-milton-build-momentum-thanksgiving-start-dallas-cowboys",
-            "date": "2026-11-25T11:00:11.000Z",
+            "title": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
+            "url": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
+            "date": "2026-11-26T01:02:11.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "Cowboys really need back-to-back wins this time with rival Eagles visiting on Thanksgiving",
+            "url": "http://www.espn.com/nfl/preview?gameId=401873080",
+            "date": "2026-11-25T22:47:45.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Eagles sign DT Gabe Hall to active roster",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-dt-gabe-hall-to-active-roster-week-12-cowboys",
+            "date": "2026-11-25T21:00:20.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
+            "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
+            "date": "2026-11-25T19:00:00.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Eagles at Cowboys Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-injury-report-2026-nfl-week-12-thanksgiving",
-            "date": "2026-11-24T23:00:00.000Z",
+            "date": "2026-11-25T17:40:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Eagles sign LB Chance Campbell to active roster",
-            "url": "https://www.philadelphiaeagles.com/news/eagles-sign-lb-chance-campbell-to-active-roster-week-12-2026",
-            "date": "2026-11-24T21:08:08.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Three former Eagles advance in Pro Football Hall of Fame selection process",
-            "url": "https://www.philadelphiaeagles.com/news/three-former-eagles-advance-in-pro-football-hall-of-fame-selection-process-maxie-baughan-lesean-mccoy-ricky-watters",
-            "date": "2026-11-24T21:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "How to watch, stream, and listen | Eagles at Cowboys",
-            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
-            "date": "2026-11-24T19:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Uar Bernard celebrated by Nigerian community leaders in Philadelphia",
-            "url": "https://www.philadelphiaeagles.com/news/uar-bernard-celebrated-by-nigerian-community-leaders-in-philadelphia",
-            "date": "2026-11-24T14:58:46.000Z",
+            "title": "How well do you know Eagles Thanksgiving Day Football history?",
+            "url": "https://www.philadelphiaeagles.com/news/how-well-do-you-know-your-eagles-on-thanksgiving-history-week-12-nfl-cowboys",
+            "date": "2026-11-25T14:51:05.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

@@ -177,56 +177,56 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-25T12:37:48.716Z",
+    "updatedAt": "2026-11-26T04:56:01.766Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Hard-hitting prospect among Fall League's top Statcast performers",
-        "url": "https://www.mlb.com/yankees/news/arizona-fall-league-statcast-final-leaders-2026",
-        "date": "2026-11-25T01:15:00.000Z",
+        "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
+        "url": "https://www.mlb.com/yankees/news/things-to-be-thankful-for-from-2026-mlb-season",
+        "date": "2026-11-26T05:00:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Yankees reach 1-year deal with lefty reliever Suter",
-        "url": "https://www.mlb.com/yankees/news/brent-suter-yankees-contract",
-        "date": "2026-11-24T20:21:00.000Z",
+        "title": "Each MLB club's best prospect acquired via trade",
+        "url": "https://www.mlb.com/yankees/news/best-prospects-who-were-trade-acquisitions",
+        "date": "2026-11-26T00:00:00.000Z",
         "source": "MLB.com"
       },
       {
-        "title": "Hill inks 1-year deal to return to Yankees",
-        "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
-        "date": "2026-11-24T16:12:00.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Yankees embrace giving spirit with Sleep Out, community events",
-        "url": "https://www.mlb.com/yankees/news/yankees-host-sleep-out-community-events-before-holidays",
-        "date": "2026-11-23T23:48:44.000Z",
-        "source": "MLB.com"
-      },
-      {
-        "title": "Sources: Yankees agree to 1-year, $4M deal with reliever Suter",
-        "url": "https://www.espn.com/mlb/story/_/id/50576087/yankees-agree-1-year-4m-deal-reliever-suter",
-        "date": "2026-11-23T20:54:45.000Z",
+        "title": "Sources: Yankees turn to former foe for bench coach, ex-O's coach Hyde",
+        "url": "https://www.espn.com/mlb/story/_/id/50595004/sources-yankees-hire-ex-o-manager-brandon-hyde-bench-coach",
+        "date": "2026-11-25T21:12:41.000Z",
         "source": "ESPN"
       },
       {
-        "title": "Sources: Luis Gil agrees to deal with Tigers after Yankees nontender",
-        "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
-        "date": "2026-11-23T18:53:18.000Z",
+        "title": "The big bullpen question looming over Yankees' offseason",
+        "url": "https://www.mlb.com/yankees/news/yankees-bullpen-moves-and-free-agent-reliever-options-for-2027",
+        "date": "2026-11-25T21:03:07.000Z",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Paul Goldschmidt says time with Yankees prepared him for expectations Mets face",
+        "url": "https://www.espn.com/mlb/story/_/id/50594977/paul-goldschmidt-happy-reunite-andy-green-mets",
+        "date": "2026-11-25T17:44:47.000Z",
         "source": "ESPN"
+      },
+      {
+        "title": "Former Orioles manager Hyde to be Yankees' bench coach (source)",
+        "url": "https://www.mlb.com/yankees/news/yankees-hire-brandon-hyde-as-bench-coach",
+        "date": "2026-11-25T17:43:24.000Z",
+        "source": "MLB.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Yankees zitten buiten het seizoen. Ze eindigden als tweede in de AL East (93-68), wonnen de Wild Card Series twee keer van Boston en verloren daarna drie keer van Tampa Bay in de Division Series. In het nieuws: een eenjarig contract met reliever Suter en een terugkeer van Hill.",
-    "hash": "d9a9229cff9e4812a6bf62ca015e88f6e69db931438811348cb6a6669948c520",
-    "generatedAt": "2026-11-25T12:37:48.716Z",
+    "text": "De Yankees zitten buiten het seizoen. Ze eindigden als tweede in de AL East (93-68) en wonnen de Wild Card Series met twee zeges tegen Boston, maar gingen in de Division Series met 0-3 onderuit tegen Tampa Bay. In het nieuws: de Yankees zouden ex-Orioles-coach Hyde als bench coach aantrekken.",
+    "hash": "a136d09d08d4a66c2d15c0ebdcf4bf22a8c0f369bab02ac26cf08a1b9a3f061c",
+    "generatedAt": "2026-11-26T04:56:01.766Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-25T12:37:48.716Z",
+  "updatedAt": "2026-11-26T04:56:01.766Z",
   "sections": {
     "games:mlb-147": {
       "status": "ok",
@@ -2542,44 +2542,44 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-25T12:37:48.716Z",
+      "updatedAt": "2026-11-26T04:56:01.766Z",
       "data": {
         "items": [
           {
-            "title": "Hard-hitting prospect among Fall League's top Statcast performers",
-            "url": "https://www.mlb.com/yankees/news/arizona-fall-league-statcast-final-leaders-2026",
-            "date": "2026-11-25T01:15:00.000Z",
+            "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
+            "url": "https://www.mlb.com/yankees/news/things-to-be-thankful-for-from-2026-mlb-season",
+            "date": "2026-11-26T05:00:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Yankees reach 1-year deal with lefty reliever Suter",
-            "url": "https://www.mlb.com/yankees/news/brent-suter-yankees-contract",
-            "date": "2026-11-24T20:21:00.000Z",
+            "title": "Each MLB club's best prospect acquired via trade",
+            "url": "https://www.mlb.com/yankees/news/best-prospects-who-were-trade-acquisitions",
+            "date": "2026-11-26T00:00:00.000Z",
             "source": "MLB.com"
           },
           {
-            "title": "Hill inks 1-year deal to return to Yankees",
-            "url": "https://www.mlb.com/yankees/news/tim-hill-deal-with-yankees",
-            "date": "2026-11-24T16:12:00.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Yankees embrace giving spirit with Sleep Out, community events",
-            "url": "https://www.mlb.com/yankees/news/yankees-host-sleep-out-community-events-before-holidays",
-            "date": "2026-11-23T23:48:44.000Z",
-            "source": "MLB.com"
-          },
-          {
-            "title": "Sources: Yankees agree to 1-year, $4M deal with reliever Suter",
-            "url": "https://www.espn.com/mlb/story/_/id/50576087/yankees-agree-1-year-4m-deal-reliever-suter",
-            "date": "2026-11-23T20:54:45.000Z",
+            "title": "Sources: Yankees turn to former foe for bench coach, ex-O's coach Hyde",
+            "url": "https://www.espn.com/mlb/story/_/id/50595004/sources-yankees-hire-ex-o-manager-brandon-hyde-bench-coach",
+            "date": "2026-11-25T21:12:41.000Z",
             "source": "ESPN"
           },
           {
-            "title": "Sources: Luis Gil agrees to deal with Tigers after Yankees nontender",
-            "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
-            "date": "2026-11-23T18:53:18.000Z",
+            "title": "The big bullpen question looming over Yankees' offseason",
+            "url": "https://www.mlb.com/yankees/news/yankees-bullpen-moves-and-free-agent-reliever-options-for-2027",
+            "date": "2026-11-25T21:03:07.000Z",
+            "source": "MLB.com"
+          },
+          {
+            "title": "Paul Goldschmidt says time with Yankees prepared him for expectations Mets face",
+            "url": "https://www.espn.com/mlb/story/_/id/50594977/paul-goldschmidt-happy-reunite-andy-green-mets",
+            "date": "2026-11-25T17:44:47.000Z",
             "source": "ESPN"
+          },
+          {
+            "title": "Former Orioles manager Hyde to be Yankees' bench coach (source)",
+            "url": "https://www.mlb.com/yankees/news/yankees-hire-brandon-hyde-as-bench-coach",
+            "date": "2026-11-25T17:43:24.000Z",
+            "source": "MLB.com"
           }
         ],
         "failedSources": [],
