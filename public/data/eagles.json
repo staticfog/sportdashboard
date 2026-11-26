@@ -217,9 +217,21 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-26T04:56:01.766Z",
+    "updatedAt": "2026-11-26T09:43:39.047Z",
     "failedSources": [],
     "items": [
+      {
+        "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
+        "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
+        "date": "2026-11-26T05:30:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "How to watch, stream, and listen | Eagles at Cowboys",
+        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
+        "date": "2026-11-26T05:00:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
       {
         "title": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
         "url": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
@@ -239,34 +251,22 @@
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
-        "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
-        "date": "2026-11-25T19:00:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
         "title": "Eagles at Cowboys Injury Report",
         "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-injury-report-2026-nfl-week-12-thanksgiving",
         "date": "2026-11-25T17:40:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "How well do you know Eagles Thanksgiving Day Football history?",
-        "url": "https://www.philadelphiaeagles.com/news/how-well-do-you-know-your-eagles-on-thanksgiving-history-week-12-nfl-cowboys",
-        "date": "2026-11-25T14:51:05.000Z",
         "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Eagles beëindigden op 22 november een reeks van vier nederlagen op rij met een 19-16 thuiszege op de Pittsburgh Steelers. Ze staan laatste in de NFC East met 3 winstpartijen en 7 nederlagen (saldo -70). In het nieuws: \"Eagles sign DT Gabe Hall to active roster\".",
-    "hash": "5b00873907795f9107eac95603fa934c06ec3ce5e91207e4ca7e17e2b0d1aca3",
-    "generatedAt": "2026-11-26T04:56:01.766Z",
+    "text": "De Eagles doorbraken op 22 november met 19-16 tegen de Steelers een reeks van vier nederlagen op rij. Met 3 zeges en 7 nederlagen staan ze laatste in de NFC East (4e van 4), met een puntensaldo van -70. In het nieuws: \"Eagles sign DT Gabe Hall to active roster\".",
+    "hash": "a361408c8dd9046540ad340b78554d5857de49e739ce922e9561b936779fd7d7",
+    "generatedAt": "2026-11-26T09:43:39.047Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-26T04:56:01.766Z",
+  "updatedAt": "2026-11-26T09:43:39.047Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
@@ -567,9 +567,21 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-26T04:56:01.766Z",
+      "updatedAt": "2026-11-26T09:43:39.047Z",
       "data": {
         "items": [
+          {
+            "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
+            "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
+            "date": "2026-11-26T05:30:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "How to watch, stream, and listen | Eagles at Cowboys",
+            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
+            "date": "2026-11-26T05:00:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
           {
             "title": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
             "url": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
@@ -589,21 +601,9 @@
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
-            "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
-            "date": "2026-11-25T19:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
             "title": "Eagles at Cowboys Injury Report",
             "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-injury-report-2026-nfl-week-12-thanksgiving",
             "date": "2026-11-25T17:40:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "How well do you know Eagles Thanksgiving Day Football history?",
-            "url": "https://www.philadelphiaeagles.com/news/how-well-do-you-know-your-eagles-on-thanksgiving-history-week-12-nfl-cowboys",
-            "date": "2026-11-25T14:51:05.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],
