@@ -15,9 +15,22 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-26T23:44:58.348Z",
+    "updatedAt": "2026-11-28T01:53:40.278Z",
     "issues": [],
     "items": [
+      {
+        "id": "espn-401873080",
+        "date": "2026-11-26T21:30:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": false,
+        "opponent": "Dallas Cowboys",
+        "opponentShort": "DAL",
+        "status": "final",
+        "teamScore": 39,
+        "opponentScore": 38,
+        "outcome": "W"
+      },
       {
         "id": "espn-401873076",
         "date": "2026-11-22T18:00:00.000Z",
@@ -69,40 +82,14 @@
         "teamScore": 21,
         "opponentScore": 38,
         "outcome": "V"
-      },
-      {
-        "id": "espn-401872998",
-        "date": "2026-10-18T17:00:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": true,
-        "opponent": "Carolina Panthers",
-        "opponentShort": "CAR",
-        "status": "final",
-        "teamScore": 14,
-        "opponentScore": 25,
-        "outcome": "V"
       }
     ]
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-26T23:44:58.348Z",
+    "updatedAt": "2026-11-28T01:53:40.278Z",
     "issues": [],
     "items": [
-      {
-        "id": "espn-401873080",
-        "date": "2026-11-26T21:30:00.000Z",
-        "timeKnown": true,
-        "competition": "NFL",
-        "home": false,
-        "opponent": "Dallas Cowboys",
-        "opponentShort": "DAL",
-        "status": "live",
-        "teamScore": 10,
-        "opponentScore": 28,
-        "outcome": null
-      },
       {
         "id": "espn-401873104",
         "date": "2026-12-06T21:05:00.000Z",
@@ -141,6 +128,19 @@
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
+      },
+      {
+        "id": "espn-401873140",
+        "date": "2026-12-25T01:15:00.000Z",
+        "timeKnown": true,
+        "competition": "NFL",
+        "home": true,
+        "opponent": "Houston Texans",
+        "opponentShort": "HOU",
+        "status": "scheduled",
+        "teamScore": null,
+        "opponentScore": null,
+        "outcome": null
       }
     ]
   },
@@ -148,7 +148,7 @@
     {
       "label": "Stand",
       "status": "ok",
-      "updatedAt": "2026-11-24T17:30:24.944Z",
+      "updatedAt": "2026-11-28T01:53:40.278Z",
       "table": {
         "name": "NFC East",
         "columns": [
@@ -174,19 +174,6 @@
           },
           {
             "rank": 2,
-            "team": "Dallas Cowboys",
-            "short": "DAL",
-            "highlight": false,
-            "values": [
-              "5",
-              "6",
-              "0",
-              ".455",
-              "+25"
-            ]
-          },
-          {
-            "rank": 3,
             "team": "Washington Commanders",
             "short": "WSH",
             "highlight": false,
@@ -199,16 +186,29 @@
             ]
           },
           {
+            "rank": 3,
+            "team": "Dallas Cowboys",
+            "short": "DAL",
+            "highlight": false,
+            "values": [
+              "5",
+              "7",
+              "0",
+              ".417",
+              "+24"
+            ]
+          },
+          {
             "rank": 4,
             "team": "Philadelphia Eagles",
             "short": "PHI",
             "highlight": true,
             "values": [
-              "3",
+              "4",
               "7",
               "0",
-              ".300",
-              "-70"
+              ".364",
+              "-69"
             ]
           }
         ]
@@ -217,60 +217,60 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-26T23:44:58.348Z",
+    "updatedAt": "2026-11-28T01:53:40.278Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Live Updates: Eagles at Cowboys",
-        "url": "https://www.philadelphiaeagles.com/news/game-recap-eagles-at-cowboys-thanksgiving-2026-nfl-week-12-saquon-barkley-devonta-smith-joe-milton-dak-prescott",
-        "date": "2026-11-26T23:39:00.000Z",
+        "title": "Ty Robinson: From 'life support' to Eagles hero on Thanksgiving",
+        "url": "https://www.philadelphiaeagles.com/news/ty-robinson-from-life-support-to-eagles-hero-on-thanksgiving-week-12-cowboys-nfl",
+        "date": "2026-11-27T18:15:00.000Z",
         "source": "philadelphiaeagles.com"
       },
       {
-        "title": "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-        "url": "https://www.espn.com/nfl/story/_/id/50606739/eagles-cooper-dejean-concussion-leaves-game-cowboys",
-        "date": "2026-11-26T22:54:56.000Z",
+        "title": "Eagles QB Joe Milton wows teammates with breakout game in Dallas",
+        "url": "https://www.espn.com/nfl/story/_/id/50609081/eagles-qb-joe-milton-wows-teammates-breakout-game-dallas",
+        "date": "2026-11-27T06:10:08.000Z",
         "source": "ESPN"
       },
       {
-        "title": "NFL Week 12 arrivals: CeeDee Lamb leads arrivals ahead of Eagles-Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-        "date": "2026-11-26T20:21:31.000Z",
-        "source": "ESPN"
+        "title": "Joe Milton rockets the Eagles into biggest Thanksgiving comeback in NFL history",
+        "url": "https://www.philadelphiaeagles.com/news/joe-milton-rockets-the-eagles-into-biggest-thanksgiving-comeback-in-nfl-history",
+        "date": "2026-11-27T06:00:32.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Spadaro: Eagles deliver a Thanksgiving miracle, rally to stun Cowboys 39-38",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-deliver-a-thanksgiving-miracle-rally-to-stun-cowboys-39-38",
+        "date": "2026-11-27T04:15:00.000Z",
+        "source": "philadelphiaeagles.com"
+      },
+      {
+        "title": "Game Recap: Eagles 39, Cowboys 38",
+        "url": "https://www.philadelphiaeagles.com/news/game-recap-eagles-at-cowboys-thanksgiving-2026-nfl-week-12-saquon-barkley-devonta-smith-joe-milton-dak-prescott",
+        "date": "2026-11-27T02:23:00.000Z",
+        "source": "philadelphiaeagles.com"
       },
       {
         "title": "Eagles at Cowboys Inactives",
         "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-inactives-thanksgiving-2026-nfl-week-12",
         "date": "2026-11-26T20:00:00.000Z",
         "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
-        "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
-        "date": "2026-11-26T05:30:00.000Z",
-        "source": "philadelphiaeagles.com"
-      },
-      {
-        "title": "How to watch, stream, and listen | Eagles at Cowboys",
-        "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
-        "date": "2026-11-26T05:00:00.000Z",
-        "source": "philadelphiaeagles.com"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "Na vier nederlagen op rij wonnen de Eagles op 22 november met 19-16 van de Steelers. Met een 3-7-record staan ze laatste (4e van 4) in de NFC East, met een puntensaldo van -70. In het nieuws: volgens een ESPN-kop verliet Cooper DeJean het duel bij de Cowboys vanwege een hersenschudding.",
-    "hash": "3403cd61a02d660720770c259fd93c82cb8d4b59812865b4ae58fe14e8765a97",
-    "generatedAt": "2026-11-26T23:44:58.348Z",
+    "text": "Na drie nederlagen op rij wonnen de Eagles twee keer, met als laatste 39-38 bij Dallas op 26 november. In de NFC East staan ze met 4-7 wel nog laatste. In het nieuws: quarterback Joe Milton zou de Eagles naar de grootste Thanksgiving-comeback in de NFL-geschiedenis hebben geleid.",
+    "hash": "22241ca4689787f1353bb2dc5b8342fcd48ba3977872eaa1d5dd3ea26a0c77b1",
+    "generatedAt": "2026-11-28T01:53:40.278Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-26T23:44:58.348Z",
+  "updatedAt": "2026-11-28T01:53:40.278Z",
   "sections": {
     "games:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-26T23:44:58.348Z",
+      "updatedAt": "2026-11-28T01:53:40.278Z",
       "data": [
         {
           "id": "espn-401872929",
@@ -410,10 +410,10 @@
           "home": false,
           "opponent": "Dallas Cowboys",
           "opponentShort": "DAL",
-          "status": "live",
-          "teamScore": 10,
-          "opponentScore": 28,
-          "outcome": null
+          "status": "final",
+          "teamScore": 39,
+          "opponentScore": 38,
+          "outcome": "W"
         },
         {
           "id": "espn-401873104",
@@ -498,7 +498,7 @@
     },
     "standings:espn-football/nfl-21": {
       "status": "ok",
-      "updatedAt": "2026-11-24T17:30:24.944Z",
+      "updatedAt": "2026-11-28T01:53:40.278Z",
       "data": {
         "name": "NFC East",
         "columns": [
@@ -524,19 +524,6 @@
           },
           {
             "rank": 2,
-            "team": "Dallas Cowboys",
-            "short": "DAL",
-            "highlight": false,
-            "values": [
-              "5",
-              "6",
-              "0",
-              ".455",
-              "+25"
-            ]
-          },
-          {
-            "rank": 3,
             "team": "Washington Commanders",
             "short": "WSH",
             "highlight": false,
@@ -549,16 +536,29 @@
             ]
           },
           {
+            "rank": 3,
+            "team": "Dallas Cowboys",
+            "short": "DAL",
+            "highlight": false,
+            "values": [
+              "5",
+              "7",
+              "0",
+              ".417",
+              "+24"
+            ]
+          },
+          {
             "rank": 4,
             "team": "Philadelphia Eagles",
             "short": "PHI",
             "highlight": true,
             "values": [
-              "3",
+              "4",
               "7",
               "0",
-              ".300",
-              "-70"
+              ".364",
+              "-69"
             ]
           }
         ]
@@ -567,43 +567,43 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-26T23:44:58.348Z",
+      "updatedAt": "2026-11-28T01:53:40.278Z",
       "data": {
         "items": [
           {
-            "title": "Live Updates: Eagles at Cowboys",
-            "url": "https://www.philadelphiaeagles.com/news/game-recap-eagles-at-cowboys-thanksgiving-2026-nfl-week-12-saquon-barkley-devonta-smith-joe-milton-dak-prescott",
-            "date": "2026-11-26T23:39:00.000Z",
+            "title": "Ty Robinson: From 'life support' to Eagles hero on Thanksgiving",
+            "url": "https://www.philadelphiaeagles.com/news/ty-robinson-from-life-support-to-eagles-hero-on-thanksgiving-week-12-cowboys-nfl",
+            "date": "2026-11-27T18:15:00.000Z",
             "source": "philadelphiaeagles.com"
           },
           {
-            "title": "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-            "url": "https://www.espn.com/nfl/story/_/id/50606739/eagles-cooper-dejean-concussion-leaves-game-cowboys",
-            "date": "2026-11-26T22:54:56.000Z",
+            "title": "Eagles QB Joe Milton wows teammates with breakout game in Dallas",
+            "url": "https://www.espn.com/nfl/story/_/id/50609081/eagles-qb-joe-milton-wows-teammates-breakout-game-dallas",
+            "date": "2026-11-27T06:10:08.000Z",
             "source": "ESPN"
           },
           {
-            "title": "NFL Week 12 arrivals: CeeDee Lamb leads arrivals ahead of Eagles-Cowboys",
-            "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-            "date": "2026-11-26T20:21:31.000Z",
-            "source": "ESPN"
+            "title": "Joe Milton rockets the Eagles into biggest Thanksgiving comeback in NFL history",
+            "url": "https://www.philadelphiaeagles.com/news/joe-milton-rockets-the-eagles-into-biggest-thanksgiving-comeback-in-nfl-history",
+            "date": "2026-11-27T06:00:32.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Spadaro: Eagles deliver a Thanksgiving miracle, rally to stun Cowboys 39-38",
+            "url": "https://www.philadelphiaeagles.com/news/eagles-deliver-a-thanksgiving-miracle-rally-to-stun-cowboys-39-38",
+            "date": "2026-11-27T04:15:00.000Z",
+            "source": "philadelphiaeagles.com"
+          },
+          {
+            "title": "Game Recap: Eagles 39, Cowboys 38",
+            "url": "https://www.philadelphiaeagles.com/news/game-recap-eagles-at-cowboys-thanksgiving-2026-nfl-week-12-saquon-barkley-devonta-smith-joe-milton-dak-prescott",
+            "date": "2026-11-27T02:23:00.000Z",
+            "source": "philadelphiaeagles.com"
           },
           {
             "title": "Eagles at Cowboys Inactives",
             "url": "https://www.philadelphiaeagles.com/news/eagles-at-cowboys-inactives-thanksgiving-2026-nfl-week-12",
             "date": "2026-11-26T20:00:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "Thanksgiving Game Preview at Cowboys: Six storylines to follow",
-            "url": "https://www.philadelphiaeagles.com/news/thanksgiving-game-preview-eagles-at-cowboys-six-storylines-to-follow-2026-nfl-week-12-joe-milton-saquon-barkley-dak-prescott-cee-dee-lamb",
-            "date": "2026-11-26T05:30:00.000Z",
-            "source": "philadelphiaeagles.com"
-          },
-          {
-            "title": "How to watch, stream, and listen | Eagles at Cowboys",
-            "url": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-cowboys-nfl-thanksgiving-week-12-2026-joe-milton-saquon-barkley-dak-prescott",
-            "date": "2026-11-26T05:00:00.000Z",
             "source": "philadelphiaeagles.com"
           }
         ],

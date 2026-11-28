@@ -15,7 +15,7 @@
   },
   "results": {
     "status": "ok",
-    "updatedAt": "2026-11-26T04:56:01.766Z",
+    "updatedAt": "2026-11-28T01:53:40.278Z",
     "issues": [],
     "items": [
       {
@@ -87,7 +87,7 @@
   },
   "fixtures": {
     "status": "ok",
-    "updatedAt": "2026-11-26T04:56:01.766Z",
+    "updatedAt": "2026-11-28T01:53:40.278Z",
     "issues": [],
     "items": [
       {
@@ -98,7 +98,7 @@
         "home": true,
         "opponent": "Miami Heat",
         "opponentShort": "MIA",
-        "status": "scheduled",
+        "status": "live",
         "teamScore": null,
         "opponentScore": null,
         "outcome": null
@@ -230,13 +230,37 @@
   ],
   "news": {
     "status": "ok",
-    "updatedAt": "2026-11-26T23:44:58.348Z",
+    "updatedAt": "2026-11-28T01:53:40.278Z",
     "failedSources": [],
     "items": [
       {
-        "title": "Knicks Bulletin: ‘We haven’t arrived’",
+        "title": "Wizards rookie Felix Okpara punches Rob Dillingham in G League tilt",
+        "url": "https://www.espn.com/nba/story/_/id/50615568/wizards-rookie-okpara-punches-dillingham-g-league-tilt",
+        "date": "2026-11-28T00:05:39.000Z",
+        "source": "ESPN"
+      },
+      {
+        "title": "Game Discussion Thread: Knicks vs. Heat, November 27, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-threads/91686/game-discussion-thread-knicks-vs-heat-november-27-2026",
+        "date": "2026-11-27T23:30:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "How the Knicks can advance in the NBA Cup",
+        "url": "https://www.postingandtoasting.com/knicks-analysis/91647/how-the-knicks-can-advance-in-the-nba-cup-sixers-pacers-pistons-raptors-hawks",
+        "date": "2026-11-27T17:00:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Knicks Bulletin: ‘Sometimes your mind or your body just takes a second’",
         "url": "https://www.postingandtoasting.com/knicks-news/91666/knicks-bulletin-we-havent-arrived",
-        "date": "2026-11-26T15:30:00.000Z",
+        "date": "2026-11-27T13:50:00.000Z",
+        "source": "Posting and Toasting"
+      },
+      {
+        "title": "Game Preview: Knicks vs. Heat, November 27, 2026",
+        "url": "https://www.postingandtoasting.com/knicks-game-previews/91657/game-preview-knicks-vs-heat-november-27-2026",
+        "date": "2026-11-27T05:00:00.000Z",
         "source": "Posting and Toasting"
       },
       {
@@ -244,46 +268,22 @@
         "url": "https://www.postingandtoasting.com/knicks-analysis/91652/knicks-121-cavaliers-102-the-most-mike-brown-victory-imaginable",
         "date": "2026-11-26T13:06:09.000Z",
         "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks assistant coach Chris Jent returns to team",
-        "url": "https://www.espn.com/nba/story/_/id/50600508/knicks-assistant-coach-chris-jent-returns-team",
-        "date": "2026-11-26T12:03:45.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Knicks and Heat meet Friday in NBA Cup group stage",
-        "url": "http://www.espn.com/nba/preview?gameId=401909326",
-        "date": "2026-11-26T07:03:37.000Z",
-        "source": "ESPN"
-      },
-      {
-        "title": "Knicks 121, Cavs 102: Scenes from a second-half bench bash",
-        "url": "https://www.postingandtoasting.com/knicks-scores-results/91639/knicks-121-cavs-102-scenes-from-a-second-half-bench-bash",
-        "date": "2026-11-26T03:52:29.000Z",
-        "source": "Posting and Toasting"
-      },
-      {
-        "title": "Knicks blow by the Cavaliers in the fourth, win 121-102 for sixth straight victory",
-        "url": "http://www.espn.com/nba/recap?gameId=401909319",
-        "date": "2026-11-26T03:12:35.000Z",
-        "source": "ESPN"
       }
     ]
   },
   "summary": {
     "status": "ok",
-    "text": "De Knicks winnen zes wedstrijden op rij, de laatste op 26 november met 121-102 tegen Cleveland. Met 12 zeges en 6 nederlagen staan ze derde van vijf in de Atlantic Division, 2,5 wedstrijden achter de koploper. In het nieuws: assistent-coach Chris Jent keert terug bij het team.",
-    "hash": "54159f3cc5bcffda80fa8b42e6565fe6cfe42fd272ee233c51e265b82f6c35aa",
-    "generatedAt": "2026-11-26T23:44:58.348Z",
+    "text": "De Knicks zitten in een sterke vorm met zes overwinningen op rij (12-6). In de Atlantic Division staan ze derde van vijf, op 2,5 wedstrijden van de koploper. In het nieuws: hoe de Knicks zich kunnen plaatsen in de volgende ronde van de NBA Cup.",
+    "hash": "cef37a2ba74f94774b2ff04a3894fd7018290000fa648b6968b243f41a6a8670",
+    "generatedAt": "2026-11-28T01:53:40.278Z",
     "model": "claude-opus-5-5",
     "error": null
   },
-  "updatedAt": "2026-11-26T23:44:58.348Z",
+  "updatedAt": "2026-11-28T01:53:40.278Z",
   "sections": {
     "games:espn-basketball/nba-18": {
       "status": "ok",
-      "updatedAt": "2026-11-26T04:56:01.766Z",
+      "updatedAt": "2026-11-28T01:53:40.278Z",
       "data": [
         {
           "id": "espn-401909089",
@@ -527,7 +527,7 @@
           "home": true,
           "opponent": "Miami Heat",
           "opponentShort": "MIA",
-          "status": "scheduled",
+          "status": "live",
           "teamScore": null,
           "opponentScore": null,
           "outcome": null
@@ -1412,13 +1412,37 @@
     },
     "news": {
       "status": "ok",
-      "updatedAt": "2026-11-26T23:44:58.348Z",
+      "updatedAt": "2026-11-28T01:53:40.278Z",
       "data": {
         "items": [
           {
-            "title": "Knicks Bulletin: ‘We haven’t arrived’",
+            "title": "Wizards rookie Felix Okpara punches Rob Dillingham in G League tilt",
+            "url": "https://www.espn.com/nba/story/_/id/50615568/wizards-rookie-okpara-punches-dillingham-g-league-tilt",
+            "date": "2026-11-28T00:05:39.000Z",
+            "source": "ESPN"
+          },
+          {
+            "title": "Game Discussion Thread: Knicks vs. Heat, November 27, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-threads/91686/game-discussion-thread-knicks-vs-heat-november-27-2026",
+            "date": "2026-11-27T23:30:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "How the Knicks can advance in the NBA Cup",
+            "url": "https://www.postingandtoasting.com/knicks-analysis/91647/how-the-knicks-can-advance-in-the-nba-cup-sixers-pacers-pistons-raptors-hawks",
+            "date": "2026-11-27T17:00:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Knicks Bulletin: ‘Sometimes your mind or your body just takes a second’",
             "url": "https://www.postingandtoasting.com/knicks-news/91666/knicks-bulletin-we-havent-arrived",
-            "date": "2026-11-26T15:30:00.000Z",
+            "date": "2026-11-27T13:50:00.000Z",
+            "source": "Posting and Toasting"
+          },
+          {
+            "title": "Game Preview: Knicks vs. Heat, November 27, 2026",
+            "url": "https://www.postingandtoasting.com/knicks-game-previews/91657/game-preview-knicks-vs-heat-november-27-2026",
+            "date": "2026-11-27T05:00:00.000Z",
             "source": "Posting and Toasting"
           },
           {
@@ -1426,30 +1450,6 @@
             "url": "https://www.postingandtoasting.com/knicks-analysis/91652/knicks-121-cavaliers-102-the-most-mike-brown-victory-imaginable",
             "date": "2026-11-26T13:06:09.000Z",
             "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks assistant coach Chris Jent returns to team",
-            "url": "https://www.espn.com/nba/story/_/id/50600508/knicks-assistant-coach-chris-jent-returns-team",
-            "date": "2026-11-26T12:03:45.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Knicks and Heat meet Friday in NBA Cup group stage",
-            "url": "http://www.espn.com/nba/preview?gameId=401909326",
-            "date": "2026-11-26T07:03:37.000Z",
-            "source": "ESPN"
-          },
-          {
-            "title": "Knicks 121, Cavs 102: Scenes from a second-half bench bash",
-            "url": "https://www.postingandtoasting.com/knicks-scores-results/91639/knicks-121-cavs-102-scenes-from-a-second-half-bench-bash",
-            "date": "2026-11-26T03:52:29.000Z",
-            "source": "Posting and Toasting"
-          },
-          {
-            "title": "Knicks blow by the Cavaliers in the fourth, win 121-102 for sixth straight victory",
-            "url": "http://www.espn.com/nba/recap?gameId=401909319",
-            "date": "2026-11-26T03:12:35.000Z",
-            "source": "ESPN"
           }
         ],
         "failedSources": [],
